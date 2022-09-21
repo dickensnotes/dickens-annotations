@@ -4,5 +4,5 @@ manifests:
 - ''
 settings:
   tempuser: notenabled
-  viewer: default
+  viewer: mirador
   widgets: comment-with-purpose, tag, geotagging
