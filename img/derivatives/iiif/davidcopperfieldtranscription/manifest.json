@@ -11,6 +11,34 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
+          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18.json",
+          "@type": "sc:Canvas",
+          "label": "DC_WN_18",
+          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18/full/169,/0/default.jpg",
+          "height": 2100,
+          "width": 2700,
+          "images": [
+            {
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18/annotation/1.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2100,
+                "width": 2700,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18.json"
+            }
+          ]
+        },
+        {
           "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN01.json",
           "@type": "sc:Canvas",
           "label": "DC_WN_01",
@@ -19,7 +47,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN01/annotation/1.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN01/annotation/2.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -47,7 +75,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN02/annotation/2.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN02/annotation/3.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -75,7 +103,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN03/annotation/3.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN03/annotation/4.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -103,7 +131,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN04/annotation/4.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN04/annotation/5.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -131,7 +159,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN05/annotation/5.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN05/annotation/6.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -159,7 +187,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN06/annotation/6.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN06/annotation/7.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -187,7 +215,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN07/annotation/7.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN07/annotation/8.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -215,7 +243,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN08/annotation/8.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN08/annotation/9.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -243,7 +271,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN09/annotation/9.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN09/annotation/10.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -271,7 +299,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN10/annotation/10.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN10/annotation/11.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -299,7 +327,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN11/annotation/11.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN11/annotation/12.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -327,7 +355,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN12/annotation/12.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN12/annotation/13.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -355,7 +383,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN13/annotation/13.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN13/annotation/14.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -383,7 +411,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN14/annotation/14.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN14/annotation/15.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -411,7 +439,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN15/annotation/15.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN15/annotation/16.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -439,7 +467,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN16/annotation/16.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN16/annotation/17.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -467,7 +495,7 @@
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN17/annotation/17.json",
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN17/annotation/18.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -483,34 +511,6 @@
                 }
               },
               "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN17.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18.json",
-          "@type": "sc:Canvas",
-          "label": "DC_WN_18",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18/full/169,/0/default.jpg",
-          "height": 2100,
-          "width": 2700,
-          "images": [
-            {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18/annotation/18.json",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18/full/full/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "height": 2100,
-                "width": 2700,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18.json"
             }
           ]
         },
