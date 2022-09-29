@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN02.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.II.1 &ldquo;Leonard Skimpole&rdquo;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">That Dickens based the character of Skimpole on Leigh Hunt (1784-1859) is one of the more well-documented aspects of the novel's compositional history. Dickens made significant changes to Skimpole's character between the initial drafting of the second monthly number and its eventual publication in April 1852. The initial description of Skimpole shows significant revision and rewriting in the manuscript. At proof stage, these revisions continue: Dickens changes his name from \"Leonard\" to \"Harold,\" continues adjusting the descriptions of his character, and even directed Hablot K. Browne to ensure that Skimpole's figure did not resemble Hunt's physical appearance in the number's second plate. All of these changes were made to reduce the correspondence between Skimpole and Hunt and were prompted by Forster's objections. In a letter to Forster, likely from 9 March 1852, Dickens writes, \"I enclose proofs of No. 2. Browne has done Skimpole, and helped to make him singularly unlike the great original. Look it over, and say what occurs to you\" (Letters 6.623). Much evidently did occur to Forster, as Dickens writes to him on the 17 March, after consulting Bryan Waller Procter on the matter: \"You will see from the enclosed, that Procter is much of my mind. I will nevertheless go through the character again in the course of the afternoon, and soften down words here and there\" (Letters 6.628). Dickens follows up the next day, writing: \"I have again gone over every part of it very carefully, and I think I have made it much less like. I have also changed Leonard to Harold. I have no right to give Hunt pain, and I am so bent upon not doing it that I wish you would look at all the proof once more, and indicate any particular place in which you feel it particularly like. Whereupon I will alter that place\" (Letters 6.628). The editors of Dickens's letters note that some of the deletions in the proofs are in Forster's hand. </span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=924,396,392,107"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M929.79277,396.06382l193.05815,13.93045v0l193.05815,13.93045l-2.84367,39.40956l-2.84367,39.40956l-193.05815,-13.93045l-193.05815,-13.93045l2.84367,-39.40956z\"  id=\"rectangle_6b7283c6-a161-4319-8a7d-bbd3eabccc3a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-09-29T01:53:59.226Z",
+    "@id": "0e78ec83-bd26-4084-9335-72c94316ba7b.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
