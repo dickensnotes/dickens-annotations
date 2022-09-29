@@ -13,6 +13,7 @@ order: 4
     "oa:annotatedBy": [
         "Adam Grener"
     ],
+    "oa:serializedAt": "2022-09-29T18:30:59.459Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -25,7 +26,7 @@ order: 4
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M684.38388,818.33013h204.14779v0h204.14779v41.62956v41.62956h-204.14779h-204.14779v-41.62956z\"  id=\"rectangle_30dfda4d-19ef-4f06-91d4-49e272c8ec1f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1.25371\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M684.38388,818.33013h204.14779v0h204.14779v41.62956v41.62956h-204.14779h-204.14779v-41.62956z\"  id=\"rectangle_30dfda4d-19ef-4f06-91d4-49e272c8ec1f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.59821\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -37,9 +38,8 @@ order: 4
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>Grandson, Watt</strong> [</span><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">BH.II.3] </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The notes show Dickens managing the relationship between Rosa and Mrs Rouncewell's grandson Watt with great care from the outset of the novel. The eventual marriage between the two is a minor, if significant thread in the novel's negotiation of class and marriage. While the initial meeting between the two in chapter 7 lays the groundwork for their romantic entanglement, Dickens manages the gradual unfolding of their relationship carefully over the ensuing numbers. </span><span id=\"docs-internal-guid-ee4b0aee-7fff-989a-fd8b-f3c47a3e0d20\"></span></p>",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>Grandson, Watt</strong> [</span><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">BH.II.L3] </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The notes show Dickens managing the relationship between Rosa and Mrs Rouncewell's grandson Watt with great care from the outset of the novel. The eventual marriage between the two is a minor, if significant thread in the novel's negotiation of class and marriage. While the initial meeting between the two in chapter 7 lays the groundwork for their romantic entanglement, Dickens manages the gradual unfolding of their relationship carefully over the ensuing numbers. </span><span id=\"docs-internal-guid-ee4b0aee-7fff-989a-fd8b-f3c47a3e0d20\"></span></p>",
             "format": "text/html"
         }
-    ],
-    "oa:serializedAt": "2022-09-29T02:36:51.756Z"
+    ]
 }
