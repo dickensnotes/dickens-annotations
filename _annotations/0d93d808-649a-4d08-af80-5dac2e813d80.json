@@ -14,7 +14,7 @@ order: 1
         "Adam Grener",
         "dnoneill"
     ],
-    "oa:serializedAt": "2022-10-04T21:15:42.652Z",
+    "oa:serializedAt": "2022-10-04T21:17:11.697Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -39,7 +39,7 @@ order: 1
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&lt;b&gt;BH.I&lt;/b&gt;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although Dickens deletes \"and the East Wind\" from the&nbsp; heading of this note, the heading for the following number still reads \"Bleak House and the East Wind.\" This suggests that Dickens probably returned to this note to edit the heading after the composition of the number. Beginning with the third number, the headings read \"Bleak House.\"</span></p>\n<p>&nbsp;</p>",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.I</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although Dickens deletes \"and the East Wind\" from the&nbsp; heading of this note, the heading for the following number still reads \"Bleak House and the East Wind.\" This suggests that Dickens probably returned to this note to edit the heading after the composition of the number. Beginning with the third number, the headings read \"Bleak House.\"</span></p>\n<p>&nbsp;</p>",
             "format": "text/html"
         }
     ]
