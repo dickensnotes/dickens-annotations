@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN03.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.III.L4&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Coavinses? No.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although Dickens decides not to include Coavinses (aka Mr Neckett) in this number, this memorandum indicates Dickens's intention to use this minor character beyond his fleeting appearance in chapter 6. References to Coavinses and his work in both chapters 9 and 10 enable Dickens to begin mapping the different worlds of the novel. In chapter 9, Coavinses is brought up as Esther discusses the implications of her and Richard lending Skimpole money to cover his debt in chapter 6. In particular, Esther uses this event as an example of Richard's \"little acts of thoughtless expenditure\" (BH 139) that portend the future development of his character&ndash;these are the \"New traits in Richard\" mentioned in the note above.&nbsp;</span></p>\n<p><span id=\"docs-internal-guid-cbb3ef4e-7fff-5c9d-f0ba-2f801230ba54\">&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In chapter 10, it is not Coavinses himself but rather the sheriff's officer that is mentioned twice in the third-person narration. The location of the building in Temple Bar is noted as the novel introduces Mr Snagsby and as Tulkinghorn traces \"The Law-Writer\" to Krook's: \"The Law-Stationer's establishment is, in Guster's eyes, a Temple of plenty and splendour. She believes the little drawing-room up-stairs, always kept, as one may say, with its hair in papers and its pinafor on, to be the most elegant apartment in Christendom. The view it commands of Cook's Court at one end (not to mention a squint into Cursitor Street), and of Coavins's, the sheriff's officer's backyard at the other, she regards as a prospect of unequalled beauty\" (BH 157). Indeed, Coavinses himself does not appear again the novel, although his daughter Charley becomes an important figure as she becomes Esther's attendant.</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=145,618,484,101"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M144.86658,617.86337h241.818v0h241.818v50.67546v50.67546h-241.818h-241.818v-50.67546z\"  id=\"rectangle_dd8507fa-8873-4c26-bfe5-66b9afb8d3fb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-10T21:47:11.936Z",
+    "@id": "bd04484e-c71f-4a26-a033-3ea8a94038ed.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
