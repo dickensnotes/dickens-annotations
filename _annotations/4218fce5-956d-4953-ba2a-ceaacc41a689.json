@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN04.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.IV&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens composed No. IV at the start of May while he was busy preparing for his theatrical tour of Birmingham and Shrewsbury and also celebrating the birth and christening of his tenth child (born March 13th). On the 1st of May he wrote to Frank Stone that he was trying to complete No. IV and that it was \"rather a stunner\" (Letters 6.655). Although the chapter memoranda for this number remain sparse, Dickens seems to have felt confident in the novel's opening numbers and was buoyed by initial strong sales. In a letter to Lavinia Watson, Dickens confided: \"Five and thirty thousand, every publishing day, is the present mark of Bleak House, thank God!\" (Letters 6.666). In a longer letter to William F. De Cerjat on the 8th of May he expressed how he \"look[s] forward to good things whereof the foundations are built\" (Letters 6.670) and credited the strong sales to the success of Copperfield: \"[Bleak House] is a most enormous success; all the prestige of Copperfield (which was very great) [is] telling upon it, and raising its circulation above all my other books.\"</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1288,2,1381,154"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1287.53935,2.25464h690.6993v0h690.6993v77.13564v77.13564h-690.6993h-690.6993v-77.13564z\"  id=\"rectangle_5b079941-e261-4283-9c1a-4faf26f49316\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-10T21:49:19.006Z",
+    "@id": "4218fce5-956d-4953-ba2a-ceaacc41a689.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
