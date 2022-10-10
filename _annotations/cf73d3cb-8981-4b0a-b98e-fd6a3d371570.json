@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN03.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.III</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens was hard at work composing No. III in early March 1852 (following the publication of the novel&rsquo;s first number at the beginning of the month). In addition to preparing for his upcoming theatrical tour in Birminhgam and Shrewsbury in May, Dickens and Catherine were awaiting the birth of their tenth (and last) child. Around the 9th of March Dickens wrote to Forster: \"Nothing has taken place here: but I believe, every hour, that it must next hour. Wild ideas are upon me of going to Parit&ndash;Rouen&ndash;Switzerland&ndash;somewhere&ndash;and writing the remaining two-thirds of the next No. aloft in some queer inn room\" (Letters 6.623). Catherine gave birth to their seventh son, whom they named Edward Bulwer Lytton Dickens, on March 13th, with Dickens calling him \"a brilliant boy of unheard-of dimensions\" (Letters 6.624). Dickens was still composing No. III later in March, writing Lavinia Watson on the 22nd: \"I have been writing all day, and, if I were to write more here, should go on for I can't foresee how many pages. I had better go out, instead, and have a long walk&ndash;for both our sakes\" (Letters 6. 630).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1373,2,1260,123"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1372.63212,2.25464h630.23864v0h630.23864v61.46065v61.46065h-630.23864h-630.23864v-61.46065z\"  id=\"rectangle_d3cf4655-5fc1-4959-9e99-3f19661984c1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-10T21:44:02.488Z",
+    "@id": "cf73d3cb-8981-4b0a-b98e-fd6a3d371570.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
