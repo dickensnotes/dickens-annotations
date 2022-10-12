@@ -4,16 +4,14 @@ order: 9
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "deb3d522-d30b-4219-bb47-8b8b2182193f.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XI.R7&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;And now I must tell the little secret.&rdquo;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The sentence containing Esther's disclosure of her sense of Woodcourt's love for her at the end of this chapter is heavily revised in the manuscript. The eventual wording Dickens settles upon&ndash;\"And now I must part with the little secret I have thus far tried to keep\"&ndash;is different from the wording in this note.</span></p>\n<p><span id=\"docs-internal-guid-0a2a39b8-7fff-4e6b-e5b7-7b6dbd6258b4\">&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In a playful and rambling letter to Mary Boyle, dated Christmas day 1852, Dickens wrote: \"O Mary wen [sic] you come to read the last chapter of the next number of Bleak House I think my ever dear as you will say as him what we knows on as done a pretty womanly thing as the sex will like and as will make a sweet pint [sic] for to turn the story on my heart alive for such as you are\" (Letters 6.836).</span></p>"
-        }
+    "oa:annotatedAt": "2022-10-12T23:13:29.919Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 9
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1485.38677,1893.05604l533.55982,16.90774v0l533.55982,16.90774l-1.30014,41.02854l-1.30014,41.02854l-533.55982,-16.90774l-533.55982,-16.90774l1.30014,-41.02854z\"  id=\"rectangle_202de356-fb60-44ba-ae17-9aad1ff6caa5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1485.38677,1893.05604l533.55982,16.90774v0l533.55982,16.90774l-1.30014,41.02854l-1.30014,41.02854l-533.55982,-16.90774l-533.55982,-16.90774l1.30014,-41.02854z\"  id=\"rectangle_202de356-fb60-44ba-ae17-9aad1ff6caa5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.4357\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 9
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T23:13:29.919Z",
-    "@id": "deb3d522-d30b-4219-bb47-8b8b2182193f.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XI.R7&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;And now I must tell the little secret.&rdquo;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The sentence containing Esther's disclosure of her sense of Woodcourt's love for her at the end of this chapter is heavily revised in the manuscript. The eventual wording Dickens settles upon&ndash;\"And now I must part with the little secret I have thus far tried to keep\"&ndash;is different from the wording in this note.</span></p>\n<p><span id=\"docs-internal-guid-0a2a39b8-7fff-4e6b-e5b7-7b6dbd6258b4\">&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In a playful and rambling letter to Mary Boyle, dated Christmas day 1852, Dickens wrote: \"O Mary wen [<em>sic</em>] you come to read the last chapter of the next number of Bleak House I think my ever dear as you will say as him what we knows on as done a pretty womanly thing as the sex will like and as will make a sweet pint [<em>sic</em>] for to turn the story on my heart alive for such as you are\" (Letters 6.836).</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2022-10-12T23:32:52.722Z"
 }
