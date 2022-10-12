@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN12.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XII.R2&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Ghost&rsquo;s Walk</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The second illustration of the number is of The Ghost's Walk, and Esther herself draws explicit attention to the fact that her present situation, as she treads the pathway on the evening of her meeting with her mother, is a fulfillment of the family legend: \"Stopping to look at nothing, but seeing all I did see as I went, I was passing quickly on, and in a few moments should have passed the lighted window, when my echoing footsteps brought it suddenly into my mind that there was a dreadful truth in the legend of the Ghost's Walk; that it was I, who was to bring calamity upon the stately house; and that my warning feet were haunting it even then\" (BH 586). While the reader is familiar with the legend from the repeated references to it in the third-person narration, Esther herself must become aware of it in order to make this connection. Dickens accomplishes this briefly early in the chapter by having Esther introduce the legend: \"A picturesque part of the Hall, called The Ghosh's Walk, was seen to advantage from this higher ground; and the startling name, and the old legend in the Dedlock family which I had heard from Mr Boythorn, accounting for it, mingled with the view and gave it something of a mysterious interest, in addition to its real charms\" (BH 576).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2072,596,377,93"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2072.31971,610.23104l187.03394,-7.14831v0l187.03394,-7.14831l1.49888,39.21787l1.49888,39.21787l-187.03394,7.14831l-187.03394,7.14831l-1.49888,-39.21787z\"  id=\"rectangle_0435723e-2d1a-4044-8584-de21aa645058\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-12T23:15:52.487Z",
+    "@id": "9ebf2e7f-c135-4ff0-abff-e0b1e730441e.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
