@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN07.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.VII.R7&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Detective officer</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The detective branch of the Metropolitan Police was established in 1842. The July 13, 1850 issue of </span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Household Words </span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">described this new type of officer in an article called \"The Modern Science of Thief-Taking,\" attributed to W.H. Wills but co-written by Dickens: &ldquo;If an urchin picks your pocket, or a bungling &lsquo;artist&rsquo; steals your watch so that you find it out in an instant, it is easy enough for any private in any of the seventeen divisions of London Police to obey your panting demand to &lsquo;Stop thief!&rsquo;&nbsp; But the tricks and contrivances of those who wheedle money out of your pocket rather than steal it; who cheat you with your eyes open; who clear every vestige of plate out of your pantry while your servant is on the stairs; who set up imposing warehouses, and ease respectable firms of large parcels of goods; who steal the acceptances of needy or dissipated young men;&mdash;for the detection and punishment of such imposters a superior order of police is requisite. To each division of the Force is attached two officers, who are denominated &lsquo;detectives.&rdquo; (</span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Household Words </span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">vol.1, no. 16)</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1701,1763,505,92"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1701.09021,1762.64491h252.51631v0h252.51631v46.14395v46.14395h-252.51631h-252.51631v-46.14395z\"  id=\"rectangle_3332c00e-0fea-4643-b381-8e345db65419\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-12T02:14:28.273Z",
+    "@id": "d92be0a8-d1f7-45cb-8e40-bcebc1cd26ad.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
