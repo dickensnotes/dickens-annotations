@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN10.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.X.R3&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Yes. Carry Allan Woodcourt through, by her</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although Dickens returns to this memorandum to confirm \"Miss Flite\" in the number (the question and answer appear to have been written at different times), she does not in fact appear in it. Esther does mention her to Mrs Woodcourt at the beginning of chapter 30, which functions to \"carry through\" Allan \"by her\" as the note would indicates. In her uncomfortable conversation with Mrs. Woodcourt, Esther uses Miss Flite as means to both offer praise of Allan while obscuring or deflecting the true grounds of her admiration of him: \"I said [that Woodcourt had been at the house a great deal], and added that he seemed to be very clever in his profession&ndash;we thought&ndash;and that his kindness and gentleness to Miss Flite were above all praise\" (BH 471).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=465,1207,897,95"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M465.27447,1207.21305h448.40883v0h448.40883v47.35317v47.35317h-448.40883h-448.40883v-47.35317z\"  id=\"rectangle_813dd538-9a8a-4859-a053-2601fc450129\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-12T22:58:43.238Z",
+    "@id": "c5252840-cd61-4ef3-adb6-8b5eea26b2e6.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
