@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN12.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XII.R3&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Meeting with Ada.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Esther's removal to Boythorn's house in Lincolnshire to recuperate following her illness sets up three encounters: first her confrontation with her own image in the mirror, then her dramatic encounter with her mother in the grounds of Chesney Wold, and finally her reunion with Ada. Although there is significant attention to the anticipation Esther feels in advance of her meeting with Ada, the meeting itself is described in just a few sentences to close the chapter. However, the brief description of Ada embracing Esther creates a poignant contrast with Lady Dedlock's insistence that they \"'shall meet no more'\" (BH 582) after their first and only meeting: \"[Ada] ran in, and was running out again when she saw me. Ah, my angel girl! the old dear look, all love, all fondness, all affection. Nothing else in it&ndash;no, nothing, nothing! O how happy I was, down upon the floor, with. my sweet beautiful girl down upon the floor too, holding my scarred face to her lovely cheek, bathing it with tears and kisses, rocking me to and fro like a child, calling me by every tender name that she could think of, and pressing me to her faithful heart\" (BH 588).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1384,722,420,72"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1383.55319,721.95046h210.23089v0h210.23089v35.87181v35.87181h-210.23089h-210.23089v-35.87181z\"  id=\"rectangle_cc3c88ca-b9b4-452c-8c65-cc0cb0a8a1ca\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-12T23:16:18.856Z",
+    "@id": "fff0e458-8797-4daf-b068-73e7b34532d1.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
