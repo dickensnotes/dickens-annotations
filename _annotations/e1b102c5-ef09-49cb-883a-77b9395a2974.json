@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN11.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XI.R2&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Lady Dedlock &ndash; the young man &ndash; and the old man.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-03d0e6da-7fff-e8a5-74eb-7a3650307266\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The end of chapter 33 shows Guppy, the \"young man,\" calling upon Lady Dedlock to inform her that he has failed to obtain Hawdon's letters (and that they have indeed been destroyed). Tulkinghorn, the \"old man,\" arrives at the end of their brief conversation: \"But in that house, in that same moment, there happens to be an old man of the name of Tulkinghorn. And that old man, coming with his quiet footstep to the library, has his hand at that moment on the hand of the door&ndash;comes in&ndash;and comes face to face with the young as he is leaving the room. One glance between the old man and the lady; and for an instant the blind that is always down flies up. Suspicion, eager and sharp, looks out Another instant; close again\" (BH 536). While the descriptors create a clear juxtaposition between Guppy and Tulkinghorn in this scene, this is the first time in the novel that Tulkinghorn has been referred to as \"the old man.\" Interestingly, prior to this moment that phrase has only been used to describe Krook and Mr Smallweed, two characters who become more entangled in Tulkinghorn's machinations.</span> </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1788,593,905,133"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1787.78138,657.56386l450.28052,-32.22085v0l450.28052,-32.22085l2.44483,34.166l2.44483,34.166l-450.28052,32.22085l-450.28052,32.22085l-2.44483,-34.166z\"  id=\"rectangle_47221d0b-a3e5-4c2b-9cb6-d46de278609c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-12T23:09:12.728Z",
+    "@id": "e1b102c5-ef09-49cb-883a-77b9395a2974.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
