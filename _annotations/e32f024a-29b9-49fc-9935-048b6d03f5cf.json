@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN10.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.X.R2&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Krook&rsquo;s death.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-17c301a1-7fff-bf19-c676-bbd081fbc171\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The scientific plausibility of Krook&rsquo;s death by Spontaneous Combustion was publicly debated following the publication of No. X of </span><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Bleak House</span></em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><em>.</em> Most notably, George Henry Lewes criticized Dickens in an article in </span><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The Leader </span></em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">on December 11, 1852. While Dickens gathered more sources to bolster its plausibility through the coroner&rsquo;s inquest in the following installment, Lewes published two more rebuttals in February, and he and Dickens continued to debate the matter in a private exchange of letters (see the Introduction the </span><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><em>Bleak House</em> </span><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Annotations). Dickens revisited the issue and maintained his position in the novel&rsquo;s Preface (written in August 1853 at the conclusion of the novel&rsquo;s serial run): &ldquo;</span><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: #fdfdfd; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">There is only one other point on which I offer a word of remark. The possibility of what is called spontaneous combustion has been denied since the death of Mr. Krook; and my good friend Mr. Lewes (quite mistaken, as he soon found, in supposing the thing to have been abandoned by all authorities) published some ingenious letters to me at the time when that event was chronicled, arguing that spontaneous combustion could not possibly be. I have no need to observe that I do not wilfully or negligently mislead my readers and that before I wrote that description I took pains to investigate the subject. There are about thirty cases on record, of which the most famous, that of the Countess Cornelia de Baudi Cesenate, was minutely investigated and described by Giuseppe Bianchini, a prebendary of Verona, otherwise distinguished in letters, who published an account of it at Verona in 1731, which he afterwards republished at Rome. The appearances, beyond all rational doubt, observed in that case are the appearances observed in Mr. Krook's case. The next most famous instance happened at Rheims six years earlier, and the historian in that case is Le Cat, one of the most renowned surgeons produced by France. The subject was a woman, whose husband was ignorantly convicted of having murdered her; but on solemn appeal to a higher court, he was acquitted because it was shown upon the evidence that she had died the death of which this name of spontaneous combustion is given. I do not think it necessary to add to these notable facts, and that general reference to the authorities which will be found at page 30, vol. Ii., the recorded opinions and experiences of distinguished medical professors, French, English, and Scotch, in more modern days, contenting myself with observing that I shall not abandon the facts until there shall have been a considerable spontaneous combustion of the testimony on which human occurrences are usually received&rdquo; (BH 6-7).</span></span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=54,703,457,151"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M54.14203,703.37428h228.73512v0h228.73512v75.56814v75.56814h-228.73512h-228.73512v-75.56814z\"  id=\"rectangle_a5f78fa2-5a97-4bba-9782-7204948ac929\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-12T22:57:03.959Z",
+    "@id": "e32f024a-29b9-49fc-9935-048b6d03f5cf.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
