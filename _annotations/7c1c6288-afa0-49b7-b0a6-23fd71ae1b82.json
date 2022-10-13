@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN19.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIX-XX</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-bcd628b3-7fff-14c0-e55c-cd594763f5bb\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Dickens began the final double number at the beginning of August while still in Boulogne. Writing to W.H. Wills in late July, he expressed a hope that \"if I can get it done in good time, that is to say by the 18th or 19th, I shall come over with it myself\" to London (Letters 7.120). By the 5th of August he reported that he was \"just getting fairly into it\" (7.124), and by the 15th he was making plans to dine with Wills at the </span><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Household Words</span></em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> office on the 18th, \"purposing to write the last little three-page chapter of Bleak House, in town\" (Letters 7.131). Back in Boulogne, he enjoyed a celebratory dinner on the 22nd, and in catching up on correspondence afterwards, expressed his pleasure with the conclusion before its publication at the end of the month. \"I have just finished my book (very prettily indeed, I hope),\" he wrote to Burdett Coutts on the 27th, \"and am in the first drowsy lassitude of having done so. I should be lying in the sunshine by the hour together, if there were such a thing. In its absence I prowl about in the wind and rain\" (Letters 7.132).</span></span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1375,2,1325,141"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1374.8714,2.25464h662.5643v0h662.5643v70.41779v70.41779h-662.5643h-662.5643v-70.41779z\"  id=\"rectangle_840ad000-0bdd-4ba0-9e06-7da40a1abbee\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-13T00:30:59.589Z",
+    "@id": "7c1c6288-afa0-49b7-b0a6-23fd71ae1b82.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
