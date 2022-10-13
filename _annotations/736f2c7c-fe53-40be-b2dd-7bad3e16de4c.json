@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN18.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVIII.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;who will tell him&rdquo;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This phrase is first spoken by Mrs Rouncewell in conversation with George: \"'I am thankful I have lived long enough to be with Sir Leicester in this illness and trouble, for I know I am not too old nor too useless to be a welcomer sight to him than anybody else in my place would be. But the step on the Ghost's Walk will walk my Lady down, George; it has been many a day behind her, and now it will pass her and go on.' 'Well, mother dear, I say again, I hope not.' 'Ah, so do I, George,' the old lady returns, shaking her head and parting her folded hands. 'But if my fears come true, and he has to know it, who will tell him!'\" (BH 889). It is then taken up by the narrator and repeated three more times in the chapter, including at its very conclusion: \"The day comes like a phantom. Cold, colourless, and vague, it sends a warning streak before it of a deathlike hue, as if it cried out, 'Look what I am bringing you who watch there! Who will tell him!'\" (BH 900).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1968,1445,395,71"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1970.97832,1444.63504l196.04739,9.59728v0l196.04739,9.59728l-1.27712,26.08814l-1.27712,26.08814l-196.04739,-9.59728l-196.04739,-9.59728l1.27712,-26.08814z\"  id=\"rectangle_34a6acd8-4437-49b9-92ba-b5cc1342f098\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-13T00:27:06.066Z",
+    "@id": "736f2c7c-fe53-40be-b2dd-7bad3e16de4c.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
