@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN16.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVI.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Esther and Allan? Yes. Carry on gently.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Caddy's illness in chapter 50 provides the opportunity for Woodcourt's re-entrance, as Jarndyce inquires about Caddy's doctor and suggests Woodcourt become her regular attendant. This takes Esther \"by surprise\" and \"For a moment, all that [she] had had in her mind in connexion with Mr Woodcourt seemed to come back and confuse [her]\" (BH 770). This connection is \"carr[ied] on gently\" in the chapter by way of Esther's misinterpretation of Ada's reserve. Esther notices a \"change in my dear girl\" and comes to \"fee[l] sure that Ada suppressed this something from me, lest it should make me unhappy too\" (BH 774-775). Esther goes on: \"It came into my head that she was a little grieved&ndash;for me&ndash;by what I had told her about Bleak House\" [i.e, her engagement to Jarndyce]. The change in Ada is a result of her as yet undisclosed marriage to Richard (revealed in chapter 51), and so Esther's original assumption that Ada feels unhappy for Esther might be seen as Esther (in the presence of Woodcourt) expressing her own uncertainty about her engagement to Jarndyce (despite her protestations: \"How I persuaded myself that this was likely, I don't know. I had no idea that there was any selfish reference in doing so. I was not grieved for myself: I was quite contented and quite happy. Still, that Ada might be thinking&ndash;for me, though I had abandoned all such thoughts&ndash;of what once was, but was not all changed, seemed so easy to believe, that I believed it\"). The subtle changes to the chapter's final phrase (see opposing page) help highlight that the distance between Esther and Ada is not simply the product of a \"shadow on\" Ada that results from her \"suppress[ing]\" something from Esther, but rather a \"shade between\" the two women that result from them both suppressing something. Esther acknowledges this more explicitly (if still obliquely) at the conclusion of chapter 51 following Jarndyce's remark about Bleak House \"thinning fast\": \"I was sorry presently that this was all we said about that. I was rather disappointed. I feared I might now quite have been all I had meant to be, since the letter and the answer\" (BH 791).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=105,261,981,173"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M104.79846,418.17831l580.42226,16.12284l14.10749,-46.35317l386.94818,-40.3071l-24.18426,-86.66027l-405.08637,38.29175l-542.13052,-2.01536z\"  id=\"rough_path_02a529d3-022a-442b-96d3-f7cd19f04dbc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-13T00:01:21.763Z",
+    "@id": "17510abb-1c11-487c-a618-2c912e477bf4.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
