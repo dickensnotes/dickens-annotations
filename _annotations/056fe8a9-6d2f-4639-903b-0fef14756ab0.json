@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN18.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVIII.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Beginning with the Water-side.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bucket's first impulse in searching for Lady Dedlock is to see whether she has drowned herself, a common fate for disgraced women in the period. Esther eventually discovers her mother in the burial ground, but the mention of her \"long dank hair\" in that scene conjures the image of a drowned body evoked at the outset of the number: \"I was far from sure that I was not in a dream. We rattled with great rapidity through such a labyrinth of streets that I soon lost all idea where we were, except that we had crossed and re-crossed the river, and still seemed to be traversing a low-lying, waterside, dense neighbourhood of narrow thoroughfares chequered by docks and basins, high piles of warehouses, swing-bridges, and masts of ships. At length we stopped at the corner of a little slimy turning, which the wind from the river, rushing up it, did not purify; and I saw my companion, by the light of his lantern, in conference with several men who looked like a mixture of police and sailors. Against the mouldering wall by which they stood, there was a bill, on which I could discern the words, &lsquo;Found Drowned&rsquo;; and this and an inscription about drags possessed me with the awful suspicion shadowed forth in our visit to that place\" (BH 868-9).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1906,482,561,95"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1906.47887,482.38079h280.56596v0h280.56596v47.30311v47.30311h-280.56596h-280.56596v-47.30311z\"  id=\"rectangle_8456aa74-267b-49a2-b716-684ff480d773\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-13T00:23:42.573Z",
+    "@id": "056fe8a9-6d2f-4639-903b-0fef14756ab0.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
