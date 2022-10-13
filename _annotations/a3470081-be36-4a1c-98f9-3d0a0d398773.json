@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "a3470081-be36-4a1c-98f9-3d0a0d398773.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XV.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dead my Lords and gentlemen</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens's direct indictment of political and religious leaders in the closing of chapter 47 (\"Dead, your Majesty. Dead, my lords and gentlement. Dead, Right Reverends and Wrong Reverends of every order\") extends the novel's ongoing critique of authority (BH 734). In a letter to the surgeon William J. Clement on 20 May 1853, Dickens thanks Clement for his positive response to No. XV and comments on possible reactions from clergy: \"I have received your letter with very great pleasure. It is delightful to read such cordial words, and to be so heartily and kindly understood. I hope you will find Woodcourt's part in the end of the story, in keeping with what has pleased you so much. I think it will be pretty, and not ungraceful towards his profession. As to the opposing parsons&ndash;God help them. The world seems to me, to be on its way to leaving their ignorance a little behind\" (Letters 7.88-89). In the same letter Dickens also declines an invitation on the grounds of \"wish[ing] to finish [</span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bleak House</span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">] with great care, and it is almost impossible to be as secluded as one could desire (though I am very rigid in that respect), in London at this time of the year.\"</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-12T23:50:49.388Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2172.28023,715.46641h253.78311v0h253.78311v41.3071v41.3071h-253.78311h-253.78311v-41.3071z\"  id=\"rectangle_effeb421-63df-4559-a75b-67d339194917\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2172.28023,715.46641h253.78311v0h253.78311v41.3071v41.3071h-253.78311h-253.78311v-41.3071z\"  id=\"rectangle_effeb421-63df-4559-a75b-67d339194917\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"12.09213\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T23:50:49.388Z",
-    "@id": "a3470081-be36-4a1c-98f9-3d0a0d398773.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XV.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dead my Lords and gentlemen</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens's direct indictment of political and religious leaders in the closing of chapter 47 (\"Dead, your Majesty. Dead, my lords and gentlement. Dead, Right Reverends and Wrong Reverends of every order\") extends the novel's ongoing critique of authority (BH 734). In a letter to the surgeon William J. Clement on 20 May 1853, Dickens thanks Clement for his positive response to No. XV and comments on possible reactions from clergy: \"I have received your letter with very great pleasure. It is delightful to read such cordial words, and to be so heartily and kindly understood. I hope you will find Woodcourt's part in the end of the story, in keeping with what has pleased you so much. I think it will be pretty, and not ungraceful towards his profession. As to the opposing parsons&ndash;God help them. The world seems to me, to be on its way to leaving their ignorance a little behind\" (Letters 7.88-89). In the same letter Dickens also declines an invitation on the grounds of \"wish[ing] to finish [</span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bleak House</span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">] with great care, and it is almost impossible to be as secluded as one could desire (though I am very rigid in that respect), in London at this time of the year.\"</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2022-10-13T00:52:25.480Z"
 }
