@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN18.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVIII.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Explain the change of clothes [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The dramatic effect of the discovery of Lady Dedlock's body is heightened by the discrepancy between the reader's understanding and Esther's lack of comprehension or recognition of the state of affairs prior to the conclusion of the chapter when she finally sees her mother's face. While the reader has plenty of opportunity and knowledge to piece together the fact that Lady Dedlock has exchanged clothes with Jenny, Bucket's efforts to illuminate Esther ensure this is clear: \"'Miss Summerson, you'll understand me, if you think a moment. They changed clothes at the cottage.' They changed clothes at the cottage. I could repeat the words in my mind, and I knew what they meant of themselves; but I attached no meaning to them in any other connection. 'And one returned,' said Mr Bucket, 'and one went on. And the one that went on, only went a certain way agreed upon to deceive, and then turned across country, and went hom. Think a moment!' I could repeat this in my mind too, but I had not the least idea what it meant. I saw before me, lying on the step, the mother of the dead child\" (BH 915).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=57,1064,1262,144"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M56.91536,1090.49082l629.88446,-13.23147v0l629.88446,-13.23147l1.23636,58.85717l1.23636,58.85717l-629.88446,13.23147l-629.88446,13.23147l-1.23636,-58.85717z\"  id=\"rectangle_c5bcc111-cade-4fdc-8fbc-a156f8852880\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-13T00:22:03.919Z",
+    "@id": "1f545802-d7db-4937-99b3-129c8cfb63a1.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
