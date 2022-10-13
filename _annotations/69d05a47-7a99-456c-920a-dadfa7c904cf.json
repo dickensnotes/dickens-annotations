@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN18.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVIII.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr Boythorn? No</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although Boythorn does not appear in the number, his name is mentioned by Esther as one possible destination of her mother's flight, so that Bucket&ndash;like Dickens&ndash;contemplates the possible relevance of Boythorn to their unfolding pursuit: \"His manner was very keen, and yet considerate when he explained to me that a great deal might depend on my being able to answer, without confusion, a few questions that he wished to ask me. These were, chiefly, whether I had had much communication with my mother (to whom he only referred as Lady Dedlock), when and where I had spoken with her last, and how she had become possessed of my handkerchief. When I had satisfied him on these points, he asked me particularly to consider&mdash;taking time to think&mdash;whether within my knowledge there was any one, no matter where, in whom she might be at all likely to confide under circumstances of the last necessity. I could think of no one but my guardian. But by and by I mentioned Mr. Boythorn. He came into my mind as connected with his old chivalrous manner of mentioning my mother's name and with what my guardian had informed me of his engagement to her sister and his unconscious connexion with her unhappy story\" (BH 866-7).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/bleakhousetranscriptions/BHWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=136,702,752,133"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M136.38515,701.60145h375.89795v0h375.89795v66.41844v66.41844h-375.89795h-375.89795v-66.41844z\"  id=\"rectangle_e7491eaf-f592-454d-9b55-205f4baab0c0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/bleakhousetranscriptions/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-10-13T00:21:25.230Z",
+    "@id": "69d05a47-7a99-456c-920a-dadfa7c904cf.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
