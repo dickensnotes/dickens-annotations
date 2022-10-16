@@ -4,16 +4,14 @@ order: 6
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "db0e178d-027d-425a-bdac-eb3d2b26424a.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVI.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;Still the same shadow on my darling&rdquo;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The wording of the final sentence of the chapter differs from the memorandum here. The final text reads: \"But I lay down, self-deceived, in that belief. And I awoke in it the next day, to find that there was still the same shade between me and my darling\" (BH 778). Dickens reworked this phrase several times in the manuscript and corrected proofs. Dickens seems to have originally composed the last phrase as \"there was still that same shade between me and my darling.\" The phrase \"shade between me and\" is struck out and edited to \"shadow on.\" This formulation&ndash;which matches the memorandum her&ndash;is itself then struck out and Dickens reverts to \"shade between me and my darling.\" In the corrected proofs \"that same shade\" is altered to \"the same shade.\"</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-13T00:05:10.082Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 6
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1741.12785,754.83738h366.33062v0h366.33062v38.3248v38.3248h-366.33062h-366.33062v-38.3248z\"  id=\"rectangle_d4160e4e-6dfb-47ad-af7a-de034a5bdefd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1741.12785,754.83738h366.33062v0h366.33062v38.3248v38.3248h-366.33062h-366.33062v-38.3248z\"  id=\"rectangle_d4160e4e-6dfb-47ad-af7a-de034a5bdefd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6.71785\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 6
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-13T00:05:10.082Z",
-    "@id": "db0e178d-027d-425a-bdac-eb3d2b26424a.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVI.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;Still the same shadow on my darling&rdquo;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The wording of the final sentence of the chapter differs from the memorandum here. The final text reads: \"But I lay down, self-deceived, in that belief. And I awoke in it the next day, to find that there was still the same shade between me and my darling\" (BH 778). Dickens reworked this phrase several times in the manuscript and corrected proofs. Dickens seems to have originally composed the last phrase as \"there was still that same shade between me and my darling.\" The phrase \"shade between me and\" is struck out and edited to \"shadow on.\" This formulation&ndash;which matches the memorandum here&ndash;is itself then struck out and Dickens reverts to \"shade between me and my darling.\" In the corrected proofs \"that same shade\" is altered to \"the same shade.\"</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2022-10-16T22:28:12.865Z"
 }
