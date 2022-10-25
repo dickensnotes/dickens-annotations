@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "3033b989-d0bd-4577-bec8-73e6feb96f07.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.V.R1&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Deportment.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Titles for chapters 14 and 15 do not appear in the corrected proofs (either in print or ink). This would suggest that they were added during a second stage of proofs (which have not been preserved) and were then retroactively added to the manuscript and working note. This is supported by the manuscript itself, as the title of chapter 14 is written over deleted text at the start of the chapter. A verso side of a manuscript page also contains an aborted beginning to chapter 15, where Dickens begins the chapter without including a title, before abandoning it to begin again on a new sheet. Dickens returned the final set of proofs on the 15th of June, directing the printer to go to press with the number once those final corrections were made (Letters 6.695). Dickens also instructed the printer not to send the final proofs to Forster, who had, for several weeks, been &ldquo;very ill with Rheumatic gout&rdquo; (Letters 6.682).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-10T22:02:00.645Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1878.43026,605.70566h205.33461v0h205.33461v63.97985v63.97985h-205.33461h-205.33461v-63.97985z\"  id=\"rectangle_e9df272e-0114-484c-8130-cd81044fb882\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1878.43026,605.70566h205.33461v0h205.33461v63.97985v63.97985h-205.33461h-205.33461v-63.97985z\"  id=\"rectangle_e9df272e-0114-484c-8130-cd81044fb882\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"24.18426\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-10T22:02:00.645Z",
-    "@id": "3033b989-d0bd-4577-bec8-73e6feb96f07.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.V.R1&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Deportment.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Titles for chapters 14 and 15 do not appear in the corrected proofs (either in print or ink). This would suggest that they were added during a second stage of proofs (which have not been preserved) and were then retroactively added to the manuscript and Working Note. This is supported by the manuscript itself, as the title of chapter 14 is written over deleted text at the start of the chapter. A verso side of a manuscript page also contains an aborted beginning to chapter 15, where Dickens begins the chapter without including a title, before abandoning it to begin again on a new sheet. Dickens returned the final set of proofs on the 15th of June, directing the printer to go to press with the number once those final corrections were made (Letters 6.695). Dickens also instructed the printer not to send the final proofs to Forster, who had, for several weeks, been &ldquo;very ill with Rheumatic gout&rdquo; (Letters 6.682).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2022-10-25T22:51:45.553Z"
 }
