@@ -4,16 +4,14 @@ order: 3
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "6b0b8dcf-3eb1-4a49-9253-02da3118e1c5.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.VI.L2&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Boythorn and Skimpole. Yes. Not much</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note about Boythorn and Skimpole is carried forward from the previous working note, where Dickens queries whether the two should be \"brought together.\" While Esther considers the contrast between the two men explicitly in the prior number, in chapter 18 that contrast is largely dramatized. Early in the chapter the contrast is drawn through their juxtaposed reflections on the punctuality of the coach. Later in the chapter, a much more thorough contrast is drawn through their reflection on Sir Leicester, which ends with Esther remarking: \"This was one of the many little dialogues between them, which I always expected to end, and which I dare say would have ended under other circumstances, in some violent explosion on the part of our host\" (BH 294).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-12T22:42:38.466Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M78.88427,393.48282h558.48827v0h558.48827v62.81355v62.81355h-558.48827h-558.48827v-62.81355z\"  id=\"rectangle_dc476ad2-c9cf-428c-a0bc-fa14f756b0fc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M78.88427,393.48282h558.48827v0h558.48827v62.81355v62.81355h-558.48827h-558.48827v-62.81355z\"  id=\"rectangle_dc476ad2-c9cf-428c-a0bc-fa14f756b0fc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"11.31055\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 3
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T22:42:38.466Z",
-    "@id": "6b0b8dcf-3eb1-4a49-9253-02da3118e1c5.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.VI.L2&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Boythorn and Skimpole. Yes. Not much</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note about Boythorn and Skimpole is carried forward from the previous Working Note, where Dickens queries whether the two should be \"brought together.\" While Esther considers the contrast between the two men explicitly in the prior number, in chapter 18 that contrast is largely dramatized. Early in the chapter the contrast is drawn through their juxtaposed reflections on the punctuality of the coach. Later in the chapter, a much more thorough contrast is drawn through their reflection on Sir Leicester, which ends with Esther remarking: \"This was one of the many little dialogues between them, which I always expected to end, and which I dare say would have ended under other circumstances, in some violent explosion on the part of our host\" (BH 294).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2022-10-25T22:57:30.049Z"
 }
