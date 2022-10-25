@@ -4,16 +4,14 @@ order: 10
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "43b857e8-af64-49ed-b9f4-53e53903cfae.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.V.R3&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Pointing hand of allegory</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note refers to the brief mention of Mr Tulkinghorn in his chambers, following an \"alarming\" visit from the \"disappointed suitor\" Gridley: \"From the ceiling, foreshortened Allegory, in the person of one impossible Roman upside down, points with the arm of Samson (out of joint, and an odd one) obtrusively toward the window. Why should Mr Tulkinghorn, for such no-reason, look out of window? Is the hand not always pointing there? So he does not look out of the window\" (BH 259). Had Tulkinghorn looked out of the window, we are told, he would have seen a woman leaving Chesney Wold (Lady Dedlock, dressed as in Hortense's clothing). The \"Pointing hand\" then appears at the end of the chapter, as Jo shows Lady Dedlock the spot where Nemo is buried, which appears in the second illustration of the number. The working note for No. XV refers twice to the &ldquo;Pointing Roman.&rdquo;</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-10T22:02:59.219Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 10
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1368.99328,1918.85733h285.10909v0h285.10909v52.78343v52.78343h-285.10909h-285.10909v-52.78343z\"  id=\"rectangle_a879aa09-01c3-4456-a5af-b220bd8e2406\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1368.99328,1918.85733h285.10909v0h285.10909v52.78343v52.78343h-285.10909h-285.10909v-52.78343z\"  id=\"rectangle_a879aa09-01c3-4456-a5af-b220bd8e2406\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"2.23928\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 10
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-10T22:02:59.219Z",
-    "@id": "43b857e8-af64-49ed-b9f4-53e53903cfae.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.V.R3&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Pointing hand of allegory</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note refers to the brief mention of Mr Tulkinghorn in his chambers, following an \"alarming\" visit from the \"disappointed suitor\" Gridley: \"From the ceiling, foreshortened Allegory, in the person of one impossible Roman upside down, points with the arm of Samson (out of joint, and an odd one) obtrusively toward the window. Why should Mr Tulkinghorn, for such no-reason, look out of window? Is the hand not always pointing there? So he does not look out of the window\" (BH 259). Had Tulkinghorn looked out of the window, we are told, he would have seen a woman leaving Chesney Wold (Lady Dedlock, dressed as in Hortense's clothing). The \"Pointing hand\" then appears at the end of the chapter, as Jo shows Lady Dedlock the spot where Nemo is buried, which appears in the second illustration of the number. The Working Note for No. XV refers twice to the &ldquo;Pointing Roman.&rdquo;</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2022-10-25T22:52:08.175Z"
 }
