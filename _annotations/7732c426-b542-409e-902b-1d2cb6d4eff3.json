@@ -4,16 +4,14 @@ order: 6
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "7732c426-b542-409e-902b-1d2cb6d4eff3.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.III.R1&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Covering a Multitude of Sins.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The title for chapter 8 was added in ink to the corrected proofs of the manuscript, suggesting that Dickens returned to the manuscript and working note to document it. The catch-all nature of this title (\"Covering a Multitude of Sins\") is particularly resonant with this post hoc feeling. The chapter begins with Jarndyce's commentary on Chancery and his discussion with Esther about the possibilities for Richard's future, which is followed by the introduction of Mrs Pardiggle and her family. The chapter ends with Mrs Pardiggle taking Esther and Ada on one of her visitations to the brickmaker's home, where they encounter his violence toward his wife and witness the death of their baby. The length of the chapter, coupled with the diverse nature of the issues and events depicted, make it hard to imagine a single idea or phrase that could identify a central theme of the chapter. It is clear, if nothing else, that no title presented itself to Dickens when he first composed the chapter, and this improvised title at proof stage seems an easy if somewhat unimaginative way to introduce and \"cover\" the material of the chapter. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-10T21:47:52.962Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 6
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1557.62418,259.33613h395.16399v0h395.16399v58.23477v58.23477h-395.16399h-395.16399v-58.23477z\"  id=\"rectangle_971051e4-ce2d-4a1f-93b9-c650d8955314\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1557.62418,259.33613h395.16399v0h395.16399v58.23477v58.23477h-395.16399h-395.16399v-58.23477z\"  id=\"rectangle_971051e4-ce2d-4a1f-93b9-c650d8955314\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"24.18426\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 6
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-10T21:47:52.962Z",
-    "@id": "7732c426-b542-409e-902b-1d2cb6d4eff3.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.III.R1&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Covering a Multitude of Sins.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The title for chapter 8 was added in ink to the corrected proofs of the manuscript, suggesting that Dickens returned to the manuscript and Working Note to document it. The catch-all nature of this title (\"Covering a Multitude of Sins\") is particularly resonant with this post hoc feeling. The chapter begins with Jarndyce's commentary on Chancery and his discussion with Esther about the possibilities for Richard's future, which is followed by the introduction of Mrs Pardiggle and her family. The chapter ends with Mrs Pardiggle taking Esther and Ada on one of her visitations to the brickmaker's home, where they encounter his violence toward his wife and witness the death of their baby. The length of the chapter, coupled with the diverse nature of the issues and events depicted, make it hard to imagine a single idea or phrase that could identify a central theme of the chapter. It is clear, if nothing else, that no title presented itself to Dickens when he first composed the chapter, and this improvised title at proof stage seems an easy if somewhat unimaginative way to introduce and \"cover\" the material of the chapter. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2022-10-25T22:43:28.841Z"
 }
