@@ -4,16 +4,14 @@ order: 4
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "46d17501-6556-445b-b4ed-d78c7af351f3.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.X.R4&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Connect Esther &amp; Jo?</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In No. V, Lady Dedlock and Jo are of course connected physically in the plot, and that connection is used by the narrator for larger conceptual and thematic purposes (\"What connexion can there be...\"). In the working note for No. VII, Dickens records that Tulkinghorn \"finds Jo [...] and gets him to identify Lady Dedlock\" through Hortense's outfit. No. X not only connects Esther and Jo, but does so in a way that furthers this pattern and prepares the ground for the revelation of Lady Dedlock as Esther's mother at the beginning of No. XII. In chapter 31, Jo&ndash;in his fever-induced delirium&ndash;\"stare[s] at [Esther] with a remarkable expression of surprise and terror,\" thinking that she is the woman he took to the \"berryin gound\" (BH 490-1). Jo's query whether \"there [are] three of 'em then?\" (BH 493) furthers the proliferation and mirroring of Lady Dedlock's image in Esther, seen also in Guppy's fixation on the various portraits of Lady Dedlock and the image of Esther \"imprinted on my art\" (BH 464). In addition to the note below where Dickens emphasizes that Esther's love for Woodcourt \"must be kept in view,\" he has clearly been preparing the groundwork for the revelation of Lady Dedlock as Esther's mother. Dickens wrote to Burdett Coutts on Nov. 19th (after completion of No. X): \"I have been so busy, leading up to the great turning idea of the Bleak House story, that I have lived this last week or ten days in a perpetual scald and boil\" (Letters 6.805).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-12T22:59:16.792Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 4
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M62.20345,1307.98081h301.28791v0h301.28791v43.32246v43.32246h-301.28791h-301.28791v-43.32246z\"  id=\"rectangle_41836b1b-ec4c-49ba-999b-7e1a922ad163\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M62.20345,1307.98081h301.28791v0h301.28791v43.32246v43.32246h-301.28791h-301.28791v-43.32246z\"  id=\"rectangle_41836b1b-ec4c-49ba-999b-7e1a922ad163\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"21.66414\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 4
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T22:59:16.792Z",
-    "@id": "46d17501-6556-445b-b4ed-d78c7af351f3.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.X.R4&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Connect Esther &amp; Jo?</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In No. V, Lady Dedlock and Jo are of course connected physically in the plot, and that connection is used by the narrator for larger conceptual and thematic purposes (\"What connexion can there be...\"). In the Working Note for No. VII, Dickens records that Tulkinghorn \"finds Jo [...] and gets him to identify Lady Dedlock\" through Hortense's outfit. No. X not only connects Esther and Jo, but does so in a way that furthers this pattern and prepares the ground for the revelation of Lady Dedlock as Esther's mother at the beginning of No. XII. In chapter 31, Jo&ndash;in his fever-induced delirium&ndash;\"stare[s] at [Esther] with a remarkable expression of surprise and terror,\" thinking that she is the woman he took to the \"berryin gound\" (BH 490-1). Jo's query whether \"there [are] three of 'em then?\" (BH 493) furthers the proliferation and mirroring of Lady Dedlock's image in Esther, seen also in Guppy's fixation on the various portraits of Lady Dedlock and the image of Esther \"imprinted on my art\" (BH 464). In addition to the note below where Dickens emphasizes that Esther's love for Woodcourt \"must be kept in view,\" he has clearly been preparing the groundwork for the revelation of Lady Dedlock as Esther's mother. Dickens wrote to Burdett Coutts on Nov. 19th (after completion of No. X): \"I have been so busy, leading up to the great turning idea of the Bleak House story, that I have lived this last week or ten days in a perpetual scald and boil\" (Letters 6.805).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2022-10-26T00:54:43.490Z"
 }
