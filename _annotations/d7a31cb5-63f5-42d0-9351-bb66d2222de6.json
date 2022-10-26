@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "d7a31cb5-63f5-42d0-9351-bb66d2222de6.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVI.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Work in Woodcourt</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The sequence of these notes for chapter 50 suggest that Dickens first settled on Caddy's illness as the framework for the chapter and then decided to use it as an opportunity to \"work in Woodcourt\" (rather than, for example, having the primary intent being the return of Woodcourt, and simply using Caddy's illness as a mechanism for bringing that about). Caddy's illness does not seem to have particular significance on its own, although it does provide another opportunity for the display of Esther's constancy, as well as for the brief returns of Mr Turveydrop and the Jellybys. On the 20th of June (after the completion of this No.), Dickens wrote to W.J. Clement: \"I hope you will find Woodcourt's part in the end of the story, in keeping with what has pleased you so much. I think it will be pretty, and not ungraceful towards his profession\" (Letters 7.89).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-13T00:04:44.508Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2193.50263,504.5645l205.27854,-25.46453v0l205.27854,-25.46453l3.88255,31.29858l3.88255,31.29858l-205.27854,25.46453l-205.27854,25.46453l-3.88255,-31.29858z\"  id=\"rectangle_f165b1ad-ff0e-431f-aad7-bf315313f743\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2193.50263,504.5645l205.27854,-25.46453v0l205.27854,-25.46453l3.88255,31.29858l3.88255,31.29858l-205.27854,25.46453l-205.27854,25.46453l-3.88255,-31.29858z\"  id=\"rectangle_f165b1ad-ff0e-431f-aad7-bf315313f743\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"24.18426\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-13T00:04:44.508Z",
-    "@id": "d7a31cb5-63f5-42d0-9351-bb66d2222de6.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVI.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Work in Woodcourt</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The sequence of these notes for chapter 50 suggest that Dickens first settled on Caddy's illness as the framework for the chapter and then decided to use it as an opportunity to \"work in Woodcourt\" (rather than, for example, having the primary intent being the return of Woodcourt, and simply using Caddy's illness as a mechanism for bringing that about). Caddy's illness does not seem to have particular significance on its own, although it does provide another opportunity for the display of Esther's constancy, as well as for the brief returns of Mr Turveydrop and the Jellybys. On the 20th of June (after the completion of this number), Dickens wrote to W.J. Clement: \"I hope you will find Woodcourt's part in the end of the story, in keeping with what has pleased you so much. I think it will be pretty, and not ungraceful towards his profession\" (Letters 7.89).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2022-10-26T01:36:18.050Z"
 }
