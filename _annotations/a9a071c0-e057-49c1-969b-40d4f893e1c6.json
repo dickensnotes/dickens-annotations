@@ -4,16 +4,14 @@ order: 1
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "a9a071c0-e057-49c1-969b-40d4f893e1c6.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XV.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Jo? Yes. Kill him.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">While the ink for these answers appears distinct from the queries and would suggest separate engagements with the working note, the imperative here (\"Kill him\") would indicate that at least some of these replies were made prior to or during composition. This is one of the most striking memoranda across all of Dickens's working notes, and its directness stands out even more in contrast to the other death (this one an actual murder) referenced above (\"Mr Tulkinghorn to be shot.\")</span></p>\n<p><span id=\"docs-internal-guid-4809310d-7fff-9cf7-387e-5a8c149aef08\">&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In an ambivalent review in the Athenaeum from September 1853, Henry Fothergill Chorley praised the characterization of Jo and the scene of his death in particular: \"Perhaps among all the waifs and strays, the beggars and the outcasts, in behalf of whose humanity our author has again and again appealed to a world too apt to forget their existence, he has never produced anything more rueful, more pitiable, more complete than poor Jo. The dying scene, with its terrible morals and impetuous protest, Mr Dickens has nowhere in all his works excelled. The book would live on the strength alone of that one sketch from the swarming life around us\" (Collins 279).</span></p>"
-        }
+    "oa:annotatedAt": "2022-10-12T23:49:13.944Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 1
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M56.15739,405.10173h313.38004v0h313.38004v83.62956v83.62956h-313.38004h-313.38004v-83.62956z\"  id=\"rectangle_ca43690b-f562-4f88-924f-bddc0b682f3a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M56.15739,405.10173h313.38004v0h313.38004v83.62956v83.62956h-313.38004h-313.38004v-83.62956z\"  id=\"rectangle_ca43690b-f562-4f88-924f-bddc0b682f3a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"26.8714\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 1
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T23:49:13.944Z",
-    "@id": "a9a071c0-e057-49c1-969b-40d4f893e1c6.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XV.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Jo? Yes. Kill him.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">While the ink for these answers appears distinct from the queries and would suggest separate engagements with the Working N</span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ote, the imperative here (\"Kill him\") would indicate that at least some of these replies were made prior to or during composition. This is one of the most striking memoranda across all of the Working </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Notes, and its directness stands out even more in contrast to the other death (this one an actual murder) referenced above (\"Mr Tulkinghorn to be shot.\")</span></p>\n<p><span id=\"docs-internal-guid-4809310d-7fff-9cf7-387e-5a8c149aef08\">&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In an ambivalent review in the Athenaeum from September 1853, Henry Fothergill Chorley praised the characterization of Jo and the scene of his death in particular: \"Perhaps among all the waifs and strays, the beggars and the outcasts, in behalf of whose humanity our author has again and again appealed to a world too apt to forget their existence, he has never produced anything more rueful, more pitiable, more complete than poor Jo. The dying scene, with its terrible morals and impetuous protest, Mr Dickens has nowhere in all his works excelled. The book would live on the strength alone of that one sketch from the swarming life around us\" (Collins 279).</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2022-10-26T01:27:01.324Z"
 }
