@@ -13,7 +13,7 @@ order: 1
     "oa:annotatedBy": [
         "Adam Grener"
     ],
-    "oa:serializedAt": "2022-10-26T00:40:59.263Z",
+    "oa:serializedAt": "2022-10-26T00:41:53.156Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -38,7 +38,7 @@ order: 1
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.VIII</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Since this Working Note contains no memoranda on the left-hand side, it lacks the characteristic question-and-answer format that usually reflects Dickens's return to the Working Note at multiple stages of the compositional process. Nevertheless, differences in pen on the right-hand side of the note indicate that Dickens visited this note at several distinct moments in the composition of this installment. For chapters 23 and 24, the chapter titles and chapter notes appear to have been written with a different pen or nib than the chapter headings. And for chapter 25, the chapter heading, chapter title, and chapter notes all appear, on the basis of the nib used, distinct.</span></p>\n<p>&nbsp;</p>",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.VIII</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Since this Working Note contains no memoranda on the left-hand side, it lacks the characteristic question-and-answer format that usually reflects Dickens's return to the Working Note at multiple stages of the compositional process. Nevertheless, differences in pen on the right-hand side of the Note indicate that Dickens visited this note at several distinct moments in the composition of this installment. For chapters 23 and 24, the chapter titles and chapter notes appear to have been written with a different pen or nib than the chapter headings. And for chapter 25, the chapter heading, chapter title, and chapter notes all appear distinct, based on the nib used.</span></p>\n<p>&nbsp;</p>",
             "format": "text/html"
         }
     ]
