@@ -9,7 +9,7 @@ layout: none
   "viewingDirection": "left-to-right",
   "metadata": [
     {
-      "label": { "en": [ "<b>MLA Citation: </b>" ] },
+      "label": { "en": [ "MLA Citation: " ] },
       "value": { "en": [ "Dickens, Charles. '<i>Bleak House</i> Working Notes,' transcribed and edited by Adam Grener and Isabel Parker. <i>Digital Dickens Notes Project.</i> Anna Gibson and Adam Grener, dirs. 2022. Web. http://dickensnotes.com/notes/bleak-house/mirador/<br>Editorial annotations are written by Adam Grener and can be cited by annotation number (e.g. BH.II.L2)." ] }
     }
   ],
