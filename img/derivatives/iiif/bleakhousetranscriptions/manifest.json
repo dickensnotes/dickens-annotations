@@ -7,6 +7,7 @@ layout: none
   "@type": "sc:Manifest",
   "label": "Bleak House Transcriptions",
   "viewingDirection": "left-to-right",
+  "rights":"© Digital Dickens Notes Project (DDNP) 2022\nEditorial annotations by Adam Grener.Editorial content, including annotations, is licensed under a Creative Commons CC BY-NC-SA 4.0 License.\nThe Bleak House Working Notes are part of the novel manuscript, which is held by the Victoria and Albert Museum's National Art Library. ",
   "metadata": [
     {
       "label": { "en": [ "MLA Citation: " ] },
