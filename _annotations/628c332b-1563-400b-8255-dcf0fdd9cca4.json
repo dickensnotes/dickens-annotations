@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN02.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.II</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The decision to change the short title of the novel (which was used as a running header in the serial booklets) was made during the composition of the second number, but after the titling of its Working Note. There is an aborted start to the installment in the manuscript bearing the old title, with &ldquo;adventures&rdquo; crossed out and &ldquo;experience&rdquo; written above; on the next page, he began anew with the updated title written cleanly.&nbsp; It is unclear exactly when Dickens returned to correct the Working Note, but \"experience\" appears notably lighter than the text below, so it was likely written at a different time to the original title.&nbsp;</span><span id=\"docs-internal-guid-cef75d9b-7fff-9e3b-8a45-aac676660c31\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As <em>Copperfield</em>'s first serial installment was published under the revised shortened title (\"experience&rdquo; rather than \"adventures\"), it is clear that Dickens began composing the second number (and its Working Note) well before the first number was published. This is corroborated by the illustration titles on the left side of this Note and a letter Dickens wrote to Evans on May 1 (see <em>DC.II.L3</em>). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1332,4,1314,140"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1332.38496,4.02294h657.03888v0h657.03888v70.15233v70.15233h-657.03888h-657.03888v-70.15233z\"  id=\"rectangle_fa94a1f5-7073-4ac6-8b52-443e288f53f2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-19T02:20:44.296Z",
+    "@id": "628c332b-1563-400b-8255-dcf0fdd9cca4.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
