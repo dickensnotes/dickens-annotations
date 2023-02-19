@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN02.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.II.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">qy His books and reading?</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As John Forster notes in his biography of Dickens, the passage in chapter 4 that lists David's early literary influences is taken almost verbatim from Dickens's own autobiographical fragment (Forster 1.7-8)&mdash;David&rsquo;s &ldquo;books and reading&rdquo; are the same as his creator&rsquo;s. <em>Copperfield</em>&rsquo;s autobiographical aspects extend far beyond their shared literary experiences: see <em>DC.IV.L1</em>, and <em>DC.IV.R5</em> for more on the correspondence between David's early experiences and Dickens's own boyhood.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Despite the unresolved query next to this note (perhaps Dickens was unsure if David's literary influences had a place in this number, or whether his own autobiographical material would fit appropriately into the novel), David's favorite books did make their way into the published chapter. The relevant passage lays the groundwork for David's assumption of the storytelling role, \"like the Sultana Scheherazade,\" for Steerforth in No. III (DC 103-4), especially as the <em>Arabian Nights</em> feature in David&rsquo;s list of reading material. Even more significantly, David&rsquo;s early appreciation of literature paves the way for his becoming an author himself by the end of No. XIV. </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=165,385,638,322"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M164.71357,613.74521l301.00123,-114.48284v0l301.00123,-114.48284l17.76577,46.71022l17.76577,46.71022l-301.00123,114.48284l-301.00123,114.48284l-17.76577,-46.71022z\"  id=\"rectangle_a253c079-0217-4f1a-b4b0-effb15f4cd33\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-19T02:23:20.254Z",
+    "@id": "9eea83a1-f2e7-4bbc-ac7c-0c12b49471a7.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
