@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "f25769f2-dc65-46e3-bb17-86820a494613.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.I.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Peggotty Ham Peggotty</span></strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The manuscript shows some indecision regarding the names of Clara Peggotty and her nephew Ham: Dickens deletes and rewrites \"Peggotty\" several times in the first chapter, as though he intended to change the name, but then decided against it. It is unclear when this entry was written (it could have been before Dickens drafted the chapter, or after), but the inclusion of \"Morgan\" rather than \"Chillip\" just below (see <em>DC.I.R4</em>) suggests it is more likely these notes were written prior to the chapter's composition. </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:10:17.585Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2189.97956,652.20071l193.79686,-7.88736v0l193.79686,-7.88736l3.62384,89.03974l3.62384,89.03974l-193.79686,7.88736l-193.79686,7.88736l-3.62384,-89.03974z\"  id=\"rectangle_860bb47b-87cf-4bbd-9a27-9fbbfffb9a48\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2189.97956,652.20071l193.79686,-7.88736v0l193.79686,-7.88736l3.62384,89.03974l3.62384,89.03974l-193.79686,7.88736l-193.79686,7.88736l-3.62384,-89.03974z\"  id=\"rectangle_860bb47b-87cf-4bbd-9a27-9fbbfffb9a48\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6.69216\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:10:17.585Z",
-    "@id": "f25769f2-dc65-46e3-bb17-86820a494613.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.I.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Peggotty Ham Peggotty</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The manuscript shows some indecision regarding the names of Clara Peggotty and her nephew Ham: Dickens deletes and rewrites \"Peggotty\" several times in the first chapter, as though he intended to change the name, but then decided against it. It is unclear when this entry was written (it could have been before Dickens drafted the chapter, or after), but the inclusion of \"Morgan\" rather than \"Chillip\" just below (see <em>DC.I.R4</em>) suggests it is more likely these notes were written prior to the chapter's composition. </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-02-19T02:11:43.897Z"
 }
