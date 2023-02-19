@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN03.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.III.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>Comes back, &amp; receives news of her death.</strong>&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The major task Dickens had to complete in No. III was writing the death of David's mother, and the symbolic death of David&rsquo;s own innocence, signified by the burial passage at the end of the installment: \"The mother who lay in the grave,\" David tells, \"was the mother of my infancy; the little creature in her arms, was myself, as I had once been, hushed for ever on her bosom\" (DC 144). But although the Working Note predominantly deals with the lead up to this symbolic ending, it is also significantly punctuated by memoranda above that open up future possibilities for the narrative: \"Steerforth\"; \"Peggotty's enquiries about school\"; \"Tells her of Barkis.\" The inclusion of these memoranda indicates Dickens's careful negotiation of twin narrative compulsions: the forward-looking and the retrospective. The novel's autobiographical mode looks backwards, working against the forward propulsion of serial form which, by its nature, always anticipates the next installment. By ensuring each serial part provided opportunities for the next number, Dickens kept up the momentum of the story whilst maintaining its retrospective focus. A great deal of <em>Copperfield</em>'s formal complexity is generated and sustained by the maintenance of this tension. </span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=57,599,877,245"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M57.13668,763.48278l430.90565,-82.15425v0l430.90565,-82.15425l7.70719,40.42482l7.70719,40.42482l-430.90565,82.15425l-430.90565,82.15425l-7.70719,-40.42482z\"  id=\"rectangle_3d5e628a-e338-4e46-9e7e-6b613d408e3d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-19T02:29:57.148Z",
+    "@id": "0c5b210b-56cd-4ac0-8a87-bb0f49a21b8c.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
