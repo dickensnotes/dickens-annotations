@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN02.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.II.LR5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Steerford Steerfoth.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Though both these versions of Steerforth's name appear to have been added to the Working Note at the same time, the manuscript has the character first as &ldquo;Appleford,&rdquo; which is then emended to \"Steerford.\" \"Steerford\" then becomes &ldquo;Steerforth&rdquo; midway through the composition of chapter 6 in the manuscript; only at proof stage did Dickens correct the outstanding instances of \"Steerford\" to \"Steerforth.\"</span><span id=\"docs-internal-guid-60385701-7fff-2b04-4bf1-b8fd017739c5\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These variations suggest that Dickens began writing chapter 5 (where Steerforth is named \"Appleford\" in the manuscript) before making these entries on the Working Note. He may have decided on the subsequent changes in the process of composing the manuscript, perhaps using the Working Note to register his uncertainty about whether to use the final iteration, \"Steerforth,\" or revert to the second iteration, \"Steerford.\" Whatever the precise order of the revisions, it is clear that Dickens habitually used the Working Notes to experiment with and compare possible names for his character (see DC_WN_01, DC_WN_07, and DC_WN_08 for similar examples). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2044,1922,549,160"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2043.9847,1922.44232h274.26322v0h274.26322v79.85596v79.85596h-274.26322h-274.26322v-79.85596z\"  id=\"rectangle_120b5508-17c5-48b4-8be6-bb12c2f553a3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-19T02:28:39.099Z",
+    "@id": "d9ddab98-c9cd-41b5-b8ee-6c19da8ad016.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
