@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN03.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.III.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Steerforth&rsquo;s character.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The development of \"Steerforth's character\" is a central preoccupation of the novel's third number. His orchestration of Mr. Mell&rsquo;s dismissal brings Steerforth&rsquo;s carelessness, intimated in No. II, into greater focus (see DC_WN_02: \"Spending his money\"). The juxtaposition of Steerforth's treatment of Mr. Mell with the \"Visit from Mr Peggotty\" (side-by-side in both the Working Note and the chapter itself) works to increase the critical distance between the reader and young David. Despite his conflicted feelings, David cannot explicitly articulate the contradictions in Steerforth's treatment of the \"beggar\" Mell and his reception of David's own working-class visitors (DC 107).&nbsp;</span><strong id=\"docs-internal-guid-0c2913c6-7fff-aee0-f8cb-726127849e6a\" style=\"font-weight: normal;\"></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The meeting between Steerforth, Mr. Peggotty, and Ham lays the groundwork for his seduction of Little Em&rsquo;ly later in the novel. The decision to have Mr. Peggotty visit David rather than [Clara] Peggotty (indicated by the deletion of &ldquo;Peggotty&rdquo; here in the Working Note) allows Steerforth's invitation to Yarmouth to be extended, furnishing Dickens with the opportunity to bring Steerforth and Emily together in No. VII.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The care Dickens took with the establishment of Steerforth's character is evident in his prominence on the Working Note, and is also demonstrated by his revisions to the manuscript. While Steerforth's pointed question to David in chapter 6 (\"You haven't got a sister, have you?\" [DC 90]) and his careless treatment of others suggest him as a potential seducer for Em'ly (a tragedy David opaquely refers to in chapter 3, see <em>DC.I.R6</em>), Dickens removed several sentences that present this possibility too explicitly.&nbsp; At the end of chapter 6, after Steerforth asks whether David has a sister, Dickens deleted part of a particularly suggestive sentence in proof that was to end the number: \"There was no shadowy picture of [Steerforth's] footsteps, in the garden that I dreamed of&mdash;the garden that I picked up shells and pebbles in, with little Em&rsquo;ly, all night&rdquo; (Clarendon 76.n2). Additionally, in chapter seven, Dickens softens an allusion in proof to Steerforth's future transgression when David describes Steerforth&rsquo;s approval of him:&nbsp; \"so precious to me that I look back on these trifles, now [that I know all], with an aching heart\" (Clarendon 80.n5). The work Dickens does in Nos. III and IV to manage the older David's narrative voice allows for a maintenance of tension whilst avoiding a precipitate revelation of what is to come.</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1544,505,511,167"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1544.23972,594.33475l248.79347,-44.74931v0l248.79347,-44.74931l6.94139,38.59215l6.94139,38.59215l-248.79347,44.74931l-248.79347,44.74931l-6.94139,-38.59215z\"  id=\"rectangle_42223cf1-5496-42bc-a3d6-8bdb5072c390\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-19T02:34:13.644Z",
+    "@id": "b032a55e-edca-4dc4-afe4-a273dac5e65c.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
