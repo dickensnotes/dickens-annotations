@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN04.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.IV.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Prison &ndash; Insolvent Court.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These notes refer to the introduction of the Micawber family and the establishment of Mr. Micawber's characteristic and perpetual \"pecuniary difficulties.\" The correspondence between David's surrogate father Mr. Micawber and Dickens's own father is well documented, but was first described at length in Forster's <em>Life of Charles Dickens</em> (1.12-18). John Dickens's financial difficulties eventually landed him in the Marshalsea debtors&rsquo; prison, while young Charles was forced into employment at Warren's Blacking Factory. Indeed, in Copperfield manuscript Dickens first had Mr. Micawber incarcerated in the Marshalsea, before deciding to relocate him to King's Bench Prison, perhaps to make obvious autobiographical similarities less explicit (Clarendon 141.n1). Mr. Micawber's famous advice to David about \"annual income\" and \"annual expenditure\" was in fact advice that Dickens received from his father, slightly reworked (DC 177; Forster 1.16). Similarly, Mrrs. Micawber took on the role of Dickens&rsquo;s mother in certain respect, and David recounts how &ldquo;Mrs Micawber&rsquo;s Boarding Establishment for Young Ladies,&rdquo; much like &ldquo;Mrs Dickens&rsquo;s Establishment,&rdquo; never received any pupils (DC 169; Forster 1.16).&nbsp;</span></p>\n<p><span id=\"docs-internal-guid-16ba0a18-7fff-9b8c-7d6c-19c94dac6ed4\">&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Other episodes in No. IV drawn from Dickens's autobiographical fragment include David's meals at the &ldquo;famous alamode beef house&rdquo; (DC 171); his \"magnificent order at the public house\" (DC 174); his visits to the pawnbroker&rsquo;s on behalf of the Micawbers (175-76); and his encounters with Captain Hopkins (who was based on a Captain Porter [Forster 1.17]) (DC 177). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2171,1204,490,119"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2175.92262,1203.77677l242.75703,11.5816v0l242.75703,11.5816l-2.28003,47.79077l-2.28003,47.79077l-242.75703,-11.5816l-242.75703,-11.5816l2.28003,-47.79077z\"  id=\"rectangle_8ec4c117-0afa-463c-9320-7b78bbcb1482\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-19T02:43:44.870Z",
+    "@id": "0ce209c9-61a9-4e4f-9b56-605e7d1fa770.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
