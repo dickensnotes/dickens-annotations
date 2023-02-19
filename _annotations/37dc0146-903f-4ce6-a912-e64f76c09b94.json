@@ -4,16 +4,14 @@ order: 1
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "37dc0146-903f-4ce6-a912-e64f76c09b94.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.I</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 10.5pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">While the other Working Notes for <em>David Copperfield</em> are bound with the novel manuscript, the Working Note for No. I is kept separately, cataloged in the Victoria &amp; Albert National Art Library as part of the \"Forster MSS.\" The note on the bottom of the mounting page states that the page was \"apparently separated from the [<em>Copperfield</em>] MS (F.161) for reproduction in Mr Forster's biography of Dickens.\"&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 10.5pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although the heading for this number reads, &ldquo;Personal History and Adventures of David Copperfield,&rdquo; during composition of the second number, Dickens substituted \"Experience\" for \"Adventures\" in the shortened title. The Working Notes and manuscripts for the first and second number retain the original title, but while Dickens emended the second (see</span> <span style=\"font-size: 10.5pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC_WN_02), he did not return to either the Working Note or manuscript of the first number to make the change. From No. III</span> <span style=\"font-size: 10.5pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">onwards, the title on both the manuscript and the Working Notes is written as \"Personal History and Experience of David Copperfield&rdquo; (see the Critical Introduction for more on Dickens&rsquo;s titling of the novel).</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 10.5pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It may be of interest to compare this to the Working Notes for his next novel, <em>Bleak House</em>: Dickens also changes the title while composing the second number, but in that case did return to correct the first Working Note (see BH_WN_01). </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:05:04.050Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 1
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1361.38432,10.71511h652.3703v0h652.3703v81.30593v81.30593h-652.3703h-652.3703v-81.30593z\"  id=\"rectangle_c561c3eb-9961-4a47-9cb9-dc53ec5c5249\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1361.38432,10.71511h652.3703v0h652.3703v81.30593v81.30593h-652.3703h-652.3703v-81.30593z\"  id=\"rectangle_c561c3eb-9961-4a47-9cb9-dc53ec5c5249\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6.69216\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 1
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:05:04.050Z",
-    "@id": "37dc0146-903f-4ce6-a912-e64f76c09b94.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.I</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 10.5pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">While the other Working Notes for <em>David Copperfield</em> are bound with the novel manuscript, the Working Note for No. I is kept separately, cataloged in the Victoria &amp; Albert National Art Library as part of the \"Forster MSS.\" The note on the bottom of the mounting page states that the page was \"apparently separated from the [<em>Copperfield</em>] MS (F.161) for reproduction in Mr Forster's biography of Dickens.\"&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 10.5pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although the heading for this number reads, &ldquo;Personal History and Adventures of David Copperfield,&rdquo; during composition of the second number, Dickens substituted \"Experience\" for \"Adventures\" in the shortened title. The Working Notes and manuscripts for the first and second number retain the original title, but while Dickens emended the second (see</span> <span style=\"font-size: 10.5pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC_WN_02), he did not return to either the Working Note or manuscript of the first number to make the change. From No. III</span> <span style=\"font-size: 10.5pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">onwards, the title on both the manuscript and the Working Notes is written as \"Personal History and Experience of David Copperfield&rdquo; (see the Critical Introduction for more on Dickens&rsquo;s titling of the novel).</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 10.5pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It may be of interest to compare this to the Working Notes for his next novel, <em>Bleak House</em>: Dickens also changes the title while composing the second number, but in that case did return to correct the first Working Note (see BH_WN_01). </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-02-19T02:11:32.843Z"
 }
