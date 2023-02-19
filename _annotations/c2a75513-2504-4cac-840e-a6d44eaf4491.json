@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN02.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.II.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Their religion&nbsp;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note clearly refers to the description of the Murdstones' \"gloomy theology\" in chapter 4 (DC 59), but Dickens may initially have intended the idea of punitive religion to run more prominently through the number. Where Chapter 4 connects the Murdstone&rsquo;s \"austere and wrathful\" religious practice (DC 62) to their general \"creed\" of \"firmness\" (DC 60), the manuscript of chapter 6 continued the motif with a description of Creakle and Tungay&rsquo;s evangelical Christianity that was deleted during the proof stage:&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">\"I heard that Mr. Creakle, on account of certain religious opinions he held, was one of the Elect and Chosen&mdash;terms which certainly none of us understood in the least then, if any body understand them now&mdash;and that the man with the wooden leg was another. I heard that the man with the wooden leg had preached (Traddles's father, according to Traddles, had positively heard him) and had frightened women into fits by raving about a Pit he said he saw, with I don't know how many thousands of billions and trillions of pretty babies born for no other purpose than to be cast into it\" (Clarendon 74.n5). </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens revisits the Murdstones&rsquo; severe religion much later, in the novel&rsquo;s final number, through Mr. Chillip&rsquo;s report that Mr. Murdstone is still a local \"tyrant&rdquo; (DC 839). \"The darker tyrant he has lately been, the more ferocious is his doctrine,\" Chillip reports, adding that he cannot \"find authority for Mr and Miss Murdstone in the New Testament.\" Creakle also reappears in this number, although his hypocrisy is not quite religious in character: he is the &ldquo;tenderest of men to prisoners convicted of the whole calendar of felonies,\" but remains unwilling to \"[extend] his tenderness [...] to any other class of created beings\" (DC 853).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=92,184,308,167"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M92.12649,288.04815l142.29431,-52.21962v0l142.29431,-52.21962l11.48806,31.30404l11.48806,31.30404l-142.29431,52.21962l-142.29431,52.21962l-11.48806,-31.30404z\"  id=\"rectangle_011dc5f7-c0eb-4300-8e36-160935793908\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-19T02:22:13.890Z",
+    "@id": "c2a75513-2504-4cac-840e-a6d44eaf4491.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
