@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "fbdb0a5f-2cc2-4b07-aaeb-dbcfc33b9615.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.I.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Morgan the Dr.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In the published text, the doctor who oversees David's birth is called Chillip, not Morgan. There is no evidence in the manuscript that Dickens was uncertain about the name when he first drafted the chapter. As Nina Burgis has noted in the Introduction to the Clarendon edition of <em>David Copperfield</em>, Morgan was possibly the name of the real-life model for the character. Both Forster and Charles Dickens Jr. have attested that Chillip was based on an actual person: Dickens's son wrote that the original model was a doctor who attended the family during the period Dickens wrote <em>Copperfield</em> (Burgis xxvii).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:16:00.452Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -23,11 +21,11 @@ order: 8
                 "@type": "oa:Choice",
                 "default": {
                     "@type": "oa:FragmentSelector",
-                    "value": "xywh=1693,777,324,150"
+                    "value": "xywh=1693,773,324,150"
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1693.01708,878.08855l154.04963,-50.63994v0l154.04963,-50.63994l7.98443,24.28909l7.98443,24.28909l-154.04963,50.63994l-154.04963,50.63994l-7.98443,-24.28909z\"  id=\"rectangle_6b35edea-6dbc-453f-af82-0f9848f21bb3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1693.01708,874.45219l154.04963,-50.63994v0l154.04963,-50.63994l7.98443,24.28909l7.98443,24.28909l-154.04963,50.63994l-154.04963,50.63994l-7.98443,-24.28909z\"  id=\"rectangle_6b35edea-6dbc-453f-af82-0f9848f21bb3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:16:00.452Z",
-    "@id": "fbdb0a5f-2cc2-4b07-aaeb-dbcfc33b9615.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.I.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Morgan the Dr.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In the published text, the doctor who oversees David's birth is called Chillip, not Morgan. There is no evidence in the manuscript that Dickens was uncertain about the name when he first drafted the chapter. As Nina Burgis has noted in the Introduction to the Clarendon edition of <em>David Copperfield</em>, Morgan was possibly the name of the real-life model for the character. Both Forster and Charles Dickens Jr. have attested that Chillip was based on an actual person: Dickens's son wrote that the original model was a doctor who attended the family during the period Dickens wrote <em>Copperfield</em> (Burgis xxvii).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-02-19T02:16:12.932Z"
 }
