@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN03.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.III.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">My First half at Salem House.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The chapter titles on this Working Note appear to have been added at different times from each other, from the chapter notes, and from the chapter headings. There is some similarity in appearance between the titles for chapters 7 and 9, but it is difficult to be sure that they were written at the same time. The title for chapter 8 was probably written sometime after the revision of the title in the manuscript, since it appears here in its final, revised form (see <em>DC.III.L2</em>).</span><strong id=\"docs-internal-guid-2e849c87-7fff-affe-73fd-02e4bd579f24\" style=\"font-weight: normal;\"></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens&rsquo;s process for titling chapters in <em>David Copperfield</em> was irregular: sometimes he had titles in mind from the first stage of planning and writing in manuscript (e.g., chapter 10, \"I become neglected, and am provided for,\" which appears to have been written on both Working Note and manuscript at the same time as the chapter heading; see DC_WN_04). In contrast to <em>Bleak House</em>, where Dickens frequently added titles to chapters at manuscript or proof stage, returning to the Working Note to document those titles later, in <em>Copperfield</em> there appears to have been a more dynamic process of titling chapters across the planning, writing, and proofing stages.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On this Working Note, Dickens did not return to add the quotation marks to the title of chapter 7, which are present on the manuscript and the published text (&ldquo;My &lsquo;first half&rsquo; at Salem House&rdquo;). This was only a minor change, but It is worth noting that there are only two instances in which Dickens did not return to correct chapter titles on the Working Note after making a significant change or addition in proof (see <em>DC.VIII.R</em>1 and <em>DC.XVI.R6</em>). In comparison, there are many instances where Dickens did not return to the manuscript to document changes made to titles in proof&mdash;a testament to the importance of the Working Notes to Dickens&rsquo;s ongoing compositional process.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Moreover, the Working Notes for Nos. III and IV provide rare examples of Dickens using the left side of the Working Note to experiment with chapter titles at the planning stage.</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1547,239,915,179"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1546.75717,238.91778h457.73996v0h457.73996v89.33652v89.33652h-457.73996h-457.73996v-89.33652z\"  id=\"rectangle_87dc7378-9acd-4bed-8e1b-af58e9ad95f0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-19T02:32:26.982Z",
+    "@id": "30cb02f3-1325-4c0b-b2da-9aa97260c306.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
