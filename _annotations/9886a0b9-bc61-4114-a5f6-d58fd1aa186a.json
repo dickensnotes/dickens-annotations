@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN05.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.V.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Uriah Heep.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Uriah Heep is the novel's central antagonist. In his manipulation of Mr. Wickfield and Betsey Trotwood, Uriah threatens the security of David's domestic sphere; in his designs on Agnes, he threatens David's unspoken romantic desires.&nbsp;</span><span id=\"docs-internal-guid-218a673c-7fff-5b57-9dc4-2ed0d3bfc0a2\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Though Dickens wove many biblical allusions into <em>David Copperfield</em>, the naming of Uriah Heep is perhaps the most structurally significant. By establishing a central conflict between characters named David and Uriah, Dickens associated that conflict with the story in 2 Samuel, in which King David covertly arranges the death of Uriah the Hittite in order to marry his wife, Bathsheba (2 Samuel 11). In casting Uriah in the role of the villain, the novel treats the conflict very differently from the biblical story; nevertheless, the superficial association tacitly draws the accuracy of David's account of events into question, and directs attention to the class division between David and Uriah. This subtext casts David's revulsion for Uriah, his eagerness to &ldquo;rub [...] off&rdquo; (DC 235) the residue of his handshake, and to \"shut him out\" of the Wickfield's house at the end of the chapter, in an uncomfortable, symbolic light, while also intimating the true nature of David's feelings for Agnes. </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1368,2025,334,70"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1368.07648,2025.05545h167.18866v0h167.18866v35.24156v35.24156h-167.18866h-167.18866v-35.24156z\"  id=\"rectangle_5a1c9fc3-abef-4d4d-8674-8f17d2d24c0d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-19T02:56:03.934Z",
+    "@id": "9886a0b9-bc61-4114-a5f6-d58fd1aa186a.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
