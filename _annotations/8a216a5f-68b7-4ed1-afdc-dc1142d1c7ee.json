@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN07.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VII.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">chapter XX.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The manuscript of this installment consists of only two chapters: chapter 19, which also includes the material that eventually makes up chapter 20, and chapter 21, which, it appears, was first labeled chapter 20 before being emended. In the corrected proofs, the final division of the number into three chapters had already been made, suggesting the decision to split chapter 19 had occurred during an earlier stage of proofs, or in between the completion of the manuscript and the printing of the galley proofs. As the chapter headings on the Working Note do not appear squeezed in at all, they were probably either written prior to the composition of the manuscript (and in keeping with Dickens&rsquo;s general practice of creating, at minimum, a title heading and chapter headings on the Working Note at the outset of work on a number).</span><span id=\"docs-internal-guid-d0c5e954-7fff-7e47-d983-4a166fb8e426\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens's belated division of the chapters results in an unusually structured installment. All of <em>Copperfield</em>'s other three-chapter numbers consist of two longer chapters followed by a much shorter chapter (No. XV is an exception, with the third chapter being only slightly shorter than the first two). Conversely, in No. VII, the middle chapter is only five manuscript pages, and is placed between two much longer chapters (chapter 19 runs for ten manuscript pages, and chapter 21 runs for over eleven pages). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1685,800,408,120"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1684.83875,800.39006h203.99554v0h203.99554v60.11409v60.11409h-203.99554h-203.99554v-60.11409z\"  id=\"rectangle_0acf1790-b10d-4ac2-b655-dbb8b9b69d16\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-20T22:28:07.881Z",
+    "@id": "8a216a5f-68b7-4ed1-afdc-dc1142d1c7ee.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
