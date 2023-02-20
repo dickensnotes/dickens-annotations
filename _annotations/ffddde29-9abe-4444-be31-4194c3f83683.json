@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN07.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VII</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Number VII, which Dickens composed partly at Broadstairs and partly at Devonshire Terrace, sees the resumed use of black ink. The manuscript is almost entirely in blue (with some emendations and a section of chapter nineteen in black), so the switch took place in the later stages of composition, presumably upon Dickens's return to Devonshire Terrace on October 18th. Nina Burgis has commented that the brief reappearance of the black ink in chapter 19 might suggest that those sixteen lines were written on a brief trip up to London, perhaps between his stay at Bonchurch and his departure for Broadstairs, where he completed the number (Burgis xl.n3). The anomalous section of the manuscript makes it difficult to say for certain whether the notes in black (the answers on the left-hand side, and the chapter notes on the right-hand side) were made during composition or afterwards, when Dickens switched back to the black ink.</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1310,6,1341,134"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2650.7406,140.09688h-670.44678v0h-670.44678v-67.03697v-67.03697h670.44678h670.44678v67.03697z\"  id=\"rectangle_72a62d33-fe08-4322-b0c2-af8237cc250d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-20T22:21:56.237Z",
+    "@id": "ffddde29-9abe-4444-be31-4194c3f83683.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
