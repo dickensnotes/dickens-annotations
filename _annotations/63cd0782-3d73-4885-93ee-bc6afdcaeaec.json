@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN15.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XV.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">old unhappy feeling going by, upon the wind</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The \"old unhappy feeling\" that recurs several times in the latter half of the novel (in Nos. XII, XV, and XIX-XX) is associated in chapter 44 with the \"loss or want of something\" David feels in his situation, and especially his marriage to Dora (DC 653). Its position on the Working Note here indicates its relationship to Annie&rsquo;s situation, but in the chapter the feeling is also connected to David&rsquo;s childhood. Outside the Strong&rsquo;s house, David recalls \"how the leaves smelt like our garden at Blunderstone as we trod them under foot, and how the old, unhappy feeling, seemed to go by, on the sighing wind\" (DC 661).&nbsp;</span><span id=\"docs-internal-guid-517d4b19-7fff-41fe-02de-98ea8242fc5a\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This particular combination of associations, drawn out across the installment, tacitly set David&rsquo;s &ldquo;child-wife&rdquo; (DC 651) Dora up in parallel to his &ldquo;wax doll&rdquo; (DC 15) mother, both of whose incapacities create discontent in David&rsquo;s life. By this association, too, Clara Copperfield is obliquely implicated in the installment&rsquo;s preoccupation with the &ldquo;faults of mothers, and their consequences&rdquo; (see <em>DC.XV.R1</em> above). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2233,1234,417,121"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2232.65691,1255.97626l205.69798,-11.15086v0l205.69798,-11.15086l2.66223,49.10971l2.66223,49.10971l-205.69798,11.15086l-205.69798,11.15086l-2.66223,-49.10971z\"  id=\"rectangle_b6af6c5c-d107-4c42-b70e-95c34057a6ef\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-21T22:47:22.928Z",
+    "@id": "63cd0782-3d73-4885-93ee-bc6afdcaeaec.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
