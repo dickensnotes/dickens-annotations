@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN08.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VIII.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Miss Mowcher</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On December 18, several weeks after the publication of No. VIII, Dickens received a strongly-worded letter from Jane Seymour Hill, his wife's chiropodist and the inspiration for the character of the \"pursy dwarf,\" Miss Mowcher (DC 335). \"[I]n all but my good name,\" she wrote, \"you shew up my personal deformities with insinuations that by the purest of my sex may be construed to the worst of purposes\" (Letters 5.674-75.n5).&nbsp; In his response, Dickens admitted that he had \"yielded to several recollections\" of Mrs Hill's \"general manner\" when illustrating the character of Miss Mowcher (5.674-75). Although he had not at first intended her &ldquo;to be a very good character,&rdquo; he promised to do all he could to make up for the offense.&nbsp;</span><strong id=\"docs-internal-guid-61972d31-7fff-1c70-8973-66922fc2497e\" style=\"font-weight: normal;\"></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although Dickens was flippant about the &ldquo;serio-comic&rdquo; letter he had received from Mrs. Hill in his correspondence with Forster that same day, he was genuine in his promise to rework the character (Letters 5.676). His promise to &ldquo;oblige the Reader to hold [Miss Mowcher] in pleasant remembrance&rdquo;&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(5.674) is evident in the significant changes to her manner of expression between her first appearance and her second (in No. XI), and in the modification of her role in Emily&rsquo;s seduction. The &ldquo;insinuations&rdquo; Mrs. Hill objected to in her letter were not carried further. Rather than assisting Steerforth, Miss Mowcher is deceived by him, and in the novel&rsquo;s final installment David finds that she has fulfilled her promise to &ldquo;serve the poor betrayed girl&rdquo; (DC 471) by orchestrating Littimer&rsquo;s arrest.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens&rsquo;s management of these changes within the mechanisms of the story offer some insight into his attitudes toward the logic of serial form itself&mdash;see <em>D</em></span><em><span style=\"font-family: Calibri, sans-serif; font-size: 14.6667px; white-space: pre-wrap;\">C.X.L2 </span></em><span style=\"background-color: transparent; font-family: Calibri, sans-serif; font-size: 11pt; white-space: pre-wrap;\">for more. </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2327,423,343,118"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2327.28617,423.39834h171.6501v0h171.6501v58.99873v58.99873h-171.6501h-171.6501v-58.99873z\"  id=\"rectangle_9fea5bd8-5027-454a-977d-8bd3b0b7e3be\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-21T19:15:19.766Z",
+    "@id": "5e5f9df6-fb7f-4093-8a1b-38a508261c19.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
