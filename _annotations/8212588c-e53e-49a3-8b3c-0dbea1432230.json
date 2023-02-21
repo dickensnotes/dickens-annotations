@@ -4,16 +4,14 @@ order: 7
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "8212588c-e53e-49a3-8b3c-0dbea1432230.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XII.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">David&rsquo;s New State.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">David's development in this number is significant enough to be documented on both sides of the Working Note. While the memoranda on the left-hand side clearly indicate that this &ldquo;new state&rdquo; is a foil to Dora&rsquo;s lack of progress, David&rsquo;s decision to learn shorthand and become a parliamentary reporter also paves the way for his publication of \"a good many trifling pieces&rdquo; (DC 633), and his eventual recognition as a successful novelist.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">David's professional career in the novel is closely aligned to Dickens&rsquo;s own experiences. In his biography, Forster describes Dickens \"set[ting] resolutely [...] to the study of shorthand\" in order to enter the gallery as a journalist (1.45). \"Of all the difficulties that beset his shorthand studies,\" Forster wrote, \"as well as of what first turned his mind to them, he has told also something in <em>Copperfield</em>. He had heard that many men distinguished in various pursuits had begun life by reporting the debates in parliament, and he was not deterred by a friend's warning that the mere mechanical accomplishment for excellence in it might take a few years to master thoroughly\" (1.45-6). As Forster recognized, the detail of these testimonies is easily discernible in Traddles's warning that \"the mere mechanical acquisition necessary, except in rare cases, for [...] a perfect and entire command of the mystery of short-hand writing and reading, was about equal in difficulty to the mastery of six languages; and that it might perhaps be attained, by dint of perseverance, in the course of a few years\" (DC 533). The two years Dickens was forced to spend as a shorthand writer for the proctors at Doctor's Commons before becoming \"a sharer in parliamentary toils and triumphs\" are, of course, mirrored in David's being articled as a proctor to Spenlow &amp; Jorkins (Forster 2.46). Dickens finally entered the gallery at the age of nineteen (Forster 1.49); David &ldquo;tame[s] that savage stenographic mystery\" (DC 632) by twenty-one, and is distinguished as a parliamentary reporter in No. XIV. </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-21T21:38:25.888Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -23,11 +21,11 @@ order: 7
                 "@type": "oa:Choice",
                 "default": {
                     "@type": "oa:FragmentSelector",
-                    "value": "xywh=1396,1140,444,72"
+                    "value": "xywh=1396,1128,444,72"
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1396.49885,1139.60893h221.93918v0h221.93918v36.02694v36.02694h-221.93918h-221.93918v-36.02694z\"  id=\"rectangle_6f207087-45de-4be5-9f5c-829b5dd16abd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1396.49885,1128.24068h221.93918v0h221.93918v36.02694v36.02694h-221.93918h-221.93918v-36.02694z\"  id=\"rectangle_6f207087-45de-4be5-9f5c-829b5dd16abd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"17.05238\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 7
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T21:38:25.888Z",
-    "@id": "8212588c-e53e-49a3-8b3c-0dbea1432230.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XII.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">David&rsquo;s New State.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">David's development in this number is significant enough to be documented on both sides of the Working Note. While the memoranda on the left-hand side clearly indicate that this &ldquo;new state&rdquo; is a foil to Dora&rsquo;s lack of progress, David&rsquo;s decision to learn shorthand and become a parliamentary reporter also paves the way for his publication of \"a good many trifling pieces&rdquo; (DC 633), and his eventual recognition as a successful novelist.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">David's professional career in the novel is closely aligned to Dickens&rsquo;s own experiences. In his biography, Forster describes Dickens \"set[ting] resolutely [...] to the study of shorthand\" in order to enter the gallery as a journalist (1.45). \"Of all the difficulties that beset his shorthand studies,\" Forster wrote, \"as well as of what first turned his mind to them, he has told also something in <em>Copperfield</em>. He had heard that many men distinguished in various pursuits had begun life by reporting the debates in parliament, and he was not deterred by a friend's warning that the mere mechanical accomplishment for excellence in it might take a few years to master thoroughly\" (1.45-6). As Forster recognized, the detail of these testimonies is easily discernible in Traddles's warning that \"the mere mechanical acquisition necessary, except in rare cases, for [...] a perfect and entire command of the mystery of short-hand writing and reading, was about equal in difficulty to the mastery of six languages; and that it might perhaps be attained, by dint of perseverance, in the course of a few years\" (DC 533). The two years Dickens was forced to spend as a shorthand writer for the proctors at Doctor's Commons before becoming \"a sharer in parliamentary toils and triumphs\" are, of course, mirrored in David's being articled as a proctor to Spenlow &amp; Jorkins (Forster 2.46). Dickens finally entered the gallery at the age of nineteen (Forster 1.49); David &ldquo;tame[s] that savage stenographic mystery\" (DC 632) by twenty-one, and is distinguished as a parliamentary reporter in No. XIV. </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-02-21T21:38:57.388Z"
 }
