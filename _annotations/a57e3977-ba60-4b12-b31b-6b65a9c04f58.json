@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "a57e3977-ba60-4b12-b31b-6b65a9c04f58.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VIII.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Proctor&rsquo;s &ndash; Doctors Commons</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As noted on the prior Working Note (see DC.VII.L2), it was not until the 17th November that Dickens decided on David's profession, presumably around the time that he began composing chapter 23 (\"proctor\" is written cleanly in the manuscript). Since the notes for this chapter specify that David is to be articled as a proctor at Doctor's Commons, and since the notes for all three chapters appear to be written at the same time, these entries were apparently made sometime after the 17th, during or after the composition of chapter 22. This explains the clarity and organization of the notes for chapter 21 (see DC.VIII.R4): these entries not only list the chapter&rsquo;s principal elements, they also demonstrate the care with which Dickens arranged, deployed, and contrasted these elements. The notes for chapters 22 and 23 are not as comprehensive&mdash;the significant return of the \"ill-dressed man\" to harass Aunt Betsey, for example, is conspicuously absent. The comparison of the chapter notes clearly indicates the very different style of Dickens&rsquo;s retroactive and proactive entries, and the variability and dynamism of his practice with the Working Notes.</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-21T19:17:30.848Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1348.37329,1168.81501l338.04616,-24.79277v0l338.04616,-24.79277l2.76538,37.70561l2.76538,37.70561l-338.04616,24.79277l-338.04616,24.79277l-2.76538,-37.70561z\"  id=\"rectangle_8a153643-d25c-423c-beec-e3f8b0d13ee7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1348.37329,1168.81501l338.04616,-24.79277v0l338.04616,-24.79277l2.76538,37.70561l2.76538,37.70561l-338.04616,24.79277l-338.04616,24.79277l-2.76538,-37.70561z\"  id=\"rectangle_8a153643-d25c-423c-beec-e3f8b0d13ee7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.38432\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T19:17:30.848Z",
-    "@id": "a57e3977-ba60-4b12-b31b-6b65a9c04f58.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VIII.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Proctor&rsquo;s &ndash; Doctors Commons</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As noted on the prior Working Note (see <em>DC.VII.L2</em>), it was not until the 17th November that Dickens decided on David's profession, presumably around the time that he began composing chapter 23 (\"proctor\" is written cleanly in the manuscript). Since the notes for this chapter specify that David is to be articled as a proctor at Doctor's Commons, and since the notes for all three chapters appear to be written at the same time, these entries were apparently made sometime after the 17th, during or after the composition of chapter 22. This explains the clarity and organization of the notes for chapter 21 (see <em>DC.VIII.R4</em>): these entries not only list the chapter&rsquo;s principal elements, they also demonstrate the care with which Dickens arranged, deployed, and contrasted these elements. The notes for chapters 22 and 23 are not as comprehensive&mdash;the significant return of the \"ill-dressed man\" to harass Aunt Betsey, for example, is conspicuously absent. The comparison of the chapter notes clearly indicates the very different style of Dickens&rsquo;s retroactive and proactive entries, and the variability and dynamism of his practice with the Working Notes.</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-02-21T19:17:56.205Z"
 }
