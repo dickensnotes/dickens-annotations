@@ -4,16 +4,14 @@ order: 6
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "9b85eafd-aff8-4ee0-a65c-5d0d46d417a6.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XII.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Agnes &ndash; Blind, blind, blind</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This entry connects Aunt Betsey's reservations about David's relationship with Dora to his relationship with Agnes, signaling Dickens&rsquo;s careful organization of the chapter to contrast Dora's \"light-headed\" disposition (DC 509) with Agnes's \"wise head\" (DC 518) (see <em>DC.XII.L4</em>). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-21T21:37:10.175Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 6
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2045.8445,765.09007h314.8953v0h314.8953v44.11008v44.11008h-314.8953h-314.8953v-44.11008z\"  id=\"rectangle_d5107f95-92b2-4747-9765-3a2ae1e7da7a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2045.8445,765.09007h314.8953v0h314.8953v44.11008v44.11008h-314.8953h-314.8953v-44.11008z\"  id=\"rectangle_d5107f95-92b2-4747-9765-3a2ae1e7da7a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"26.8714\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 6
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T21:37:10.175Z",
-    "@id": "9b85eafd-aff8-4ee0-a65c-5d0d46d417a6.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XII.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Agnes &ndash; Blind, blind, blind</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This entry connects Aunt Betsey's reservations about David's relationship with Dora to his relationship with Agnes, signaling Dickens&rsquo;s careful organization of the chapter to contrast Dora's \"light-headed\" disposition (DC 509) with Agnes's \"wise head\" (DC 518) (see <em>DC.XII.L4</em>). </span><span id=\"docs-internal-guid-d55afeb3-7fff-d994-9866-b13a90818b0f\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These notes were likely written after the chapter was composed, as Betsey's question (\"and not silly?\") appears to have been worked out first in the manuscript, where it is reworked from \"and not [a] silly [child]?\" and another deleted (illegible) variation above. Apparently Dickens was not painstaking about the accurate correspondence of his entries on the Working Note to the relevant sections in the text: &ldquo;Blind, Blind, Trot!&rdquo; does not appear exactly in the chapter, but is first \"'blind, blind, blind!'\" and then, \"'Oh, Trot! [...] blind, blind'\" (DC 509-10). The beggar's words at the end of the chapter reiterate the idea: &ldquo;Blind! Blind! Blind!&rdquo; (DC 526). </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-02-21T21:37:29.056Z"
 }
