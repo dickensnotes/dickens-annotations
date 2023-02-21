@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN09.json"
+order: 8
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.IX.R6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">His story</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Traddles's \"story\" is another of the narratives provided to stand alongside and against David's own \"personal history\" (see <em>DC.III.R4</em>). Traddles's story of diligence and faithfulness offers an interesting counterpoint both to the carelessness of Steerforth (see <em>DC.IX.R1</em>), and to David himself, particularly after the lengthy description of his infatuation with Dora in chapter 26. Indeed, Traddles's great care for his sparse &ldquo;furnishing,&rdquo; included just below on the Working Note, signifies his simplicity and patience, as does his repeated adage, &rdquo;wait and hope!&rdquo; (DC 413). Just like his &ldquo;little round table with the marble top,&rdquo; Traddles is &ldquo;firm as a rock,&rdquo; and his determined nature might remind the reader of Aunt Betsey&rsquo;s hopes for David in No. VII: that he will be a &ldquo;fine firm fellow, with a will of [his] own&rdquo; (DC 283). </span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1651,1943,245,95"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1650.52606,1969.31688l118.49501,-13.20185v0l118.49501,-13.20185l3.81576,34.2489l3.81576,34.2489l-118.49501,13.20185l-118.49501,13.20185l-3.81576,-34.2489z\"  id=\"rectangle_113221dc-1a23-40b0-bd86-ffdecc5335b0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-21T19:25:10.805Z",
+    "@id": "4123063f-c3cb-4fb5-b8f6-1b42ddcbadeb.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
