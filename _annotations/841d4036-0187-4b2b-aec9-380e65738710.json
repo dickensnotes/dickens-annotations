@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "841d4036-0187-4b2b-aec9-380e65738710.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XI.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">What an idle time! [&hellip;]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It is unusual that Dickens included this full passage on the Working Note, especially since the manuscript shows evidence that he worked the passage out there first, before returning to the Note. Although the first part of the passage is written cleanly in the manuscript, the second half is significantly reworked: \"What an idle time! What an unsubstantial, happy, foolish time! of all the times of mine that Time has in his grip, there is none [so xxxxxxxx] [so xxxxxxxxxx] that [I can xxxxx] in one retrospection I can smile at half so much, and think of half so tenderly.\"&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">That Dickens took the trouble to include this line on the Working Note suggests that he felt it effectively captured the texture of David and Dora's relationship, and, perhaps, that he anticipated its recurring, in some capacity, in a future installment. Indeed, the image of the capitalized \"Time\" does recur in relation to Dora when David, anticipating her impending death, meditates on \"the many, never old, who had lived and loved and died [...] and, motes upon the deep of Time, had lost themselves in air, as circles do in water\" (DC 747). </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-21T21:23:32.978Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M24.3649,1699.34565l533.4873,5.38876l8.08314,51.19323l91.60893,8.08314v-61.97075l557.73672,-5.38876l5.38876,-2.69438v320.63125l-1196.30485,5.38876l2.69438,-326.02002z\"  id=\"rough_path_6d8c22b7-b167-45d6-8736-cf77538375b7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M24.3649,1699.34565l537.52887,4.04157l1.34719,60.62356l94.30331,0v-61.97075l557.73672,-5.38876l5.38876,-2.69438v320.63125l-1196.30485,5.38876l2.69438,-326.02002z\"  id=\"rough_path_6d8c22b7-b167-45d6-8736-cf77538375b7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"8.08314\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T21:23:32.978Z",
-    "@id": "841d4036-0187-4b2b-aec9-380e65738710.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XI.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">What an idle time! [&hellip;]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It is unusual that Dickens included this full passage on the Working Note, especially since the manuscript shows evidence that he worked the passage out there first, before returning to the Note. Although the first part of the passage is written cleanly in the manuscript, the second half is significantly reworked: \"What an idle time! What an unsubstantial, happy, foolish time! of all the times of mine that Time has in his grip, there is none [so xxxxxxxx] [so xxxxxxxxxx] that [I can xxxxx] in one retrospection I can smile at half so much, and think of half so tenderly.\"&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">That Dickens took the trouble to include this line on the Working Note suggests that he felt it effectively captured the texture of David and Dora's relationship, and, perhaps, that he anticipated its recurring, in some capacity, in a future installment. Indeed, the image of the capitalized \"Time\" does recur in relation to Dora when David, anticipating her impending death, meditates on \"the many, never old, who had lived and loved and died [...] and, motes upon the deep of Time, had lost themselves in air, as circles do in water\" (DC 747). </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-02-21T21:23:50.539Z"
 }
