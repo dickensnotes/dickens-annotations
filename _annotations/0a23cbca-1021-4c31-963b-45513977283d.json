@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN11.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XI.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Doctor and his wife &ndash; qy No</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens&rsquo;s query around whether to include Doctor Strong draws attention to the complexity of the Number's treatment of romantic entanglements, following on Emily&rsquo;s elopement with Steerforth in the previous installment (which prompts &ldquo;Mr Peggoty to begin his search&rdquo; in the first chapter of No. XI). It is interesting that Mr. Murdstone does not appear in this list of character queries, considering his notable reappearance in chapter 33. Dickens&rsquo;s decision to reintroduce Murdstone shortly after the return of his sister in No. IX may indicate his desire to keep both of the Murdstones in view in anticipation of a greater role for them in later numbers (see <em>DC.XIII.L3</em>). In No. XI David observes his stepfather preparing for another potentially destructive marriage, comes to terms with Emily and Steerforth&rsquo;s elopement, visits the divorce court with Mr. Spenlow, and learns of the &ldquo;misplaced affection&rdquo; of Miss Mills&rsquo;s youth (DC 488). Each of these incidents reflects forebodingly on his burgeoning relationship with Dora, the central matter of chapter 33. To all these, Dickens also apparently considered adding &ldquo;the Doctor and his wife,&rdquo; but he ultimately chose to defer their appearance to the following month, and it is not until No. XV that Annie Strong&rsquo;s attachment to Jack Maldon is &ldquo;brought to bear on David, and applied by him to himself (DC_WN_15). </span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=70,560,1020,153"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M69.58242,581.93131l508.77561,-10.82177v0l508.77561,-10.82177l1.3964,65.65028l1.3964,65.65028l-508.77561,10.82177l-508.77561,10.82177l-1.3964,-65.65028z\"  id=\"rectangle_b2c16e33-8dab-4b61-a991-3d084c0aa112\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-21T21:19:19.018Z",
+    "@id": "0a23cbca-1021-4c31-963b-45513977283d.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
