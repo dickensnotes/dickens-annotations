@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN10.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.X.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Her letter.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Em'ly's decision to leave Yarmouth with Steerforth in the hopes he will \"bring [her] back a lady\" (DC 459) is finally disclosed at the end of chapter 31. On January 23, 1850, presumably satisfied with the conclusion of the number, Dickens wrote to Forster of his hope that he would be \"remembered by little Em'ly, a good many years to come&rdquo; (Letters 6.14). Indeed, his hopes for Emily's legacy were high: a month earlier, he wrote to another friend that he had been considering the situation of \"poor girls\" whose \"return to virtue [was] cruelly cut off\" (Letters 5.682). \"[I] hope,\" he wrote, \"in the history of Little Em'ly (who must fall&mdash;there is no hope for her) to put it before the thoughts of people, in a new and pathetic way, and perhaps to do some good.\"</span><span id=\"docs-internal-guid-6a0850ad-7fff-952b-a362-effd38aa63be\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In this aim, Dickens was evidently inspired by his long-term involvement in the practical management of Urania Cottage, Angela Burdett-Coutts's \"Home for Homeless Women\" in Shepherd's Bush. One of Dickens's many responsibilities was to interview and record the histories of potential residents&mdash;a task that surely furnished the raw material for the experiences of Little Em'ly and Martha Endell in <em>Copperfield</em>. Whether or not Dickens succeeded in his goal to \"do some good,&rdquo; he certainly illustrated an ideal &ldquo;return to virtue&rdquo; through Emily and Martha that was not always available to the women who passed through the Home. Though several of them did, like Martha and Emily, obtain passage to Australia, Dickens emphasized in a January letter to Elizabeth Gaskell how difficult it was to arrange emigration, and the lack of support women received after departing from England (Letters 6.6-7). In February, he wrote to Gaskell again with particular reference to the Cape of Good Hope, telling her that women who emigrated must be \"profoundly silent\" about their unfortunate histories, or else \"be miserable or flung back into the gulf\" from which they had emerged (Letters 6.29).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2228,1965,270,111"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2228.23192,1990.5254l131.05746,-12.76286v0l131.05746,-12.76286l4.1448,42.56155l4.1448,42.56155l-131.05746,12.76286l-131.05746,12.76286l-4.1448,-42.56155z\"  id=\"rectangle_fb1b6cf0-b616-49cb-afe1-e7540819310d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-21T21:08:30.813Z",
+    "@id": "5361641c-8fab-425c-ad9c-1d6380f6bd3a.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
