@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN10.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.X.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I visit Steerforth at his home, again.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The title for chapter 29 was reworked several times in the corrected proofs, which read &ldquo;I visit Steerforth [once more] at his home, [once more] again.&rdquo; Each of these possible titles draws attention to the correspondence between this chapter and chapter 20, &ldquo;Steerforth&rsquo;s Home&rdquo; (see DC_WN_07). The chapters mirror one another in several ways: David&rsquo;s first visit to Highgate directly precedes his introduction of Steerforth into Yarmouth; his second precedes his realization of the consequences of that introduction.&nbsp;</span><span id=\"docs-internal-guid-ec682323-7fff-e7d2-b20f-79aaf29fa2af\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Furthermore, the Notes to No. VII and No. X indicate the importance of Miss Dartle to both chapters. Indeed, both were initially to conclude with a passage that connected Rosa Dartle&rsquo;s portrait to David&rsquo;s sinister dreams. Before sending the number to the printers, Dickens deleted a passage at the end of chapter 29 in which David is haunted by Rosa&rsquo;s picture (Clarendon 373.n2), a clear reference back to his falling under the influence of her &ldquo;startling likeness&rdquo; in chapter 20 (DC 306). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1406,977,1160,162"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1408.90085,977.46521l578.83481,11.27317v0l578.83481,11.27317l-1.35786,69.72124l-1.35786,69.72124l-578.83481,-11.27317l-578.83481,-11.27317l1.35786,-69.72124z\"  id=\"rectangle_2efcd4c3-1323-44ce-bbb2-26e21b29c1ed\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-21T21:05:06.325Z",
+    "@id": "a0395346-14ac-4630-b474-a17cdcf3b5ce.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
