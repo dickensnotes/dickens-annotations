@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN10.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.X.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">qy Miss Mowcher? Impossible. Try next time</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens's correspondence with Robert Rogers, Mrs. Hill's solicitor, sheds some light on the deferral of the promised changes to Miss Mowcher's character and career (see <em>DC.VIII.R3</em>). In December 1849, he had told Rogers that any alteration could \"only be made, in the natural progress and current of the story&rdquo; (Letters 5.677). He found it &ldquo;impossible,&rdquo; therefore, to address Mrs. Hill&rsquo;s concerns in No. IX, as &ldquo;the character is not introduced, and the course of the tale is not at all in that direction.&rdquo; The Working Note for No. X shows that he still found it &ldquo;impossible,&rdquo; feeling, apparently, that the &ldquo;course of the tale&rdquo; would&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">not allow for Miss Mowcher's reappearance prior to the revelation of Steerforth and Emily's elopement.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Her assistance of Steerforth had been strongly intimated in No. VIII, and in order to work out the planned changes to her character within the logic of the narrative, Dickens would have to address these intimations. By deferring Miss Mowcher's reappearance until the eleventh number, Dickens could explain her actions in direct relation to Steerforth's proven capacity for deception. Additionally, the deferral gave him the freedom to expand upon her character and situate her behavior and motives within the broader context of her dwarfism. Had this passage been inserted into the tenth number, it would have interfered with the unity and \"natural [...] current\" of the number, whose main task was to build steadily up to the \"loss\" of Little Em'ly.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The riverine metaphor that Dickens used in his letter to Rogers provides some insight into Dickens&rsquo;s own feelings about the inherent logics and rhythms of serial form, and into the function of the Working Notes themselves. When used proactively, the Notes became a space to determine whether potential component elements fell in with the &ldquo;current&rdquo; of a number; when used retroactively, they allowed Dickens to chart the movement of that &ldquo;current&rdquo; over a period of many months.</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=55,398,1146,179"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M55.07457,397.52199h573.17973v0h573.17973v89.33652v89.33652h-573.17973h-573.17973v-89.33652z\"  id=\"rectangle_cbef57af-2c40-4c2e-81cf-ed44f87d487e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-21T19:29:42.177Z",
+    "@id": "6139b8cc-1bbc-4f36-bca4-767d8b93245f.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
