@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN09.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.IX.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Doctors Commons? Yes</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The left-hand page of this Working Note is relatively straightforward: it seems that all of the entries other than the five &ldquo;yes&rdquo; responses were written at the same time. The &ldquo;yes&rdquo; responses are much lighter than the other notes, but resemble each other closely, and so were probably written some time later, in the same sitting.&nbsp;</span><strong id=\"docs-internal-guid-154391e2-7fff-4f5f-6739-0fc8a13b5a95\" style=\"font-weight: normal;\"></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The memoranda themselves suggest an exceptionally confident number. Nothing is rejected or deferred, and even the decisive exclusion of Steerforth is phrased as a command, rather than a question. The suspension of the Yarmouth subplot gives Dickens the opportunity to revisit the Canterbury characters, and to bring Uriah's attempts to take control of Wickfield's firm&mdash;and marry his daughter&mdash;sharply into focus. Furthermore, with Steerforth &ldquo;kept out,&rdquo; Dickens can give much of the number over to an illustration of David&rsquo;s early months in London. His discovery of the eccentricities of Doctor's Commons precedes his much greater discovery of Dora Spenlow, and the installment is also punctuated by David's rediscovery of figures from his youth. Through a series of coincidental meetings (with Tommy Traddles in chapter 25, Miss Murdstone in chapter 26, and the Micawbers in chapter 27) Dickens systematically reintroduces characters last appearing in Nos. III, V and VI, respectively.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The reincorporation of these figures from David's past into his new life in London allow many disparate threads of the story to converge in the novel's new geographical epicenter. In London, Traddles and David reflect on their time at Salem House; the Micawbers ask after the Strongs in Canterbury; David's encounter with Miss Murdstone reminds him of his treatment by Mr. Murdstone in Suffolk; and David compares his new love for Dora with his youthful love for Little Em'ly in Yarmouth. In addition to bringing these characters, themes, and events to bear on one another, the reintroduction of these characters creates possibilities for future installments. Miss Murdstone's reappearance gives the opportunity to bring Mr. Murdstone back into the story in No. XI; Traddles brings with him a romance subplot that contrasts with David's obsession with Dora; and David&rsquo;s meeting with the Micawbers allows Dickens to progress toward Mr. Micawber&rsquo;s employment by Uriah, prepared for as early as No. VI (see <em>DC.VI.R4</em>).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=111,675,743,110"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M111.28872,674.57744h371.41109v0h371.41109v55.2065v55.2065h-371.41109h-371.41109v-55.2065z\"  id=\"rectangle_cd8a84c9-5aeb-490a-901d-a96abf6229ec\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-21T19:20:45.094Z",
+    "@id": "23226511-e7bc-4fa7-87d5-efe1ea8384b7.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
