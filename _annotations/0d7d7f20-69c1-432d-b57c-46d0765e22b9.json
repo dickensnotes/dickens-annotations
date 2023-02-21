@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN12.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XII.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr Micawber &ldquo;a member [&hellip;]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The notes for chapter 36 register several of its humorous lines and motifs, from Mr. Dick's movement between his copy work and his Memorial \"like a man playing the kettle-drums\" (DC 534), to Mr. Micawber's adaptation of Walter Scott&rsquo;s lines from <em>Rob Roy</em> (1817): \"my foot will be on my native heath&mdash;my name, Micawber!\" (541).&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The corresponding passages are all written fairly cleanly in the manuscript, with only minor discrepancies, suggesting that, as with chapter 35, these notes were written after the chapter was composed. They summarize the chapter economically, detailing elements to be remembered and revisited: David's professional progress, the Strong marriage, and Mr. Dick's growing usefulness. It is worth noting that Mr. Micawber&rsquo;s aspiration to &ldquo;walk erect before his fellow man&rdquo; comes, perhaps owing to its inclusion on the Working Note, to define him throughout the remainder of the novel, charting his moral journey from a degraded state of \"particular painfulness\" under Uriah Heep's employ in No. XVI (\"I no more walk erect before my fellow man,\" [DC 708]) to his redemption from that state in No. XVII, where David recalls that he \"stood erect before the door, most unmistakably contemplating one his fellow-men, and that man his employer\" (DC 752). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1379,1266,926,136"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1379.38522,1356.07032l460.73209,-45.21714v0l460.73209,-45.21714l2.21288,22.54774l2.21288,22.54774l-460.73209,45.21714l-460.73209,45.21714l-2.21288,-22.54774z\"  id=\"rectangle_f6257438-ae9b-4cb0-b20a-e263bc3d6dcd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-21T21:42:04.395Z",
+    "@id": "0d7d7f20-69c1-432d-b57c-46d0765e22b9.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
