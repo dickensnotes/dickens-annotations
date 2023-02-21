@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN08.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VIII.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Steerforth&rsquo;s misgivings [&hellip;]&nbsp;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As this entry indicated, chapter 22 &ldquo;tend[s] onward&rdquo; toward Emily&rsquo;s seduction and departure from Yarmouth with Steerforth. The elopement is carefully intimated throughout, particularly by the conversation between David, Steerforth, and Miss Mowcher (\"I swear she was born to be a lady\"), but the number is significantly bookended by both Steerforth and Emily&rsquo;s &ldquo;misgivings.&rdquo; The Working Note shows that their separate misgivings are connected, but Dickens removed a passage, sometime after the first set of proofs, that made this association explicit. Although, in chapter 23, David chooses not to tell Steerforth about Emily&rsquo;s distress, the manuscript originally had him relate &ldquo;what had passed with Martha,&rdquo; and described Steerforth&rsquo;s response: &ldquo;He listened to that recital in perfect silence, and was evidently moved by it. I thought it moved him to a kind of dread, like that I had observed in him last night, more than to pity; but it did move him, and strongly too\" (Clarendon 291.n3).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1332,413,537,159"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1331.61217,492.72217l262.32783,-39.86991v0l262.32783,-39.86991l6.01603,39.58304l6.01603,39.58304l-262.32783,39.86991l-262.32783,39.86991l-6.01603,-39.58304z\"  id=\"rectangle_bfe05ac9-a357-4cc5-8ceb-5c1f2da5ee60\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-21T19:13:14.728Z",
+    "@id": "c2d48682-791e-4b65-8b75-790696fcfd8b.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
