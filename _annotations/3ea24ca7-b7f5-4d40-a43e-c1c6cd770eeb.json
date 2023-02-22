@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN17.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVII</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Both black and blue inks appear on the Working Note for No. XVII, reflecting the switch from the former to the latter halfway through the manuscript. This switch takes place early in chapter 52, from the line, \"I had not seen Uriah Heep since the time of the blow\" (DC 750). This implies that, contrary to Dickens&rsquo;s apparent practice in previous months, he wrote the chapter titles onto the Working Note before the chapter notes rather than after. Although it is possible they were added later (since Dickens resumed the black ink when editing the proofs late in the month), the position of the chapter titles on the manuscript indicates they were decided upon as Dickens first drafted the installment.&nbsp;</span><strong id=\"docs-internal-guid-5d01098f-7fff-bdb2-549b-8af8cb6bb789\" style=\"font-weight: normal;\"></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The change in inks partway through the manuscript indicates that the entries for chapters 51 and 52 on the Working Note were recorded after the chapters were written&mdash;though at different times, since there are several distinct layers of blue:</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(1) The notes for chapter 51 are in a thin, medium-coloured blue and might have been written at the same time as the two responses at the bottom of the left-hand side of the Note.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(2) The notes for chapter 52, and the first two lines (\"Three times...\" and \"Speaks of herself as past\") of chapter 53, are in a softer and lighter blue.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">(3) The last few detailed notes for 53 are written in a very dark, distinct blue. The variation in the notes for chapter 53 might suggest that the first two entries, in the softer blue, were written between the composition of chapters 52 and 53, and that the more detailed entries were filled in after the installment was complete. This supposition is consistent with the difficulty Dickens professed to have in writing Dora's death (see </span><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">DC.XVII.R5</span></em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> below). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1332,38,1370,159"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1331.93881,38.15296h685.03442v0h685.03442v79.29828v79.29828h-685.03442h-685.03442v-79.29828z\"  id=\"rectangle_3ea9791e-5eb0-4380-98fe-651788c4d652\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-22T02:38:25.457Z",
+    "@id": "3ea24ca7-b7f5-4d40-a43e-c1c6cd770eeb.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
