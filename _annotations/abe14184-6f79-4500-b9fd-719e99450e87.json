@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVIII.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">at Broadstairs here, last night [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This particularly fascinating addition to the Working Note explicitly shows Dickens in the process of converting his own observations into fiction. Writing the \"Tempest,\" he drew upon a storm he had witnessed on the Kentish coast, apparently the night before writing these notes. The temporal specificity of this entry seems to indicate that the chapter notes were either written prior to the composition of the chapter, or, if retroactive, on the same day as Dickens completed the chapter. There are no surviving records of a storm at Broadstairs in the period Dickens was writing the chapter. Stone offers this particularly eloquent commentary: \"The Broadstairs entry, like many other entries in the number plans, gives us a glimpse into mysteries. The brief, heavily emphasized notation helps us define Dickens' imagination, and it helps us define how that imagination worked. We watch Dickens in the very act of transforming the random happenstance of ordinary experience&mdash;in this case the happenstance of a few fortuitously observed details&mdash;into the richness and resonance of art\" (Stone xx).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1937,1368,726,107"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1936.63559,1367.69179l722.61072,3.885l3.885,56.33256l-168.99767,-1.9425l-1.9425,48.56255h-289.43279l-5.82751,-34.96503l-252.52525,-1.9425l-1.9425,-60.21756\"  id=\"rough_path_d92770bc-2a5a-4fd6-9446-71bba74f1d34\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-22T03:54:23.264Z",
+    "@id": "abe14184-6f79-4500-b9fd-719e99450e87.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
