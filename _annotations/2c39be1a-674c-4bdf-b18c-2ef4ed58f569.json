@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN16.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVI.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Progress of his mind [&hellip;]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">David's attempt to \"form Dora's mind\" is significantly reworked through the manuscript for chapter 48. The first instance of the line (\"What other course was left to take? To 'form her mind'?\" [DC 700]) is not written cleanly but is written above an illegible deletion. That this entire section is so heavily revised in manuscript suggests that the parallel drawn here between David and his stepfather came together in the writing of the chapter, and that the notes may have been added retroactively.&nbsp;</span></p>\n<p><span id=\"docs-internal-guid-2f9ae3d0-7fff-b9ac-7521-078afd002827\"><br /><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Dickens&rsquo;s placement of the words &ldquo;form her mind&rdquo; in quotation marks (on the Note and in the manuscript) highlights the relationship, unrecognized by David, between his efforts to mold Dora&rsquo;s character and Mr. Murdstone&rsquo;s attempted reformation of David&rsquo;s mother in Nos. II and III&mdash;his &ldquo;satisfaction in the thought of marrying an inexperienced and artless person, and </span><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">forming her character</span></em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">, and infusing into it some of that firmness and decision of which it stood in need&rdquo; (DC 61, emphasis added).</span></span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1502,810,1171,208"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1502.43255,925.12992l1161.83344,-115.25388l9.29467,55.76801l-769.59847,83.65201l-1.85893,33.4608l-317.87763,35.31974l-11.1536,-39.0376l-66.92161,3.71787z\"  id=\"rough_path_b2cf751d-d664-4f6b-8bbf-67e9e9ebbe74\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-02-22T02:31:10.922Z",
+    "@id": "2c39be1a-674c-4bdf-b18c-2ef4ed58f569.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
