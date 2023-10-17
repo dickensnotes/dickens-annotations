@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWNMems.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p id=\"docs-internal-guid-ffab1c0c-7fff-7f58-8f13-6af0ad0d08e6\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.Mems.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">According to Cocker.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The thirteen titles below this double line largely match the list of titles that Forster records Dickens&rsquo;s having sent him on this day, although fifth item from here reads &ldquo;Mr Gradgrind&rsquo;s grindstone&rdquo; (rather than &ldquo;The Grindstone&rdquo;), and the fourteenth items on Forster&rsquo;s list, &ldquo;The Gradgrind Philosophy,&rdquo; is not present (see<em> HT.Mems.R1</em>). </span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2024,1250,499,95"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2027.86227,1250.10776l247.28779,16.19434v0l247.28779,16.19434l-2.04742,31.26408l-2.04742,31.26408l-247.28779,-16.19434l-247.28779,-16.19434l2.04742,-31.26408z\"  id=\"rectangle_a6713a46-321e-48db-a43c-0cd36a7700f1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-17T22:01:09.325Z",
+    "@id": "3a0d75d4-d944-459a-a326-398d502b3b95.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
