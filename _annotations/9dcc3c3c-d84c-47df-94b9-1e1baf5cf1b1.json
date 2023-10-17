@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWNMems.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p id=\"docs-internal-guid-668dd8bc-7fff-5688-c0f4-fa021b672ec9\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.Mems.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The quantity of the story to be published [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The decision that the &ldquo;quantity&rdquo; of each weekly installment would be &ldquo;about five pages of Household Words&rdquo; seems to be primarily determined by the &ldquo;simple arithmetic&rdquo; of dividing the size of the typical monthly installment into four parts. In his agreement with his publishers Bradbury &amp; Evans, the length of the novel is measured in monthly parts, with the weekly portions left to Dickens&rsquo;s discretion: &ldquo;Resolved[.] That Mr. Charles Dickens is hereby engaged to write, at his earliest convenience, a story for Household Words equal in length to five single monthly numbers of Bleak House. This story is to be published in Household Words in continuous weekly portions; each of such length as Mr. Dickens, in his Capacity, as Editor, may think fit&rdquo; (Letters 7.9111). While this agreement provides Dickens with the ability to publish unequal portions so long as they were published &ldquo;continuous[ly],&rdquo; he no doubt saw the benefit, both for himself and for the balance of material in <em>Household Words</em>, to try to maintain a consistent length. See <em>HT.I.L1</em> for Dickens&rsquo;s decision to &ldquo;Write and calculate the story in the old monthly Nos.&rdquo; and the Critical Introduction for more on Dickens&rsquo;s difficulties with the size of the weekly installment.</span></p>\n<p><br /><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">For the most part, each of the weekly installments of <em>Hard Times</em> ran to seven-and-a-half or eight manuscript pages of his writing, which produced 10-12 columns (5-6 pages) of <em>Household Words</em>. For the final monthly &lsquo;number,&rsquo; though, Dickens decided each weekly installment would be &ldquo;enlarged to 10 of my sides each&ndash;about&rdquo;</span> (see <em>HT.V-VI.L1</em><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=28,920,1228,395"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M27.80528,1314.63956h613.952v0h613.952v-197.26989v-197.26989h-613.952h-613.952v197.26989z\"  id=\"rectangle_57ab6ab7-90c0-44a6-9fc4-b1a1abcc54c4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-17T21:53:10.156Z",
+    "@id": "9dcc3c3c-d84c-47df-94b9-1e1baf5cf1b1.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
