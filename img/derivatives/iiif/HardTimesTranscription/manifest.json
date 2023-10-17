@@ -20,6 +20,35 @@ user: dnoneill
     {
       "@type": "sc:Sequence",
       "canvases": [
+        ,
+        {
+          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWNMems.json",
+          "@type": "sc:Canvas",
+          "label": "HT_WN_Mems",
+          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/HTWNMems/full/169,/0/default.jpg",
+          "height": 2100,
+          "width": 2700,
+          "images": [
+            {
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/HTWNMems/annotation/6.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/HTWNMems/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2100,
+                "width": 2700,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/HTWNMems",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWNMems.json"
+            }
+          ]
+        },
         {
           "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN01.json",
           "@type": "sc:Canvas",
@@ -157,34 +186,6 @@ user: dnoneill
                 }
               },
               "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN05.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWNMems.json",
-          "@type": "sc:Canvas",
-          "label": "HT_WN_Mems",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/HTWNMems/full/169,/0/default.jpg",
-          "height": 2100,
-          "width": 2700,
-          "images": [
-            {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/HTWNMems/annotation/6.json",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/HTWNMems/full/full/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "height": 2100,
-                "width": 2700,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/HTWNMems",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWNMems.json"
             }
           ]
         }
