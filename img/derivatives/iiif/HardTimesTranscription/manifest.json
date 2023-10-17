@@ -20,7 +20,6 @@ user: dnoneill
     {
       "@type": "sc:Sequence",
       "canvases": [
-        ,
         {
           "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWNMems.json",
           "@type": "sc:Canvas",
