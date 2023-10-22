@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN02.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p id=\"docs-internal-guid-78cfd63c-7fff-477e-484e-a023da671b2a\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Man of No. 1? &ndash; Not yet.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This query about the possible introduction of Harthouse in this &lsquo;number&rsquo; follows directly from the bottom of the left-hand side of the first Working Note, where Dickens provides the outline of Harthouse&rsquo;s character before determining it is &ldquo;Not yet&rdquo; time to introduce him. Given the placement of this note at the very top of the page, it seems likely that Dickens might have made this note&ndash;as a reminder or prompt&ndash;while finalizing &ldquo;No. 1,&rdquo; and then at some stage during the planning and composition of No. II determined it was again &ldquo;not yet&rdquo; time for his introduction. The Working Note identifies significant material for the &ldquo;number&rdquo;: from introducing the &ldquo;Law of Divorce&rdquo; (via Stephen Blackpool) and providing &ldquo;Mill Pictures,&rdquo; to the thematic threads dealing with parentage and the &ldquo;carry[ing] on&rdquo; of the children&rsquo;s development. There is no other hint of Harthouse among the memoranda for this &lsquo;number.&rsquo; Dickens, then, may have determined early in the planning that Harthouse&rsquo;s introduction would have to wait until the following &lsquo;number,&rsquo; where we do indeed see him deciding to finally introduce (and name) the &ldquo;Man dropped from No. 1&rdquo; (See <em>HT.I.L9</em> and <em>HT.III.L2</em>)</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=718,8,488,80"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M717.59847,88.34417h243.92543v0h243.92543v-40.15679v-40.15679h-243.92543h-243.92543v40.15679z\"  id=\"rectangle_7e4e0993-93a1-469d-ba59-e86622037fae\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-22T00:34:16.524Z",
+    "@id": "6f48a9f3-4984-494c-a95e-ece686093289.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
