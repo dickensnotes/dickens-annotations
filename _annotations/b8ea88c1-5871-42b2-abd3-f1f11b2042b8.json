@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN01.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p id=\"docs-internal-guid-282add59-7fff-8c7f-b4c2-7bd60ea2d1ad\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Marlborough House Doctrine</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note, coupled with the adjacent reference to &ldquo;[Henry] Cole,&rdquo; indicates the specific target of Dickens&rsquo;s satire in the schoolroom scene in chapter 2, where the unnamed third gentleman questions children about wallpaper representing horses and carpet depicting flowers. As K.J. Fielding has shown, Dickens was making explicit reference to lectures by Owen Jones. The Department of Practical Art had been set up under the Board of Trade in 1852, and re-established at Marlborough House in 1853 (in the following year, it was again re-organized as the Department of Science and Art under the Committee of Council on Education). The Department, according to Fielding, had been established in the wake of the Great Exhibition of 1851, where Great Britain&rsquo;s achievements in technical and industrial development were accompanied by a recognition that they were not as advanced in design. The Department was intended to train students on matters of practical art, with Cole serving as its superintendent, Richard Redgrave as art superintendent, and Owen Jones as an assistant. The Department organized lectures, a museum, and an exhibition at Marlborough House.</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In the text, Dickens is referring to Jones&rsquo;s 1853 lecture to the Society of Arts (where he comments on the &ldquo;absurd&rdquo; nature of &ldquo;a wall covered with repetitions of the same subject, men and horses standing on each other&rsquo;s heads&rdquo;) and Jones&rsquo;s introductory &ldquo;Observations&rdquo; to a catalogue at Marlborough House (where he praises Indian designs where &ldquo;there are here no carpets worked with flowers on which the feet would fear to tread&rdquo;) (Fielding 273-74). As Fielding suggests, despite these specific references, &ldquo;the new &lsquo;Marlborough House Doctrine&rsquo; aroused such slight controversy and was so little known that the purpose of the satire almost certainly passed unrecognized by the general reader&rdquo; (274). See Fielding for more detail on Dickens&rsquo;s treatment of Cole and the Department of Practical Art. </span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1643,572,618,84"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1643.09388,607.19646l307.78063,-17.56977v0l307.78063,-17.56977l1.3919,24.38287l1.3919,24.38287l-307.78063,17.56977l-307.78063,17.56977l-1.3919,-24.38287z\"  id=\"rectangle_7282cb77-6f24-49c6-914f-b723c7081ef7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-22T00:25:58.843Z",
+    "@id": "b8ea88c1-5871-42b2-abd3-f1f11b2042b8.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
