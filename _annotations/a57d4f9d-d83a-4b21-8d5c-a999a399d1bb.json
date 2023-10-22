@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN01.json"
+order: 19
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p id=\"docs-internal-guid-45c2b755-7fff-7910-cbf1-560c57cf8df1\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.R9</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dawn of Boundary and Louisa.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note signals the forthcoming sacrifice of Louisa in marriage to Bounderby, but the tone and import of this &ldquo;dawn&rdquo; are anything but subtle in the final page of chapter 4. After Louisa begrudgingly consents to a kiss from Bounderby, she &ldquo;stood on the same spot, rubbing the cheek he had kissed, with her handkerchief, until it was burning red. She was still doing this, five minutes afterwards&rdquo; (HT 64). The explicitness of Bounderby&rsquo;s intentions and Louisa&rsquo;s disgust are no doubt another manifestation of Dickens&rsquo;s grappling with the compressed format of the novel. But it is interesting to compare this to his handling of plot through the Working Notes in <em>Bleak House</em>, where we see (for example), notes about the early romantic entanglements of Richard and Ada, as well as Watt Rouncewell and the maid Rosa, both of which Dickens initially softens with the modifier &ldquo;Slightly&rdquo; and which are developed much more subtly (see <em>BH.III.L1</em> &amp; <em>BH.IV.L3</em>). </span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2225,1019,401,118"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2224.56727,1019.09091h200.50545v0h200.50545v59.12364v59.12364h-200.50545h-200.50545v-59.12364z\"  id=\"rectangle_515c6038-adda-4c7c-89e0-514e12ebbcb2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-22T00:30:00.134Z",
+    "@id": "a57d4f9d-d83a-4b21-8d5c-a999a399d1bb.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
