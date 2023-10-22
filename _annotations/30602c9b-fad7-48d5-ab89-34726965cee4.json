@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN01.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p id=\"docs-internal-guid-3a12698a-7fff-4bc0-91d9-1a29e50bd49d\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr Gradgrind. Facts and figures [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens appears to have conceived Gradgrind&rsquo;s proclamation in his initial planning of the novel&rsquo;s opening chapters, and then transferred this phrase to the right-hand side of the Working Note as the sole memorandum for chapter 1. The opening lines in the published text are slightly different: &ldquo;Now, what I want is, Facts. Teach these boys and girls nothing but Facts. Facts alone are wanted in life&rdquo; (HT 47). Although these lines&ndash;and, indeed, the entirety of the novel&rsquo;s short opening chapter&ndash;are heavily revised in the manuscript, the word &ldquo;children&rdquo; never appears in Dickens&rsquo;s various formulations of the novel&rsquo;s opening sentences, as he moves between &ldquo;teach them&rdquo; and &ldquo;teach these young people&rdquo; before settling on &ldquo;teach these boys and girls.&rdquo;</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=157,187,1100,207"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M163.08024,187.18305l546.66626,21.28062v0l546.66626,21.28062l-3.19392,82.04684l-3.19392,82.04684l-546.66626,-21.28062l-546.66626,-21.28062l3.19392,-82.04684z\"  id=\"rectangle_d7c5ed7b-d011-415d-9ba2-d8b38d387394\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-22T00:14:28.597Z",
+    "@id": "30602c9b-fad7-48d5-ab89-34726965cee4.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
