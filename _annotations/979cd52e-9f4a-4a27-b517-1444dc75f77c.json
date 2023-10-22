@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN03.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The third monthly &lsquo;number&rsquo; of <em>Hard Times</em> finally sees the introduction of James Harthouse (see <em>HT.III.L2</em>), as well as the novel&rsquo;s most explicit engagement with the social relations between &ldquo;men and masters&rdquo; (the title later added to chapter 21). Based upon the prior &lsquo;numbers&rsquo; and Dickens&rsquo;s general pattern of composing about a month in advance of publication, most of this &lsquo;number&rsquo; was likely composed in late April and the early parts of May (see HT.II). Dickens&rsquo;s letters that survive from this period are largely silent on the novel. In a comparatively brief letter on May 4th to W.H. Wills that mainly concerns <em>Household Words</em> business, Dickens writes under the heading &ldquo;I.&rdquo; (referring to himself), &ldquo;Growling in a general way,&rdquo; and signs the letter &ldquo;In haste&rdquo; (Letters 7.328).&nbsp;</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It is during this period that Dickens begins correspondence with Elizabeth Gaskell around the publication of <em>North and South</em> in Household Words, which was to begin its serial run following the completion of <em>Hard Times</em>. His letter to her in which he confirms that &ldquo;[he] has no intention of striking&rdquo; in the novel is dated April 21st (Letters 7.320). That letter continues: &ldquo;The monstrous claims at domination made by a certain class of manufacturers, and the extent to which the way is made easy for working men to slide down into discontent under such hands, are within my scheme; but I am not going to strike.&rdquo; See the Critical Introduction for more on <em>Hard Times</em> as an industrial novel.</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Weekly No. 9 appeared in <em>Household Words</em> issue no. 218, dated Saturday, May 27, 1854, with the subsequent installments appearing the following three weeks (June 3rd, 10th, and 17th).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1354,28,1331,137"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1354.02294,28.11472h665.53155v0h665.53155v68.25621v68.25621h-665.53155h-665.53155v-68.25621z\"  id=\"rectangle_a16dcd7b-abcd-4da6-a9eb-8da3e11026a9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-22T00:50:21.312Z",
+    "@id": "979cd52e-9f4a-4a27-b517-1444dc75f77c.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
