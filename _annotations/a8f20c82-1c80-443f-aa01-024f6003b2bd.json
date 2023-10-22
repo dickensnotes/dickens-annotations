@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN01.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p id=\"docs-internal-guid-6445f4e5-7fff-7048-1762-4caea2acb744\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">If he only knew less [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As with the phrases linked to Mr. Gradgrind just above, the phrases attached to M&rsquo;Choakumchild appear slightly differently in the published text: &ldquo;If he had only learnt a little less, how infinitely better he might have taught much more!&rdquo; (HT 53). In the manuscript, the first part of the sentence initially reads &ldquo;If he had only known a little less,&rdquo; but Dickens changes &ldquo;known&rdquo; to &ldquo;learnt&rdquo; in the corrected proofs. This minor alteration reinforces the idea of learning as indoctrination that is developed in this paragraph introducing M&rsquo;Choakumchild and his own education: &ldquo;He had some one hundred and forty other schoolmasters, had been lately turned at the same time, in the same factory, on the same principles, like so many pianoforte legs&rdquo; (HT 52-53). On the 25th of January&ndash;in the period when had begun writing the new novel in earnest&ndash;Dickens was preoccupied with the matter of teacher training and wrote to W.H. Wills with a request: &ldquo;I want (for the story I am trying to hammer out) the Education Board&rsquo;s series of questions for the examination of teachers in schools. Will you get it&rdquo; (Letters 7.258).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=156,388,1139,162"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M600.91257,465.04432l1.81818,-77.27273l690.90909,30l1.81818,63.63636l-262.72727,2.72727h-0.90909l3.63636,65.45455l-879.09091,-50l2.72727,-53.63636l441.81818,20z\"  id=\"rough_path_7b627704-8fe4-4189-a352-496dd3ae1cf8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-22T00:16:12.655Z",
+    "@id": "a8f20c82-1c80-443f-aa01-024f6003b2bd.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
