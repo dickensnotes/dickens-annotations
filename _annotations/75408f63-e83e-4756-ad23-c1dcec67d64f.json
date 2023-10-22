@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN02.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p id=\"docs-internal-guid-8d0e0323-7fff-adc8-cead-ce198c7712bd\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;Thou hast saved my soul alive&rdquo;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although this phrase appears directly in the manuscript and published text, it is an area of the manuscript where Dickens made substantial changes in the corrected proofs. Originally, in response to Rachael&rsquo;s brief mention of her sister, Stephen offers a lengthy commentary that precedes this final phrase. In this passage that was deleted, Stephen comments on an accident in the mill suffered by her sister: &ldquo;Thou&rsquo;st spoken o&rsquo; they little sister. There agen! Wi&rsquo; her child arm tore off afore thy face!&rdquo; He then comments on the dangerous conditions of the factory: &ldquo;&lsquo;Were dost thou ever hear or read o&rsquo; us&ndash;the like o&rsquo; us&ndash;as being otherwise than onreasonable and cause o&rsquo; trouble? Yet think o&rsquo; that. Government gentleman comes down and make&rsquo;s report. Fend off the dangerous machinery, box it off, save life and limb, don&rsquo;t rend and tear human creeturs to bits in a Chris&rsquo;en country! What follers? Owners sets up their throats, cries out, &lsquo;Onreasonable! Inconvenient! Troublesome!&rsquo; Gets to Secretaries o&rsquo; States wi&rsquo; deputations, and nothing&rsquo;s done. When do we get there wi&rsquo; our deputations, God help us! We are too much int&rsquo;rested and nat&rsquo;rally too far wrong t&rsquo; have a right judgment. Haply we are; but what are they then? I&rsquo; th&rsquo; name o&rsquo; th&rsquo; muddle in which we are born and live and die, what are they then!&rsquo;&rdquo; To this long diatribe, Rachael implores Stephen to &ldquo;&lsquo;Let such thing be, Stephen. They only lead to hurt; let them be!&rsquo;&rdquo; (Ford 252).</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Interestingly, in the corrected proofs Dickens added a footnote in the sentence concluding &ldquo;and nothing&rsquo;s done,&rdquo; which directs readers to the article &ldquo;Ground in the Mill,&rdquo; written by Henry Morley and published in <em>Household Words</em> no. 213 on April 22nd (alongside the fourth weekly installment of Hard Times). At a final stage of proofs, this paragraph and the accompanying footnote and reference are removed. Morley&rsquo;s article details the scale and nature of injuries to workers in mills that result from the failures of the Factory Act; although the article highlights the profits made by owners at the expense of workers&rsquo; safety, it lays blame on the government and their failure to properly implement the regulations on the Act. </span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1832,1308,541,41"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1832.46836,1349.61018h270.568v0h270.568v-20.67855v-20.67855h-270.568h-270.568v20.67855z\"  id=\"rectangle_d88d9dad-0f7d-4331-8f42-4abad47f92f2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-22T00:47:52.743Z",
+    "@id": "75408f63-e83e-4756-ad23-c1dcec67d64f.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
