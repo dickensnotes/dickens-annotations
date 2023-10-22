@@ -4,16 +4,14 @@ order: 1
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "6f7b5637-1ffe-4bef-93ff-54881ab7e321.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-b6376b89-7fff-708d-376a-3b2e5cffd014\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens appears to have started composition of <em>Hard Times</em> on the 23rd of January, 1854. On that day, he wrote to Burdett Coutts from Tavistock House: &ldquo;I have fallen to work again. My purpose is among the mighty secrets of the world at present; but there is such a fixed idea on the part of my printers and copartners in Household Words, that a story by me, continued from week to week, would make some unheard-of effect with it, that I am going to write one. It will be as long as five Nos. of Bleak House, and will be five months in progress. The first written page now stares at me from under this sheet of note paper. The main idea of it, is one on which you and I and Mrs. Brown have often spoken; and I know it will interest you as a purpose&rdquo; (Letters 7.256). This first weekly installment of the novel (chapters 1-3) appeared at the start of <em>Household Words</em> No. 210 on Saturday, April 1, 1854. The other three installments documented on this Working Note appeared in the three subsequent issues (April 8th, April 15th, and April 22nd, respectively). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:11:44.661Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -23,11 +21,11 @@ order: 1
                 "@type": "oa:Choice",
                 "default": {
                     "@type": "oa:FragmentSelector",
-                    "value": "xywh=1361,22,1329,189"
+                    "value": "xywh=1344,11,1329,189"
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1361.38432,21.86871h664.63926v0h664.63926v94.69025v94.69025h-664.63926h-664.63926v-94.69025z\"  id=\"rectangle_4e2e7cdc-3340-4817-ad8a-d203ca932b45\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1343.53856,10.71511h664.63926v0h664.63926v94.69025v94.69025h-664.63926h-664.63926v-94.69025z\"  id=\"rectangle_4e2e7cdc-3340-4817-ad8a-d203ca932b45\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.38432\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 1
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:11:44.661Z",
-    "@id": "6f7b5637-1ffe-4bef-93ff-54881ab7e321.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-b6376b89-7fff-708d-376a-3b2e5cffd014\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens appears to have started composition of <em>Hard Times</em> on the 23rd of January, 1854. On that day, he wrote to Burdett Coutts from Tavistock House: &ldquo;I have fallen to work again. My purpose is among the mighty secrets of the world at present; but there is such a fixed idea on the part of my printers and copartners in Household Words, that a story by me, continued from week to week, would make some unheard-of effect with it, that I am going to write one. It will be as long as five Nos. of Bleak House, and will be five months in progress. The first written page now stares at me from under this sheet of note paper. The main idea of it, is one on which you and I and Mrs. Brown have often spoken; and I know it will interest you as a purpose&rdquo; (Letters 7.256). This first weekly installment of the novel (chapters 1-3) appeared at the start of <em>Household Words</em> No. 210 on Saturday, April 1, 1854. The other three installments documented on this Working Note appeared in the three subsequent issues (April 8th, April 15th, and April 22nd, respectively). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-22T00:20:42.008Z"
 }
