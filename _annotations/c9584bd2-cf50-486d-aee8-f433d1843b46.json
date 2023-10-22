@@ -4,16 +4,14 @@ order: 13
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "c9584bd2-cf50-486d-aee8-f433d1843b46.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Open Law of Divorce.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chapter 10 &ldquo;opens&rdquo; the novel&rsquo;s engagement with divorce law insofar as it introduces the relationship between Stephen and Rachael and the return of Stephen&rsquo;s wife. Stephen invokes the notion of the law as he walks home with Rachael and tells her: &ldquo;Thou hast been that to me, Rachael, through so many year: thou hast done me so much good, and heartened of me in that cheering way, that thy word is a law to me.&nbsp; Ah, lass, and a bright good law! Better than some real ones.&rdquo; Rachael replies by saying &ldquo;&lsquo;Never fret about them, Stephen [...] Let the laws be&rsquo;&rdquo; (HT 105).&nbsp; While the nature of the &ldquo;real&rdquo; laws referenced here is left implicit, the following chapter presents an explicit and extended discussion of the &ldquo;laws of divorce&rdquo; between Stephen and Bounderby (see <em>HT.II.L2</em>).</span></p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:45:06.071Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -23,11 +21,11 @@ order: 13
                 "@type": "oa:Choice",
                 "default": {
                     "@type": "oa:FragmentSelector",
-                    "value": "xywh=1373,464,348,56"
+                    "value": "xywh=1368,461,348,56"
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1372.53792,463.55131h173.88082v0h173.88082v27.76864v27.76864h-173.88082h-173.88082v-27.76864z\"  id=\"rectangle_c513f91c-a7bb-491e-a97e-e2696b1f0b90\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1368.07648,461.32059h173.88082v0h173.88082v27.76864v27.76864h-173.88082h-173.88082v-27.76864z\"  id=\"rectangle_c513f91c-a7bb-491e-a97e-e2696b1f0b90\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6.69216\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 13
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:45:06.071Z",
-    "@id": "c9584bd2-cf50-486d-aee8-f433d1843b46.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Open Law of Divorce.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chapter 10 &ldquo;opens&rdquo; the novel&rsquo;s engagement with divorce law insofar as it introduces the relationship between Stephen and Rachael and the return of Stephen&rsquo;s wife. Stephen invokes the notion of the law as he walks home with Rachael and tells her: &ldquo;Thou hast been that to me, Rachael, through so many year: thou hast done me so much good, and heartened of me in that cheering way, that thy word is a law to me.&nbsp; Ah, lass, and a bright good law! Better than some real ones.&rdquo; Rachael replies by saying &ldquo;&lsquo;Never fret about them, Stephen [...] Let the laws be&rsquo;&rdquo; (HT 105).&nbsp; While the nature of the &ldquo;real&rdquo; laws referenced here is left implicit, the following chapter presents an explicit and extended discussion of the &ldquo;laws of divorce&rdquo; between Stephen and Bounderby (see <em>HT.II.L2</em>).</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-22T00:45:48.873Z"
 }
