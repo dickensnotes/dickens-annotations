@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN02.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p id=\"docs-internal-guid-22efe572-7fff-48a7-01ed-2283a3132ac1\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">John Prodge? Stephen? George? old Stephen?</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">There are no characters named &ldquo;John Prodge&rdquo; or &ldquo;George&rdquo; in the novel, and the sequence of queries here suggests that Dickens was contemplating what name to give Stephen. Dickens of course settles on Stephen, and includes the nickname of &ldquo;Old Stephen&rdquo; in his introduction: &ldquo;He had known, to use his words, a peck of trouble. He was usually called Old Stephen, in a kind of rough homage to the fact&rdquo; (HT 103). However, Dickens&rsquo;s indecision is evident throughout the manuscript for chapter 10, as his name is initially written as &ldquo;Bill&rdquo; or &ldquo;William&rdquo; before Dickens eventually changes it to Stephen midway through the chapter and goes back to change the prior instances. This would suggest that the underlined full name &ldquo;Stephen Blackpool&rdquo; below was added during or after composition of the chapter. </span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=27,154,464,404"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M26.55127,154.46255h231.92364v0h231.92364v201.76218v201.76218h-231.92364h-231.92364v-201.76218z\"  id=\"rectangle_51e33389-2a6e-4d5b-a075-4c6e61430dff\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-22T00:36:18.184Z",
+    "@id": "0d59ba4e-e39f-4042-b90c-d29dc7f60ce0.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
