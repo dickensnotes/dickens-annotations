@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN02.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p id=\"docs-internal-guid-a1630043-7fff-a15e-2c51-adc4532af35d\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Whereas Dickens appears to have retroactively noted the weekly divisions of the first &lsquo;number&rsquo; on the Working Note for No. I, from No. II onwards, he draws horizontal lines on the right-hand side of the note to subdivide both the Working Note and the number itself into its weekly installments from the outset of his planning (the notes for chapter 10 and several subsequent chapters, for example, show Dickens squeezing notes into the pre-divided space). On the 18th of April, Dickens wrote to W.H. Wills on Household Words business and personal matters. Under the heading &ldquo;C.D.&rdquo; (referring to himself), Dickens wrote: &ldquo;I am in a dreary state, planning and planning the story of Hard Times (out of materials for I don&rsquo;t know how long a story), and consequently writing little&rdquo; (Letters 7.317). Dickens explains that while he had hoped to come to Worcester the following week with Mark Lemon and to meet with Wills there, &ldquo;I am now afraid I shall not be able to spare the day.&rdquo; The editors of Dickens&rsquo;s letters speculate that Dickens might have been planning weekly installments 7 and 8 (chapter 13-16) at this time. Weekly installment No. 5 appeared in <em>Household Words</em> on the 29th of April, and the following three installments appeared on the first three Saturdays of the following month (May 6th, 13th, and 20th).&nbsp; </span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1344,24,1347,143"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1343.9847,24.09943h673.56214v0h673.56214v71.26769v71.26769h-673.56214h-673.56214v-71.26769z\"  id=\"rectangle_17f2b1d1-1b33-4d52-9e7e-b006be3c3cce\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-22T00:33:34.966Z",
+    "@id": "2f902bec-9135-481c-936f-bebf91b30a8f.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
