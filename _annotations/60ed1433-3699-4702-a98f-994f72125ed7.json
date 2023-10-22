@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN02.json"
+order: 8
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II.L7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Carry on Tom</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This directive to &ldquo;carry on&rdquo; a particular plot thread is one that appears throughout the Working Notes (sometimes as &ldquo;carry through&rdquo;). On the Note for<em> David Copperfield</em> No. XIII, for instance, Dickens writes: &ldquo;Carry on the thread of Uriah [Heep], carefully, and not obtrusively&rdquo; (see <em>DC.XIII.L2</em>), and it appears throughout the Working Notes for <em>Bleak House</em>: &ldquo;Rosa &amp; Watt? Yes. Slightly. Carry on&rdquo; (BH_WN_04); &ldquo;Mr. Tulkinghorn? Carry on.&rdquo; (BH_WN_07); &ldquo;Esther and Allan? Yes. Carry on gently.&rdquo; (BH_WN_16). Dickens begins to use this phrase and similar language in subsequent novels (see, for example, <em>LD.V.L2</em>, <em>LD.VII.R10</em>, and <em>LD.XIII.L9 </em>for examples in <em>Little Dorrit</em>). Although this sequence is the only time this kind of language appears in the Working Notes for <em>Hard Times</em>, it highlights the importance of Dickens&rsquo;s decision to plan and write the novel in the monthly number format: with these three directives, Dickens identifies three interlinked threads to develop over the space of four weekly installments that are here conceived (and partially planned) as one &lsquo;number.&rsquo;</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=72,1374,315,70"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M71.79345,1374.11636h157.46255v0h157.46255v34.93164v34.93164h-157.46255h-157.46255v-34.93164z\"  id=\"rectangle_3d899dfd-34d8-4718-96d1-e0c6bbd3f441\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-22T00:41:53.314Z",
+    "@id": "60ed1433-3699-4702-a98f-994f72125ed7.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
