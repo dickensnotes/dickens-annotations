@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN05.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p id=\"docs-internal-guid-843cb218-7fff-276a-00d3-70ce835f0700\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R15</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Weekly No. 21</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens&rsquo;s difficulties with space as the novel drew to a close resulted in the possibility of the novel extending beyond its planned twenty installments, as here on the Working Notes he places the novel&rsquo;s finale in an extra, twenty-first weekly installment. Writing to Elizabeth Gaskell on July 2nd to confirm plans for commencing the serial publication of <em>North and South</em> in <em>Household Words</em>, Dickens explained: &ldquo;Hard Times will be finished in Household Words, please God, either on Saturday the 12th of August, or on Sunday the 19th. I think its successor should begin no later than Saturday the 2nd of September&rdquo; (Letters 7.363). Despite this division on the Working Note, however, chapters 35-37 were published together as the final, twentieth weekly installment on the 12th of August, taking up 18 columns rather than the usual 10-12 (see <em>HT.V-VI</em>). The August 12th issue is the last of Volume IX of <em>Household Words</em>, so having the novel&rsquo;s final installment spill over into Volume X would have been slightly awkward.</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1383,1907,266,54"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1383.31974,1906.52985h132.98428v0h132.98428v27.02507v27.02507h-132.98428h-132.98428v-27.02507z\"  id=\"rectangle_daec325c-ea23-4167-8524-4a38a71fc384\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-23T21:34:14.775Z",
+    "@id": "983359f5-cb53-43b2-a317-48d64b40e416.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
