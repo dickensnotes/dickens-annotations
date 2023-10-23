@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN05.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p id=\"docs-internal-guid-6760f9ac-7fff-52ae-c0fc-0845a5ec842f\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Unlike the rest of the Working Notes for Hard Times&ndash;where the appearance of the ink is relatively uniform, making it difficult to clearly identify different layers&ndash;on this final Note the writing on the left-hand side is distinctly lighter than that on the right-hand side (with the exception of the &ldquo;No&rdquo; in reply to the query about Stephen&rsquo;s wife). Dickens retreated to Boulogne around the 17th of June for the family&rsquo;s &ldquo;customary summer and early autumn retreat from London&rdquo; (Slater 376) and to focus on completion of the novel; it is possible that initial planning for this final &ldquo;double&rdquo; number began prior to, or in the process of this temporary relocation.&nbsp;</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Regardless, Dickens seemed to have found composition of this final &lsquo;number&rsquo; challenging. On the 22nd of June, he wrote a long letter to Burdett Coutts, largely describing his travel to and lodgings at Boulogne, but ending with this short comment: &ldquo;This is my first effort (No, my second) in penmanship of any kind, since I have been here. I suppose I shall get to work tomorrow, but at present I seem never to have done anything in the way of Authorship&rdquo; (Letters 7. 361). In a similar letter to W.H. Wills on the same day, Dickens humorously quipped: &ldquo;Of the wonderful inventions and contrivances with which a certain Inimitable Creature has made the most of it, I will say nothing until you have an opportunity of inspecting the same. At present I will only observe that I have written exactly 72 words of Hard Times since I have been here&rdquo; (Letters 7.361).</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On July 9th (a Sunday), Dickens wrote to Wills to return the proofs for the issue of Household Words that would appear on the 22nd and contained the first installment of this &lsquo;number&rsquo; (chapters 29 &amp; 30). He was clearly strained at this point, commenting that he was &ldquo;addled by Hard Times,&rdquo; but also looking forward to completing composition in the coming week or two: &ldquo;I hope to be done, about Wednesday or Thursday Week. Am very much in need of rest. Head very hot. Sometimes nervous&rdquo; (Letters 7.365-66). A few days later on the 12th, he echoed these sentiments in writing to Wilkie Collins; he opens the letter by saying he is &ldquo;Bobbing up, Corkwise, from a sea of Hard Times,&rdquo; but proceeds to make plans for delivering the final chapters by the 19th and then returning to France: &ldquo;The interval I propose to pass in a career of amiable dissipation and unbounded license in the metropolis&rdquo; (Letters 7.366).&nbsp;</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Space once again was an issue, and as the leading memorandum on the left-hand side indicates, Dickens had decided to give himself license by expanding the weekly installments for this final &lsquo;number&rsquo; &ldquo;to 10 of my sides each&ndash;about.&rdquo; Even this, though, proved a challenge, and he conceded to Wills as he worked on the final installment: &ldquo;I doubt if there will not be too much of Hard Times, to admit of the conclusion all going in together. There will probably be either 14 or 15 sides of my writing&rdquo; (Letters 7.368). The final installment, published in Household Words on the 12th of August, ran to 18 printed columns, rather than the 10-12 for most of the rest of the novel (as editors of Dickens&rsquo;s letters note, weekly installments 18 &amp; 19 both ran to 14 columns, Letters 7.368fn3) (see HT.V-VI.R15 below). Dickens wrote to Wills on the 17th &ldquo;happy to say that I have finished Hard Times this morning&rdquo; (Letters 7.371) and returned to London the following day, only to find it &ldquo;intensely disagreeable&rdquo;&ndash;&ldquo;Very hot, close, suffocating, and oppressive&rdquo; (Letters 7.372).</span></p>\n<p><br /><br /></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1388,8,1305,127"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1388.15296,8.48438h652.3703v0h652.3703v63.46017v63.46017h-652.3703h-652.3703v-63.46017z\"  id=\"rectangle_95f3135e-95b3-4a74-9112-fc8e8649e4a9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-23T19:58:34.755Z",
+    "@id": "7e65becf-b2e6-44e0-80bc-b1f1a8e5094a.json",
+    "oa:annotatedBy": [
+        "Adam Grener"
+    ]
+}
