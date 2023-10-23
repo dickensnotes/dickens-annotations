@@ -4,16 +4,14 @@ order: 6
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "cc6c61db-8887-40e0-8b82-5eed71c5ce00.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-12bbd58b-7fff-c389-241d-47932e62b9c2\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Head and heart [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The chapter closes with Louisa laying her head upon Sissy&rsquo;s heart, but this imagery is established earlier in the chapter through Gradgrind&rsquo;s self-examination: &ldquo;&lsquo;Some persons hold [...] that there is a wisdom of the Head, and that there is a wisdom of the Heart. I have not supposed so; but, as I have said, I mistrust myself now. I have supposed the Head to be all-sufficient. It may not be all-sufficient&rdquo; (HT 245-46). Sissy&rsquo;s speech appears slightly different in the manuscript and published text: Louisa asks, &ldquo;&lsquo;Let me lay this head of mine upon a loving heart!&rsquo;&rdquo; and Sissy replies, &ldquo;&lsquo;O lay it here! [...] Lay it here, my dear&rsquo;&rdquo; (HT 248).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-23T21:23:58.278Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -23,11 +21,11 @@ order: 6
                 "@type": "oa:Choice",
                 "default": {
                     "@type": "oa:FragmentSelector",
-                    "value": "xywh=1710,266,861,54"
+                    "value": "xywh=1705,262,861,54"
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1710.49203,265.68642h430.41364v0h430.41364v27.02507v27.02507h-430.41364h-430.41364v-27.02507z\"  id=\"rectangle_c9838b31-7104-42e1-861d-e87562877017\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1704.91523,261.96855h430.41364v0h430.41364v27.02507v27.02507h-430.41364h-430.41364v-27.02507z\"  id=\"rectangle_c9838b31-7104-42e1-861d-e87562877017\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"11.1536\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 6
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-23T21:23:58.278Z",
-    "@id": "cc6c61db-8887-40e0-8b82-5eed71c5ce00.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-12bbd58b-7fff-c389-241d-47932e62b9c2\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Head and heart [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The chapter closes with Louisa laying her head upon Sissy&rsquo;s heart, but this imagery is established earlier in the chapter through Gradgrind&rsquo;s self-examination: &ldquo;&lsquo;Some persons hold [...] that there is a wisdom of the Head, and that there is a wisdom of the Heart. I have not supposed so; but, as I have said, I mistrust myself now. I have supposed the Head to be all-sufficient. It may not be all-sufficient&rdquo; (HT 245-46). Sissy&rsquo;s speech appears slightly different in the manuscript and published text: Louisa asks, &ldquo;&lsquo;Let me lay this head of mine upon a loving heart!&rsquo;&rdquo; and Sissy replies, &ldquo;&lsquo;O lay it here! [...] Lay it here, my dear&rsquo;&rdquo; (HT 248).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-23T21:24:11.766Z"
 }
