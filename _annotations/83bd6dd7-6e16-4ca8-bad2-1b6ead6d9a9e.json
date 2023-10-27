@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">LD.I.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Prison? Yes<br /></span></strong><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Quarantine? Yes</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Marseilles quarantine in which we find the Meagles and Arthur Clennam is paired with the prison in chapter 1, establishing the theme of imprisonment from the novel&rsquo;s opening. The prison has its &ldquo;taint on everything&rdquo;: &ldquo;The imprisoned air, the imprisoned light, the imprisoned damps, the imprisoned men, were all deteriorated by confinement&rdquo; (LD 2). Chapter 2 will suggest that the tainting air of imprisonment continues. Mr. Meagles bemoans the imprisonment of quarantine: &ldquo;I am like a sane man shut up in a madhouse; I can&rsquo;t stand the suspicion of the thing&rdquo; (15). Just as the prisoners are described as &ldquo;birds&rdquo; by the jailor (6), Mr. Meagles describes the English travelers in quarantine as &ldquo;jail-birds&rdquo; about to &ldquo;take wing for our different destinations&rdquo; (16). &ldquo;I dare say a prisoner begins to relent towards his prison, after he is let out,&rdquo; reflects Mr. Meagles as he leaves the quarantine (21).</span></p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=329,422,652,207"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M329.35198,422.12587h326.17483v0h326.17483v103.5641v103.5641h-326.17483h-326.17483v-103.5641z\"  id=\"rectangle_fac890fe-89b9-4c17-8367-444fa5af64ac\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-27T15:48:34.719Z",
+    "@id": "83bd6dd7-6e16-4ca8-bad2-1b6ead6d9a9e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
