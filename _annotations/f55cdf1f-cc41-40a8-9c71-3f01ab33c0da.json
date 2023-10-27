@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p><em>LD.I</em></p>\n<p><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens began writing <em>Little Dorrit</em> in early May 1855, and the first number would be published on December 1. As he began writing, he found himself in a state of frustration and restlessness (see Critical Introduction). His original title for the novel, <em>Nobody&rsquo;s Fault</em>, remained in place as he wrote the first three installments; he returned later to amend this title in the Working Notes and in the manuscript, presumably around the time he began working on Number IV and made the title change. &ldquo;Nobody&rsquo;s Fault&rdquo; was a title Dickens had tested out in his <em>Memoranda</em> book under a list of &ldquo;General Titles&rdquo; (6). The first page of the manuscript lacks a title, as do the surviving proofs for Numbers I-III. While he had evidently settled on &ldquo;Nobody&rsquo;s Fault&rdquo; early in the process, since he described it to Angela Burdett-Coutts in early May as a &ldquo;capital name,&rdquo; his indecision about this title is uncharacteristic (May 8, 7: 613). &ldquo;Nobody&rsquo;s Fault&rdquo; perhaps indicates Dickens&rsquo;s original intention for the novel, summarized in LD.II.L3, to focus on a &ldquo;man who comfortably charges everything on Providence.&rdquo; Butt and Tillotson suggest, though, that &ldquo;the title could hardly have persisted through the writing of so many chapters if it was to be fulfilled only by this vanished character&rdquo; (224). The original title also suggests Dickens&rsquo;s interest in using this novel as a critique of the political establishment, a theme that appears frequently in his letters from this period. The corrected proofs for Number I have the new title added in Dickens&rsquo;s hand: first, just &ldquo;Little Dorrit,&rdquo; which is crossed out and replaced in a darker ink with &ldquo;Little Dorrit In Two Books. Book The First - Poverty.&rdquo;</span></p>\n<p><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This first page of Working Notes shows evidence of being written in advance of and alongside the manuscript. See, for instance, evidence of his concurrent testing out of titles and character names in LD.I.R8, LD.I.R20, and LD.I.R21. Still unsure of his direction in this new novel, Dickens made heavy use of the Notes for the opening numbers.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Working Notes for Number I are not bound with the novel manuscript in the Victoria &amp; Albert Museum&rsquo;s National Art Library, but are instead bound with Forster 48.E.1 (page 149) along with several letters, prefaces, and playbills. This may be because this page of notes was removed for reproduction by Forster in his <em>Life of Charles Dickens.</em> </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1425,12,1128,149"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1424.92308,161.05361h563.93706v0h563.93706v-74.6993v-74.6993h-563.93706h-563.93706v74.6993z\"  id=\"rectangle_0382c7d5-ef1c-4e94-a678-73d92ccaf2b9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-27T15:31:08.987Z",
+    "@id": "f55cdf1f-cc41-40a8-9c71-3f01ab33c0da.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
