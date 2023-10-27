@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R3</em></p>\n<p dir=\"ltr\"><strong>Cold, shaded prison &ndash; Two men</strong>&nbsp;</p>\n<p dir=\"ltr\">Dickens sets up an opposition in these notes between the two spaces that open this chapter, one hot and dusty (Marseilles) and one cold and shaded (the prison). The lack of light characterizes Dickens&rsquo;s introduction of the prison, which has &ldquo;no knowledge of the brightness outside&rdquo; (LD 5). This shaded quality is replicated in Browne&rsquo;s illustration (&ldquo;The Birds in the Cage&rdquo;), with its cavernous darkness.&nbsp;<span id=\"docs-internal-guid-96541e95-7fff-ddd4-740c-1c335284eb5c\"></span></p>\n<p dir=\"ltr\">The text of the novel follows this note&rsquo;s placement of the men as features within the shaded prison: &ldquo;In Marseilles that day there was a villainous prison. In one of its chambers, so repulsive a place that even the obtrusive stare blinked at it, and left it to such refuse of reflected light as it could find for itself, were two men&rdquo; (2). These chapter notes refer to the prison and the &ldquo;Picture&rdquo; of the two men, as well as a brief mention of the jailer&rsquo;s child and her song, but there is no indication in the Notes of the conversation between the prisoners, Rigaud&rsquo;s revelations about his history, or Rigaud&rsquo;s departure from the jail. The Notes are focused on character and description, here, rather than event.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1366,429,539,70"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1367.63224,429.00379l268.97105,7.11988v0l268.97105,7.11988l-0.73586,27.79883l-0.73586,27.79883l-268.97105,-7.11988l-268.97105,-7.11988l0.73586,-27.79883z\"  id=\"rectangle_a6eda674-1339-46a8-abba-74a20a9435cb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-27T15:55:06.620Z",
+    "@id": "99ccf460-8b7b-4e9e-8df2-5405c2fbdf18.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
