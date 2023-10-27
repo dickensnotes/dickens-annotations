@@ -1,12 +1,9 @@
 ---
-added: 2023-10-24 12&#58;30&#58;12.721531
-thumbnail: https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN01/full/169,/0/default.jpg
-title: Little Dorrit Transcription
-user: dnoneill
+layout: none
 ---
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/manifest.json",
   "@type": "sc:Manifest",
   "label": "Little Dorrit Transcription",
   "metadata": [
@@ -21,590 +18,737 @@ user: dnoneill
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_01",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN01/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN01/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN01/annotation/1.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN01/annotation/1.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN01/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN01/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN01",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN01",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn01-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_02",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN02/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN02/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN02/annotation/2.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN02/annotation/2.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN02/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN02/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN02",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN02",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn02-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_03",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN03/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN03/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN03/annotation/3.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN03/annotation/3.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN03/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN03/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN03",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN03",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn03-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_04",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN04/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN04/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN04/annotation/4.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN04/annotation/4.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN04/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN04/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN04",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN04",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn04-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_05",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN05/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN05/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN05/annotation/5.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN05/annotation/5.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN05/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN05/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN05",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN05",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn05-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_06",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN06/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN06/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN06/annotation/6.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN06/annotation/6.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN06/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN06/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN06",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN06",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn06-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_07",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN07/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN07/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN07/annotation/7.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN07/annotation/7.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN07/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN07/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN07",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN07",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn07-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_08",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN08/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN08/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN08/annotation/8.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN08/annotation/8.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN08/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN08/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN08",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN08",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn08-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_09",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN09/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN09/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN09/annotation/9.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN09/annotation/9.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN09/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN09/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN09",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN09",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn09-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_10",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN10/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN10/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN10/annotation/10.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN10/annotation/10.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN10/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN10/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN10",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN10",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn10-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_11",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN11/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN11/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN11/annotation/11.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN11/annotation/11.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN11/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN11/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN11",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN11",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn11-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_12",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN12/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN12/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN12/annotation/12.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN12/annotation/12.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN12/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN12/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN12",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN12",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn12-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_13",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN13/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN13/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN13/annotation/13.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN13/annotation/13.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN13/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN13/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN13",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN13",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn13-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_14",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN14/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN14/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN14/annotation/14.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN14/annotation/14.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN14/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN14/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN14",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN14",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn14-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_15",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN15/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN15/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN15/annotation/15.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN15/annotation/15.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN15/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN15/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN15",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN15",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn15-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_16",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN16/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN16/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN16/annotation/16.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN16/annotation/16.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN16/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN16/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN16",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN16",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn16-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_17",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN17/full/168,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN17/full/168,/0/default.jpg",
           "height": 2100,
           "width": 2690,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN17/annotation/17.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN17/annotation/17.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN17/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN17/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2690,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN17",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN17",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn17-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_18",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN18/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN18/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN18/annotation/18.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN18/annotation/18.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN18/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN18/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN18",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN18",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn18-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_Mems_1",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWNMems1/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWNMems1/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWNMems1/annotation/19.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWNMems1/annotation/19.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWNMems1/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWNMems1/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWNMems1",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWNMems1",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwnmems1-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_Mems2",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWNMems2/full/170,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWNMems2/full/170,/0/default.jpg",
           "height": 2100,
           "width": 2720,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWNMems2/annotation/20.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWNMems2/annotation/20.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWNMems2/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWNMems2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2720,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWNMems2",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWNMems2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems2.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems2.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwnmems-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
           "@type": "sc:Canvas",
           "label": "LD_WN_19",
-          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN19/full/169,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN19/full/169,/0/default.jpg",
           "height": 2100,
           "width": 2700,
           "images": [
             {
-              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN19/annotation/21.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN19/annotation/21.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN19/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN19/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2100,
                 "width": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/LDWN19",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/LDWN19",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/ldwn19-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         }
