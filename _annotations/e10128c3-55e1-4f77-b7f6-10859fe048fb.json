@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 31
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R23</em></p>\n<p dir=\"ltr\"><strong>Dreary days of childhood</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This chapter is filled with Arthur&rsquo;s memories of the past, &ldquo;the dreary Sunday of his childhood&rdquo; (LD 30), in which &ldquo;[t]he old influence of [his mother&rsquo;s] presence and her stern strong voice, so gathered about her son, that he felt conscious of a renewal of the timid chill and reserve of his childhood&rdquo; (34). Revisiting his childhood home, &ldquo;years seemed to fall away from [Arthur] like the imaginings of a dream, and all the old dark horrors of his usual preparation for the sleep of an innocent child to overshadow him&rdquo; (36). See Critical Introduction for more on how Dickens recalled his own childhood as he worked on this novel.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1948,2047,502,42"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1948.06373,2047.36265h250.84066v0h250.84066v21.07648v21.07648h-250.84066h-250.84066v-21.07648z\"  id=\"rectangle_c7a3c18b-04d3-43f8-a4c5-1a8983edd48a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-27T16:10:53.606Z",
+    "@id": "e10128c3-55e1-4f77-b7f6-10859fe048fb.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
