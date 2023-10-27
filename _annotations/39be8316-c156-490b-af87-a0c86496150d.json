@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 25
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R17</em></p>\n<p dir=\"ltr\"><strong>Arthur Clennam&rsquo;s home.&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-4f6ebc32-7fff-8018-a00c-40dcab58dbe1\">The &ldquo;home&rdquo; here is not just the building, but the sense of return Arthur experiences. &ldquo;Will you tell her that I have come home?&rdquo; asks Arthur to Flintwinch (LD 33). But there is little that appears hospitable and welcoming about this return. The house itself is described as precarious at this early stage, an indication that Dickens already imagined the possibility of its collapse later in the novel: &ldquo;It was a double house, with long, narrow, heavily-framed windows. Many years ago, it had had it in its mind to slide down sideways; it had been propped up, however, and was leaning on some half-dozen gigantic crutches&rdquo; (32). Indeed he would later insist in a defense of his novel&rsquo;s design that &ldquo;the catastrophe [of the house&rsquo;s collapse] is carefully prepared for from the very first presentation of the old house in the story&rdquo; (see LD.V.R3 and LD.XIX-XX.R10 for more). The Notes refer explicitly to the house&rsquo;s later collapse as early as No. 5.</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1388,1779,487,56"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1387.62704,1778.76923h243.42424v0h243.42424v27.80653v27.80653h-243.42424h-243.42424v-27.80653z\"  id=\"rectangle_ca155a54-d118-46ef-9172-2eacf104360a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-27T16:05:19.605Z",
+    "@id": "39be8316-c156-490b-af87-a0c86496150d.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
