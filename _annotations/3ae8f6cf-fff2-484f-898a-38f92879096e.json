@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 26
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R18</em></p>\n<p dir=\"ltr\"><strong>His mother.</strong></p>\n<p><span id=\"docs-internal-guid-613cdeda-7fff-140a-0c60-c983a33894f6\">Dickens emphasizes this note with underlining and positions it right beside the previous note about his home, associating Mrs. Clennam with the house in her immovable attachment (she has not moved from the room for almost 12 years). Our first glimpse of Arthur&rsquo;s mother recapitulates this association: &ldquo;On a black bier-like sofa in this hollow, propped up behind with one great angular black bolster, like the block at a state execution in the good old times, sat his mother in a widow&rsquo;s dress&rdquo; (LD 33-34). In creating this character, Dickens drew on an early note he had made in his book of <em>Memoranda</em>: &ldquo;Bedridden (or room-ridden) twenty-five and twenty-years; any length of time. As to most things, kept at a standstill all the while. Thinking of altered streets as the old streets&ndash;changed things as the unchanged things&ndash;the youth or girl I quarreled with all those years ago, as the same youth or girl now. Brought out of doors by an unexpected exercise of my latent strength of character, and then how strange!&rdquo; (3). Dickens marks this entry &ldquo;(Done in Mrs Clennam).&rdquo;</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1954,1781,237,56"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1954.06061,1781.10023h118.71562v0h118.71562v27.80653v27.80653h-118.71562h-118.71562v-27.80653z\"  id=\"rectangle_679d1a22-e997-4dc7-8903-b8210ffc9f75\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-27T16:05:54.939Z",
+    "@id": "3ae8f6cf-fff2-484f-898a-38f92879096e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
