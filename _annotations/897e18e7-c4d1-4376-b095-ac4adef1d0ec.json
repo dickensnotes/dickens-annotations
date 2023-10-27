@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p><em>LD.I.R2</em></p>\n<p><strong>Marseilles &ndash; Hot dusty picture&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-09f57de4-7fff-3ffd-99b4-20dd4b555b60\">The novel begins with this hot dusty picture of &ldquo;Marseilles&hellip;burning in the sun, one day&rdquo; (LD 1), with the &ldquo;staring habit&rdquo; created by the incessant still heat. Dust appears three times in the opening scene: the &ldquo;staring roads&rdquo; are &ldquo;deep in dust&rdquo; (1); the vines on the cottages are &ldquo;dusty&rdquo;; and &ldquo;[t]he very dust was scorched brown&rdquo; (2). This chapter echoes and elaborates on Dickens&rsquo;s earlier depiction of Marseilles in <em>Pictures from Italy</em>, in which he had described the &ldquo;dreadful&rdquo; heat of Marseilles, the &ldquo;country-houses&hellip;always staring white,&rdquo; and the &ldquo;dust, dust, dust, everywhere&rdquo; (<em>Pictures</em> 27). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1905,333,555,126"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1904.77855,407.80886l545.45455,-74.59207l9.32401,46.62005l-533.79953,79.25408z\"  id=\"rough_path_a83119b8-2e7f-49d5-9058-a48a232afcd8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-27T15:54:04.050Z",
+    "@id": "897e18e7-c4d1-4376-b095-ac4adef1d0ec.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
