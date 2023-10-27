@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R4</em></p>\n<p dir=\"ltr\"><strong>Little Genoese [...]</strong></p>\n<p dir=\"ltr\">The novel describes Cavalletto as &ldquo;[a] sunburnt, quick, lithe, little man, though rather thickset. Ear-rings in his brown ears, white teeth lighting up his grotesque brown face, intensely black hair clustering about his brown throat, a ragged red shirt open at his brown breast&rdquo; (LD 6). Dickens evidently decided to make Cavalletto a Neopolitan: He mentions Naples twice in his introduction (&ldquo;Judge if I come back from Naples as I went!&rdquo;), though he does mention Genoa in his list of places through which he has traveled up the Italian coast before imprisonment (&ldquo;Civita Vecchnia, Leghorn, Porto Fino, Genoa, Cornice, Off Nice (which is in there), Marseilles, you and me&rdquo; [6]), and the &ldquo;little man&rdquo; (11) uses a &ldquo;Genoese emphasis&rdquo; on the word &ldquo;Altro&rdquo; (9). Dickens added &ldquo;Genoese&rdquo; in that instance in a later proof, since it does not appear in the manuscript or in the extant early proofs.&nbsp;<span id=\"docs-internal-guid-ac28fac2-7fff-c374-8c8a-8d059732564e\"></span></p>\n<p dir=\"ltr\">Alistair Duckworth stresses the &ldquo;frankness of the mediation&rdquo; between notes such as this one and their manifestation in the novel: &ldquo;&lsquo;Picture of an Italian&rsquo; summons up a cultural code, a stereotype, which the text will proceed to operate&rdquo; (123), he writes. &ldquo;It is not a question of these characterizations being laid bare in the number plans and then concealed or sophisticated in the text; the text, too, frankly confesses the stereotype&rdquo; (124).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1387,485,1226,96"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1928.08858,489.39394l685.31469,-4.662l-2.331,53.61305l-925.40793,9.32401l-27.97203,32.63403l-270.39627,-2.331l2.331,-46.62005h529.13753l6.99301,-39.62704v0z\"  id=\"rough_path_0bd2eee8-3ee1-473a-b60a-aad4e9865d35\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-27T15:57:00.521Z",
+    "@id": "371cb174-ff46-4267-b300-359d2867394d.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
