@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">LD.I.L6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">People to meet and part as travellers do [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note, which is in a lighter color than the question-and-answer notes above, was written separately from those above. The language of change, newness, and intention may lead us to connect this note with the change of direction Dickens contemplated </span><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">after </span><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">he wrote the first number and began the second. In a letter to Forster on August 19 he indicates that he is &ldquo;in the second number&rdquo; but is contemplating a new beginning: &ldquo;last night and this morning [I] had half a mind to begin again, and work in what I have done, afterwards&rdquo; (Forster 2.182). If Dickens wrote this note at the same time that he wrote to Forster (August 19, by Forster&rsquo;s dating), it would have been retrospectively added to the Notes </span><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">after </span></em><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">the composition of Number I (chapters 1-3, since chapter 4 was added later). Indeed, the mention of a &ldquo;new means of interest&rdquo; does suggest that this note pertains to Dickens&rsquo;s intention to rework the first number entirely. He went so far as to begin a re-write; on the verso of the first page of chapter 4 in the novel&rsquo;s manuscript we find a deleted heading for &ldquo;Chapter I: Mist.&rdquo; However, given the position of this note before the mems below, which, with their question about Miss Wade&rsquo;s name, suggest proactive planning, it seems unlikely that this note was added retroactively. Indeed, as Sucksmith points out in the introduction to the Clarendon edition of the novel, Dickens was already &ldquo;toying with the idea of fellow travelers, ignorant of one another, much earlier than he reported it to Forster&rdquo; (xix), since the manuscript and the Working Notes already include many references to this thematic thread. </span>See the Critical Introduction for more on Dickens&rsquo;s interest in travelers meeting and reacting, as well as for more about Dickens&rsquo;s uncertainty in these early numbers. See LD.XI.R6 <span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">for Dickens&rsquo;s later return to this theme of travelers meeting and the &ldquo;uncertainty&rdquo; of such meetings.</span><span id=\"docs-internal-guid-550a7817-7fff-7d5d-24cd-b6ec4a39ed03\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">There is a black/brown vertical smudge through this part of the manuscript, possibly as a result of this page of the Working Notes being reproduced for Forster&rsquo;s biography.&nbsp;</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=40,1040,1270,475"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M40.30769,1039.84149h635.03263v0h635.03263v237.59674v237.59674h-635.03263h-635.03263v-237.59674z\"  id=\"rectangle_2906fdfe-d798-4f4e-925c-fc0338d54fe7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-27T15:50:30.118Z",
+    "@id": "fd35aea1-eb4e-4e7a-8f9e-08764024d7c3.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
