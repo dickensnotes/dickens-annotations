@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.R7</em></p>\n<p dir=\"ltr\"><strong>My Little Mother</strong></p>\n<p><span id=\"docs-internal-guid-70d55e54-7fff-04fb-43b9-fdf7ec128605\">&nbsp;</span></p>\n<p dir=\"ltr\">This phrase first appears in Maggy&rsquo;s word&rsquo;s (LD 95). The chapter closes with &ldquo;the little mother attended by her big child&rdquo; returning to the Marshalsea.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1432,741,370,77"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1431.91608,741.47319h185.14918v0h185.14918v38.29604v38.29604h-185.14918h-185.14918v-38.29604z\"  id=\"rectangle_b144c6b6-02af-4b76-8713-dcb5e4a64d2d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:19:34.560Z",
+    "@id": "edd36e6e-fa9b-4127-a916-8559b5612f02.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
