@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R13</em></p>\n<p dir=\"ltr\"><strong>The child of the Marshalsea.&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><br />Unlike the title to the previous chapter, which appears to have been added to the manuscript after the chapter&rsquo;s opening (see LD.II.R6), this chapter title appears in line with the chapter text. Dickens evidently decided on the parallelism of these chapter titles before beginning to write this one, suggesting that he named the first chapter before writing the second.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1699,1314,635,75"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1699.85193,1313.83906l316.78795,6.31168v0l316.78795,6.31168l-0.62356,31.29682l-0.62356,31.29682l-316.78795,-6.31168l-316.78795,-6.31168l0.62356,-31.29682z\"  id=\"rectangle_e9abea27-5c50-4b5b-a957-b0f826812212\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:00:38.948Z",
+    "@id": "348447ec-06e8-4f8f-9d1c-3df5edc612c9.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
