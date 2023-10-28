@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.R14</em></p>\n<p dir=\"ltr\"><strong>Rigaud out</strong></p>\n<p><span id=\"docs-internal-guid-660b29ef-7fff-9fe3-b9a8-52d4cd2c90b4\">&nbsp;</span></p>\n<p dir=\"ltr\">Herring points out the irony of Rigaud&rsquo;s freedom appearing at this stage, &ldquo;coming as it does after the presentation of a series of prisons.&rdquo; He claims that this &ldquo;clarifies one of Dickens&rsquo;s central issues: the real villains are at large while the innocent suffer&rdquo; (29). Although the note begins with Rigaud&rsquo;s name, the chapter will identify him only after establishing his identity via his tell-tale tick: &ldquo;the nose coming down and the moustache going up&rdquo; (LD 122).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1402,1672,265,79"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1401.61305,1671.54312h132.70163v0h132.70163v39.46154v39.46154h-132.70163h-132.70163v-39.46154z\"  id=\"rectangle_db891be3-41dc-47c5-8865-f5069b8950a4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:23:32.785Z",
+    "@id": "fcab7abb-3a83-42ae-8d32-ef2fead1f0e1.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
