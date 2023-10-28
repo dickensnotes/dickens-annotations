@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.L5</em></p>\n<p dir=\"ltr\"><strong>Mrs Clennam, Mrs Flintwinch, Jeremiah? Yes</strong></p>\n<p><span id=\"docs-internal-guid-93cac3e8-7fff-e314-72bb-12edbc395ff3\">&nbsp;</span></p>\n<p dir=\"ltr\">In proof, Dickens changes &ldquo;Mrs&rdquo; to &ldquo;Mistress&rdquo; before Affery on multiple occasions, perhaps underscoring the extent to which her identity is determined by her role as Jeremiah&rsquo;s wife.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=64,877,1043,124"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M64.08392,877.02098h521.27972v0h521.27972v61.83916v61.83916h-521.27972h-521.27972v-61.83916z\"  id=\"rectangle_8e08b291-4c15-4b7b-b8d8-1b40f1780544\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T23:59:07.741Z",
+    "@id": "154c1fac-b26f-41fb-8e9c-e0e6bf50e93b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
