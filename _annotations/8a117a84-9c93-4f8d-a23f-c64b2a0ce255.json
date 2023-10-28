@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.L3</em></p>\n<p dir=\"ltr\"><strong>The Meagleses? No</strong></p>\n<p><span id=\"docs-internal-guid-580011e8-7fff-d4de-6f3c-1cfc5818f573\">&nbsp;</span></p>\n<p dir=\"ltr\">Mr. Meagles is present at the very beginning of the number as he walks with Clennam and Doyce towards Bleeding Heart Yard, but he is quickly dismissed from the number: &ldquo;Parting from his companions, after arranging another meeting with Mr. Meagles, Clennam went alone into the entry [of Plornish&rsquo;s house]&rdquo; (LD 130).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=73,310,589,119"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M72.94172,310.23776h294.70629v0h294.70629v59.27506v59.27506h-294.70629h-294.70629v-59.27506z\"  id=\"rectangle_a7dbcfe3-5545-4fe2-849e-14ebce620e19\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:29:10.375Z",
+    "@id": "8a117a84-9c93-4f8d-a23f-c64b2a0ce255.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
