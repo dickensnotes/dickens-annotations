@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "ba49e058-3b14-4d9a-8b60-af5839a4f380.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.II.L4</em></p>\n<p dir=\"ltr\"><strong>Dorrit? Yes</strong></p>\n<p dir=\"ltr\">&nbsp;</p>\n<p dir=\"ltr\"><br />This is the first time Dickens mentions [Little] Dorrit in the Working Notes. Although she is featured briefly in No. I, it is only in passing in chapter 3 as a character present in the room with Mrs. Clennam whom Arthur notices and about whom he questions Affery. She makes no appearance on the Note for No. I (except perhaps obliquely in the mention of &ldquo;Family and two daughters?&rdquo;). Dickens first tested out Little Dorrit&rsquo;s name in his <em>Memoranda</em> book, which he began in January 1855. On the third page, he includes a list of potential names, including &ldquo;Dorret-Dorrit&rdquo; (after which he has a check mark added later to indicate that he had made use of the name). Throughout this number, the manuscript calls her &ldquo;Dorrit&rdquo;; it wasn&rsquo;t until No. III during the composition of chapter 9 that Dickens would begin to write her name in the manuscript with &ldquo;Little.&rdquo; In the proofs, Dickens adds &ldquo;Little&rdquo; in the margins to Dorrit multiple times, though he missed a few.</p>"
-        }
+    "oa:annotatedAt": "2023-10-28T18:49:16.992Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M105.57576,328.88578h225.94172v0h225.94172v37.13054v37.13054h-225.94172h-225.94172v-37.13054z\"  id=\"rectangle_a3ddf628-4c25-4c5c-aced-400ab6c2cb31\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M105.57576,328.88578h225.94172v0h225.94172v37.13054v37.13054h-225.94172h-225.94172v-37.13054z\"  id=\"rectangle_a3ddf628-4c25-4c5c-aced-400ab6c2cb31\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.98601\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-28T18:49:16.992Z",
-    "@id": "ba49e058-3b14-4d9a-8b60-af5839a4f380.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.II.L4</em></p>\n<p dir=\"ltr\"><strong>Dorrit? Yes</strong></p>\n<p dir=\"ltr\"><br />This is the first time Dickens mentions [Little] Dorrit in the Working Notes. Although she is featured briefly in No. I, it is only in passing in chapter 3 as a character present in the room with Mrs. Clennam whom Arthur notices and about whom he questions Affery. She makes no appearance on the Note for No. I (except perhaps obliquely in the mention of &ldquo;Family and two daughters?&rdquo;). Dickens first tested out Little Dorrit&rsquo;s name in his <em>Memoranda</em> book, which he began in January 1855. On the third page, he includes a list of potential names, including &ldquo;Dorret-Dorrit&rdquo; (after which he has a check mark added later to indicate that he had made use of the name). Throughout this number, the manuscript calls her &ldquo;Dorrit&rdquo;; it wasn&rsquo;t until No. III during the composition of chapter 9 that Dickens would begin to write her name in the manuscript with &ldquo;Little.&rdquo; In the proofs, Dickens adds &ldquo;Little&rdquo; in the margins to Dorrit multiple times, though he missed a few.</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-28T18:51:08.416Z"
 }
