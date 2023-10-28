@@ -4,16 +4,14 @@ order: 18
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "c5324ea0-95db-4ac1-8f98-a73950857415.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.II.R10</em></p>\n<p dir=\"ltr\"><strong>20 years [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><br />Dickens uses free indirect discourse to encapsulate this note in the novel: &ldquo;Yes, he was the Father of the place. So the world was kind enough to call him; and so he was, if more than twenty years of residence gave him a claim to the title. It looked small at first, but there was very good company there&ndash;among a mixture&ndash;necessarily a mixture&ndash;and very good air&rdquo; (LD 65).</p>"
-        }
+    "oa:annotatedAt": "2023-10-28T18:59:06.730Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 18
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1344.52214,1073.89277l857.80886,39.62704l-1.1655,39.62704l-864.80186,-26.80653l5.82751,-50.11655v0z\"  id=\"rough_path_590860a7-ed2d-4795-94b7-91ae5b201423\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1344.52214,1073.89277l857.80886,39.62704l-1.1655,39.62704l-864.80186,-26.80653l5.82751,-50.11655v0z\"  id=\"rough_path_590860a7-ed2d-4795-94b7-91ae5b201423\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 18
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-28T18:59:06.730Z",
-    "@id": "c5324ea0-95db-4ac1-8f98-a73950857415.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R10</em></p>\n<p dir=\"ltr\"><strong>20 years [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens uses free indirect discourse to encapsulate this note in the novel: &ldquo;Yes, he was the Father of the place. So the world was kind enough to call him; and so he was, if more than twenty years of residence gave him a claim to the title. It looked small at first, but there was very good company there&ndash;among a mixture&ndash;necessarily a mixture&ndash;and very good air&rdquo; (LD 65).</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-28T19:05:14.425Z"
 }
