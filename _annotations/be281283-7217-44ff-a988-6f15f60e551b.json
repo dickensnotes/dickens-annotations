@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R7</em></p>\n<p dir=\"ltr\"><strong>Dorrit&rsquo;s father</strong></p>\n<p dir=\"ltr\"><br />In his decision to set the novel in the Marshalsea with an imprisoned debtor father, Dickens was drawing on his own experiences. His father John Dickens was imprisoned in the Marshalsea Debtors&rsquo; Prison in February of 1824 for three months. Like Mr. Dorrit, John Dickens was joined in the prison by his wife and younger children. Twelve-year-old Charles boarded with family friend Elizabeth Roylance during this period, but he visited his family in the Marshalsea on Sundays with his sister Fanny, who was at the Music Academy (see Slater 21-22 and Dickens&rsquo;s own autobiographical fragment about this period, included in Forster&rsquo;s biography, 1.20-33). For more on Dickens&rsquo;s incorporation of biographical and contemporary issues, see Critical Introduction.&nbsp;</p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1365,822,289,74"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1368.53858,821.91231l142.95694,8.18636v0l142.95694,8.18636l-1.65635,28.92464l-1.65635,28.92464l-142.95694,-8.18636l-142.95694,-8.18636l1.65635,-28.92464z\"  id=\"rectangle_9750bc54-77b6-4f58-b8d0-90943fa7c1d9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T18:56:55.502Z",
+    "@id": "be281283-7217-44ff-a988-6f15f60e551b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
