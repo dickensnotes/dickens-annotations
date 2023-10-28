@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R8</em></p>\n<p dir=\"ltr\"><strong>Mr F&rsquo;s Aunt</strong></p>\n<p><span id=\"docs-internal-guid-09e03663-7fff-fa3a-f769-cfd8eef41766\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens may have been drawing on a note from his Book of Memoranda in creating Mr. F&rsquo;s Aunt, even though the item is not checked off as was his usual practice: &ldquo;The bequeathed maid-servant, or friend. Left as a legacy. And a devil of a legacy too&rdquo; (12). In the proofs, Dickens uses corrections to specify that the &ldquo;A&rdquo; in aunt should be capitalized.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1733,961,312,76"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1735.01639,961.49937l155.153,3.64476v0l155.153,3.64476l-0.81125,34.53401l-0.81125,34.53401l-155.153,-3.64476l-155.153,-3.64476l0.81125,-34.53401z\"  id=\"rectangle_8c3b916a-98da-4f2a-940e-53adac96140b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T22:31:53.012Z",
+    "@id": "ed97b065-ad71-4155-a061-9e68689d1f36.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
