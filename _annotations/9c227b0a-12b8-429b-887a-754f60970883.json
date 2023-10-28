@@ -4,16 +4,14 @@ order: 22
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "9c227b0a-12b8-429b-887a-754f60970883.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.II.R14</em></p>\n<p dir=\"ltr\"><strong>Dorrit&rsquo;s Progress &ndash; Doll gets like the prison people</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><br />Early in this chapter, Little Dorrit is described &ldquo;dressing and undressing a doll&ndash;which soon came to be unlike dolls on the other side of the lock, and to bear a horrible family resemblance to Mrs. Bangham&rdquo; (LD 67). A distinction is made between the doll, who &ldquo;gets like the prison people,&rdquo; and Little Dorrit, whose care, industry, and modesty set her apart from the prison community.</p>"
-        }
+    "oa:annotatedAt": "2023-10-28T19:01:15.586Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 22
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1358.37856,1400.91895l461.81731,11.3071v0l461.81731,11.3071l-0.6524,26.64626l-0.6524,26.64626l-461.81731,-11.3071l-461.81731,-11.3071l0.6524,-26.64626z\"  id=\"rectangle_445df208-85b5-44ed-8202-f205e28c1656\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1358.37856,1400.91895l461.81731,11.3071v0l461.81731,11.3071l-0.6524,26.64626l-0.6524,26.64626l-461.81731,-11.3071l-461.81731,-11.3071l0.6524,-26.64626z\"  id=\"rectangle_445df208-85b5-44ed-8202-f205e28c1656\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 22
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-28T19:01:15.586Z",
-    "@id": "9c227b0a-12b8-429b-887a-754f60970883.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R14</em></p>\n<p dir=\"ltr\"><strong>Dorrit&rsquo;s Progress &ndash; Doll gets like the prison people</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Early in this chapter, Little Dorrit is described &ldquo;dressing and undressing a doll&ndash;which soon came to be unlike dolls on the other side of the lock, and to bear a horrible family resemblance to Mrs. Bangham&rdquo; (LD 67). A distinction is made between the doll, who &ldquo;gets like the prison people,&rdquo; and Little Dorrit, whose care, industry, and modesty set her apart from the prison community.</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-28T19:04:51.936Z"
 }
