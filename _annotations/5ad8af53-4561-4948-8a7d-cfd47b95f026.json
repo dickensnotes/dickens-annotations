@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.L1</em></p>\n<p dir=\"ltr\"><strong>Rigaud? No</strong></p>\n<p><span id=\"docs-internal-guid-56f4352c-7fff-c7ab-6804-b711f30365ec\">&nbsp;</span></p>\n<p dir=\"ltr\">Rigaud is dismissed from this number and is not mentioned by name in the text, but he appears by preparatory reference in Dickens&rsquo;s note to chapter 15 (LD.V.R3).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=49,71,411,90"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M460.58741,161.63636h-205.64336v0h-205.64336v-45.15385v-45.15385h205.64336h205.64336v45.15385z\"  id=\"rectangle_b13555ff-13e5-4057-9621-33283a3c6d14\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T23:57:01.443Z",
+    "@id": "5ad8af53-4561-4948-8a7d-cfd47b95f026.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
