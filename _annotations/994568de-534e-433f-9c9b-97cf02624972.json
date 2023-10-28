@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.L1</em></p>\n<p dir=\"ltr\"><strong>Arthur and Dorrit? Yes</strong></p>\n<p dir=\"ltr\"><span id=\"docs-internal-guid-7dd1f114-7fff-39ab-f6b0-e040f1aac19d\"><br />In chapter 9, Dickens will commit to the centrality of the connection between the two characters by describing &ldquo;that beginning of the destined interweaving of their stories&rdquo; (LD 95). Dickens continues to amend Dorrit to Little Dorrit in the proofs for this number, though he misses many that must have been corrected by the printer or at a later stage. It is in this number (in chapter 9) that Dickens first begins to write &ldquo;Little Dorrit&rdquo; in the manuscript (see LD.III.R2 and LD.III.R4 for more).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=64,99,615,74"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M64.08392,172.12587h307.29371v0h307.29371v-36.76224v-36.76224h-307.29371h-307.29371v36.76224z\"  id=\"rectangle_7829c058-9a06-46fe-92c1-b6756a926ae4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:12:18.443Z",
+    "@id": "994568de-534e-433f-9c9b-97cf02624972.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
