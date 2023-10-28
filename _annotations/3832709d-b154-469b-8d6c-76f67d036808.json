@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.L2</em></p>\n<p dir=\"ltr\"><strong>His old sweetheart? Not yet.</strong></p>\n<p dir=\"ltr\"><br />Dickens evidently decided that it was more important to establish Arthur&rsquo;s character and his encounter with Little Dorrit before incorporating Flora. Given his mention of the &ldquo;old sweetheart&rdquo; in the Notes for Numbers I and II, it is likely that Dickens was looking for a way to incorporate a fictionalized version of his recent encounter with Maria Beadnell (see LD.I.R22 and LD.IV.L5).&nbsp;</p>\n<p><span id=\"docs-internal-guid-36783106-7fff-cf04-8bfd-6daa36134b02\">&nbsp;</span></p>\n<p dir=\"ltr\">This note appears to be a different layer than the ones above and below. The ink is thinner, slightly darker, and similar in appearance to the notes below beginning &ldquo;Dorrit?&rdquo; Given these differences in ink, and the spacing between the notes, Dickens may have added this note after the one below, locating it where he does to associate it with Arthur. This positioning adds further evidence to the supposition that &ldquo;The man who comfortably charges everything on Providence&rdquo; was never intended to be Arthur Clennam.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=124,135,638,67"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M124.22378,135.41259h319.18182v0h319.18182v33.63403v33.63403h-319.18182h-319.18182v-33.63403z\"  id=\"rectangle_0bf5415f-2864-488c-9029-508bd98cf5ef\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T18:47:50.040Z",
+    "@id": "3832709d-b154-469b-8d6c-76f67d036808.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
