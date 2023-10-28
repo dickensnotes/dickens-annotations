@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The notes Dickens kept for Number V appear to be largely prospective, written before Dickens drafted the chapter; they contain a number of imperative verbs, and the longer notes do not always correspond directly to a phrase or idea as it is executed in the number, whereas retrospective notes were often more exact in their correspondence. In a letter to Forster on February 20, 1856, while he was working on the manuscript for this number, Dickens referred to his process of accepting and rejecting ideas as he does on the left side of the Note: &ldquo;As I accept and reject ideas for <em>Little Dorrit</em>.&rdquo; (Letters 8.33).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">While there are temporal layers in this Note, including the questions and answers on the left and the additions of names (e.g. &ldquo;Young John&rdquo; in LD.V.R20), for the most part there appears to be more consistency of pen nib and ink on this page than there is in the Note for No. IV. The pen nib used for this Note is also significantly finer than that used for the previous Note. Given the layout of the chapters on the right, as well as the absence on the left of memoranda pertaining to chapter 18, it is possible that Dickens decided to add the final chapter after he had started composing the installment (see LD.V.R18). It was while Dickens worked on this number that he began to think ahead to the next three installments, adding memoranda to the left side of the Notes for numbers VI through VIII (see LD.VIII.L1 and headnote annotations LD.VII and LD.VIII).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens wrote No. V while he was in France, beginning in January 1856. On January 10 he told Angela Burdett-Coutts that he was &ldquo;just sitting down to&rdquo; a number&rdquo; (Letters 8.15), and two days earlier he had told Mary Boyle that he was &ldquo;setting to work again, and my horrible restlessness immediately assails me. It belongs to such times&rdquo; (8.15). To Wilkie Collins on 19 January he complained that he had to sit for his portrait for four hours &ldquo;with No. 5 upon my soul&rdquo; (8.29), a complaint he reiterated to Forster (8.33). He planned to finish the number early in February and bring it with him to London (8.17, 8.28, and 8.31).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1430,15,1101,107"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1429.81818,14.78322h550.65035v0h550.65035v53.44755v53.44755h-550.65035h-550.65035v-53.44755z\"  id=\"rectangle_419ce232-34e5-41d1-8d3e-868609deaab6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T23:56:27.554Z",
+    "@id": "cf96cbda-b0f9-4ef6-993d-f6dd274b0ced.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
