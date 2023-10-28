@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R2</em></p>\n<p dir=\"ltr\"><strong>Family Affairs</strong></p>\n<p><span id=\"docs-internal-guid-7caced92-7fff-3a8c-3626-e2bf815ca401\"><br />In the manuscript Dickens writes &ldquo;Family Matters&rdquo; and then erases &ldquo;Matters&rdquo; in favor of &ldquo;Affairs,&rdquo; perhaps because of its suggestion of secret personal attachments. This discrepancy between the manuscript and Notes indicates that Dickens most likely returned to the Working Notes to add the title after writing at least part of the chapter. This is consistent with other evidence that Dickens was using these early Notes contemporaneously with the manuscript, sometimes proactively and sometimes retroactively (see, for instance, LD.I.R20 &amp; R21).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1721,317,356,74"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1720.96037,317.23077h178.15618v0h178.15618v37.13054v37.13054h-178.15618h-178.15618v-37.13054z\"  id=\"rectangle_9a40670d-3f3b-405f-a7dc-530a96c07651\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T18:53:42.311Z",
+    "@id": "92b02198-c062-4c55-a1be-6487b43fe0f4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
