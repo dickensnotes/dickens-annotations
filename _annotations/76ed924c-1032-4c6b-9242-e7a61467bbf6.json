@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV</em></p>\n<p dir=\"ltr\"><br />Dickens likely began writing No. IV in very late October/early November of 1855 during a stay in Paris, finishing at the very end of the year (see Letters 7.773). He had some frustrations working on the number, perhaps due to his travels, the pressures of the <em>Household Words</em> Christmas number, and his annoyance at having to sit for a portrait by Ary Scheffer (which he complains about in a letter to Forster in early December). He complained to Wills in late November that he was &ldquo;[n]ot working very well at Little Dorrit, since I went back to her from the Xmas No.&rdquo; (Letters 7.754), which is possibly a reference to his delay in finishing the number&rsquo;s final chapter (see LD.IV.R12). This Note contains a mixture of prospective and retrospective elements.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The ink colors here and in the manuscript give us a rare clear picture of the temporality of Dickens&rsquo;s composition as he began the number. The Working Note features two distinct ink colors: a light blue (for the number heading and chapter header for chapter 12 on the right and for the questions on the left) and black for the answers to questions on the left and the chapter notes on the right. Clearly, then, Dickens began the Note with blue ink and returned later, probably in more than one sitting given the prevalence of corrections, to answer his questions and add chapter notes in black. The manuscript opens in what appears to be the same blue ink used here, but half a page down we see him switch to black ink, addings some corrections to his already-composed blue half-page. The ink colors demonstrate the temporal layers of question-and-answer on the right hand side and suggest that Dickens likely composed the blue portions of this note as he was beginning to write chapter 12, before returning at a later stage to add the remaining portions of the Note (for more on this temporality, see LD.IV.R2).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">No. IV marks the point at which Dickens changed the name of the novel in his Notes and in the manuscript to <em>Little Dorrit</em>; he wrote to Lavinia Watson on November 10 that he had &ldquo;adopted [a title] which has a pleasanter sound in my ears, and which is equally applicable to the same story&rdquo; (Letters 7.740). However, this number was not without its uncertainties. He began chapter 12 twice; the first attempt appears on the verso of his second page of the manuscript (also in blue ink but crossed out in black).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In late October, Dickens was still undecided about whether this number would include the last short chapter in No. 1 (chapter IV). He wrote to Bradbury &amp; Evans on October 29, proposing the addition of blank pages for divisional titles for Book I. Poverty and Book II. Riches: &ldquo;I can get the space out of No. 1, by taking away the last short chapter, and putting it into No. IV, where it will come as well&rdquo; (Letters 7.729). Dickens changed his mind; the &ldquo;Book the First: Poverty&rdquo; title was instead added directly above the opening to chapter 1 (whereas Book the Second would have a full-page title in No. XI).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1362,0,1228,119"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1361.98601,0.21445h614.05361v0h614.05361v59.27506v59.27506h-614.05361h-614.05361v-59.27506z\"  id=\"rectangle_62c7b0b0-a37b-4433-87f3-ec4bdef2fa0e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:27:31.707Z",
+    "@id": "76ed924c-1032-4c6b-9242-e7a61467bbf6.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
