@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R1</em></p>\n<p dir=\"ltr\"><strong>Chapter XII</strong></p>\n<p><span id=\"docs-internal-guid-e709aee6-7fff-767c-c8ce-9383bf052f2b\">&nbsp;</span></p>\n<p dir=\"ltr\">Most of the questions on the left and this chapter heading and installment title appear in blue ink; the remainder of this Note is in black. In the manuscript, Dickens begins the chapter (the first two paragraphs) in what appears to be the same blue ink he uses for these elements of the Note. The erasures and amendments we see to these first two paragraphs in the manuscript give us some insight into Dickens&rsquo;s process, since they are written in black, indicating that, as he changed pens (and perhaps returned to the manuscript in a new sitting), he first went through what he had already written and made a few edits before continuing.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1695,145,417,77"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1695.31935,144.7366h208.45921v0h208.45921v38.29604v38.29604h-208.45921h-208.45921v-38.29604z\"  id=\"rectangle_47dd57d1-8fc4-4fa9-9364-3461f67870fe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:35:30.705Z",
+    "@id": "88246351-49bf-44fa-912b-e89f57187fe7.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
