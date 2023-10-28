@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R10</em></p>\n<p dir=\"ltr\"><strong>Lead up, through [...]</strong></p>\n<p><span id=\"docs-internal-guid-be75b525-7fff-b1a9-d104-10316de29b98\">&nbsp;</span></p>\n<p dir=\"ltr\">The end of chapter 13 explores Clennam&rsquo;s &ldquo;state of&hellip; mind&rdquo; as he &ldquo;turn[s] his gaze back upon the gloomy vista by which he had come to that stage in his existence&rdquo; (LD 157), culminating in the final words of the chapter (&rdquo;Little Dorrit&rdquo;) which, as in the Notes, are in quotation marks as an &ldquo;answer&rdquo; to the question, &ldquo;what have I found!&rdquo; (LD 158-159). This is not the last time he will conclude a chapter with this strategy of Arthur&rsquo;s mind, and the final words of a chapter, turning to Little Dorrit (see &ldquo;O my little Dorrit!&rdquo; LD.XVII.R21).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1402,1106,1194,147"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1406.64336,1105.59441l1189.51049,60.83916l-4.1958,58.74126l-673.42657,-35.66434l0,62.93706l-371.32867,-16.78322v-67.13287l-144.75524,-10.48951z\"  id=\"rough_path_fb5d23a9-30ab-4526-8b72-7039109a390d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T22:33:10.811Z",
+    "@id": "47e09fe7-d627-4e9b-aa3a-55bbafd5def6.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
