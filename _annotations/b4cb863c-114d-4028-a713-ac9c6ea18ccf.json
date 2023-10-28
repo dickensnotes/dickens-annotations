@@ -4,16 +4,14 @@ order: 25
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "b4cb863c-114d-4028-a713-ac9c6ea18ccf.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.II.R17</em></p>\n<p dir=\"ltr\"><strong>Clara? Amy? Fanny? Ella?</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><br />The first mention of Amy Dorrit&rsquo;s name is in this chapter in her father&rsquo;s words: &ldquo;And you attend to him and look after him, Amy, a great deal more than ever your sister will&rdquo; (LD 73). In the manuscript, Dickens tries out Amy, then changes it to Rosa, then amends it again to Amy. Two manuscript pages later, with subsequent mentions of Amy in Tip&rsquo;s words, Dickens is no longer amending the name and has settled on Amy. There is no obvious mention in the manuscript of the names Clara, Fanny, or Ella for Little Dorrit, though of course Fanny is used to name Amy&rsquo;s sister.</p>"
-        }
+    "oa:annotatedAt": "2023-10-28T19:03:13.724Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 25
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2259.44056,1562.70396l157.34266,1.1655l-8.15851,118.88112l-113.05361,-6.99301z\"  id=\"rough_path_597cb20d-f1ea-417b-946c-995a1480ebbe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2259.44056,1562.70396l157.34266,1.1655l-8.15851,118.88112l-113.05361,-6.99301z\"  id=\"rough_path_597cb20d-f1ea-417b-946c-995a1480ebbe\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6.99301\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 25
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-28T19:03:13.724Z",
-    "@id": "b4cb863c-114d-4028-a713-ac9c6ea18ccf.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R17</em></p>\n<p dir=\"ltr\"><strong>Clara? Amy? Fanny? Ella?</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The first mention of Amy Dorrit&rsquo;s name is in this chapter in her father&rsquo;s words: &ldquo;And you attend to him and look after him, Amy, a great deal more than ever your sister will&rdquo; (LD 73). In the manuscript, Dickens tries out Amy, then changes it to Rosa, then amends it again to Amy. Two manuscript pages later, with subsequent mentions of Amy in Tip&rsquo;s words, Dickens is no longer amending the name and has settled on Amy. There is no obvious mention in the manuscript of the names Clara, Fanny, or Ella for Little Dorrit, though of course Fanny is used to name Amy&rsquo;s sister.</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-28T19:04:05.153Z"
 }
