@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.R5</em></p>\n<p dir=\"ltr\"><strong>Make way for the Stiltstalkings [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">When Little Dorrit first mentions Tite Barnacle in the manuscript, Dickens crosses out alternative names: &ldquo;Mr Stiltingstalk&rdquo; &ldquo;Mr. Stiltstalk&rdquo; &ldquo;stalking&rdquo; &ldquo;Stiltstalking&rdquo; before adding &ldquo;Tite Barnacle&rdquo; in the first instance, and &ldquo;Stiltingstalk&rdquo; &ldquo;Stiltstallking&rdquo; in the second. These are supralinear additions, and therefore could have been added after the first instance of composition in available white space. This kind of parallel testing out of names in the Notes and the manuscript is also evident, to a lesser extent, below in LD.III.R6.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens returns to the &ldquo;Stiltstalking&rdquo; name as he introduces Tite Barnacle: &ldquo;He had intermarried with a branch of the Stiltstalkings&rdquo; (LD 103). Both the Barnacles and the Stiltstalkings will feature in the next chapter (chapter 10).</p>\n<p><br />Here we find one of many uses of an imperative verbal phrase (&ldquo;make way for&rdquo;) in the Notes for this novel (see Critical Introduction). To what does this &ldquo;make way for&rdquo; refer? The Barnacles are introduced here via Clennam and Little Dorrit&rsquo;s conversation as the &ldquo;most influential&rdquo; of the creditors keeping Mr. Dorrit in the Marshalsea. The &ldquo;make way for&rdquo; seems to imply that this conversation, with its mention of Tite Barnacle and the Circumlocution Office, gestures forwards towards, and makes the way for, the following chapter, which will turn to this topic more explicitly. In this case, then, the imperative verbal phrase describes the action of one chapter in relation to the next.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1441,527,1035,91"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1445.5711,526.68998l1030.30303,34.96503v55.94406l-1034.96503,-37.29604z\"  id=\"rough_path_de97a38f-81d8-498b-9cd9-1db82dfe9e9d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:18:47.080Z",
+    "@id": "3f29e71e-cefa-40f2-8268-54d413b6d8b8.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
