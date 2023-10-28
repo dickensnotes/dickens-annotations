@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.L5</em></p>\n<p dir=\"ltr\"><strong>The Theatre? Not yet.</strong></p>\n<p><span id=\"docs-internal-guid-9cd2aeac-7fff-3291-bd45-6585091ee1b2\"><br />The ink for this note appears slightly darker than the one above, suggesting a possible additional layer. Dickens would use the Notes to defer turning to the Theatre here, in Number IV, and in Number V, finally answering &ldquo;Yes&rdquo; in No. VI (see LD.IV.L9, LD.V.L4, LD.VI.L1). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=196,1138,657,102"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M196.48485,1137.74359h328.50583v0h328.50583v51.11655v51.11655h-328.50583h-328.50583v-51.11655z\"  id=\"rectangle_88c35211-ddb6-4ce5-b33a-ac4e7459094c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:14:27.990Z",
+    "@id": "f88d59e1-076d-4d76-8df5-45485b003494.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
