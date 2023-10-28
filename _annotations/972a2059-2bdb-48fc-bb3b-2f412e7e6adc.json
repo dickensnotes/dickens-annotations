@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R1</em></p>\n<p dir=\"ltr\"><strong>Chapter IV</strong><br /><br /></p>\n<p dir=\"ltr\">The ink for this chapter number is thicker than all notes below, suggesting an earlier temporal layer.&nbsp;</p>\n<p><span id=\"docs-internal-guid-3fff5cb8-7fff-cf0c-a809-5eee0a844ab7\"><br />This is chapter 5 in the published text, since Dickens numbered his chapters consecutively in the Working Notes and in the manuscript before returning later (after composing this number) to add the new chapter 4 to No. I (see LD.I.R24). The chapter numbering does not re-align in the Notes or the manuscript until No. III, indicating that at this stage Dickens is using the Notes proactively.</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1702,201,368,77"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1702.31235,200.68065h183.98368v0h183.98368v38.29604v38.29604h-183.98368h-183.98368v-38.29604z\"  id=\"rectangle_0789e7cd-ec04-4709-b32d-14628e0fd444\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T18:53:14.434Z",
+    "@id": "972a2059-2bdb-48fc-bb3b-2f412e7e6adc.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
