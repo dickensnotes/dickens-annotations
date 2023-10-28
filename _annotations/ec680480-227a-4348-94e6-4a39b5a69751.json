@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 24
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R14</em></p>\n<p dir=\"ltr\"><strong>&ldquo;Spare my father [...]</strong></p>\n<p><span id=\"docs-internal-guid-28bf0337-7fff-ccfa-8237-816c604cd741\">&nbsp;</span></p>\n<p dir=\"ltr\">Here, given the quotation mark that opens the phrase and the likely retrospective nature of these chapter notes (see LD.IV.R12), Dickens may have been recalling phrases he had already written as Little Dorrit&rsquo;s plea to Clennam: &ldquo;Don&rsquo;t encourage him to ask. Don&rsquo;t understand him, if he does ask. Don&rsquo;t give it to him. Save him and spare him that, and you will be able to think better of him&hellip; I cannot bear to think, that you of all the world should see him in his only moments of degradation!&rdquo; (LD 164-65).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1374,1745,1195,179"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1380.52023,1745.10351l594.31011,36.10149v0l594.31011,36.10149l-3.2411,53.35564l-3.2411,53.35564l-594.31011,-36.10149l-594.31011,-36.10149l3.2411,-53.35564z\"  id=\"rectangle_a165bf5e-bce6-4fb7-838b-882480208269\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T22:36:10.566Z",
+    "@id": "ec680480-227a-4348-94e6-4a39b5a69751.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
