@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.L6</em></p>\n<p dir=\"ltr\"><strong>More of his character? Yes</strong></p>\n<p><span id=\"docs-internal-guid-c3275ccd-7fff-c0ee-48a6-f1b301c4ed55\">&nbsp;</span></p>\n<p dir=\"ltr\">This note may correspond to the long description of Clennam&rsquo;s character at the close of chapter 13, which opens by describing him as a &ldquo;dreamer&rdquo; and closes with these lines: &ldquo;To review his life was like descending a green tree in fruit and flower, and seeing all the branches wither and drop off, one by one, as he came down towards them&rdquo; (LD 138).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=66,860,788,86"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M65.94872,860.35431h393.77389v0h393.77389v42.95804v42.95804h-393.77389h-393.77389v-42.95804z\"  id=\"rectangle_b54f39dd-353d-4ee7-a54d-b690bfffe82d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:30:11.333Z",
+    "@id": "764fee95-04cd-4bc9-87cf-13b9c3c7be63.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
