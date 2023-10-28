@@ -4,16 +4,14 @@ order: 10
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "ef303b6f-2006-42f6-a977-750f7335aefe.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.IV.L9</em></p>\n<p dir=\"ltr\"><strong>The Theatre&nbsp; No</strong></p>\n<p><span id=\"docs-internal-guid-4d9d7eaf-7fff-fdcc-d38d-454070d05a55\"><br />Fanny&rsquo;s story is deferred for the second time (see LD.III.L5), though Dickens does find a way to bring her into the story lightly by having Little Dorrit and Maggy stuck outside the prison because they went to check on Fanny at the Theatre. Dickens will again postpone their appearance in No. V (LD.V.L4) and include them in No. VI (LD.VI.L1).</span></p>"
-        }
+    "oa:annotatedAt": "2023-10-28T19:34:51.487Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 10
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M110.23776,1296.25175h235.26573v0h235.26573v61.60606v61.60606h-235.26573h-235.26573v-61.60606z\"  id=\"rectangle_af1b6684-b080-434b-a9e6-3df8b24f8394\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M110.23776,1296.25175h235.26573v0h235.26573v61.60606v61.60606h-235.26573h-235.26573v-61.60606z\"  id=\"rectangle_af1b6684-b080-434b-a9e6-3df8b24f8394\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.98601\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 10
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-28T19:34:51.487Z",
-    "@id": "ef303b6f-2006-42f6-a977-750f7335aefe.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.L9</em></p>\n<p dir=\"ltr\"><strong>The Theatre?&nbsp; No</strong></p>\n<p><span id=\"docs-internal-guid-4d9d7eaf-7fff-fdcc-d38d-454070d05a55\"><br />Fanny&rsquo;s story is deferred for the second time (see LD.III.L5), though Dickens does find a way to bring her into the story lightly by having Little Dorrit and Maggy stuck outside the prison because they went to check on Fanny at the Theatre. Dickens will again postpone their appearance in No. V (LD.V.L4) and include them in No. VI (LD.VI.L1).</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-28T19:34:58.208Z"
 }
