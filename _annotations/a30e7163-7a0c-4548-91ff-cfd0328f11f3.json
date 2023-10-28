@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R4</em></p>\n<p dir=\"ltr\"><strong>&ldquo;Bleeding Heart, Bleeding Heart, Bleeding away.&rdquo;</strong></p>\n<p><span id=\"docs-internal-guid-61caf13a-7fff-41be-366d-cbafd9930173\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens alludes to the urban legend of Bleeding Heart Yard in Holborn, which claims that the courtyard&rsquo;s name refers to the seventeenth-century murder of Lady Elizabeth Hatton. Dickens, however, offers an alternative legend that resonates with his imprisonment theme, a &ldquo;love-lorn song&rdquo; sung by a young lady who had been &ldquo;imprisoned in her chamber by a cruel father for remaining true to her own true love, and refusing to marry the suitor he chose for her&rdquo; LD (129-130). Dickens ends this chapter by connecting Bleeding Heart Yard with the Circumlocution Office and the theme of finding no one to blame: &ldquo;As to who was to blame for [the poverty and lack of work], Mr. Plornish didn&rsquo;t know who was to blame for it&rdquo; (LD 136).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1469,406,955,63"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1469.21212,405.80886h477.68998v0h477.68998v31.30303v31.30303h-477.68998h-477.68998v-31.30303z\"  id=\"rectangle_e47b559a-b4df-414e-9454-ed3f5089a439\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:37:17.460Z",
+    "@id": "a30e7163-7a0c-4548-91ff-cfd0328f11f3.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
