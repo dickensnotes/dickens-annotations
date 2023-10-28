@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.L2</em></p>\n<p dir=\"ltr\"><strong>Public Office? [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">It is perhaps in his enthusiastic decision (as indicated by the emphatic underlining of &ldquo;Yes&rdquo;) to incorporate the Circumlocution Office in this number that Dickens is able to translate the inaction implied by his original title (\"Nobody&rsquo;s Fault\") into an element of the plot, thus allowing him to let go of this title.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens establishes the ludicrousness of referring to Mews Street, Grosvenor Square, as an &ldquo;aristocratic part of town&rdquo; by describing the &ldquo;hideous little street&rdquo;&nbsp; filled with &ldquo;small airless houses&rdquo; that nevertheless &ldquo;went at enormous rents on account of their being abject hanger-on to a fashionable situation; and whenever one of these fearful little coops was to be let (which seldom happened, for they were in great request), the house agent advertised it as a gentlemanly residence in the most aristocratic part of town&rdquo; (LD 105). The differentiation between the &ldquo;public office&rdquo; and the private residence in Grosvenor Square is likely a reference to Barnacle Junior&rsquo;s differentiation of &ldquo;public&rdquo; from &ldquo;private business&rdquo; in chapter 10.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Stone interprets what we have rendered as a non-textual marking underneath the &ldquo;Q&rdquo; of &ldquo;Quarter&rdquo; as &ldquo;of.&rdquo; It is difficult to make this out with certainty.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=33,183,749,226"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M32.61538,182.61538h374.42657v0h374.42657v113.23776v113.23776h-374.42657h-374.42657v-113.23776z\"  id=\"rectangle_0cf6aef2-4f9a-4c69-9ea8-8aefacc43d3d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:13:13.593Z",
+    "@id": "d607daed-2c91-4816-9530-c5712e145b7b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
