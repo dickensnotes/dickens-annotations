@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.R4</em></p>\n<p dir=\"ltr\"><strong>Interview between Clennam and Dorrit [...]</strong></p>\n<p><span id=\"docs-internal-guid-9fa2c674-7fff-4f11-f5ab-cd97399c802b\">&nbsp;</span></p>\n<p dir=\"ltr\">Clennam invites Dorrit to walk with him on this bridge, &ldquo;where there is an escape from the noise of the street&rdquo; (LD 91). His goal is to learn about the origin of the connection between her and his mother. It is in writing this interview that Dickens begins occasionally writing &ldquo;Little Dorrit&rdquo; (although not consistently) in the manuscript. The first usage is right after the pair arrive on the Iron Bridge, when Dickens crosses out the first two letters of Dorrit (&ldquo;Do&rdquo;) and begins the sentence again: &ldquo;Little Dorrit seemed the least, the quietest, the weakest of Heaven&rsquo;s creatures&rdquo; (LD 93). He will return to using &ldquo;Dorrit&rdquo; but soon add the &ldquo;Little&rdquo; more consistently, especially after Maggy&rsquo;s arrival and her use of the term &ldquo;Little Mother&rdquo; (95).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1373,415,991,138"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1380.30303,414.80186l822.84382,23.31002l9.32401,44.28904l151.51515,11.65501v55.94406l-389.27739,2.331l-27.97203,-58.27506l-573.42657,-25.64103z\"  id=\"rough_path_37215bbc-c010-464f-b9a7-1c5fde147648\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:17:59.042Z",
+    "@id": "be7aaaa9-e9e2-47cf-bddb-2f47361e6775.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
