@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R6</em></p>\n<p dir=\"ltr\"><strong>The Father of the Marshalsea</strong></p>\n<p dir=\"ltr\"><br />The title of this chapter was likely added to the manuscript after Dickens had begun composition; it appears added to the manuscript (on the same page on which he finished the previous chapter) to the right of the chapter number. This suggests that Dickens either left space for the title in the Working Notes, or that he composed the chapter notes on the right retroactively after he began composition, which appears to have been his common practice for certain numbers. It is unclear whether the presence of the titles for this chapter and the next in the left-hand memoranda (LD.II.L5) were written before or after they were used as chapter titles. Given the descriptive function of the chapter notes below, it is likely that these were written retroactively after composition, along with the chapter title.&nbsp;</p>\n<p><span id=\"docs-internal-guid-169c51db-7fff-209a-a7c1-56b476da6b28\">&nbsp;</span></p>\n<p dir=\"ltr\">About this chapter, Dickens wrote to Forster shortly after finishing the number in mid September 1855: &ldquo;There is an enormous outlay in the Father of the Marsalsea chapter, in the way of getting a great lot of matter into a small space. I am not quite resolved, but I have a great idea of overwhelming that family with wealth. Their condition would be very curious. I can make Dorrit very strong in the story, I hope&rdquo; (Forster 2.182). The &ldquo;Dorrit&rdquo; to whom he refers is almost certainly Little Dorrit, to whom he still refers as Dorrit at this point.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1690,754,579,78"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1691.69991,753.73703l288.74688,8.72894v0l288.74688,8.72894l-0.91065,30.12377l-0.91065,30.12377l-288.74688,-8.72894l-288.74688,-8.72894l0.91065,-30.12377z\"  id=\"rectangle_37f0c0bb-df33-44da-91c9-701ff59c5bdd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T18:55:57.857Z",
+    "@id": "3011cd07-40cd-49b3-a4b9-5fbc9069f3a4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
