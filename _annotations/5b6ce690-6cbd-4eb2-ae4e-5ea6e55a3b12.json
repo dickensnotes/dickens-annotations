@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.R3</em></p>\n<p dir=\"ltr\"><strong>Uncle&rsquo;s lodging</strong></p>\n<p><span id=\"docs-internal-guid-c11f7fb9-7fff-2068-f318-a58e9fd0696d\">&nbsp;</span></p>\n<p dir=\"ltr\">This note, which references Clennam&rsquo;s visit to Frederick Dorrit&rsquo;s house to meet Little Dorrit, appears to have been an interlinear addition above &ldquo;Interview between Clennam and Dorrit,&rdquo; perhaps indicating that Dickens planned, or considered the significance of, this initial location for the two to meet after he had decided on, or summarized, the bridge for their conversation. The note indicates Dickens&rsquo;s interest in the nature of Frederick&rsquo;s lodging, which he will describe in detail in the novel: &ldquo;The house was very close, and had an unwholesome smell. The little staircase windows looked in at the back windows of other houses as unwholesome as itself, with poles and lines thrust out of them, on which unsightly linen hung: as if the inhabitants were angling for clothes, and had had some wretched bites not worth attending to&ldquo; (LD 89).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1348,333,277,89"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1356.99301,333.21678l-9.32401,46.62005l268.06527,41.95804l9.32401,-39.62704z\"  id=\"rough_path_232bb6e4-cdd1-4c6c-a2f3-468b327904d2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:16:33.634Z",
+    "@id": "5b6ce690-6cbd-4eb2-ae4e-5ea6e55a3b12.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
