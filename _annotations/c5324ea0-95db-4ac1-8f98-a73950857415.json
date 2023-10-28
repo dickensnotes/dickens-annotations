@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R10</em></p>\n<p dir=\"ltr\"><strong>20 years [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><br />Dickens uses free indirect discourse to encapsulate this note in the novel: &ldquo;Yes, he was the Father of the place. So the world was kind enough to call him; and so he was, if more than twenty years of residence gave him a claim to the title. It looked small at first, but there was very good company there&ndash;among a mixture&ndash;necessarily a mixture&ndash;and very good air&rdquo; (LD 65).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1336,1074,866,79"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1344.52214,1073.89277l857.80886,39.62704l-1.1655,39.62704l-864.80186,-26.80653l5.82751,-50.11655v0z\"  id=\"rough_path_590860a7-ed2d-4795-94b7-91ae5b201423\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T18:59:06.730Z",
+    "@id": "c5324ea0-95db-4ac1-8f98-a73950857415.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
