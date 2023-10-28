@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.R11</em></p>\n<p dir=\"ltr\"><strong>&ldquo;Look here, you know&rdquo; &ndash; Young Barnacle.</strong></p>\n<p><span id=\"docs-internal-guid-e48b7ea2-7fff-708b-a802-33129dd2bf5f\"><br />Dickens establishes this mannerism of Young Barnacle at the Circumlocution Office before Clennam visits Grosvenor Square: &ldquo;But I say. Look here! You haven&rsquo;t got any appointment, you know&rdquo; (LD 104). He then repeats this phrase <em>ad nauseam</em> when Arthur returns: &ldquo;Look here. Upon my soul you mustn&rsquo;t come into this place saying you want to know, you know&rdquo; (108). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1408,1440,711,75"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1408.27506,1468.41492l496.5035,-16.31702l202.7972,-11.65501l11.65501,41.95804l-703.9627,32.63403z\"  id=\"rough_path_7e612d63-b026-4cb4-9bfc-639a6cd897fe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:21:30.068Z",
+    "@id": "9471e9f8-858b-4581-a7dd-2e8633513d92.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
