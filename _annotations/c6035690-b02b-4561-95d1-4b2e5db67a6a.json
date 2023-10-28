@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 25
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R15</em></p>\n<p dir=\"ltr\"><strong>Out all night &ndash; Woman in the street.</strong></p>\n<p><span id=\"docs-internal-guid-3b026acc-7fff-527d-9fea-70deda865b89\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens may have been inspired by a night walk that he would also write about in a <em>Household Words</em> article published on January 26, 1856: &ldquo;A Nightly Scene in London,&rdquo; and which Forster describes as taking place in early November, when he would have been working on this installment. Forster explains that Dickens had &ldquo;sallied out for one of his night walks, full of thoughts of his story, one wintry rainy evening,&rdquo; when he came across seven girls, like &ldquo;seven heaps of rags,&rdquo; outside the full Whitechapel Workhouse, drawing a crowd because of their &ldquo;wretchedness&rdquo; (Forster 2.131).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1508,1866,750,108"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1511.7624,1865.82065l373.27845,22.5734v0l373.27845,22.5734l-1.88594,31.18633l-1.88594,31.18633l-373.27845,-22.5734l-373.27845,-22.5734l1.88594,-31.18633z\"  id=\"rectangle_04c860c7-cbf4-46d1-aab1-b43a859ab440\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T22:36:54.837Z",
+    "@id": "c6035690-b02b-4561-95d1-4b2e5db67a6a.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
