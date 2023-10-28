@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.L6</em></p>\n<p dir=\"ltr\"><strong>Ruined brother (the clarinet-player I saw [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><br />This is a rare instance of Dickens referring to the real-life inspiration for a fictional character in the Working Notes (for another example, see HT.I.R3). Dickens visited Paris in early 1855, so it is possible that it was here that he encountered a clarinet-player he would later use as inspiration for Frederick Dorrit, the &ldquo;ruined uncle in the family group&rdquo; (LD 72). Dickens would refer to the Ambigu Theatre in a later letter to Mark Lemon (7 January 1856, Letters 8.11), but there is no mention in his letters of a clarinet player or a notable earlier mention of the Ambigu.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=851,545,489,104"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M852.7546,544.5503l243.35526,5.79486v0l243.35526,5.79486l-1.10458,46.3869l-1.10458,46.3869l-243.35526,-5.79486l-243.35526,-5.79486l1.10458,-46.3869z\"  id=\"rectangle_28ae80d7-ac3c-4fd9-96c2-fe18cb9bff80\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T18:44:43.117Z",
+    "@id": "f056c619-973f-4080-8140-6d85a7ed2eca.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
