@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 22
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R12</em></p>\n<p dir=\"ltr\"><strong>Chapter [XV] XIV</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">It is likely that Dickens wrote this chapter in two stages, pausing either out of some indecision as to how to conclude the chapter or out of necessity as he worked on the Christmas number of <em>Household Words</em>. The first set of proofs (labeled Proof A by Sucksmith in the Clarendon edition) ends part way through this chapter (&ldquo;on his lips again, &ldquo;Little Dorrit&rdquo; [LD 162) before continuing with a later set of proofs for chapter 12. This point in the manuscript occurs at the very end of a page, so Dickens may have turned a new leaf when he decided how to finish the chapter. Much of the material that would follow focuses on Little Dorrit&rsquo;s night on the streets of London, an event that is also missing from the memoranda on the left, suggesting that Dickens had not yet decided on this storyline as he began drafting the Note, a point born out by the title change that indicates his ironic focus on Little Dorrit&rsquo;s predicament. Sucksmith suggests that Dickens may have drawn inspiration from any number of articles on &ldquo;poverty, prostitution, the fascination of the river to guilt-ridden suicides, and the streets of London by night&rdquo; that would have &ldquo;recently passed beneath his scrutiny&rdquo;; he provides a list of such <em>Household Words</em> articles from 1851-56 (xxiv-xxv).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Given his delay in finishing the chapter and the specificity of the notes below, Dickens likely wrote the contents of this chapter note after composing the chapter in its entirety.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1754,1554,534,87"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1753.98291,1554.09946h267.12277v0h267.12277v43.73504v43.73504h-267.12277h-267.12277v-43.73504z\"  id=\"rectangle_5f5a62d0-bf94-4a89-a5e2-61ae0aec71fa\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T22:34:42.005Z",
+    "@id": "0b1e7628-d84f-4172-99f0-a06d0c931b06.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
