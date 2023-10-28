@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R2</em></p>\n<p dir=\"ltr\"><strong>Bleeding Heart Yard</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The chapter title in the manuscript is evenly spaced between the chapter number and the opening line in the same blue ink, suggesting that Dickens wrote this chapter title before proceeding with the chapter&rsquo;s composition. Evidently, Dickens returned to the Working Note after beginning the chapter&rsquo;s composition to add the title in black ink.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">There is an aborted opening to this number and chapter in blue ink on the verso of the second page of the manuscript for the number, crossed out in black ink. The unobscured section of the aborted opening is also a description of Bleeding Heart Yard. Dickens presumably decided to begin again due to the number of corrections he was adding to the sentence. He evidently had some difficulty beginning this chapter, since the first manuscript page also includes heavy corrections to the opening sentence, added in the same black ink Dickens used when he resumed writing half way down the page.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1707,250,515,93"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1706.97436,249.6317h257.41026v0h257.41026v46.45455v46.45455h-257.41026h-257.41026v-46.45455z\"  id=\"rectangle_2a885065-c975-424f-a74e-d163fef7bc36\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:35:54.490Z",
+    "@id": "088fc96b-07b3-4667-a9f5-06a6a5963111.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
