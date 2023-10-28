@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p><em>LD.II</em></p>\n<p><em><br /></em>Dickens was working on Number II by the end of August and would finish by mid September. It was during his time working on this number that Dickens began to rethink his original design. He wrote to Forster on 19 August: &ldquo;As to the story I am in the second number, and last night and this morning had half a mind to begin again, and work in what I have done, afterwards&hellip; It struck me that it would be a new thing to show people coming together, in a chance way, as fellow-travellers. And being in the same place, ignorant of one another, as happens in life; and to connect them afterwards, and to make the waiting for that connection a part of the interest.&rdquo; Indeed, sometime during (or, more likely, after) composing No. II, Dickens would consider rewriting the first number (see LD.I.L6 and Critical Introduction) and he would add a new final chapter to No. I. The newly written chapter 4 would require him to alter the chapter numbers for this installment, though he does not return to the manuscript or the Working Notes to make these alterations. He did, however, return to correct the novel&rsquo;s title in the header here, in the Notes for Numbers I and II, and in the manuscript.&nbsp;<span id=\"docs-internal-guid-32549148-7fff-f3be-a042-d0c11d2c76fd\"></span></p>\n<p>&nbsp;</p>\n<p>It was in this number that Dickens turned his attention to Little Dorrit herself. As he wrote to Lavinia Watson on 10 November, 1855: &ldquo;As the second is the great start of my Little Dorrit herself, I shall bring [that number] in my pocket, in order that you may anticipate the public, in making acquaintance with that young person&rdquo; (Letters 7.740). For more on Dickens&rsquo;s original naming of Little Dorrit, see LD.II.L4.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1348,2,1265,144"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1348,2.331h632.70163v0h632.70163v71.84149v71.84149h-632.70163h-632.70163v-71.84149z\"  id=\"rectangle_ed73c6bc-c6e4-42bc-a93d-c4e81108528e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T18:40:16.807Z",
+    "@id": "b7b253cd-c3a6-4a1d-9319-92f512173a2f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
