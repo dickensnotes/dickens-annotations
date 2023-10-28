@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.R12</em></p>\n<p dir=\"ltr\"><strong>Inventor. Daniel Doyce</strong></p>\n<p><span id=\"docs-internal-guid-dc08462a-7fff-0940-ccb2-9b205b847fac\">&nbsp;</span></p>\n<p dir=\"ltr\">We first encounter the &ldquo;smith and engineer&rdquo; Daniel Doyce collared by Mr. Meagles as Clennam leaves the Circumlocution Office for the second time. In his efforts to obtain a patent for &ldquo;an invention&hellip;of great importance to his country and his fellow creatures,&rdquo; Doyle is treated by the government as &ldquo;a public offender!... as a man who has done some infernal action&rdquo; (LD 113-114). With Doyce, Dickens returns to the theme of his 1850&nbsp;<em>Household Words</em>&nbsp;article &ldquo;A Poor Man&rsquo;s Tale of a Patent,&rdquo; in which he detailed the onerous stages of obtaining a patent in ways that anticipate Doycle&rsquo;s plight: \"Is it reasonable to make a man feel as if, in inventing an ingenious improvement meant to do good, he had done something wrong? How else can a man feel, when he is met with such difficulties at every turn? All inventors taking out a Patent MUST feel so&rdquo; (&ldquo;A Poor Man&rsquo;s&rdquo; 75). The fact that Dickens sets the events of the novel &ldquo;thirty years ago&rdquo; (LD 1) is important here, since it sets Daniel Doyce&rsquo;s struggle before the 1852 Patent Law Amendment Act which would simplify the process. In 1857 Dickens published a piece by frequent contributor George Dodd in&nbsp;<em>Household Words&nbsp;</em>which stated &ldquo;a statute passed in eighteen hundred and fifty-two has brought about a change which renders patent wisdom understandable&rdquo; (&ldquo;A Room Near Chancery Lane&rdquo; 190).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2198,1437,454,86"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2200.61044,1437.08532l225.68736,10.71813v0l225.68736,10.71813l-1.54023,32.43198l-1.54023,32.43198l-225.68736,-10.71813l-225.68736,-10.71813l1.54023,-32.43198z\"  id=\"rectangle_786d8e59-9b61-42fa-a0ad-fa0cc9078a86\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:22:47.717Z",
+    "@id": "40b0e31f-9961-42f2-ae45-7cf92ebe4005.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
