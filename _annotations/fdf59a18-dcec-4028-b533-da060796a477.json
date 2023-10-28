@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.L4</em></p>\n<p dir=\"ltr\"><strong>Fanny Dorrit and the Theatre? [...]</strong></p>\n<p><span id=\"docs-internal-guid-b364d434-7fff-9af3-7ec8-d856fe9868e6\">&nbsp;</span></p>\n<p dir=\"ltr\">Again, Dickens rejects turning to the Theatre, as he had already done in the previous two numbers (see LD.III.L5 and LD.IV.L9). Despite this deferment, Dickens will make the theater central to the following installment, Number VI (LD.VI.L1).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=81,661,858,187"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M80.86713,660.93706h428.97203v0h428.97203v93.30769v93.30769h-428.97203h-428.97203v-93.30769z\"  id=\"rectangle_8f23082e-0bea-4468-ac0a-799a9767c29a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T23:58:46.994Z",
+    "@id": "fdf59a18-dcec-4028-b533-da060796a477.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
