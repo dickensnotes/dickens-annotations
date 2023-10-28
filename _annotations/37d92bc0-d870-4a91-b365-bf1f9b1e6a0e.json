@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.L2</em></p>\n<p dir=\"ltr\"><strong>Miss Wade? Carry on</strong></p>\n<p><span id=\"docs-internal-guid-40f85cb0-7fff-6cbb-476f-7b8f931b0a2c\"><br />Although Dickens suggests that he will include Miss Wade, she does not appear in this number. However, she does feature as a subject of conversation, as Tattycoram admits that she has been corresponding with and talking to Miss Wade. &ldquo;Carry on&rdquo; therefore signifies the character&rsquo;s virtual presence; she is &ldquo;carried on&rdquo; through this number by reference rather than by presence. Dickens had questioned and dismissed her presence from the previous two numbers, waiting for an opportunity to bring her back into the story (see LD.III.L4, LD.IV.L2). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=37,178,539,65"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M36.81119,243.45455h269.53147v0h269.53147v-32.56643v-32.56643h-269.53147h-269.53147v32.56643z\"  id=\"rectangle_2854fbf4-1b0e-40d4-8340-35d161577449\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T23:57:26.991Z",
+    "@id": "37d92bc0-d870-4a91-b365-bf1f9b1e6a0e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
