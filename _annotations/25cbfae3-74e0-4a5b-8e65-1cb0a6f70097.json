@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.R6</em></p>\n<p dir=\"ltr\"><strong>Her protog&eacute;e. Maggy [...]</strong></p>\n<p><span id=\"docs-internal-guid-f2bbadaf-7fff-9291-5e86-6696aa3f5a42\">&nbsp;</span></p>\n<p dir=\"ltr\">Maggy is introduced to Clennam and the reader by Little Dorrit as &ldquo;the grand-daughter&hellip; of my old nurse,&rdquo; a woman who &ldquo;was not so kind to her as she should have been&rdquo; (LD 96). There is no direct mention of the charwoman Bangham in Maggy&rsquo;s introduction. In the manuscript, Maggy&rsquo;s first introduction appears as an interlineated insertion above an illegibly erased name. When Little Dorrit first introduces Clennam to Maggy, Dickens has initially written what appears to be &ldquo;Maggy Flinx,&rdquo; which would be consistent with Mrs. Bangham&rsquo;s name in the initial draft of No. II (see LD.II.R9). &ldquo;Flinx&rdquo; is crossed out and &ldquo;Bangham&rdquo; is written as Maggy&rsquo;s surname above, but this too is crossed out in favor of giving Maggy just a first name, emphasizing her orphan status and making her relationship with her&nbsp; &ldquo;Little Mother&rdquo; all the more poignant.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1399,580,748,159"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1412.93706,580.30303l734.26573,41.95804l-163.17016,116.55012l-179.48718,-13.98601l-48.95105,-62.93706l-356.64336,-37.29604z\"  id=\"rough_path_ee043c8f-049c-4218-afe1-bb05c7e6650f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:19:17.531Z",
+    "@id": "25cbfae3-74e0-4a5b-8e65-1cb0a6f70097.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
