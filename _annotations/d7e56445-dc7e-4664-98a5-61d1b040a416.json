@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.R8</em></p>\n<p dir=\"ltr\"><strong>How not to do it.</strong></p>\n<p><span id=\"docs-internal-guid-2652dac9-7fff-47e8-2ad2-f35d6efac80a\">&nbsp;</span></p>\n<p dir=\"ltr\">This phrase, reminiscent of Thomas Carlyle&rsquo;s &ldquo;Donothingism,&rdquo; appears repeatedly throughout this chapter: &ldquo;Whatever was required to be done, the Circumlocution Office was beforehand with all the public departments in the art of perceiving&ndash;HOW NOT TO DO IT&rdquo; (LD 100). It is the first time Dickens expressly takes up the theme he had originally suggested as central in his novel via his original title, the repeated phrase suggesting the general abdication of responsibility by those in charge. In his portrayal of the Circumlocution Office, Dickens vented his frustration with political power. On October 4, 1855, Dickens wrote to Macready: &ldquo;In No. 3 of my new book I have been blowing off a little of indignant steam which would otherwise blow me up, and with God&rsquo;s leave I shall walk in the same all the days of my life; but I have no present political faith or hope&ndash;not a grain&rdquo; (Letters 7.716). This letter echoes one he sent to Forster a few days earlier: &ldquo;I really am serious in thinking&hellip; that representative government is become altogether a failure with us, that the English gentilities and subserviences render the people unfit for it, and that the whole thing has broken down since that great seventeenth-century time, and has no hope in it.&rdquo; (7.713). For more on Dickens&rsquo;s engagement with contemporary issues in this novel, see Critical Introduction.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1397,1131,396,88"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1396.95105,1130.75058h197.9697v0h197.9697v44.12354v44.12354h-197.9697h-197.9697v-44.12354z\"  id=\"rectangle_7ab7124e-0e28-4a2f-9413-f7fc94f2409c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:20:00.061Z",
+    "@id": "d7e56445-dc7e-4664-98a5-61d1b040a416.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
