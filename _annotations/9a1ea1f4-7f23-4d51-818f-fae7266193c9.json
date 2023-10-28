@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.L6</em></p>\n<p dir=\"ltr\"><strong>Arthur and Doyce in Partnership? Pave the way</strong></p>\n<p><span id=\"docs-internal-guid-ea25a6f2-7fff-3606-55ec-287b05cc46a9\">&nbsp;</span></p>\n<p dir=\"ltr\">In this number, Doyce admits to wanting a partner, and Arthur speaks with Mr. Meagles about putting himself forward should Doyce be open to the idea. The way is &ldquo;paved,&rdquo; then, by generating this idea without establishing the partnership.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=51,1030,1110,157"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M51.4965,1030.16783h554.84615v0h554.84615v78.62238v78.62238h-554.84615h-554.84615v-78.62238z\"  id=\"rectangle_4574582d-02ea-472b-921d-c26b0d7acec7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T23:59:27.185Z",
+    "@id": "9a1ea1f4-7f23-4d51-818f-fae7266193c9.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
