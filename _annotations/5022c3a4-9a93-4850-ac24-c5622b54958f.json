@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 19
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R9</em></p>\n<p dir=\"ltr\"><strong>[Chapter XIV]</strong></p>\n<p><span id=\"docs-internal-guid-0682b2c7-7fff-51f0-cff4-36bbfc46a573\">&nbsp;</span></p>\n<p dir=\"ltr\">Given the layout to the right-side of this Note, it is evident that Dickens initially planned to have four chapters in this number. Possibly, as Herring suggests, Dickens intended for one of these chapters to be the relocated chapter 4 from No. 1 (see LD.I.R24). However, if Dickens erased this chapter number after writing the notes below, it is possible that he intended originally for a version of chapter 14 to focus on Clennam&rsquo;s perspective and Little Dorrit&rsquo;s visit, ending with her having nowhere to go, and one (planned as chapter 15) focusing on Amy&rsquo;s point of view (&ldquo;Little Dorrit&rsquo;s Eyes&rdquo;). He decided instead that the exploration of Clennam&rsquo;s state of mind (LD.IV.R10) would close chapter 13 so that he could devote the whole of chapter 14 to Little Dorrit&rsquo;s experience.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1730,1049,346,69"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1729.81818,1049.04895h173.02797v0h173.02797v34.56643v34.56643h-173.02797h-173.02797v-34.56643z\"  id=\"rectangle_1744d61d-a95a-417e-8427-c924d192b891\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T22:32:16.020Z",
+    "@id": "5022c3a4-9a93-4850-ac24-c5622b54958f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
