@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 29
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R21</em></p>\n<p dir=\"ltr\"><strong>Parallel Imprisonments [...]</strong></p>\n<p><span id=\"docs-internal-guid-dd7591c0-7fff-c95b-495f-fdca0bf16f3f\">&nbsp;</span></p>\n<p dir=\"ltr\">All three of the chapter notes for this number, as with chapters 2 and 3 of No. I, end with a note that directly corresponds to the final paragraphs of the chapter and to a significant image, quotation, or thematic statement. In this instance, Arthur dwells on what he suspects to be his mother&rsquo;s potential involvement in Mr. Dorrit&rsquo;s imprisonment: &ldquo;A swift thought shot into his mind. In that long imprisonment here, and in her own long confinement to her room, did his mother find a balance to be struck? I admit that I was accessory to that man&rsquo;s captivity. I have suffered for it in kind. He has decayed in his prison; I in mine. I have paid the penalty&rdquo; (LD 86). The parallelism Dickens explores here mirrors the parallelism of his titling for chapters 6 and 7 (labeled here as 5 and 6).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1973,2022,622,80"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1972.83812,2021.91867h310.99093v0h310.99093v39.85004v39.85004h-310.99093h-310.99093v-39.85004z\"  id=\"rectangle_f8cdc49a-47cb-4bab-8038-54b44d1f0f51\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:09:42.673Z",
+    "@id": "569b7508-17ee-4442-9b2f-b5149817df31.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
