@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R9</em></p>\n<p dir=\"ltr\"><strong>Mrs. [Flinx] Flinx&nbsp;</strong></p>\n<p dir=\"ltr\"><br />This note refers to Mrs. Bangham, the charwoman. &ldquo;Mrs: Flinks &ndash; Flinx&rdquo; appears in Dickens&rsquo;s <em>Memoranda</em> book (3v). Dickens checks this off as if used, but he changes his mind about the name, deciding on Bangham. In the manuscript, &ldquo;Mrs Flinx&rdquo; appears unedited throughout this chapter and the next before Dickens switches to Bangham. In the corrected proofs, Dickens emends Flinx to Bangham in the margins in blue ink, but he did not return to the Working Notes to change the name.</p>\n<p><span id=\"docs-internal-guid-5954b6be-7fff-1e73-d2d1-86089e021c5d\">&nbsp;</span></p>\n<p dir=\"ltr\">Mrs. Bangham is introduced as a charwoman present as Mrs. Dorrit goes into labor. Dickens may have been imagining this character in his <em>Memoranda</em> book on page 7, where he has a single note: &ldquo;The Charwoman.&rdquo; Kaplan has listed this as &ldquo;untraced,&rdquo; but given the proximity of his writing this chapter with his entries in the <em>Memoranda</em>, it&rsquo;s likely the two are connected (Kaplan 87).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2200,1032,312,49"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2200,1063.40326l312.35431,17.48252l-1.1655,-39.62704l-311.18881,-9.32401z\"  id=\"rough_path_79e9a548-b7ca-4d15-99b6-ec4e6990ec3a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T18:58:30.818Z",
+    "@id": "f8e682a3-c862-4abc-9234-4798eaf56810.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
