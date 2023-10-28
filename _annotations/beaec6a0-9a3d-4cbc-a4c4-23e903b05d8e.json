@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.L3</em></p>\n<p dir=\"ltr\"><strong>The man who comfortably charges everything on Providence? [...]</strong></p>\n<p dir=\"ltr\"><br />This note echoes one that appeared in Dickens&rsquo;s 1855 <em>Memoranda</em> book: &ldquo;The people who lay all their sins negligences and ignorances, on Providence&rdquo; (6). Forster indicates that <em>Little Dorrit</em> &ldquo;took its origin from the notion [Dickens] had of a leading man for a story who should bring about all the mischief in it, lay it all on Providence, and say at every fresh calamity, &lsquo;Well, it&rsquo;s a mercy, however, nobody was to blame you know!&rsquo; The title first chosen, out of many suggested, was <em>Nobody&rsquo;s Fault</em>; and four numbers had been written, of which the first was on the eve of appearing, before this was changed&rdquo; (Forster 2.179). Butt and Tillotson suggest that Forster overstates the extent to which Dickens planned for this &ldquo;man&rdquo; to carry the meaning of the novel&rsquo;s original title: &ldquo;More probably the notion of this man was only accidentally the &lsquo;origin&rsquo; of the book, and had he survived into the written story he would have been a mere exemplum of the wider theme of &lsquo;Nobody&rsquo;s Fault&rsquo;&rdquo; (224).</p>\n<p><span id=\"docs-internal-guid-b330df37-7fff-379d-8899-e5f884034565\">&nbsp;</span></p>\n<p dir=\"ltr\">Unlike many of his items in the Memoranda book, Dickens does not indicate that this note has been &ldquo;done&rdquo; in a particular novel. In the Working Notes he twice dismisses inclusion of this character (see LD.IV.L1) as he changes his mind about the direction of his novel in these early numbers. Stone reads this as a rare instance of the Working Notes giving us a glimpse of &ldquo;Dickens in an earlier stage of creation than the working notes usually reveal: haunted by an idea but not yet connecting it with his current undertaking&rdquo; (267).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=61,198,1182,156"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M60.95571,200.34965l1181.81818,-2.331l-4.662,149.18415l-214.45221,6.99301l-13.98601,-79.25408l-948.71795,-18.64802z\"  id=\"rough_path_3b2cf7de-6b02-45ff-85b3-ae7b65af9ac3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T18:42:49.401Z",
+    "@id": "beaec6a0-9a3d-4cbc-a4c4-23e903b05d8e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
