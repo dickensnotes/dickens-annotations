@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R11</em></p>\n<p dir=\"ltr\"><strong>Late at Night [...]</strong></p>\n<p><span id=\"docs-internal-guid-31a296b6-7fff-8d6c-bf08-e295cbc93203\">&nbsp;</span></p>\n<p dir=\"ltr\">These last notes were likely written before the chapter was finished, since they do not, in fact, belong to this chapter, but instead pertain to chapter 14. Curiously, Dickens does not cancel this material. It is possible that he changed his plan because he felt that this material needed to be part of Little Dorrit&rsquo;s perspective in the next chapter.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1811,1267,654,203"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1822.37933,1266.96969l321.21766,23.32264v0l321.21766,23.32264l-5.69354,78.41595l-5.69354,78.41595l-321.21766,-23.32264l-321.21766,-23.32264l5.69354,-78.41595z\"  id=\"rectangle_db7f3add-c758-457e-9eb4-a32c517ecaf1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T22:33:44.131Z",
+    "@id": "a0b55b48-a834-454e-b270-00ffd82eb490.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
