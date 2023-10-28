@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.L2</em></p>\n<p dir=\"ltr\"><strong>Miss Wade. Her surroundings and antecedents?&nbsp; No</strong></p>\n<p><span id=\"docs-internal-guid-9b3e30ce-7fff-90d0-f4dc-4713064bc0ee\">&nbsp;</span></p>\n<p dir=\"ltr\">Again, Dickens defers Miss Wade&rsquo;s reintroduction into the novel (see LD.III.L4). She will not reappear until No. V.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=50,161,1282,95"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M49.6317,161.05361h640.86014v0h640.86014v47.62005v47.62005h-640.86014h-640.86014v-47.62005z\"  id=\"rectangle_5c942413-69df-4751-9a9d-8dd30cef5b8e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:28:55.942Z",
+    "@id": "12e5101a-0f14-4f54-a4e7-9654d33c6596.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
