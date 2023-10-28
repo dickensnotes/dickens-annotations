@@ -4,16 +4,14 @@ order: 19
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "b477b2fe-90af-4714-ba9f-7c87e2f39157.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.II.R11</em></p>\n<p dir=\"ltr\"><strong>The Plasterer &ndash; friend</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><br />This brief story of a Plasterer who offends Mr Dorrit by offering too paltry a tribute demonstrates Mr. Dorrit&rsquo;s &ldquo;forlorn gentility&rdquo; (LD 72). Unable to give more, he vows that he would &ldquo;do more by you than the rest of &lsquo;em do, I fancy&hellip; I&rsquo;d come back to see you, after I was let out&rdquo; (66). This will be Plornish from Bleeding Heart Yard. As with many of the final chapter notes, this one corresponds directly with the final actions of a chapter.</p>"
-        }
+    "oa:annotatedAt": "2023-10-28T18:59:36.365Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 19
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2211.65501,1142.65734l-8.15851,39.62704l375.29138,19.81352l1.1655,-38.46154l-369.46387,-23.31002v0z\"  id=\"rough_path_96f38fab-1c7b-4b25-8939-2677e324c010\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2211.65501,1142.65734l-8.15851,39.62704l375.29138,19.81352l1.1655,-38.46154l-369.46387,-23.31002v0z\"  id=\"rough_path_96f38fab-1c7b-4b25-8939-2677e324c010\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 19
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-28T18:59:36.365Z",
-    "@id": "b477b2fe-90af-4714-ba9f-7c87e2f39157.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R11</em></p>\n<p dir=\"ltr\"><strong>The Plasterer &ndash; friend</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This brief story of a Plasterer who offends Mr Dorrit by offering too paltry a tribute demonstrates Mr. Dorrit&rsquo;s &ldquo;forlorn gentility&rdquo; (LD 72). Unable to give more, he vows that he would &ldquo;do more by you than the rest of &lsquo;em do, I fancy&hellip; I&rsquo;d come back to see you, after I was let out&rdquo; (66). This will be Plornish from Bleeding Heart Yard. As with many of the final chapter notes, this one corresponds directly with the final actions of a chapter.</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-28T19:05:19.353Z"
 }
