@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 28
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R20</em></p>\n<p dir=\"ltr\"><strong>Arthur in the room [...]</strong></p>\n<p><span id=\"docs-internal-guid-e6721772-7fff-8af2-6cd9-0d1a533610a3\">&nbsp;</span></p>\n<p dir=\"ltr\">The first three notes in this chapter are descriptive, referencing Arthur&rsquo;s visit to the Marshalsea and encounter with Mr. Dorrit and his family; the awkwardness of Mr. Dorrit&rsquo;s thinly veiled request for a &ldquo;testimonial&rdquo;; and Arthur&rsquo;s failure to leave the prison grounds before the gate closes for the night, after which he has to sleep in the snuggery and suffers nightmares regarding his mother&rsquo;s potential complicity in Mr. Dorrit&rsquo;s debt.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1345,1890,970,197"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1345.14375,1889.56229l1.61875,197.4877l608.65061,-1.61875l11.33126,-71.22507l348.0316,-3.2375l-3.2375,-87.41259l-590.84434,1.61875z\"  id=\"rough_path_8d359e12-4a18-4920-9deb-d6575722a9f6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:09:09.471Z",
+    "@id": "37b24118-8f2a-45ac-ba48-cc064488e97d.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
