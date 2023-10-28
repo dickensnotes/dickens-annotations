@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R5</em></p>\n<p dir=\"ltr\"><strong>Get Tip out.</strong></p>\n<p><span id=\"docs-internal-guid-2bd920fa-7fff-7df8-d364-04e2206d30ab\">&nbsp;</span></p>\n<p dir=\"ltr\">The action of this verb &ldquo;get&rdquo; might be Dickens as author, the installment&rsquo;s narrative action, or Clennam, who requests Plornish&rsquo;s help to get Tip out of debt.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1677,534,240,65"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1676.67133,534.01399h119.88112v0h119.88112v32.46853v32.46853h-119.88112h-119.88112v-32.46853z\"  id=\"rectangle_86cce7fe-3a3b-4288-bcfc-d0d51d45a071\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:37:32.491Z",
+    "@id": "87ae80b6-769a-4d2a-ba35-f82ea209dc0b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
