@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 26
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R16</em></p>\n<p dir=\"ltr\"><strong>&ldquo;If it really was a party now!&rdquo;</strong></p>\n<p><span id=\"docs-internal-guid-f5de7aa1-7fff-f0f5-e7e7-13e7c86d592b\">&nbsp;</span></p>\n<p dir=\"ltr\">Again, this quoted phrase corresponds directly to the novel, suggesting that Dickens was likely summarizing a previously-drafted passage: &ldquo;&lsquo;If it really was a party!&rsquo; she thought once, as she sat there. &lsquo;If it was light and warm and beautiful, and it was our house, and my poor dear was its master, and had never been inside these walls&rsquo;&rdquo; (LD 169).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1374,1928,527,84"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1376.88116,1927.64566l261.68676,22.09133v0l261.68676,22.09133l-1.68913,20.00893l-1.68913,20.00893l-261.68676,-22.09133l-261.68676,-22.09133l1.68913,-20.00893z\"  id=\"rectangle_c91728ce-9532-4779-bb8c-1dc6d83cc13e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T22:37:25.738Z",
+    "@id": "84f850a2-607c-4078-bee4-e2bfa487c291.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
