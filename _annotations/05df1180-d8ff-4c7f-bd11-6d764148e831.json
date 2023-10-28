@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 24
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R16</em></p>\n<p dir=\"ltr\"><strong>She becomes the prop and stay of the rest</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><br />This chapter establishes Little Dorrit&rsquo;s role in supporting her family, finding a placement for Fanny as a dancer, and her series of aborted attempts to find a profession for Tip, all while keeping up the &ldquo;genteel fiction&rdquo; to her father &ldquo;that they were all idle beggars together&rdquo; (LD 61). &ldquo;She took the place of eldest of the three, in all things but precedence; was the head of the fallen family; and bore, in her own heart, its anxieties and shames&rdquo; (60). Although such language reflects the meaning of the note, the language of &ldquo;prop and stay&rdquo; is not featured in the novel; Dickens uses it to summarize Amy&rsquo;s role.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1375,1614,667,82"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1377.71161,1613.5723l332.30739,13.58796v0l332.30739,13.58796l-1.11224,27.20105l-1.11224,27.20105l-332.30739,-13.58796l-332.30739,-13.58796l1.11224,-27.20105z\"  id=\"rectangle_7c4c8e94-3d0b-48cd-a93f-18d396b8126d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:02:28.287Z",
+    "@id": "05df1180-d8ff-4c7f-bd11-6d764148e831.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
