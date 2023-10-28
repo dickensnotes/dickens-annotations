@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 22
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.R16</em></p>\n<p dir=\"ltr\"><strong>Describe small auberge of that sort</strong></p>\n<p><span id=\"docs-internal-guid-a06fe6bb-7fff-e3bd-4188-304daed353df\">&nbsp;</span></p>\n<p dir=\"ltr\">This imperative phrase emphasizes the importance of the auberge&rsquo;s description, although this, when read along with the question about the inn&rsquo;s name, may imply that Dickens is recalling a particular &ldquo;sort&rdquo; of premises from his own travels. While the future-oriented imperative, if meant as an intention for composition, could be read as evidence that Dickens wrote these chapter notes before composing the manuscript, the consistency of ink and placement with which the chapter notes for this number sketch out the major events of the number may suggest (as indicated in LD.III headnote annotation) that these are, at least to some extent, retrospective or fairly contemporaneous memoranda. The chapter&rsquo;s detailed description of the Break of Day both sets the scene for this inauspicious encounter and implies that the establishment can stand in for any &ldquo;auberge of [its] sort&rdquo;: &ldquo;[N]o small cabaret for a straitened traveller being within sight, he had to seek one round the dark corner, where the cabbage leaves lay thickest, trodden about the public cistern at which women had not yet left off drawing water. There, in the back street he found one, the Break of Day. The curtained windows clouded the Break of Day, but it seemed light and warm, and it announced in legible inscriptions, with appropriate pictorial embellishments of billiard cue and ball, that at the Break of Day one could play billiards; that there one could find meat, drink, and lodging, whether one came on horseback, or came on foot, and that it kept good wines, liqueurs, and brandy&rdquo; (LD 119).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2026,1864,630,72"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2025.81818,1904.30841l628.36364,31.41818l1.30909,-52.36364l-620.50909,-19.63636z\"  id=\"rough_path_fde46adc-c311-46ee-8a9e-67d26c15442a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:24:50.333Z",
+    "@id": "78cee7fa-a71f-4919-9c71-5af4f3da560b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
