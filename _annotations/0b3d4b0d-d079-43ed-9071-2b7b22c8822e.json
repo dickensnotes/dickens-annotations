@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R6</em></p>\n<p dir=\"ltr\"><strong>Old Christopher Casby [...]</strong></p>\n<p><span id=\"docs-internal-guid-3a55b081-7fff-4ddc-5ed0-fdd426502f6a\">&nbsp;</span></p>\n<p dir=\"ltr\">This note sums up Dickens&rsquo;s characterization of Mr. Casby in a way that may suggest he is retrospectively summarizing work already completed. The opening paragraph of the chapter describes &ldquo;wooden-headed old Christopher&rdquo; (LD 137), who, we later read, is known in the neighborhood as &ldquo;The Last of the Patriarchs&rdquo; (139), but who is really &ldquo;a heavy, selfish, drifting Booby&rdquo; (142).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1372,795,1240,124"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1375.48074,794.84154l618.21317,27.67174v0l618.21317,27.67174l-1.54582,34.53503l-1.54582,34.53503l-618.21317,-27.67174l-618.21317,-27.67174l1.54582,-34.53503z\"  id=\"rectangle_a30bb296-7e99-499b-94e1-071799740a9a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T22:30:31.203Z",
+    "@id": "0b3d4b0d-d079-43ed-9071-2b7b22c8822e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
