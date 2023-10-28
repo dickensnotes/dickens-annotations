@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R8</em></p>\n<p dir=\"ltr\"><strong>Father&rsquo;s wife &ndash; Dorrit born in the Prison</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><br />Mrs. Dorrit gets very little narrative attention. Described as &ldquo;delicate and very inexperienced indeed&rdquo; (LD 49), she enters the narrative for half a chapter to deliver Little Dorrit inside the prison, and she is not even granted a first name before she is dispatched out of the novel when Little Dorrit is eight years old. We&rsquo;re told that she had &ldquo;long been languishing away&rdquo; and that she &ldquo;went on a visit to a poor friend and old nurse in the country, and died there&rdquo; (54).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1690,959,789,80"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1691.64976,958.63458l393.61205,11.28875v0l393.61205,11.28875l-0.83057,28.96012l-0.83057,28.96012l-393.61205,-11.28875l-393.61205,-11.28875l0.83057,-28.96012z\"  id=\"rectangle_cbc4dd6b-9237-4dcc-850f-af26c33530a7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T18:57:33.890Z",
+    "@id": "a327e951-d91c-45a2-b065-2d3a96793094.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
