@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.L5</em></p>\n<p dir=\"ltr\"><strong>Clennam&rsquo;s old sweetheart? [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Having mentioned the &ldquo;old sweetheart&rdquo; twice in the Notes (LD.I.R22 &amp; LD.II.L2), Dickens now finds a way to work her into the novel. In Flora, Dickens drew directly from his own life. In February 1855, just a few months before he began writing this novel, Dickens began an &ldquo;increasingly impassioned exchange of correspondence&rdquo; with his own old sweetheart, Maria Beadnell (now Mrs. Henry Winter) (Slater 387). As Nigel Slater summarizes, when Dickens met Maria again, he &ldquo;found himself confronted with a stout woman of forty-four. She had warned him that she was &lsquo;toothless, fat, old, and ugly&rsquo; but he had simply brushed this aside. Now, after meeting her again in the flesh he wrote to her in a very different tone&rdquo; (388).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens translates this experience into his description of Arthur&rsquo;s reaction to Flora: &ldquo;Clennam&rsquo;s eyes no sooner fell upon the object of his old passion, than it shivered and broke to pieces&hellip; Flora, always tall, had grown to be very broad too, and short of breath; but that was not much. Flora, whom he had left a lily, had become a peony; but that was not much. Flora, who had seemed enchanting in all she said and thought, was diffuse and silly. That was much&rdquo; (LD 142-43). In the manuscript, Dickens first locates the change in Clennam, too (&ldquo;when his eyes fell upon his old passion, Clennam felt for the first time in his life, how much he must have changed&rdquo; [2.113]). He would delete this sentence and instead focus on the extent of Flora&rsquo;s alteration, implicitly defending his own change of attitude towards Maria in exonerating Clennam: &ldquo;Most men will be found sufficiently true to themselves to be true to an old idea. It is no proof of an inconstant mind, but exactly the opposite, when the idea will not bear close comparison with the reality, and the contrast is a fatal shock to it. Such was Clennam's case&rdquo; (LD 142).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=80,753,1170,98"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M79.93473,753.12821h584.91608v0h584.91608v48.78555v48.78555h-584.91608h-584.91608v-48.78555z\"  id=\"rectangle_babd129b-a2f3-4837-869c-bc355947ccd6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:29:53.974Z",
+    "@id": "4ac0e18c-4304-457a-9a77-0385aa7843e4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
