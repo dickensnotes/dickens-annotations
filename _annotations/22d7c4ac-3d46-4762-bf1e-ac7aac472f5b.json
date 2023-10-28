@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.L8</em></p>\n<p dir=\"ltr\"><strong>Lagnier? No</strong></p>\n<p><span id=\"docs-internal-guid-3ee84b3b-7fff-9be1-6947-b1b0e46a8309\">&nbsp;</span></p>\n<p dir=\"ltr\">While the answers to other questions on this page are written in black ink, this question and answer appear to be in the same blue ink, suggesting that, no sooner had Dickens contemplated bringing Lagnier/Rigaud into this chapter, he dismissed the idea. Presumably Dickens felt it was too soon after the character&rsquo;s appearance in Number III for him to appear again.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=143,1098,485,114"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M142.87179,1098.11655h242.25874v0h242.25874v56.94406v56.94406h-242.25874h-242.25874v-56.94406z\"  id=\"rectangle_0058ef2c-ac80-423c-87b9-cd8d0876c7da\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:34:27.488Z",
+    "@id": "22d7c4ac-3d46-4762-bf1e-ac7aac472f5b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
