@@ -4,16 +4,14 @@ order: 20
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "69959e72-4d28-4bbc-bfb8-ded814d0bc0d.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.II.R12</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><strong>chapter VI.</strong></p>\n<p dir=\"ltr\"><br />This is chapter 7 in the published novel, since the chapter numbering Dickens used here still does not take into account the addition of chapter 4 in No. I.</p>"
-        }
+    "oa:annotatedAt": "2023-10-28T19:00:05.381Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 20
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1741.12354,1162.80186h162.42191v0h162.42191v34.79953v34.79953h-162.42191h-162.42191v-34.79953z\"  id=\"rectangle_a3b207c2-fb8b-4df9-a4a4-5c19eeaf6bc0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1741.12354,1162.80186h162.42191v0h162.42191v34.79953v34.79953h-162.42191h-162.42191v-34.79953z\"  id=\"rectangle_a3b207c2-fb8b-4df9-a4a4-5c19eeaf6bc0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 20
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-28T19:00:05.381Z",
-    "@id": "69959e72-4d28-4bbc-bfb8-ded814d0bc0d.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R12</em></p>\n<p dir=\"ltr\"><strong>chapter VI.</strong></p>\n<p dir=\"ltr\"><br />This is chapter 7 in the published novel, since the chapter numbering Dickens used here still does not take into account the addition of chapter 4 in No. I.</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-28T19:05:07.085Z"
 }
