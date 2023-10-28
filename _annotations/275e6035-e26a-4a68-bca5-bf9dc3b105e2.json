@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.L1</em></p>\n<p dir=\"ltr\"><strong>Charging everything on Providence? No</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This note marks the first (and last) time Dickens flatly rejects the inclusion of what had been his initial driving idea for the novel (he had a &ldquo;not yet&rdquo; next to the same idea in No. II, see LD.II.L3). It was after writing No. III, with its critique of systemic administrative failure in chapter 10, that Dickens abandoned his original title for the novel and his idea (communicated to Forster) for &ldquo;a leading man for a story who should bring about all the mischief in it&rdquo; (Forster 2.179).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In wording this question, Dickens has already abandoned the language of &ldquo;the man&rdquo; he used in No. II &ldquo;the man who comfortably charges everything on providence&rdquo; (LD.II.L3). While he is still considering the possibility of this storyline, Dickens recognizes at this point that, as Sucksmith puts it, &ldquo;the notion of one man&rsquo;s responsibility for all the mischief in the story clashed with his awareness that the condition of England must be blamed on a whole social, economic, and political scheme of things&rdquo; (xx-xxi).</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Notably, though, in writing No. III, Dickens seems to have recognized that he could translate his original idea for &ldquo;Nobody&rsquo;s Fault&rdquo; from a story of a single protagonist who abdicates responsibility to a general sense that no one can, or will, claim responsibility for the ills of society; instead, an office like Circumlocution will obscure all human agency. In the opening chapter of Number IV, Dickens uses Plornish to gesture towards this general sense of administrative obfuscation: &ldquo;Why, a man didn&rsquo;t know where to turn himself, for a crumb of comfort. As to who was to blame for it, Mr. Plornish didn&rsquo;t know who was to blame for it. He could tell you who suffered, but he couldn&rsquo;t tell you whose fault it was. It wasn&rsquo;t his place to find out, and who&rsquo;d mind what he said, if he did find out&rdquo; (LD 136).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=29,26,955,72"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M28.65268,98.11655h477.68998v0h477.68998v-36.23776v-36.23776h-477.68998h-477.68998v36.23776z\"  id=\"rectangle_2c0fa1a0-1fce-47fd-a043-fe10b519dec7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:28:38.005Z",
+    "@id": "275e6035-e26a-4a68-bca5-bf9dc3b105e2.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
