@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.L4</em></p>\n<p dir=\"ltr\"><strong>Bleeding Heart Yard? [...]</strong></p>\n<p><span id=\"docs-internal-guid-5756f5c6-7fff-0eb6-0b0d-9be3fa325b09\">&nbsp;</span></p>\n<p dir=\"ltr\">This is the first question to which Dickens&rsquo;s answers yes, and the first topic he turns to in this new number, using Bleeding Heart Yard as the title for its opening chapter. Given that the opening of chapter 12 in the manuscript is in the same blue ink as these questions, it is possible that Dickens wrote these questions shortly before (perhaps even contemporaneously with) his writing of the first two paragraphs of the number, though it is notable that his answers to the questions (including the one about Bleeding Heart Yard) are in black ink, to which he would switch after he had composed an initial draft of the opening two paragraphs of the number.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=66,445,781,200"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M65.94872,445.4359h390.27739v0h390.27739v100.0676v100.0676h-390.27739h-390.27739v-100.0676z\"  id=\"rectangle_dd01b36b-7f90-4ab6-868a-910054d0bd07\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:29:27.287Z",
+    "@id": "5a28e790-f35e-4310-bac8-d1a141a66e5c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
