@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IV.R7</em></p>\n<p dir=\"ltr\"><strong>Unwieldy ship and Steam Tug &ndash; Panx &ndash; Pancks.</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In Pancks, Dickens draws on his book of Memoranda again, in which the very opening note reads: &ldquo;The unwieldy ship, taken in tow by the snorting little steam tug&rdquo; followed by (in a darker ink): &ldquo;(Done in Casby and Panks)&rdquo; (the latter may read &ldquo;Pancks,&rdquo; but the hand is unclear; it is rendered without the C in Kaplan&rsquo;s transcriptions of the memoranda) (1). The name &ldquo;Pancks&rdquo; also appears in the list of names in this Memoranda book, followed by a check mark (3v). In the manuscript, the first mention of Pancks appears as Panx, but is crossed out and replaced with Pancks. This supralinear correction is repeated throughout chapter 13 of the manuscript. It isn&rsquo;t until Pancks returns in chapter 23 (No. VII) that Dickens writes Pancks without correction. It is not clear whether &ldquo;Pancks&rdquo; was added to this Note contemporaneously with &ldquo;Panx&rdquo; or whether it is a later addition, but again we see Dickens using his notes to test out names (for other examples, see LD.I.R5; LD.II.R17).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens will repeatedly describe Pancks and Mr. Casby as the &ldquo;unwieldy ship&rdquo; and &ldquo;steam-tug&rdquo; (LD 142).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN04.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1446,875,1101,114"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1449.04314,874.64951l549.00983,25.49319v0l549.00983,25.49319l-1.4579,31.39674l-1.4579,31.39674l-549.00983,-25.49319l-549.00983,-25.49319l1.4579,-31.39674z\"  id=\"rectangle_c7194174-330e-4079-afab-449ba256044b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T22:31:22.885Z",
+    "@id": "ebf3718f-0d16-472d-84c4-031d0fca3804.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
