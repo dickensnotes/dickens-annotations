@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json"
+order: 23
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.II.R15</em></p>\n<p dir=\"ltr\"><strong>Turnkey perplexed how to &ldquo;tie it up&rdquo; &ndash; Never does tie [xx] it up, but dies</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><br />The turnkey&rsquo;s death is alluded to multiple times in this chapter and the last. In this chapter we learn that &ldquo;He decided to will and bequeath his little property of savings to his godchild, and the point arose how it could be so &lsquo;tied up&rsquo; as that only she should have the benefit of it?&rdquo; However, &ldquo;[h]he deepest character whom the turnkey sounded, was unable to produce his law for tying such a knot as that. So, the turnkey thought about it all his life, and died intestate after all&rdquo; (LD 69). The Turnkey&rsquo;s ineffectual will prefigures the hidden codicil to Gilbert Clennam&rsquo;s will in the novel&rsquo;s final double number.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN02.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1400,1483,1168,107"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1409.79021,1483.44988l-9.32401,100.2331l115.38462,6.99301l2.331,-57.10956l1048.95105,24.47552l1.1655,-48.95105l-191.14219,-23.31002z\"  id=\"rough_path_b29bba7c-2345-49a9-9931-b7a9abb7b000\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:01:59.220Z",
+    "@id": "5246d905-f1a8-4f80-8ab2-2fcafdc8aa60.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
