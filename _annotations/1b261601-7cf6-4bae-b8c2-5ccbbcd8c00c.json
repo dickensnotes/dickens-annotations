@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.III.L4</em></p>\n<p dir=\"ltr\"><strong>Miss Wade in the prison ? [...]</strong></p>\n<p><span id=\"docs-internal-guid-c9bdb27b-7fff-f31f-4e51-c48b1bb686ac\"><br />This is the first instance in which Dickens attempts, unsuccessfully, to work Miss Wade back into the story (see LD.IV.L2 for another example). Dickens had originally intended, it seems, to have Miss Wade and her father connected to the Dorrits in the Marshalsea, but he decided against this idea and instead waited to reintroduce Miss Wade in No. V via Tattycoram. Herring comments: &ldquo;Miss Wade is responsible for a rather tenuous connection between several strands of the story, and perhaps one reason for Dickens&rsquo; dissatisfaction with the first numbers stemmed from his inability to work her firmly in to the novel&rdquo; (25). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN03.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=122,816,881,88"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M121.89277,816.06527h440.39394v0h440.39394v44.12354v44.12354h-440.39394h-440.39394v-44.12354z\"  id=\"rectangle_d7e3daca-0a01-46b9-8bec-fcc2412f82b2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-28T19:14:02.233Z",
+    "@id": "1b261601-7cf6-4bae-b8c2-5ccbbcd8c00c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
