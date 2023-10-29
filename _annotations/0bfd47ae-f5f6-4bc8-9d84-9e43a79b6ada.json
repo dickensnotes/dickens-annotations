@@ -4,16 +4,14 @@ order: 13
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "0bfd47ae-f5f6-4bc8-9d84-9e43a79b6ada.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-b3518b1b-7fff-c246-b351-cc8b090299dd\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R8</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mrs Pegler Bounderby&rsquo;s mother</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens has had this revelation planned from early in the novel. Bounderby&rsquo;s mother first appears in chapter 12 (No. II, weekly installment 6) and the memoranda for that chapter identify her as &ldquo;Bounderby&rsquo;s mother.&rdquo; So this note is simply recording the events of the chapter rather than documenting anything new.</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-23T21:29:21.679Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 13
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1400.95445,1133.90129l246.70439,10.05214v0l246.70439,10.05214l-0.9091,22.3115l-0.9091,22.3115l-246.70439,-10.05214l-246.70439,-10.05214l0.9091,-22.3115z\"  id=\"rectangle_080cd46b-c584-4e72-ab21-1992f3ee400a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1400.95445,1133.90129l246.70439,10.05214v0l246.70439,10.05214l-0.9091,22.3115l-0.9091,22.3115l-246.70439,-10.05214l-246.70439,-10.05214l0.9091,-22.3115z\"  id=\"rectangle_080cd46b-c584-4e72-ab21-1992f3ee400a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 13
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-23T21:29:21.679Z",
-    "@id": "0bfd47ae-f5f6-4bc8-9d84-9e43a79b6ada.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-b3518b1b-7fff-c246-b351-cc8b090299dd\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R8</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mrs Pegler Bounderby&rsquo;s mother<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens has had this revelation planned from early in the novel. Bounderby&rsquo;s mother first appears in chapter 12 (No. II, weekly installment 6) and the memoranda for that chapter identify her as &ldquo;Bounderby&rsquo;s mother.&rdquo; So this note is simply recording the events of the chapter rather than documenting anything new.</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:53:36.842Z"
 }
