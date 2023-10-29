@@ -4,16 +4,14 @@ order: 6
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "d87263b2-72f6-4037-badb-eebcc40adf31.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-0513cacc-7fff-b917-c2c9-5456b15854d3\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Stephen won&rsquo;t join, and is sent to Coventry</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">To &ldquo;send to Coventry&rdquo; is an idiomatic expression that means to ostracize someone or to treat them as if they are absent. In the text Bitzer inquires of Stephen whether he is &ldquo;&lsquo;the Hand they have sent to Coventry&rsquo;&rdquo; before summoning him to Bounderby (HT 176). Francis Grose&rsquo;s <em>1811 Dictionary of the Vulgar Tongue</em> gives this definition: &ldquo;To send one to Coventry; a punishment inflicted by officers of the army on such of their brethren as are testy, or have been guilty of improper behaviour, not worthy the cognizance of a court martial. The person sent to Coventry is considered as absent; no one must speak to or answer any question he asks, except relative to duty, under penalty of being also sent to the same place. On a proper submission, the penitent is recalled, and welcomed by the mess, as just returned from a journey to Coventry.&rdquo; </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:59:41.945Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 6
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1604.37236,1195.03273h360.10982v0h360.10982v29.27636v29.27636h-360.10982h-360.10982v-29.27636z\"  id=\"rectangle_c7103132-2030-4e40-9348-f26dc221afbc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1604.37236,1195.03273h360.10982v0h360.10982v29.27636v29.27636h-360.10982h-360.10982v-29.27636z\"  id=\"rectangle_c7103132-2030-4e40-9348-f26dc221afbc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6.69216\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 6
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:59:41.945Z",
-    "@id": "d87263b2-72f6-4037-badb-eebcc40adf31.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-0513cacc-7fff-b917-c2c9-5456b15854d3\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Stephen won&rsquo;t join, and is sent to Coventry<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">To &ldquo;send to Coventry&rdquo; is an idiomatic expression that means to ostracize someone or to treat them as if they are absent. In the text Bitzer inquires of Stephen whether he is &ldquo;&lsquo;the Hand they have sent to Coventry&rsquo;&rdquo; before summoning him to Bounderby (HT 176). Francis Grose&rsquo;s <em>1811 Dictionary of the Vulgar Tongue</em> gives this definition: &ldquo;To send one to Coventry; a punishment inflicted by officers of the army on such of their brethren as are testy, or have been guilty of improper behaviour, not worthy the cognizance of a court martial. The person sent to Coventry is considered as absent; no one must speak to or answer any question he asks, except relative to duty, under penalty of being also sent to the same place. On a proper submission, the penitent is recalled, and welcomed by the mess, as just returned from a journey to Coventry.&rdquo; </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:50:16.569Z"
 }
