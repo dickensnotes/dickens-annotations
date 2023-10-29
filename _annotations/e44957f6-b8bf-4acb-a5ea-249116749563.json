@@ -4,16 +4,14 @@ order: 22
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "e44957f6-b8bf-4acb-a5ea-249116749563.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-c90115e1-7fff-0a2c-5355-396842cfb8b9\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.R12</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Over-&ldquo;goosed&rdquo;.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On February 20, 1854, Dickens wrote to his friend Mark Lemon with a request: &ldquo;Will you note down and send me any slang terms among tumblers and Circus-people, that you can call to mind? I have noted down some&ndash;I want them in my new story&ndash;but it is very probable that you will recall several which I have not got&rdquo; (Letters 7.279). Such terms would have been particularly relevant for Dickens&rsquo;s composition of chapter 6 and the portrait of the circus in this chapter, where Mr. Childers speaks of Signor Jupe &ldquo;missing his tip&rdquo; (HT 73) and being &ldquo;goosed&rdquo; (HT 74).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:31:40.235Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 22
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2023.49091,1473.08364h153.37818v0h153.37818v26.92v26.92h-153.37818h-153.37818v-26.92z\"  id=\"rectangle_83311f69-a0b3-4591-adfa-0a55be1194ef\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2023.49091,1473.08364h153.37818v0h153.37818v26.92v26.92h-153.37818h-153.37818v-26.92z\"  id=\"rectangle_83311f69-a0b3-4591-adfa-0a55be1194ef\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"0.90909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 22
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:31:40.235Z",
-    "@id": "e44957f6-b8bf-4acb-a5ea-249116749563.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-c90115e1-7fff-0a2c-5355-396842cfb8b9\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.R12</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Over-&ldquo;goosed&rdquo;.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On February 20, 1854, Dickens wrote to his friend Mark Lemon with a request: &ldquo;Will you note down and send me any slang terms among tumblers and Circus-people, that you can call to mind? I have noted down some&ndash;I want them in my new story&ndash;but it is very probable that you will recall several which I have not got&rdquo; (Letters 7.279). Such terms would have been particularly relevant for Dickens&rsquo;s composition of chapter 6 and the portrait of the circus in this chapter, where Mr. Childers speaks of Signor Jupe &ldquo;missing his tip&rdquo; (HT 73) and being &ldquo;goosed&rdquo; (HT 74).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:46:05.199Z"
 }
