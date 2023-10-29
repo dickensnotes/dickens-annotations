@@ -4,16 +4,14 @@ order: 2
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "9c864493-f3fe-44a5-8d00-811fe18fc2d7.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-b85bff17-7fff-f5e6-2241-e581fd624252\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.L1&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>Mem: Write and calculate the story in the old monthly Nos.</strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This leading memoranda makes a fascinating accompaniment to the half-sheet on which Dickens &ldquo;calculates&rdquo; how much of his writing would be required to fill &ldquo;about five pages of Household Words&rdquo; each week (see HT.Mems.L2). <em>Hard Times</em> is the only novel that Dickens published in weekly installments for which he kept a complete set of Working Notes. Dickens&rsquo;s decision to use the Working Note system goes hand-in-hand with this memorandum to &ldquo;write and calculate the story in the old monthly N[umbers],&rdquo; since it is unclear how this system&ndash;which he had developed over his previous three novels (<em>Dombey and Son</em>, <em>David Copperfield</em>, and<em> Bleak House</em>)&ndash;could be adapted or translated to weekly composition. Dickens&rsquo;s description of the monthly number as &ldquo;old&rdquo; has a sentimental feel, given that the final installment of <em>Bleak House</em> appeared in September 1853, less than six months prior to his beginning work on Hard Times. This compositional format, then, is &ldquo;old&rdquo; more in the sense of well-established and familiar at this point in Dickens&rsquo;s career. See the Critical Introduction for more on the challenges of the weekly serial. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:13:33.896Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 2
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M45.2594,135.63544h609.98662v0h609.98662v-42.49904v-42.49904h-609.98662h-609.98662v42.49904z\"  id=\"rectangle_8a53c178-faec-4887-b494-76ac615a3636\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M45.2594,135.63544h609.98662v0h609.98662v-42.49904v-42.49904h-609.98662h-609.98662v42.49904z\"  id=\"rectangle_8a53c178-faec-4887-b494-76ac615a3636\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"12.04589\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 2
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:13:33.896Z",
-    "@id": "9c864493-f3fe-44a5-8d00-811fe18fc2d7.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-b85bff17-7fff-f5e6-2241-e581fd624252\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.L1&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>Mem: Write and calculate the story in the old monthly Nos.<br /><br /></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This leading memoranda makes a fascinating accompaniment to the half-sheet on which Dickens &ldquo;calculates&rdquo; how much of his writing would be required to fill &ldquo;about five pages of Household Words&rdquo; each week (see HT.Mems.L2). <em>Hard Times</em> is the only novel that Dickens published in weekly installments for which he kept a complete set of Working Notes. Dickens&rsquo;s decision to use the Working Note system goes hand-in-hand with this memorandum to &ldquo;write and calculate the story in the old monthly N[umbers],&rdquo; since it is unclear how this system&ndash;which he had developed over his previous three novels (<em>Dombey and Son</em>, <em>David Copperfield</em>, and<em> Bleak House</em>)&ndash;could be adapted or translated to weekly composition. Dickens&rsquo;s description of the monthly number as &ldquo;old&rdquo; has a sentimental feel, given that the final installment of <em>Bleak House</em> appeared in September 1853, less than six months prior to his beginning work on Hard Times. This compositional format, then, is &ldquo;old&rdquo; more in the sense of well-established and familiar at this point in Dickens&rsquo;s career. See the Critical Introduction for more on the challenges of the weekly serial. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:44:07.180Z"
 }
