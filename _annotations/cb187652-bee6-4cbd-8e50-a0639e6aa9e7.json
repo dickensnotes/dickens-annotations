@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.R13</em></p>\n<p dir=\"ltr\"><strong>Work in John Baptist Cavaletto</strong></p>\n<p><span id=\"docs-internal-guid-301c4a8e-7fff-a59f-f385-9db679535786\">&nbsp;</span></p>\n<p dir=\"ltr\">Again Dickens proactively instructs himself to &ldquo;work in&rdquo; a character via Pancks, who &ldquo;showed a dawning interest in the lame foreigner&rdquo; (LD 294). Cavalletto (spelled with just one L in this note, as in the notes for No. I, LD.I.R5) has been absent from the narrative since No. 4 (chapter 13), so here and in his memoranda Dickens recognize a need to bring him back into the narrative (although his answer to his question on the left indicates that he intends to merely &ldquo;carry [him] through,&rdquo; LD.VII.L4).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1508,1814,753,73"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1509.77742,1814.21408l375.75763,10.4488v0l375.75763,10.4488l-0.7291,26.2199l-0.7291,26.2199l-375.75763,-10.4488l-375.75763,-10.4488l0.7291,-26.2199z\"  id=\"rectangle_b58a0e7e-a2c6-4250-a775-96466d0b5a1a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:42:47.315Z",
+    "@id": "cb187652-bee6-4cbd-8e50-a0639e6aa9e7.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
