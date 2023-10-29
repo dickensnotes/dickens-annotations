@@ -4,16 +4,14 @@ order: 7
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "151895b9-258b-47b9-91db-c334de07e8a7.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-53f74a8f-7fff-9381-b991-ac9e36de3692\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II.L6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bitzer&rsquo;s father &amp; mother? No.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Even though Dickens decided against introducing Bitzer&rsquo;s parents to the novel, the grouping of these three items focusing on character growth and parental neglect or abuse outline a running theme for these chapters. Bitzer does not appear in this &lsquo;number,&rsquo; but he returns at the outset of the next one (chapter 17) in his role as the &ldquo;Light Porter&rdquo; at the Bank. This includes a brief account of his parents: &ldquo;Having satisfied himself, on his father&rsquo;s death, that his mother had a right of settlement in Coketown, this excellent young economist had asserted that right for her with such a steadfast adherence to the principle of the case, that she had been shut up in the workhouse ever since. It must be admitted that he allowed her half a pound of tea a year, which was weak in him&rdquo; (HT 150).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:38:45.915Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 7
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M73.67855,1129.05455h402.52436v0h402.52436v43.41455v43.41455h-402.52436h-402.52436v-43.41455z\"  id=\"rectangle_be0bcfb8-1a68-4a4f-8213-6856a45554bc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M73.67855,1129.05455h402.52436v0h402.52436v43.41455v43.41455h-402.52436h-402.52436v-43.41455z\"  id=\"rectangle_be0bcfb8-1a68-4a4f-8213-6856a45554bc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 7
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:38:45.915Z",
-    "@id": "151895b9-258b-47b9-91db-c334de07e8a7.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-53f74a8f-7fff-9381-b991-ac9e36de3692\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II.L6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bitzer&rsquo;s father &amp; mother? No.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Even though Dickens decided against introducing Bitzer&rsquo;s parents to the novel, the grouping of these three items focusing on character growth and parental neglect or abuse outline a running theme for these chapters. Bitzer does not appear in this &lsquo;number,&rsquo; but he returns at the outset of the next one (chapter 17) in his role as the &ldquo;Light Porter&rdquo; at the Bank. This includes a brief account of his parents: &ldquo;Having satisfied himself, on his father&rsquo;s death, that his mother had a right of settlement in Coketown, this excellent young economist had asserted that right for her with such a steadfast adherence to the principle of the case, that she had been shut up in the workhouse ever since. It must be admitted that he allowed her half a pound of tea a year, which was weak in him&rdquo; (HT 150).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:46:53.634Z"
 }
