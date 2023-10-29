@@ -13,6 +13,7 @@ order: 7
     "oa:annotatedBy": [
         "Adam Grener"
     ],
+    "oa:serializedAt": "2023-10-29T01:49:02.942Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -25,7 +26,7 @@ order: 7
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M550.60655,1283.632h299.78691v0h299.78691v53.78255v53.78255h-299.78691h-299.78691v-53.78255z\"  id=\"rectangle_39a0b4fe-9f2f-471c-ae39-34ab1f4b0a26\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M550.60655,1283.632h299.78691v0h299.78691v53.78255v53.78255h-299.78691h-299.78691v-53.78255z\"  id=\"rectangle_39a0b4fe-9f2f-471c-ae39-34ab1f4b0a26\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"0.90909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -37,9 +38,8 @@ order: 7
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p id=\"docs-internal-guid-d631239b-7fff-2b9f-ca66-c98a6b8e66b8\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.L6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">No. Decide on no love at all.&nbsp;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These two possibilities of elaborating Sissy&rsquo;s character are both not taken up, and she does not appear at all in this &lsquo;number&rsquo; and in fact does not return until the final &lsquo;number&rsquo; in chapter 29. No doubt much of this was a consequence of the constraints on space which had frustrated Dickens throughout the composition of the novel. While a &ldquo;lover for Sissy&rdquo; would have offered an opportunity to include romantic fulfillment in a novel where it is entirely absent, it would have required narrative space beyond the novel&rsquo;s compressed format. Sissy&rsquo;s happiness, which includes children, is nevertheless confirmed in the novel&rsquo;s proleptic finale: &ldquo;But, happy Sissy&rsquo;s happy children loving [Louisa]; all children loving her [...] These things were to be&rdquo; (HT 313).</span></p>",
+            "chars": "<p id=\"docs-internal-guid-d631239b-7fff-2b9f-ca66-c98a6b8e66b8\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.L6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">No. Decide on no love at all.&nbsp;<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These two possibilities of elaborating Sissy&rsquo;s character are both not taken up, and she does not appear at all in this &lsquo;number&rsquo; and in fact does not return until the final &lsquo;number&rsquo; in chapter 29. No doubt much of this was a consequence of the constraints on space which had frustrated Dickens throughout the composition of the novel. While a &ldquo;lover for Sissy&rdquo; would have offered an opportunity to include romantic fulfillment in a novel where it is entirely absent, it would have required narrative space beyond the novel&rsquo;s compressed format. Sissy&rsquo;s happiness, which includes children, is nevertheless confirmed in the novel&rsquo;s proleptic finale: &ldquo;But, happy Sissy&rsquo;s happy children loving [Louisa]; all children loving her [...] These things were to be&rdquo; (HT 313).</span></p>",
             "format": "text/html"
         }
-    ],
-    "oa:serializedAt": "2023-10-22T00:56:45.705Z"
+    ]
 }
