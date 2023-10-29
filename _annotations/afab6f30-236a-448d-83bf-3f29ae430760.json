@@ -4,16 +4,14 @@ order: 11
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "afab6f30-236a-448d-83bf-3f29ae430760.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The great effect.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Given its placement, this note seems to be a general header for this weekly installment comprising chapters 33 and 34, and seems to refer primarily to his handling of Stephen&rsquo;s discovery and death. As this was to be the penultimate installment in the novel&rsquo;s serial run, clearly Dickens was conscious of managing the novel&rsquo;s key narrative elements as it moved toward its conclusion. The focus on Stephen&rsquo;s absence, emphasized at the start and end of chapter 33 (and carried over from the prior installment&ndash;all documented here on the Working Note), is clearly managed with &ldquo;great effect.&rdquo; The same applies as well to Stephen&rsquo;s melodramatic discovery and sentimentalized death-scene in chapter 34. The revelation of &ldquo;Mrs Pegler [as] Bounderby&rsquo;s mother&rdquo; is also a scene of characteristic Dickensian &ldquo;effect,&rdquo; similar to scenes like the exposure of Mr. Pecksniff in <em>Martin Chuzzlewit</em> and the &ldquo;smash[ing]&rdquo; of Uriah Heep in <em>David Copperfield</em> (see DC_WN_17).</span></p>"
-        }
+    "oa:annotatedAt": "2023-10-23T21:28:05.967Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 11
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2420.47273,1018.71573h131.25455v0h131.25455v40.27273v40.27273h-131.25455h-131.25455v-40.27273z\"  id=\"rectangle_c3912187-bcbb-4969-8cbc-e15ee09b2cff\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2420.47273,1018.71573h131.25455v0h131.25455v40.27273v40.27273h-131.25455h-131.25455v-40.27273z\"  id=\"rectangle_c3912187-bcbb-4969-8cbc-e15ee09b2cff\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"11.31055\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 11
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-23T21:28:05.967Z",
-    "@id": "afab6f30-236a-448d-83bf-3f29ae430760.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The great effect.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Given its placement, this note seems to be a general header for this weekly installment comprising chapters 33 and 34, and seems to refer primarily to his handling of Stephen&rsquo;s discovery and death. As this was to be the penultimate installment in the novel&rsquo;s serial run, clearly Dickens was conscious of managing the novel&rsquo;s key narrative elements as it moved toward its conclusion. The focus on Stephen&rsquo;s absence, emphasized at the start and end of chapter 33 (and carried over from the prior installment&ndash;all documented here on the Working Note), is clearly managed with &ldquo;great effect.&rdquo; The same applies as well to Stephen&rsquo;s melodramatic discovery and sentimentalized death-scene in chapter 34. The revelation of &ldquo;Mrs Pegler [as] Bounderby&rsquo;s mother&rdquo; is also a scene of characteristic Dickensian &ldquo;effect,&rdquo; similar to scenes like the exposure of Mr. Pecksniff in <em>Martin Chuzzlewit</em> and the &ldquo;smash[ing]&rdquo; of Uriah Heep in <em>David Copperfield</em> (see DC_WN_17).</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:53:43.623Z"
 }
