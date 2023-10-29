@@ -13,6 +13,7 @@ order: 1
     "oa:annotatedBy": [
         "Adam Grener"
     ],
+    "oa:serializedAt": "2023-10-29T01:51:15.564Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -25,7 +26,7 @@ order: 1
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1354.69216,153.4812h672.65392v0h672.65392v-73.39452v-73.39452h-672.65392h-672.65392v73.39452z\"  id=\"rectangle_e1752015-9203-4786-97b1-41e78efbb5d6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.38432\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1354.69216,153.4812h672.65392v0h672.65392v-73.39452v-73.39452h-672.65392h-672.65392v73.39452z\"  id=\"rectangle_e1752015-9203-4786-97b1-41e78efbb5d6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6.69216\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -40,6 +41,5 @@ order: 1
             "chars": "<p id=\"docs-internal-guid-50c96a4e-7fff-0c16-dd41-a591b4767b7c\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.IV<br /><br /></span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As with the prior &lsquo;number,&rsquo; Dickens&rsquo;s correspondence is largely devoid of reference to the novel during the period of composition for these chapters (late May and early June). By late May, however, Dickens is already making reference to his plans for traveling to Boulogne on the 17th of June, where he would finish composition of the novel (Letters 7.339-341). See <em>HT.V-VI</em> for more on Dickens&rsquo;s travels.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Weekly No. 13 appeared in <em>Household Words</em> issue no. 222, dated Saturday, June 24, 1854, with the subsequent installments appearing the following three weeks (July 1st, 8th, and 15th, respectively).</span></p>\n<p>&nbsp;</p>",
             "format": "text/html"
         }
-    ],
-    "oa:serializedAt": "2023-10-29T01:51:11.305Z"
+    ]
 }
