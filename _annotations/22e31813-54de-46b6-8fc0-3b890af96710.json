@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "22e31813-54de-46b6-8fc0-3b890af96710.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-e9e13286-7fff-abd8-83c3-57b38cac1543\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Popular leader?</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This is of course &ldquo;Slackbridge the orator&rdquo; who appears in chapter 20. Dickens appears to have drawn this image of Slackbridge from his visit to Preston in January, where he saw the political activist Mortimer Grimshsaw speak to an assembly of delegates from the mills. He depicted Grimshaw as the figure of &ldquo;Gruffshaw&rdquo; in his article &ldquo;On Strike,&rdquo; which appeared in the February 11th issue of <em>Household Words</em>. See the Critical Introduction for more on <em>Hard Times</em> as an industrial novel.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens had privately expressed &ldquo;the strongest feeling of indignation and horror on the subject&rdquo; (Letters 7.298) of conditions of labor in the mills and had wanted to ensure&ndash;in taking up these issues in <em>Household Words</em> in an article called &ldquo;Ground in the Mill&rdquo; by Henry Morley on April 22nd&ndash;that the &ldquo;equitable balance&rdquo; of the issue should not be turned &ldquo;one hair&rsquo;s weight in favor of the Mill Owners&rdquo; (Letters 7.297-98). In <em>Hard Times</em>, however, Dickens emphasizes the dignity and humanity of the suffering laborers while also suggesting how their rightful discontent about those conditions might be exploited by &ldquo;popular leader[s]&rdquo; like Slackbridge. This is expressed during Slackbridge&rsquo;s oration in chapter 20: &ldquo;Strange as it always is to consider any assembly in the act of submissively resigning itself to the dreariness of some complacent person, lord or commoner, whom three-fourths of it could, by no human means, raise out of the slough of inanity to their own intellectual level, it was particularly strange, and it was even particularly affecting, to see this crowd of earnest faces, whose honesty in the main no competent observer free from bias could doubt, so agitated by such a leader&rdquo; (HT 170). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:55:36.529Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M179.24364,1140.36509h247.00436v0h247.00436v46.24218v46.24218h-247.00436h-247.00436v-46.24218z\"  id=\"rectangle_4548461c-0ba6-454c-a603-81c6ae572d6c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M179.24364,1140.36509h247.00436v0h247.00436v46.24218v46.24218h-247.00436h-247.00436v-46.24218z\"  id=\"rectangle_4548461c-0ba6-454c-a603-81c6ae572d6c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:55:36.529Z",
-    "@id": "22e31813-54de-46b6-8fc0-3b890af96710.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-e9e13286-7fff-abd8-83c3-57b38cac1543\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Popular leader?<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This is of course &ldquo;Slackbridge the orator&rdquo; who appears in chapter 20. Dickens appears to have drawn this image of Slackbridge from his visit to Preston in January, where he saw the political activist Mortimer Grimshsaw speak to an assembly of delegates from the mills. He depicted Grimshaw as the figure of &ldquo;Gruffshaw&rdquo; in his article &ldquo;On Strike,&rdquo; which appeared in the February 11th issue of <em>Household Words</em>. See the Critical Introduction for more on <em>Hard Times</em> as an industrial novel.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens had privately expressed &ldquo;the strongest feeling of indignation and horror on the subject&rdquo; (Letters 7.298) of conditions of labor in the mills and had wanted to ensure&ndash;in taking up these issues in <em>Household Words</em> in an article called &ldquo;Ground in the Mill&rdquo; by Henry Morley on April 22nd&ndash;that the &ldquo;equitable balance&rdquo; of the issue should not be turned &ldquo;one hair&rsquo;s weight in favor of the Mill Owners&rdquo; (Letters 7.297-98). In <em>Hard Times</em>, however, Dickens emphasizes the dignity and humanity of the suffering laborers while also suggesting how their rightful discontent about those conditions might be exploited by &ldquo;popular leader[s]&rdquo; like Slackbridge. This is expressed during Slackbridge&rsquo;s oration in chapter 20: &ldquo;Strange as it always is to consider any assembly in the act of submissively resigning itself to the dreariness of some complacent person, lord or commoner, whom three-fourths of it could, by no human means, raise out of the slough of inanity to their own intellectual level, it was particularly strange, and it was even particularly affecting, to see this crowd of earnest faces, whose honesty in the main no competent observer free from bias could doubt, so agitated by such a leader&rdquo; (HT 170). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:48:49.633Z"
 }
