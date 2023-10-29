@@ -4,16 +4,14 @@ order: 9
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "1990c47b-5fa2-4bd8-81de-d9e5dbc85570.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-d9f0d78a-7fff-393d-f8e0-47c107ed339b\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.R10</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Out of the coal ashes on to the country dust</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This final paragraph of the &ldquo;picture&rdquo; of Stephen leaving Coketown is revised substantially in the manuscript. The &ldquo;so strange&rdquo; phrase that opens the first two sentences is added as part of these edits and revisions, and the term &ldquo;country-dust&rdquo; from this memorandum appears in the manuscript before it is changed to &ldquo;road-dust.&rdquo; The final paragraph of chapter 22 in the published text reads: &ldquo;So strange to turn from the chimneys to the birds. So strange to have the road-dust on his feet instead of the coal-grit. So strange to have lived to his time of life, and yet to be beginning like a boy this summer morning! With these musings in his mind, and his bundle under his arm, Stephen took his attentive face along the high road. And the trees arched over him, whispering that he left a true and loving heart behind&rdquo; (HT 194).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T01:01:30.318Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 9
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1724.93706,1969.94973l392.49209,-0.76008v0l392.49209,-0.76008l0.05396,27.86643l0.05396,27.86643l-392.49209,0.76008l-392.49209,0.76008l-0.05396,-27.86643z\"  id=\"rectangle_51e24a07-ac95-423f-bd08-3eb1f653b65a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1724.93706,1969.94973l392.49209,-0.76008v0l392.49209,-0.76008l0.05396,27.86643l0.05396,27.86643l-392.49209,0.76008l-392.49209,0.76008l-0.05396,-27.86643z\"  id=\"rectangle_51e24a07-ac95-423f-bd08-3eb1f653b65a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6.69216\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 9
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T01:01:30.318Z",
-    "@id": "1990c47b-5fa2-4bd8-81de-d9e5dbc85570.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-d9f0d78a-7fff-393d-f8e0-47c107ed339b\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.R10</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Out of the coal ashes on to the country dust<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This final paragraph of the &ldquo;picture&rdquo; of Stephen leaving Coketown is revised substantially in the manuscript. The &ldquo;so strange&rdquo; phrase that opens the first two sentences is added as part of these edits and revisions, and the term &ldquo;country-dust&rdquo; from this memorandum appears in the manuscript before it is changed to &ldquo;road-dust.&rdquo; The final paragraph of chapter 22 in the published text reads: &ldquo;So strange to turn from the chimneys to the birds. So strange to have the road-dust on his feet instead of the coal-grit. So strange to have lived to his time of life, and yet to be beginning like a boy this summer morning! With these musings in his mind, and his bundle under his arm, Stephen took his attentive face along the high road. And the trees arched over him, whispering that he left a true and loving heart behind&rdquo; (HT 194).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:50:35.708Z"
 }
