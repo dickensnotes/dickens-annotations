@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.R5</em></p>\n<p dir=\"ltr\"><strong>Indicate Pancks&rsquo;s relations with the Patriarch</strong></p>\n<p><span id=\"docs-internal-guid-26818fe5-7fff-183e-fc0b-369cc899ae3b\">&nbsp;</span></p>\n<p dir=\"ltr\">Although Pancks enters the novel as a questionable character, connected as he is with the Patriarch as a clerk and rent collector, this chapter will begin to distance Pancks from his employer; he assures Clennam that his interest in the Dorrit family is not connected to his work for Casby: &ldquo;Better admit motive to be good&rdquo; (LD 270). Indeed, the chapter ends with a hint of discord between Pancks and the Patriarch, when the latter accuses Pancks of &ldquo;a very bad day&rsquo;s work&rdquo; (LD 273). This indication of relations sets up Pancks&rsquo;s future public humiliation of Casby in the final double number (LD.XIX-XX.R12).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2164,639,527,100"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2163.51981,687.52914l60.60606,46.62005l240.09324,4.662l219.11422,-11.65501l6.99301,-88.57809h-60.60606z\"  id=\"rough_path_ff53a10b-c4a8-49d6-ac8f-1d71204d87fd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:38:49.246Z",
+    "@id": "88bf2e49-492d-4dc4-8167-da34ca6a0579.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
