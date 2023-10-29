@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R8</em></p>\n<p dir=\"ltr\"><strong>Sticky old Saints &ndash; mere Fly Traps</strong></p>\n<p><span id=\"docs-internal-guid-512e6010-7fff-fc7f-c597-5b54703d6a3d\">&nbsp;</span></p>\n<p dir=\"ltr\">&ldquo;There was one little picture-room devoted to a few of the regular sticky old Saints, with sinews like whipcord, hair like Neptune&rsquo;s, wrinkles like tattooing, and such coats of varnish that every holy personage served for a fly-trap, and became what is now called in the vulgar tongue a Catch-em-alive O&rdquo; (LD 188).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1861,1058,669,42"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1860.82051,1100.44755h334.33333v0h334.33333v-21.14452v-21.14452h-334.33333h-334.33333v21.14452z\"  id=\"rectangle_390cb4c9-b1e3-4950-a2e9-1d58d2dd3ab9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:06:52.334Z",
+    "@id": "9ccb2e16-29bf-4894-87a6-a80935ebb4df.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
