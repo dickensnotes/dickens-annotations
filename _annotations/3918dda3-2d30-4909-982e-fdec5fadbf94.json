@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 27
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R22</em></p>\n<p dir=\"ltr\"><strong>Mrs Chivery [...]</strong></p>\n<p><span id=\"docs-internal-guid-afad422e-7fff-3aa9-b388-47123d1f525c\">&nbsp;</span></p>\n<p dir=\"ltr\">Although Mrs. Chivery uses the construction &ldquo;in this house&rdquo; four times in this chapter, the complete phrase mentioned here is not used. Dickens may have been testing out a &ldquo;construction&rdquo; in the notes before deciding on its use in the chapter.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1367,1924,1069,75"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1370.62533,1923.8918l270.90909,21.81818l790,23.38049l4.54545,30.00044l-802.72727,-17.27273l-266.36364,-18.18182z\"  id=\"rough_path_e2892341-d6b4-4fd5-acb9-865780ab3fc0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:27:08.784Z",
+    "@id": "3918dda3-2d30-4909-982e-fdec5fadbf94.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
