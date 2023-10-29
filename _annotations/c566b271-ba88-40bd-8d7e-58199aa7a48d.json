@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R7</em></p>\n<p dir=\"ltr\"><strong>Picture</strong></p>\n<p><span id=\"docs-internal-guid-ac96a05e-7fff-9815-0b7b-a20128f5be85\"><br />While this could be a reference to the pictures that appear in the &ldquo;little picture-room&rdquo; (LD 188), it is more likely to be either a reference to the &ldquo;natural picture on the wall&rdquo; of Pet and her deceased twin sister (189) or perhaps, given Dickens&rsquo;s frequent references to &ldquo;picture&rdquo; as description in the Notes, a reference to the picture Dickens paints of Mr. Meagles&rsquo;s house and his collection of curiosities (for other examples of Dickens&rsquo;s use of &ldquo;picture&rdquo; in this way, see LD.I.R2, LD.I.R4, LD.III.R17, LD.VII.R2, LD.VIII.R10, LD.IX.R9, and LD.XI.L5. See also BH.XIX-XX.L5 and HT.II.L4). Portraits may have been on his mind at this time, since Dickens was sitting for his self-described &ldquo;nightmare portrait&rdquo; by Ary Scheffer (Letters 8.8; see illustration in Critical Introduction). Unlike his own portrait, which Dickens described as &ldquo;not look[ing] to me at all like&hellip; the original&rdquo; (8.9), the portrait of Minnie Gowan and her twin bears a striking resemblance to Pet: &ldquo;both are still so like you,&rdquo; exclaims Clennam (LD 189). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1840,1007,142,49"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1839.84149,1007.20746h70.93007v0h70.93007v24.31002v24.31002h-70.93007h-70.93007v-24.31002z\"  id=\"rectangle_26a78365-13fc-4090-871c-8cd746ee5e51\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:06:30.343Z",
+    "@id": "c566b271-ba88-40bd-8d7e-58199aa7a48d.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
