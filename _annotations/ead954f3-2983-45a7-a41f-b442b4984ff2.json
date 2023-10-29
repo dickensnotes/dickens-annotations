@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 25
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R17</em></p>\n<p dir=\"ltr\"><strong>[Rain] Rain</strong></p>\n<p><span id=\"docs-internal-guid-1053034f-7fff-7a42-f81f-812c2377308c\">&nbsp;</span></p>\n<p dir=\"ltr\">With this one erased, rewritten, and emphasized note, Dickens references the closing of a chapter, as was his practice for many final chapter notes. Dickens uses the rain to mirror Clennam&rsquo;s emotional state: &ldquo;The rain fell heavily on the roof, and pattered on the ground, and dripped among the evergreens, and the leafless branches of the trees. The rain fell heavily, drearily. It was a night of tears&rdquo; (LD 204).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2389,1685,309,108"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2388.57018,1684.78371h154.58385v0h154.58385v54.15956v54.15956h-154.58385h-154.58385v-54.15956z\"  id=\"rectangle_dc8b4b02-6011-4920-9c20-f4e52779a159\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:12:57.075Z",
+    "@id": "ead954f3-2983-45a7-a41f-b442b4984ff2.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
