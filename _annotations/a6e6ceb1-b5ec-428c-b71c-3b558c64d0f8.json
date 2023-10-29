@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.R2</em></p>\n<p dir=\"ltr\"><strong>The Factory &ndash; Picture</strong></p>\n<p><span id=\"docs-internal-guid-a25e6962-7fff-d0ba-6448-fc472abc2778\">&nbsp;</span></p>\n<p dir=\"ltr\">This is one of many instances in the Notes to this novel in which Dickens refers to a &ldquo;picture&rdquo; without a clear referent (see, for instance, LD.I.R2, LD.I.R4, LD.III.R17, LD.V.R7, LD.VIII.R10, LD.IX.R9, LD.XI.L5) Picture likely refers to the narrative picture Dickens paints of the factory, but we might also connect it to Hablot Knight Browne&rsquo;s illustration of &ldquo;Visitors at the Works&rdquo; (LD 261), or the mention of a &ldquo;child&rsquo;s old picture-book&rdquo; Clennam remembers when viewing the factory (260).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1479,457,459,77"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1478.53613,457.09091h229.43823v0h229.43823v38.29604v38.29604h-229.43823h-229.43823v-38.29604z\"  id=\"rectangle_675bc253-a494-4d29-862c-cf1b0a8bd344\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:36:22.245Z",
+    "@id": "a6e6ceb1-b5ec-428c-b71c-3b558c64d0f8.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
