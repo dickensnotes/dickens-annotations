@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.R7</em></p>\n<p dir=\"ltr\"><strong>Flora and Little Dorrit together.</strong></p>\n<p><span id=\"docs-internal-guid-a75036d9-7fff-b380-6424-90d8e14aa111\">&nbsp;</span></p>\n<p dir=\"ltr\">By underlining this note, Dickens implicitly connects it with the &ldquo;preparation&rdquo; he indicated in the previous chapter&rsquo;s notes (LD.VII.R3).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1373,913,647,92"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1374.91459,913.28068l322.52246,10.02807v0l322.52246,10.02807l-1.11771,35.94766l-1.11771,35.94766l-322.52246,-10.02807l-322.52246,-10.02807l1.11771,-35.94766z\"  id=\"rectangle_1496e0cf-158e-479b-9330-2477a3e62480\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:39:28.036Z",
+    "@id": "92b2c837-6204-4a0b-bb84-357728cf6abd.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
