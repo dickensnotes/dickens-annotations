@@ -4,16 +4,14 @@ order: 18
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "8b64c98a-3bb3-4f91-b1a1-d7e070ced545.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-17d9e624-7fff-a7ce-6a30-5e8e4f0939b3\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.R8</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bounder &ndash; Bounderby</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Given Dickens&rsquo;s changes to Bounderby&rsquo;s name in the corrected proofs of chapter 3, the timing of these editions to the Working Note are interesting. Since the memoranda for chapter 4 below reference &ldquo;Bounderby&rdquo; several times, and Dickens only made the change from &ldquo;Bound&rdquo; to &ldquo;Bounderby&rdquo; while correcting the proofs for the first three chapters, these notes document the transformation of that name (with the intermediate possibility of &ldquo;Bounder&rdquo;) presumably before or during Dickens&rsquo;s correction of those proofs.</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:29:19.875Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 18
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2149.59273,931.54909l267.05455,43.98545l196.36364,1.57091l-1.57091,-48.69818l-306.32727,-32.98909l-157.09091,-3.14182z\"  id=\"rough_path_26c70f2b-c711-49b1-ae77-69ea880a197b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2149.59273,931.54909l267.05455,43.98545l196.36364,1.57091l-1.57091,-48.69818l-306.32727,-32.98909l-157.09091,-3.14182z\"  id=\"rough_path_26c70f2b-c711-49b1-ae77-69ea880a197b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 18
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:29:19.875Z",
-    "@id": "8b64c98a-3bb3-4f91-b1a1-d7e070ced545.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-17d9e624-7fff-a7ce-6a30-5e8e4f0939b3\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.R8</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bounder &ndash; Bounderby<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Given Dickens&rsquo;s changes to Bounderby&rsquo;s name in the corrected proofs of chapter 3, the timing of these editions to the Working Note are interesting. Since the memoranda for chapter 4 below reference &ldquo;Bounderby&rdquo; several times, and Dickens only made the change from &ldquo;Bound&rdquo; to &ldquo;Bounderby&rdquo; while correcting the proofs for the first three chapters, these notes document the transformation of that name (with the intermediate possibility of &ldquo;Bounder&rdquo;) presumably before or during Dickens&rsquo;s correction of those proofs.</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:45:41.298Z"
 }
