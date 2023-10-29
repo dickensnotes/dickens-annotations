@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.L3</em></p>\n<p dir=\"ltr\"><strong>Miss Wade? No</strong></p>\n<p><span id=\"docs-internal-guid-2ec54068-7fff-ffd8-7575-8e2980f3b9aa\">&nbsp;</span></p>\n<p dir=\"ltr\">Yet again, Miss Wade&rsquo;s presence is delayed (see LD.III.L4, LD.IV.L2, LD.V.L2; LD.VI.L3). She will appear again in the next number.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=75,508,631,102"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M75.27273,508.37296h315.68531v0h315.68531v51.11655v51.11655h-315.68531h-315.68531v-51.11655z\"  id=\"rectangle_d5a61aaa-0bca-4fa6-8eea-5e48a00f1d8c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:33:04.039Z",
+    "@id": "5db5edaa-e9b2-4301-b127-1ad623ae643b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
