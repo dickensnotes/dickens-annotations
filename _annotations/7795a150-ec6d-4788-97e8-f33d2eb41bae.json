@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 25
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R20</em></p>\n<p dir=\"ltr\"><strong>Chapter XXII</strong></p>\n<p><span id=\"docs-internal-guid-211671d7-7fff-a802-8212-8b2d2c533065\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens added this chapter to the manuscript after sending the first three to the publishers. He wrote to Bradbury &amp; Evans on March 3 that they could send a messenger to pick up &ldquo;the greater part of No. 6 of Little Dorrit&rdquo; at Tavistock House, but that he would &ldquo;bring the last Chapter with me when I come&rdquo; back to England from Paris a week later (Letters 8.66-67). Originally, Dickens headed chapter 22 on the final manuscript page of chapter 21 (which only contained nine lines of text), but he crossed this out in order to begin on a new leaf, presumably in order to send the first three chapters back to England to give himself time to complete chapter 22 separately. Given that there is no reference to this chapter in the left-hand memoranda, it is possible that the idea for this chapter was a late one.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1712,1793,476,75"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1712.21911,1792.79996h238.14711v0h238.14711v37.42191v37.42191h-238.14711h-238.14711v-37.42191z\"  id=\"rectangle_a9bd37c2-b993-4016-8790-095793322d11\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:25:06.155Z",
+    "@id": "7795a150-ec6d-4788-97e8-f33d2eb41bae.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
