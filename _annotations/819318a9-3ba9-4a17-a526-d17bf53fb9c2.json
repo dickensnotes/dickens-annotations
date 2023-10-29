@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 8
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.L7</em></p>\n<p dir=\"ltr\"><strong>Mrs Flintwinch dreams again? Yes.</strong></p>\n<p><span id=\"docs-internal-guid-0b74fa18-7fff-83ba-9f0b-0628bf7b4de6\">&nbsp;</span></p>\n<p dir=\"ltr\">Although this is the final memorandum, the number will begin with a chapter devoted to the subject of this note, perhaps suggesting that Dickens made the decision to open with this return to the idea started in No. I as a result of working through his ideas for the number on this page. He answers the question with an emphatically underlined \"Yes.\"</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=83,1234,887,197"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M82.96503,1233.66434h443.65734v0h443.65734v98.55245v98.55245h-443.65734h-443.65734v-98.55245z\"  id=\"rectangle_bfb0eb2e-bd8d-4dee-8cce-1835afa6271b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:00:07.745Z",
+    "@id": "819318a9-3ba9-4a17-a526-d17bf53fb9c2.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
