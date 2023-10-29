@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R1</em></p>\n<p dir=\"ltr\"><strong>The Father of the Marshalsea in two or three relations.</strong></p>\n<p><span id=\"docs-internal-guid-1a1b5f6a-7fff-56f4-8ef6-b1f70a436f4b\">&nbsp;</span></p>\n<p dir=\"ltr\">In the manuscript, this title includes multiple deletions and corrections; these are difficult to decipher, though one version may read &ldquo;in all his relations.&rdquo; Dickens likely wrote the chapter title in the Notes after he had settled on its language in the manuscript.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1444,301,1088,91"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1443.5711,300.91375h544.12354v0h544.12354v45.28904v45.28904h-544.12354h-544.12354v-45.28904z\"  id=\"rectangle_494913f3-502c-4d02-8361-d9721b683003\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:13:47.083Z",
+    "@id": "49bf54ca-4d2b-4748-b605-5f930d693e05.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
