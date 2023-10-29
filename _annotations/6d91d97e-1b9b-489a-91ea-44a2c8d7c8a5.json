@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 23
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.R15</em></p>\n<p dir=\"ltr\"><strong>&ldquo;Altro old chap!\" [...]</strong></p>\n<p><span id=\"docs-internal-guid-5e9bd118-7fff-a439-5279-bea7e1f418be\">&nbsp;</span></p>\n<p dir=\"ltr\">This note refers so specifically to the closing of chapter 15 as to suggest possible later retroactive addition. These phrases refer to the exchange between Pancks and Cavalletto (Mr. Baptist), in which we learn that it is Pancks&rsquo;s custom to &ldquo;go quietly up the stairs, look in at Mr Baptist&rsquo;s door, and, finding him in his room, to say, &lsquo;Hallo, old chap! Altro!&rsquo; To which Mr Baptist would reply with innumerable bright nods and smiles, &lsquo;Altro, signore, altro, altro, altro!&rsquo;&rdquo; (LD 298).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1696,1900,786,135"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1695.7265,1899.9223l387.52914,9.71251l-1.9425,67.01632l398.2129,16.51127l1.9425,41.76379l-759.51826,-14.56876z\"  id=\"rough_path_2e1d2c41-5ec4-404e-a60c-afae538da0aa\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:44:02.642Z",
+    "@id": "6d91d97e-1b9b-489a-91ea-44a2c8d7c8a5.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
