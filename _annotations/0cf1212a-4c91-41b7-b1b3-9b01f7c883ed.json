@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.L1</em></p>\n<p dir=\"ltr\"><strong>Fanny Dorrit? [...]</strong></p>\n<p><span id=\"docs-internal-guid-5717b9fe-7fff-17e2-fb87-5cfa56774704\"><br />Having deferred turning to Fanny, Frederick, and the Theatre in the Notes for three consecutive numbers (LD.III.L5, LD.IV.L9, LD.V.L4), Dickens finally makes the decision to include them in No. VI. </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=14,80,699,233"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M13.73427,312.68531h349.25175v0h349.25175v-116.48252v-116.48252h-349.25175h-349.25175v116.48252z\"  id=\"rectangle_e072c2df-4e07-47bb-aa5f-d0a6781636f1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:54:00.169Z",
+    "@id": "0cf1212a-4c91-41b7-b1b3-9b01f7c883ed.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
