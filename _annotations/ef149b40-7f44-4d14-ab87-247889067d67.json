@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R13</em></p>\n<p dir=\"ltr\"><strong>Gowan [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Gowan functions in this number both as Clennam&rsquo;s &ldquo;rival&rdquo; for Pet and as representative of the Circumlocution Office via his connection with the Barnacles. While the chapter describes Gowan as &ldquo;idle&rdquo; and &ldquo;difficult to settle&rdquo; (LD 201), the phrase Dickens uses in this Note does not appear directly in the chapter. In fact, there is no indication that Gowan was placed in a government position. It is not until No. VIII (chapter 26) that we get more detail about Gowan&rsquo;s position, when Mrs. Gowan&rsquo;s &ldquo;melancholy&rdquo; is described as being &ldquo;occasioned by her son&rsquo;s being reduced to court the swinish public as a follower of the low Arts, instead of asserting his birthright and putting a ring through its nose as an acknowledged Barnacle&rdquo; (LD 305).</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In Gowan, Dickens drew directly from his&nbsp;<em>Memoranda</em>&nbsp;book, marking as &ldquo;Done in Dorrit&rdquo; a note that contains the phrases: &ldquo;I affect to be always book-keeping &lt;and&gt; in every man&rsquo;s case and posting up a little account of good and evil with every one. Thus the greatest rascal becomes &lsquo;the dearest old fellow,&rsquo; and there is much less difference than you would be inclined to suppose between an honest man and a Scoundrel&rdquo; (9). These phrases become, in this chapter, &ldquo;&lsquo;I claim to be always book-keeping, with a peculiar nicety, in every man&rsquo;s case, and posting up a careful little account of Good and Evil with him. I do this so conscientiously, that I am happy to tell you I find the most worthless of men to be the dearest old fellow too: and am in a condition to make the gratifying report, that there is much less difference than you are inclined to suppose between an honest man and a scoundrel&rdquo; (LD 200).</p>\n<p><br />See more on Dickens&rsquo;s spelling of Gowan as Gowran in subsequent left-hand memoranda in&nbsp;LD.VII&nbsp;headnote and&nbsp;LD.VII.L5.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1613,1552,1056,147"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1613.40326,1552.331l9.32401,146.85315h379.95338v-32.63403l666.66667,4.662l-4.662,-111.88811z\"  id=\"rough_path_96860d9b-0028-4b3d-8654-dbf8059b5e89\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:10:21.538Z",
+    "@id": "ef149b40-7f44-4d14-ab87-247889067d67.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
