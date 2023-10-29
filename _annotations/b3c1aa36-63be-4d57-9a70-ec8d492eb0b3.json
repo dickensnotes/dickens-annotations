@@ -14,7 +14,7 @@ order: 2
         "Adam Grener",
         "dnoneill"
     ],
-    "oa:serializedAt": "2023-10-24T16:57:50.895Z",
+    "oa:serializedAt": "2023-10-29T01:42:49.084Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -27,7 +27,7 @@ order: 2
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M137.66731,275.67115h315.61932v0h315.61932v-67.29814v-67.29814h-315.61932h-315.61932v67.29814z\"  id=\"rectangle_333a38d3-de81-4f74-86f5-1fd903b463c6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M137.66731,275.67115h315.61932v0h315.61932v-67.29814v-67.29814h-315.61932h-315.61932v67.29814z\"  id=\"rectangle_333a38d3-de81-4f74-86f5-1fd903b463c6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"12.68199\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -39,7 +39,7 @@ order: 2
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p id=\"docs-internal-guid-b0b884cf-7fff-359e-8464-7b2ed90c16f5\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.Mems.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mems: quantity.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens&rsquo;s calculations are an effort to generate equivalences between different formats. Beginning with the printed &ldquo;sheet&rdquo; of text (which makes 16 pages of <em>Bleak House</em> and 10&frac14; pages of <em>Household Words</em>), he then uses his experience of writing <em>Bleak House</em> (where 15 manuscript pages generated 1 sheet) to determine how much manuscript will be required to produce the desired amount of pages for each weekly installment to be published in <em>Household Words</em>.</span></p>\n<p>&nbsp;</p>",
+            "chars": "<p id=\"docs-internal-guid-b0b884cf-7fff-359e-8464-7b2ed90c16f5\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.Mems.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mems: quantity.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens&rsquo;s calculations are an effort to generate equivalences between different formats. Beginning with the printed &ldquo;sheet&rdquo; of text (which makes 16 pages of <em>Bleak House</em> and 10&frac14; pages of <em>Household Words</em>), he then uses his experience of writing <em>Bleak House</em> (where 15 manuscript pages generated 1 sheet) to determine how much manuscript will be required to produce the desired amount of pages for each weekly installment to be published in <em>Household Words</em>.</span></p>\n<p>&nbsp;</p>",
             "format": "text/html"
         }
     ]
