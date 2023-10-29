@@ -4,16 +4,14 @@ order: 17
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "95cece1c-2cec-42a1-9f17-a804bcdb4650.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-221a0a52-7fff-501e-6af4-3ea4ae896a36\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R12</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sissy and [Rachael] Louisa pursue Tom</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens initially writes &ldquo;Sissy and Rachael&rdquo; before deleting Rachael and correcting it to &ldquo;Louisa.&rdquo; This is most likely simply an error, rather than a change in plan or intention, as it makes little sense for Rachael to pursue Tom, other than to clear Stephen&rsquo;s name (a task delegated to and taken up by Gradgrind). On the Working Note for No. III, Dickens had considered whether Sissy and Rachael were &ldquo;to be acquainted&rdquo; and decided in the negative. Regardless, Rachael does not appear in the chapter. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-23T21:32:07.269Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 17
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1381.68572,1587.24236l254.65505,11.3892v0l254.65505,11.3892l-1.99447,44.59512l-1.99447,44.59512l-254.65505,-11.3892l-254.65505,-11.3892l1.99447,-44.59512z\"  id=\"rectangle_33d457a3-0ff0-41fc-bcd9-68debdda8d34\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1381.68572,1587.24236l254.65505,11.3892v0l254.65505,11.3892l-1.99447,44.59512l-1.99447,44.59512l-254.65505,-11.3892l-254.65505,-11.3892l1.99447,-44.59512z\"  id=\"rectangle_33d457a3-0ff0-41fc-bcd9-68debdda8d34\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1.11536\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 17
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-23T21:32:07.269Z",
-    "@id": "95cece1c-2cec-42a1-9f17-a804bcdb4650.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-221a0a52-7fff-501e-6af4-3ea4ae896a36\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R12</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sissy and [Rachael] Louisa pursue Tom<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens initially writes &ldquo;Sissy and Rachael&rdquo; before deleting Rachael and correcting it to &ldquo;Louisa.&rdquo; This is most likely simply an error, rather than a change in plan or intention, as it makes little sense for Rachael to pursue Tom, other than to clear Stephen&rsquo;s name (a task delegated to and taken up by Gradgrind). On the Working Note for No. III, Dickens had considered whether Sissy and Rachael were &ldquo;to be acquainted&rdquo; and decided in the negative. Regardless, Rachael does not appear in the chapter. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:54:20.896Z"
 }
