@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R10</em></p>\n<p dir=\"ltr\"><strong>Mrs Merdle &ndash; Bosom&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Mrs. Merdle is referred to repeatedly as &ldquo;the bosom,&rdquo; a term that first appears in this chapter as a literal reference to her person (&ldquo;the breadth of bosom which seemed essential to her having room enough to be unfeeling in&rdquo; [LD 236]), but which becomes a synecdoche in the following chapter (&ldquo;The bosom, moving in Society with jewels displayed upon it, attracted general admiration&rdquo; [241]).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Sucksmith identifies Mrs. Merdle as the likely manifestation of part of an early note in Dickens&rsquo;s book of <em>Memoranda</em>: &ldquo;Miss C.B. The enthusiastically complimentary person, who forgets you in her own flowery prosiness, as&ndash;&rsquo;I have no need to say to a person of your genius and feeling, and wide range of experience;&rsquo;&ndash;and then being&hellip; short-sighted puts up her glass, to remember who you are&rdquo; (<em>Memoranda</em> 4; Sucksmith xxvii).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1547,1181,444,96"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1551.82479,1180.60391l219.38904,17.85271v0l219.38904,17.85271l-2.44498,30.04589l-2.44498,30.04589l-219.38904,-17.85271l-219.38904,-17.85271l2.44498,-30.04589z\"  id=\"rectangle_99e2c2bc-cbde-45ed-ad09-683e4ddbd72b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:18:34.409Z",
+    "@id": "962fe970-6a3f-44b9-a6c9-f4fd52698106.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
