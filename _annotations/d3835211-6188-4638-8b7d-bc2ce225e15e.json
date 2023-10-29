@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 23
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R18</em></p>\n<p dir=\"ltr\"><strong>Young Sparkler</strong></p>\n<p><span id=\"docs-internal-guid-1efcf893-7fff-f060-f029-9872efc621d7\">&nbsp;</span></p>\n<p dir=\"ltr\">Mrs. Merdle&rsquo;s son from a previous marriage is introduced fairly early in the chapter despite the position of this note.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1365,1737,261,56"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1366.88135,1736.73412l129.55318,5.97209v0l129.55318,5.97209l-1.01197,21.95279l-1.01197,21.95279l-129.55318,-5.97209l-129.55318,-5.97209l1.01197,-21.95279z\"  id=\"rectangle_ce6fd2d5-d854-440e-919a-f801161f29d4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:24:23.508Z",
+    "@id": "d3835211-6188-4638-8b7d-bc2ce225e15e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
