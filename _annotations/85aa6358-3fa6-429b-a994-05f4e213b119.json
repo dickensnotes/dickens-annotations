@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.R10</em></p>\n<p dir=\"ltr\"><strong>Conspirators and others.</strong></p>\n<p><span id=\"docs-internal-guid-f60f811c-7fff-2889-eb18-c818608932ad\">&nbsp;</span></p>\n<p dir=\"ltr\">This is the only chapter title in the manuscript for this number that appears to have adequate room in the manuscript, possibly suggesting that it was added before Dickens composed the first sentences of the chapter. There appear to be a mixture of prospective and retrospective notes here, perhaps indicating Dickens&rsquo;s use of the Note as he was composing.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1639,1300,725,95"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1639.37529,1300.13675h362.30536v0h362.30536v47.62005v47.62005h-362.30536h-362.30536v-47.62005z\"  id=\"rectangle_2c4344a4-f145-49c7-9f7e-7c859b1b9787\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:40:51.693Z",
+    "@id": "85aa6358-3fa6-429b-a994-05f4e213b119.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
