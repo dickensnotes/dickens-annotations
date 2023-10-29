@@ -4,16 +4,14 @@ order: 7
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "f06e3353-883b-44e2-8abc-5efc70acf455.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-32dfdfab-7fff-54b5-57c0-df111687b736\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.IV.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bounderby has foreclosed a mortgage on it</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">That is, Bounderby as the banker has foreclosed the mortgage on behalf of the bank and subsequently takes up residence in the house: &ldquo;The bank had foreclosed a mortgage effected on the property thus pleasantly situated, by one of the Coketown magnates, who, in his determination to make a shorter cut than usual to an enormous fortune, overspeculated himself by about two hundred thousand pounds&rdquo; (HT 196). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T01:07:55.905Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 7
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1671.23136,265.01721h357.35755v0h357.35755v34.1262v34.1262h-357.35755h-357.35755v-34.1262z\"  id=\"rectangle_bf121908-4506-4c97-a644-8981524e2c8e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1671.23136,265.01721h357.35755v0h357.35755v34.1262v34.1262h-357.35755h-357.35755v-34.1262z\"  id=\"rectangle_bf121908-4506-4c97-a644-8981524e2c8e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"0.90909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 7
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T01:07:55.905Z",
-    "@id": "f06e3353-883b-44e2-8abc-5efc70acf455.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-32dfdfab-7fff-54b5-57c0-df111687b736\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.IV.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bounderby has foreclosed a mortgage on it<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">That is, Bounderby as the banker has foreclosed the mortgage on behalf of the bank and subsequently takes up residence in the house: &ldquo;The bank had foreclosed a mortgage effected on the property thus pleasantly situated, by one of the Coketown magnates, who, in his determination to make a shorter cut than usual to an enormous fortune, overspeculated himself by about two hundred thousand pounds&rdquo; (HT 196). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:51:21.078Z"
 }
