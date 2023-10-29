@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R9</em></p>\n<p dir=\"ltr\"><strong>Uncle in the Orchestra [...]</strong></p>\n<p><span id=\"docs-internal-guid-bdf578a9-7fff-cdc3-29bb-75c7bcc7c0e5\">&nbsp;</span></p>\n<p dir=\"ltr\">As with other notes for this chapter, these phrases function as shorthand for an image elaborated in the text, either prepared for proactively, or more likely recalled retroactively: &ldquo;The old man looked as if the remote high gallery windows, with their little strip of sky, might have been the point of his better fortunes, from which he had descended, until he had gradually sunk down below there to the bottom&rdquo; (LD 228).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1373,1130,868,95"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1375.63939,1129.52218l432.82972,22.24407v0l432.82972,22.24407l-1.30768,25.44502l-1.30768,25.44502l-432.82972,-22.24407l-432.82972,-22.24407l1.30768,-25.44502z\"  id=\"rectangle_57db415d-f21a-4320-bd5f-68685f4484e0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:17:56.041Z",
+    "@id": "7518ad3b-dd2e-4cca-8eac-0c166412a0b3.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
