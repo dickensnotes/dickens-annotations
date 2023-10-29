@@ -4,16 +4,14 @@ order: 12
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "73ab13f9-10d2-4391-8dd7-350bc639f267.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">chapter X.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On March 17th&ndash;on or around the time of this chapter&rsquo;s composition&ndash;Dickens wrote to Charles Knight responding to an article Knight had written, which is (according to the editors of Dickens&rsquo;s letters) untraced but possibly related to The Old Printer and the Modern Press, which Knight was writing and which was published (and dedicated to Dickens) in May. After telling Knight that his article &ldquo;is most conscientiously done, and presents a great mass of curious information condensed into a surprisingly small space,&rdquo; Dickens remarks that he has made a few notes for Knight and then writes: &ldquo;And I earnestly entreat your attention to the point (I have been working upon it, weeks past, in Hard Times) which I have jocosely suggested on the last page but one. The English are, so far as I know, the hardest worked people on whom the sun shines. Be content if in their wretched intervals of leisure they read for amusement and do no worse. They are born at the oar, and they live and die at it. Good God, what would we have of them!&rdquo; (Letters 7.293-94).</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The opening of chapter 10 makes the same point, in much the same language: &ldquo;I entertain a weak idea that the English people are as hard-worked as any people upon whom the sun shines. I acknowledge to this ridiculous idiosyncrasy, as a reason why I would give them a little more play&rdquo; (HT 102).</span></p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:44:20.850Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 12
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1803.06692,389.93754h134.84321v0h134.84321v42.26832v42.26832h-134.84321h-134.84321v-42.26832z\"  id=\"rectangle_d48b3645-a27b-4612-aac4-93ed52df2f3e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1803.06692,389.93754h134.84321v0h134.84321v42.26832v42.26832h-134.84321h-134.84321v-42.26832z\"  id=\"rectangle_d48b3645-a27b-4612-aac4-93ed52df2f3e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 12
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:44:20.850Z",
-    "@id": "73ab13f9-10d2-4391-8dd7-350bc639f267.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">chapter X.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On March 17th&ndash;on or around the time of this chapter&rsquo;s composition&ndash;Dickens wrote to Charles Knight responding to an article Knight had written, which is (according to the editors of Dickens&rsquo;s letters) untraced but possibly related to The Old Printer and the Modern Press, which Knight was writing and which was published (and dedicated to Dickens) in May. After telling Knight that his article &ldquo;is most conscientiously done, and presents a great mass of curious information condensed into a surprisingly small space,&rdquo; Dickens remarks that he has made a few notes for Knight and then writes: &ldquo;And I earnestly entreat your attention to the point (I have been working upon it, weeks past, in Hard Times) which I have jocosely suggested on the last page but one. The English are, so far as I know, the hardest worked people on whom the sun shines. Be content if in their wretched intervals of leisure they read for amusement and do no worse. They are born at the oar, and they live and die at it. Good God, what would we have of them!&rdquo; (Letters 7.293-94).</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The opening of chapter 10 makes the same point, in much the same language: &ldquo;I entertain a weak idea that the English people are as hard-worked as any people upon whom the sun shines. I acknowledge to this ridiculous idiosyncrasy, as a reason why I would give them a little more play&rdquo; (HT 102).</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:47:27.353Z"
 }
