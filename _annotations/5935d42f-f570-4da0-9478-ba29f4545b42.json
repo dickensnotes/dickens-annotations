@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 19
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.R11</em></p>\n<p dir=\"ltr\"><strong>Carry on Pancks [...]</strong></p>\n<p><span id=\"docs-internal-guid-9091028b-7fff-61e9-819d-6448dd1227a2\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens changes his mind about the character name in the Notes, first selecting Mr. Bugg but adding Rugg below. The manuscript page begins with heavy deletions and what appears to be a repeated instance of a corrected initial letter for this name, in some cases with heavy overwriting of the initial capital and in some cases with an erasure and supralinear addition of &ldquo;Rugg.&rdquo; It is likely, then, that these chapter notes were added as Dickens was in the process of writing the chapter. Half way through the chapter, he has settled on Rugg, returning to the Notes to add the new name, correcting the first half of the chapter manuscript, and then proceeding with the correct name without need for correction for the second half of the chapter. That he makes up his mind in this note, settling on Rugg and repeating the name for the daughter, indicates either that he returned to the Note after writing, or that he was making use of the Notes alongside the manuscript as he settled on the name.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1391,1425,1265,268"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1396.62005,1424.51437l421.52292,27.19503l-1.9425,58.27506l837.21834,25.25253l1.9425,71.87257l-221.44522,13.59751l-15.54002,71.87257l-178.71018,-17.48252l-3.885,-69.93007l-394.32789,-13.59751l-38.85004,-52.44755l-411.81041,-27.19503l1.9425,-85.47009v0z\"  id=\"rough_path_3c48bc10-a939-4b00-aa22-138683171a68\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:41:55.289Z",
+    "@id": "5935d42f-f570-4da0-9478-ba29f4545b42.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
