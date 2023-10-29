@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R4</em></p>\n<p dir=\"ltr\"><strong>&ldquo;No no, I have never seen him in my life!&rdquo;</strong></p>\n<p><span id=\"docs-internal-guid-b812fa0c-7fff-7298-01db-b1b05e34b4a3\">&nbsp;</span></p>\n<p dir=\"ltr\">This note in quotation marks refers to the final line of the chapter, in which Little Dorrit says, &ldquo;in a burst of sorrow and compassion, &lsquo;No, no, I have never seen him in my life!&rdquo; (LD 225). While the ink for these chapter notes is fairly consistent, it is possible that Dickens wrote these final notes later, given that exact replication of quotations, especially for final scenes, are often an indication of retrospective notation.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1748,721,826,87"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1748.16686,781.83097l412.20935,13.23958v0l412.20935,13.23958l0.9781,-30.45283l0.9781,-30.45283l-412.20935,-13.23958l-412.20935,-13.23958l-0.9781,30.45283z\"  id=\"rectangle_840a47fe-024e-426c-bf9e-96748ceb9bc7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:15:10.558Z",
+    "@id": "c11785ab-cc18-4a0c-83cb-a57782aca061.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
