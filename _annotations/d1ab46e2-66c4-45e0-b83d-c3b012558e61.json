@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 24
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R19</em></p>\n<p dir=\"ltr\"><strong>Shadow continued</strong></p>\n<p><span id=\"docs-internal-guid-38e60ba2-7fff-458b-245b-27339cc48966\">&nbsp;</span></p>\n<p dir=\"ltr\">The penultimate paragraph connects Mr. Merdle&rsquo;s complaint with the shadow motif by indicating that there is &ldquo;no shadow of Mr. Merdle&rsquo;s complaint&rdquo; on the various representatives of Society introduced in this chapter (LD 247). This shadow is a &ldquo;faint&rdquo; one at this stage even on Merdle himself (247). But in the final paragraph, after asking whether any doctor would &ldquo;find out&rdquo; Merdle&rsquo;s complaint, Dickens defers his answer by drawing the reader back to the ever-present shadow of the Marshalsea: &ldquo;Patience. In the meantime, the shadow of the Marshalsea wall was a real darkening influence, and could be seen on the Dorrit Family at any stage of the sun&rsquo;s course&rdquo; (248).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1354,1790,319,57"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1355.16516,1790.29638l158.77456,4.13061v0l158.77456,4.13061l-0.63643,24.46362l-0.63643,24.46362l-158.77456,-4.13061l-158.77456,-4.13061l0.63643,-24.46362z\"  id=\"rectangle_7368137b-2a60-41cf-a337-9f6c044ea85b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:24:46.642Z",
+    "@id": "d1ab46e2-66c4-45e0-b83d-c3b012558e61.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
