@@ -4,16 +4,14 @@ order: 4
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "08de0677-d5a7-458f-8b61-36cf319bc0cb.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.VI.L3</em></p>\n<p dir=\"ltr\"><strong>Miss Wade? No [...]&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-0bf21fce-7fff-1726-3162-c459acc24d5c\">&nbsp;</span></p>\n<p dir=\"ltr\">The number of rejections here underscores how focused this number will be on one motif: the shadow of the Marshalsea and the implicit connection between the literal prison and the prison of Society. Again, Dickens rejects Miss Wade&rsquo;s entry into a number (see LD.III.L4; LD.IV.L2).&nbsp;</p>\n<p dir=\"ltr\"><br />This is the only time Dickens refers to Rigaud by the name \"Lagnier\" in the Notes. The pseudonym was first introduced in No. III (chapter 11), but it won't reappear until Cavalletto tells his story to Clennam in Book II, chapter 22 (No. XVI).&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-29T01:00:30.546Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 4
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M16.99767,872.00932h286.54779v0h286.54779v-200.6317v-200.6317h-286.54779h-286.54779v200.6317z\"  id=\"rectangle_d37f03db-710e-44e9-8ad8-29e49da560af\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M16.99767,872.00932h286.54779v0h286.54779v-200.6317v-200.6317h-286.54779h-286.54779v200.6317z\"  id=\"rectangle_d37f03db-710e-44e9-8ad8-29e49da560af\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"12.58741\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 4
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-29T01:00:30.546Z",
-    "@id": "08de0677-d5a7-458f-8b61-36cf319bc0cb.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.L3</em></p>\n<p dir=\"ltr\"><strong>Miss Wade? No [...]&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-0bf21fce-7fff-1726-3162-c459acc24d5c\">&nbsp;</span></p>\n<p dir=\"ltr\">The number of rejections here underscores how focused this number will be on one motif: the shadow of the Marshalsea and the implicit connection between the literal prison and the prison of Society. Again, Dickens rejects Miss Wade&rsquo;s entry into a number (see LD.III.L4; LD.IV.L2).&nbsp;</p>\n<p dir=\"ltr\"><br />Although Dickens refers to \"Lagnier\" in the Notes here and for No. VII, the pseudonym does not appear in these numbers. It was first introduced in No. III (chapter 11), but it won't reappear until Cavalletto tells his story to Clennam in Book II, chapter 22 (No. XVI).&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:34:15.781Z"
 }
