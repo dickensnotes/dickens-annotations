@@ -4,16 +4,14 @@ order: 4
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "39fae957-f469-467b-8d23-63e6e6940f91.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-73e7dd33-7fff-bd74-8dc4-412cd21b6c5b\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.Mems.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Friday January 20th 1854</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In his biography of Dickens, John Forster records Dickens sending him this list of possible titles for the novel and asking him to identify his favorites (Forster 2.119-20): &ldquo;&lsquo;I wish you would look,&rsquo; Dickens wrote on 20 January, 1854, &lsquo;at the enclosed titles for the Household Words story, between this and two o&rsquo;clock or so, when I will call. It is my usual day, you observe, on which I have jotted them down&ndash;Friday! It seems to me that there are three very good ones among them. I should like to know whether you hit upon the same.&rsquo; On the paper enclosed was written: 1. According to Cocker. 2. Prove it. 3. Stubborn Things. 4. Mr. Gradgrind&rsquo;s Facts. 5. The Grindstone. 6. Hard Times. 7. Two and Two are Four. 8. Something Tangible. 9. Our Hard-headed Friend. 10. Rust and Dust. 11. Simple Arithmetic. 12. A Matter of Calculation. 13. A Mere Question of Figures. 14. The Gradgrind Philosophy. The three selected by me were 2, 6, and 11; the three that were his own favourites were 6, 13, and 14; and as 6 had been chosen by both, that title was taken.&rdquo;&nbsp;</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although Forster&rsquo;s list very closely matches the thirteen titles below the double-lines on the bottom of half of the sheet, number 14 (&ldquo;The Gradgrind Philosophy&rdquo;) is nowhere present on the sheet. While Dickens may have sent this sheet to Forster, biographers such as Slater suggest he likely copied some of these onto another sheet and added the extra title to the list (Slater 368). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-17T21:58:14.554Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 4
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2074.83408,81.97313h253.85242v0h253.85242v-38.18746v-38.18746h-253.85242h-253.85242v38.18746z\"  id=\"rectangle_0bf4d52b-2bfd-493a-92bd-4a22b131e09c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2074.83408,81.97313h253.85242v0h253.85242v-38.18746v-38.18746h-253.85242h-253.85242v38.18746z\"  id=\"rectangle_0bf4d52b-2bfd-493a-92bd-4a22b131e09c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6.69216\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 4
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-17T21:58:14.554Z",
-    "@id": "39fae957-f469-467b-8d23-63e6e6940f91.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-73e7dd33-7fff-bd74-8dc4-412cd21b6c5b\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.Mems.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Friday January 20th 1854<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In his biography of Dickens, John Forster records Dickens sending him this list of possible titles for the novel and asking him to identify his favorites (Forster 2.119-20): &ldquo;&lsquo;I wish you would look,&rsquo; Dickens wrote on 20 January, 1854, &lsquo;at the enclosed titles for the Household Words story, between this and two o&rsquo;clock or so, when I will call. It is my usual day, you observe, on which I have jotted them down&ndash;Friday! It seems to me that there are three very good ones among them. I should like to know whether you hit upon the same.&rsquo; On the paper enclosed was written: 1. According to Cocker. 2. Prove it. 3. Stubborn Things. 4. Mr. Gradgrind&rsquo;s Facts. 5. The Grindstone. 6. Hard Times. 7. Two and Two are Four. 8. Something Tangible. 9. Our Hard-headed Friend. 10. Rust and Dust. 11. Simple Arithmetic. 12. A Matter of Calculation. 13. A Mere Question of Figures. 14. The Gradgrind Philosophy. The three selected by me were 2, 6, and 11; the three that were his own favourites were 6, 13, and 14; and as 6 had been chosen by both, that title was taken.&rdquo;&nbsp;</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although Forster&rsquo;s list very closely matches the thirteen titles below the double-lines on the bottom of half of the sheet, number 14 (&ldquo;The Gradgrind Philosophy&rdquo;) is nowhere present on the sheet. While Dickens may have sent this sheet to Forster, biographers such as Slater suggest he likely copied some of these onto another sheet and added the extra title to the list (Slater 368). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:43:22.297Z"
 }
