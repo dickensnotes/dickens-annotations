@@ -4,16 +4,14 @@ order: 14
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "f3672b5b-9dc4-4167-a6fa-79d2a884ef58.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-5fa5ee94-7fff-520f-d371-bd468217705b\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R9</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">coal pit &amp; death</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On the 14th of July, Dickens wrote to John Forster from Boulogne on his efforts to complete the novel: &ldquo;I am three parts mad, and the fourth delirious, with perpetual rushing at Hard Times. I have done what I hope is a good thing with Stephen, taking his story as a whole; and hope to be over in town with the end of the book on Wednesday night... I have been looking forward through so many weeks and sides of paper to this Stephen business, that now&mdash;as usual&mdash;it being over, I feel as if nothing in the world, in the way of intense and violent rushing hither and thither, could quite restore my balance&rdquo; (Letters 7.369).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-23T21:29:45.327Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 14
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1841.85455,1316.54968h151.54545v0h151.54545v22.6v22.6h-151.54545h-151.54545v-22.6z\"  id=\"rectangle_783de3c5-db41-4c30-9a1d-4f50fbda8fff\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1841.85455,1316.54968h151.54545v0h151.54545v22.6v22.6h-151.54545h-151.54545v-22.6z\"  id=\"rectangle_783de3c5-db41-4c30-9a1d-4f50fbda8fff\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"0.94255\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 14
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-23T21:29:45.327Z",
-    "@id": "f3672b5b-9dc4-4167-a6fa-79d2a884ef58.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-5fa5ee94-7fff-520f-d371-bd468217705b\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R9</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">coal pit &amp; death<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On the 14th of July, Dickens wrote to John Forster from Boulogne on his efforts to complete the novel: &ldquo;I am three parts mad, and the fourth delirious, with perpetual rushing at Hard Times. I have done what I hope is a good thing with Stephen, taking his story as a whole; and hope to be over in town with the end of the book on Wednesday night... I have been looking forward through so many weeks and sides of paper to this Stephen business, that now&mdash;as usual&mdash;it being over, I feel as if nothing in the world, in the way of intense and violent rushing hither and thither, could quite restore my balance&rdquo; (Letters 7.369).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:53:54.305Z"
 }
