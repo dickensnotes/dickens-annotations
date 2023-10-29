@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "5f11c774-27cf-4ac3-afeb-e59d38cb0857.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Fire buckets</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These appear at the end of the description of Mrs. Sparsit&rsquo;s life at the bank: &ldquo;Lastly she was guardian over a little armoury of cutlasses and carbines; arrayed in vengeful order above one of the official chimney-pieces; and over that respectable tradition never to be separated from a place of business claiming to be wealthy&ndash;a row of fire-buckets&ndash;vessels calculated to be of no physical utility on any occasion, but observed to exercise a fine moral influence, almost equal to bullion, on most beholders&rdquo; (HT 148). This sentence and the prior one show significant revision and editing in the manuscript. This specific detail does not recur in the novel, but the imagery of fire runs through the novel, and a bucket becomes of &ldquo;physical utility&rdquo; late in the novel in the rescue of Stephen from the mineshaft.</span></p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:57:12.497Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2281.52427,273.8432l165.8279,-6.24511v0l165.8279,-6.24511l1.59837,42.44191l1.59837,42.44191l-165.8279,6.24511l-165.8279,6.24511l-1.59837,-42.44191z\"  id=\"rectangle_704104eb-8740-4c65-affe-16530d849969\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2281.52427,273.8432l165.8279,-6.24511v0l165.8279,-6.24511l1.59837,42.44191l1.59837,42.44191l-165.8279,6.24511l-165.8279,6.24511l-1.59837,-42.44191z\"  id=\"rectangle_704104eb-8740-4c65-affe-16530d849969\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"0.90909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:57:12.497Z",
-    "@id": "5f11c774-27cf-4ac3-afeb-e59d38cb0857.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Fire buckets<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These appear at the end of the description of Mrs. Sparsit&rsquo;s life at the bank: &ldquo;Lastly she was guardian over a little armoury of cutlasses and carbines; arrayed in vengeful order above one of the official chimney-pieces; and over that respectable tradition never to be separated from a place of business claiming to be wealthy&ndash;a row of fire-buckets&ndash;vessels calculated to be of no physical utility on any occasion, but observed to exercise a fine moral influence, almost equal to bullion, on most beholders&rdquo; (HT 148). This sentence and the prior one show significant revision and editing in the manuscript. This specific detail does not recur in the novel, but the imagery of fire runs through the novel, and a bucket becomes of &ldquo;physical utility&rdquo; late in the novel in the rescue of Stephen from the mineshaft.</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:49:13.959Z"
 }
