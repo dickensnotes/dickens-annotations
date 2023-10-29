@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R6</em></p>\n<p dir=\"ltr\"><strong>Nobody&rsquo;s Weakness</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Although Dickens had abandoned his original title for the novel, he retains the general idea of &ldquo;Nobody&rsquo;s Fault&rdquo; in the titles for chapter 16 and 17. As Herring notes, in casting Clennam as &ldquo;Nobody,&rdquo; &ldquo;Dickens was gently criticizing his hero for his vacillation&ndash;almost disinterestedness&ndash;in shaping his own life&rdquo; (33).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In the manuscript, Dickens writes an alternative word before &ldquo;weakness,&rdquo; which is rendered illegible through deletion. Since there is no such emendation in the Note, and the chapter title in the manuscript seems to be written as Dickens began the chapter (rather than added later), the Note was likely written after composition of the chapter, a supposition that is supported by the nature of the other notes for this chapter, which also appear to be retroactive.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1451,856,587,81"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1450.5641,855.69231h293.54079v0h293.54079v40.62704v40.62704h-293.54079h-293.54079v-40.62704z\"  id=\"rectangle_7b7383c5-87ec-4108-b937-cdf8aae19e62\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:05:43.433Z",
+    "@id": "db823fbe-6683-498e-9c92-29365bfa24a4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
