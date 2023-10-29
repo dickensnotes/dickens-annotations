@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The Notes for No. VII (as well as No. VIII) contain evidence of a significant temporal gap between composition of the left-hand questions and the chapter notes on the right, since Dickens spells Gowan &ldquo;Gowran&rdquo; in the questions on the left in both this and the next number&rsquo;s memoranda (see LD.VII.L5 &nbsp;and LD.VIII.L1). Sucksmith concludes that these memoranda must therefore have been written before Dickens composed chapter 17 (in No. V) in January or February (and, indeed, before Dickens settled on the name in the Notes for that number, which spell Gowan without the &ldquo;r&rdquo; (LD.V.R13). The ink for this Note is fairly consistent on the right but contains clear layers between questions and answers (in bolder black ink) on the left.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The chapter notes for this number contain a significant number of imperative phrases by which Dickens appears to be instructing himself in the future tense or indicating work that the number should perform. Although the later insertion of the first two chapter titles into the manuscript might suggest some retroactive notation, for the most part the Note for this number appears to be proactive.&nbsp;</p>\n<p><br />Perhaps the speed with which Dickens needed to compose this number resulted in his use of the Notes as a compositional tool. As Sucksmith notes, Dickens likely began No. VII slightly behind schedule after spending two weeks in London: &ldquo;It seems unlikely that he had begun to write Number VII until the last week in March, by which time he had only two Numbers in hand and would soon have only one.&rdquo; (xxviii). He likely began writing in late March, telling Macready that he needed to work on the novel until April 7 (Letters 8:74-75), and noting in a letter of March 27 &ldquo;I shall charge at Little Dorrit tomorrow, with new spirits&rdquo; (8.77). He likely completed the number soon after Macready&rsquo;s visit, which ended on April 12 (8.96; 8.86). It was while he wrote this number that Dickens made the clear decision to make the Dorrits wealthy at the end of Book I (see LD.VII.R4).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1371,26,1268,126"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1371.31002,25.85548h633.86713v0h633.86713v62.77156v62.77156h-633.86713h-633.86713v-62.77156z\"  id=\"rectangle_9c8f07b5-7083-413f-b3c3-9bdef2b6fad8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:31:28.888Z",
+    "@id": "b488479c-8512-46e9-9ae2-0b3efba619f6.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
