@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R8</em></p>\n<p dir=\"ltr\"><strong>Now Ladies &ndash; Now Darlings</strong></p>\n<p><span id=\"docs-internal-guid-203be841-7fff-33ad-4bd2-f9c2d5974e10\">&nbsp;</span></p>\n<p dir=\"ltr\">These phrases summarize the repeated refrains within the theatre of &ldquo;ladies&rdquo; and &ldquo;darlings&rdquo;: &ldquo;[A] monotonous boy in a Scotch cap put his head round a beam on the left, and said, &ldquo;&lsquo;Now, ladies!&rsquo; said the boy in the Scotch cap. &lsquo;Now, darlings!&rsquo; said the gentleman with the black hair&rdquo; (LD 228).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2127,1118,539,65"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2126.55135,1167.3778l268.95584,7.67294v0l268.95584,7.67294l0.70919,-24.85888l0.70919,-24.85888l-268.95584,-7.67294l-268.95584,-7.67294l-0.70919,24.85888z\"  id=\"rectangle_6404853a-2ee9-4eaa-9c7c-c56f16acfced\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:17:16.919Z",
+    "@id": "34731b6a-6a63-4b24-8328-2a8bd4d93532.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
