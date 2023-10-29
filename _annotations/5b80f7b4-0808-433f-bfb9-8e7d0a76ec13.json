@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.R9</em></p>\n<p dir=\"ltr\"><strong>Little Dorrit tells Maggy a story [...]</strong></p>\n<p><span id=\"docs-internal-guid-cc91546f-7fff-ad67-a2d7-c9f0798a9dc4\">&nbsp;</span></p>\n<p dir=\"ltr\">Both the prison and the &ldquo;shadow&rdquo; return in the story Little Dorrit tells Maggy of a Princess and a little spinning woman guarding a shadow. The shadow here becomes something the little woman wants to protect and hide. The chapter ends with a reference to Little Dorrit&rsquo;s window, out of which Little Dorrit views Pancks watching her (LD 286-87).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1754,1120,874,118"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1754.0404,1168.10412v-48.56255h75.75758l629.37063,1.9425l1.9425,29.13753l167.05517,-1.9425l-1.9425,58.27506l-384.61538,31.08003l-29.13753,-62.16006z\"  id=\"rough_path_502006b2-2faa-4cff-b857-c21817f7aea4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:40:38.670Z",
+    "@id": "5b80f7b4-0808-433f-bfb9-8e7d0a76ec13.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
