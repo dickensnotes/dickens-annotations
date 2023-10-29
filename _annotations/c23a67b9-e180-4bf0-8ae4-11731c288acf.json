@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.R12</em></p>\n<p dir=\"ltr\"><strong>Work in Chivery</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In this and the next note, Dickens uses the language of &ldquo;working in&rdquo; to indicate characters who need to be brought into the number via their association with Pancks.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This decision to &ldquo;work in Chivery&rdquo; may suggest that Dickens recognized a need to return to this forlorn character, as well as his recognition that the scheme to help the Dorrits must involve characters with an attachment to the Marshalsea. This is the chapter in which Pancks pulls together those who will help him reveal Mr. Dorrit&rsquo;s fortune. His decision to &ldquo;work&rdquo; this character &ldquo;in&rdquo; to Pancks&rsquo;s scheme allows Pancks to focus his scheme on doing good for Little Dorrit in particular, rather than for her father alone.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1428,1635,363,98"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1431.82916,1634.92654l179.48044,9.084v0l179.48044,9.084l-2.01434,39.7991l-2.01434,39.7991l-179.48044,-9.084l-179.48044,-9.084l2.01434,-39.7991z\"  id=\"rectangle_43d30eed-698a-4da9-85b2-3bc8a60881dc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:42:15.906Z",
+    "@id": "c23a67b9-e180-4bf0-8ae4-11731c288acf.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
