@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R5</em></p>\n<p dir=\"ltr\"><strong>Affery falls into a haunted state of mind</strong></p>\n<p><span id=\"docs-internal-guid-a7c64624-7fff-971b-e3ba-64c07eb3f2e2\">&nbsp;</span></p>\n<p dir=\"ltr\">This note corresponds to a specific phrase at the end of this chapter: &ldquo;What with these ghostly apprehensions, and her singular dreams, Mrs. Flintwinch fell that evening into a haunted state of mind&rdquo; (LD 182). Affery&rsquo;s disturbances in this chapter are twofold. Her &ldquo;dream&rdquo; is the overheard conversation between Mrs. Clennam and Mr. Flintwinch, but the circumstance that leads her to overhear that conversation is her fear of the sounds she hears in the house, which she describes as &ldquo;a rustle and a sort of trembling touch behind me&rdquo; (181).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1518,676,778,65"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1518.16317,676.20513h389.11189v0h389.11189v32.46853v32.46853h-389.11189h-389.11189v-32.46853z\"  id=\"rectangle_492416d2-1cd0-4e09-b7ae-9223d56991f8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:05:26.358Z",
+    "@id": "d5ef64f8-6d30-4171-ada2-c853140b8516.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
