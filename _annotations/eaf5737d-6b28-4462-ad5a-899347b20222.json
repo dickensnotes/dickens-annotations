@@ -4,16 +4,14 @@ order: 18
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "eaf5737d-6b28-4462-ad5a-899347b20222.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-ef4a8de0-7fff-6345-5285-105180a3a125\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II.R8</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Time, a manufacturer.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This image of time as a &ldquo;manufacturer&rdquo; is woven through chapter 14, and Dickens uses it to condense the period of the &ldquo;children grow[ing] up&rdquo; into one chapter. The chapter begins: &ldquo;Time went on in Coketown like its own machinery: so much material wrought up, so much fuel consumed, so many powers worn out, so much money made.&nbsp; But, less inexorable than iron, steel, and brass, it brought its varying seasons even into that wilderness of smoke and brick, and made the only stand that ever was made in the place against its direful uniformity&rdquo; (HT 126-27). Midway through the chapter it returns: &ldquo;In some stages of his manufacture of the human fabric, the processes of Time are very rapid. Young Thomas and Sissy being both at such a stage of their working up, these changes were effected in a year or two; while Mr. Gradgrind himself seemed stationary in his course, and underwent no alteration&rdquo; (HT 128-29). And the chapter concludes: &ldquo;It seemed as if, first in her own fire within the house, and then in the fiery haze without, [Louisa] tried to discover what kind of woof Old Time, that greatest and longest-established Spinner of all, would weave from the threads he had already spun into a woman. But his factory is a secret place, his work is noiseless, and his Hands are mutes&rdquo; (HT 131).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:48:25.765Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 18
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1715.59273,1445.74982h204.58982v0h204.58982v28.33382v28.33382h-204.58982h-204.58982v-28.33382z\"  id=\"rectangle_4312f501-db84-4767-a67b-2b4c944ca7a7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1715.59273,1445.74982h204.58982v0h204.58982v28.33382v28.33382h-204.58982h-204.58982v-28.33382z\"  id=\"rectangle_4312f501-db84-4767-a67b-2b4c944ca7a7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"0.90909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 18
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:48:25.765Z",
-    "@id": "eaf5737d-6b28-4462-ad5a-899347b20222.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-ef4a8de0-7fff-6345-5285-105180a3a125\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.II.R8</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Time, a manufacturer.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This image of time as a &ldquo;manufacturer&rdquo; is woven through chapter 14, and Dickens uses it to condense the period of the &ldquo;children grow[ing] up&rdquo; into one chapter. The chapter begins: &ldquo;Time went on in Coketown like its own machinery: so much material wrought up, so much fuel consumed, so many powers worn out, so much money made.&nbsp; But, less inexorable than iron, steel, and brass, it brought its varying seasons even into that wilderness of smoke and brick, and made the only stand that ever was made in the place against its direful uniformity&rdquo; (HT 126-27). Midway through the chapter it returns: &ldquo;In some stages of his manufacture of the human fabric, the processes of Time are very rapid. Young Thomas and Sissy being both at such a stage of their working up, these changes were effected in a year or two; while Mr. Gradgrind himself seemed stationary in his course, and underwent no alteration&rdquo; (HT 128-29). And the chapter concludes: &ldquo;It seemed as if, first in her own fire within the house, and then in the fiery haze without, [Louisa] tried to discover what kind of woof Old Time, that greatest and longest-established Spinner of all, would weave from the threads he had already spun into a woman. But his factory is a secret place, his work is noiseless, and his Hands are mutes&rdquo; (HT 131).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:48:19.627Z"
 }
