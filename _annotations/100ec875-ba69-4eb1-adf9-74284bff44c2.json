@@ -4,16 +4,14 @@ order: 26
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "100ec875-ba69-4eb1-adf9-74284bff44c2.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.V.R18</em></p>\n<p dir=\"ltr\"><strong>Chapter XVIII</strong></p>\n<p><span id=\"docs-internal-guid-5f4c6d03-7fff-f28a-0570-f7927f33c3c4\"><br />In the manuscript there is no chapter number above this title, which is rare. Herring explains the absence of left-hand memoranda referring to chapter 18 by way of &ldquo;Dickens&rsquo; certainty regarding the subject and its place in the number&rdquo; (22), but the layout of the right-hand page, with so little space allotted on the right side of the Note for this chapter, suggests that Dickens may have made a decision while writing to add a chapter focusing on Little Dorrit to the end of the number. In the proofs, the last page of this chapter has the final section pasted onto the last page and folded, perhaps suggesting a need to cut length from the number (which was likely accomplished via the erasures to chapter 15, see LD.V.R1). </span></p>"
-        }
+    "oa:annotatedAt": "2023-10-29T00:13:31.626Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 26
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1738.93618,1769.02614l275.25452,-11.03984v0l275.25452,-11.03984l1.63437,40.74952l1.63437,40.74952l-275.25452,11.03984l-275.25452,11.03984l-1.63437,-40.74952z\"  id=\"rectangle_b7d92025-e561-4ce2-8838-e0f65f008cfa\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1738.93618,1769.02614l275.25452,-11.03984v0l275.25452,-11.03984l1.63437,40.74952l1.63437,40.74952l-275.25452,11.03984l-275.25452,11.03984l-1.63437,-40.74952z\"  id=\"rectangle_b7d92025-e561-4ce2-8838-e0f65f008cfa\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.62067\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 26
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-29T00:13:31.626Z",
-    "@id": "100ec875-ba69-4eb1-adf9-74284bff44c2.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R18</em></p>\n<p dir=\"ltr\"><strong>chapter XVIII</strong></p>\n<p><span id=\"docs-internal-guid-5f4c6d03-7fff-f28a-0570-f7927f33c3c4\"><br />In the manuscript there is no chapter number above this title, which is rare. Herring explains the absence of left-hand memoranda referring to chapter 18 by way of &ldquo;Dickens&rsquo; certainty regarding the subject and its place in the number&rdquo; (22), but the layout of the right-hand page, with so little space allotted on the right side of the Note for this chapter, suggests that Dickens may have made a decision while writing to add a chapter focusing on Little Dorrit to the end of the number. In the proofs, the last page of this chapter has the final section pasted onto the last page and folded, perhaps suggesting a need to cut length from the number (which was likely accomplished via the erasures to chapter 15, see LD.V.R1). </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T00:13:41.239Z"
 }
