@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 26
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R21</em></p>\n<p dir=\"ltr\"><strong>[Conference] A puzzle</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The same correction to the title (erasure and replacement) appears in the manuscript as in this note. Since the correct title appears in the proof, it is evident that Dickens made these corrections before sending the manuscript to the printers. Given this similarity, the the timing of this chapter&rsquo;s composition (see LD.VI.R20 above), and the nature of these notes, it is possible that these were proactive or nearly contemporaneous with composition.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In altering the title of this chapter, Dickens adds yet another mystery to the narrative, this one surrounding Little Dorrit&rsquo;s feelings; this is the subject that puzzles Clennam as he learns of her refusal of John Chivery and wonders about her affections and the extent of her distress at the begging letters Clennam receives from her father and brother. This confusion about Little Dorrit&rsquo;s feelings is matched with his confusion about his own, and will become the means by which Dickens can suspend the resolution of their love story until the end of the novel.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1858,1896,507,51"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1857.71624,1946.43725h253.27273v0h253.27273v-25.36364v-25.36364h-253.27273h-253.27273v25.36364z\"  id=\"rectangle_72ce170c-b8ca-44b2-b08e-51eeabf91f2e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:26:32.556Z",
+    "@id": "5db366c7-2dda-47a0-99a0-0fedaa4aae53.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
