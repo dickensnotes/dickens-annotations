@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 29
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R24</em></p>\n<p dir=\"ltr\"><strong>Dawn of Little Dorrit&rsquo;s [love] love for Arthur</strong></p>\n<p><span id=\"docs-internal-guid-bac9da69-7fff-c03e-53ca-d325f4c46a3b\">&nbsp;</span></p>\n<p dir=\"ltr\">This is the second time Dickens refers in the Notes to the beginning of Little Dorrit&rsquo;s love. In the Note for No. V, he writes: &ldquo;First suggestion of her being in love with Clennam&rdquo; (LD.V.R19). This &ldquo;dawn&rdquo; of love is activated in this number via another reference to the shadow: Clennam views &ldquo;a tremor on her lip, and a passing shadow of great agitation on her face,&rdquo; which he reads as both a reference to her feelings about her father and something he connects with &ldquo;a new fancy&rdquo; about her (LD 254). Notably, this &ldquo;new fancy&rdquo; gestures towards Arthur&rsquo;s own feelings about hopeless love, as well as Little Dorrit&rsquo;s: &ldquo;The Little Dorrit, trembling on his arm, was less in unison than ever with Mrs. Chivalry&rsquo;s theory, and yet was not irreconcilable with a new fancy which sprung up within him, that there might be some one else, in the hopeless&ndash;newer fancy still&ndash;in the hopeless unattainable distance&rdquo; (254).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1455,2023,776,65"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2231.11888,2088.46154v-44.28904l-769.23077,-20.97902l-6.99301,39.62704z\"  id=\"rough_path_d5a735ee-aca1-41e9-a6bb-78b496b8ba60\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:28:41.204Z",
+    "@id": "9c903fdd-e052-487f-9dd8-36f5e5207c20.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
