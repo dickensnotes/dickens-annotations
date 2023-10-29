@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.R4</em></p>\n<p dir=\"ltr\"><strong>Pancks &ndash; Pave the way for [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Again, Dickens uses proactive language of preparation here, referencing not only what he intends to do in this number (&ldquo;pave the way&rdquo;), but also how this element will prepare for &ldquo;the end of book 1st.&rdquo; That Dickens was planning the end of Book 1 (No. X) is evident here and in his comments to Forster written in early April as he was working on this number: &ldquo;I am glad to think of being in the country with the long summer mornings as I approach number ten, where I have finally resolved to make Dorrit rich. It should be a very fine point in the story&rdquo; (Forster 2.183).&nbsp;</p>\n<p><br />This chapter (and the number as a whole) will &ldquo;pave the way&rdquo; via Pancks&rsquo;s information-gathering and &ldquo;fortune telling&rdquo;), but Pancks&rsquo;s presence also connects back to the shadow motif from the previous number; he appears in the number as Clennam is musing on &ldquo;his old doubts in reference to his mother and Little Dorrit&rdquo;: &ldquo;Mr Pancks cast his shadow through the glass upon the books and papers&rdquo; (LD 268). </p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1434,583,1196,156"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1433.91608,701.51515v-58.27506l624.70862,-20.97902l568.76457,-39.62704l2.331,53.61305l-965.03497,60.60606l-51.28205,20.97902l-90.90909,20.97902z\"  id=\"rough_path_bd3bbada-01da-4fad-b5a0-3f002480e273\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:38:21.837Z",
+    "@id": "a395050c-65e1-435e-b33b-79678c0f73c9.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
