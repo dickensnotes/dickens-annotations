@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 22
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R17</em></p>\n<p dir=\"ltr\"><strong>The Physician and Mr Merdle&rsquo;s mysterious complaint [&hellip;]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In this note we get a glimpse of Dickens&rsquo;s future intention for Merdle, which he described in a letter to Forster in late March, shortly after finishing this number in words that echo this note: &ldquo;I had the general idea of the Society business before the Sadleir affair, but I shaped Mr. Merdle himself out of that precious rascality&hellip;Mr. Merdle&rsquo;s complaint, which you will find in the end to be fraud and forgery, came into my mind as the last drop in the silver cream-jug on Hampstead-Heath&rdquo; (Forster 2.183). The similarity in this language to a letter written after the chapter&rsquo;s composition may suggest that the note is retroactive.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens refers here to John Sadlier, the infamous Irisih politician and financier who committed suicide on Hampstead Heath in mid-February after the failure of his speculations, which involved forged shares in the Royal Swedish Railway Company and an overdraft on the Tipperary Bank. Dickens makes explicit reference in his preface to this inspiration for his &ldquo;extravagant conception&rdquo; of Mr. Merdle (LD lix). Given that there is no mention of Mr. Merdle in the left-hand memoranda, it may be the case that Dickens decided to include this storyline only while he was in the process of composing the number.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1614,1694,1062,176"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1618.71277,1694.43736l1057.04481,50.1813l-9.71251,126.26263l-323.75032,-19.42502l-12.95001,-43.70629l-137.59389,-12.95001l-6.47501,-29.13753l-571.41932,-19.42502z\"  id=\"rough_path_9de3a88b-ba73-4be5-b63c-64abee7cda4a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:24:01.427Z",
+    "@id": "aeba719f-849a-473b-9b83-16e754db070c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
