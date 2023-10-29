@@ -4,16 +4,14 @@ order: 3
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "39d61b07-6972-43e0-8f76-80f3f3907b6e.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-1146fbad-7fff-1167-8a66-5387bfaaa013\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.IV.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sissy? No</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens was able to &ldquo;Carry on Sissy&rdquo; and the &ldquo;power of affection&rdquo; in No. II, and in No. III he had considered possibilities for expanding her presence through either a lover or becoming acquainted with Rachael (these possibilities are left unrealized) (see <em>HT.III.L5</em> &amp; <em>HT.III.L6)</em>. Although Dickens answers this particular query about Sissy in the negative, she does make a brief appearance in the &lsquo;number&rsquo; in chapter 25 when Louisa returns to Coketown to visit her dying mother. In that scene, Mrs. Gradgrind gestures at the &ldquo;power of affection&rdquo; that Sissy embodies to direct Louisa beyond her father&rsquo;s philosophy: &ldquo;&lsquo;But there is something&ndash;not an Ology at all&ndash;that your father has missed, or forgotten, Louisa. I don&rsquo;t know what it is. I have often sat with Sissy near me, and thought about it&rsquo;&rdquo; (HT 225). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T01:05:32.749Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M147.87253,746.85277h150.45825v0h150.45825v54.53728v54.53728h-150.45825h-150.45825v-54.53728z\"  id=\"rectangle_b65904d6-7e2b-496b-a12c-8fee73cdd652\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M147.87253,746.85277h150.45825v0h150.45825v54.53728v54.53728h-150.45825h-150.45825v-54.53728z\"  id=\"rectangle_b65904d6-7e2b-496b-a12c-8fee73cdd652\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1.00382\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 3
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T01:05:32.749Z",
-    "@id": "39d61b07-6972-43e0-8f76-80f3f3907b6e.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-1146fbad-7fff-1167-8a66-5387bfaaa013\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.IV.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sissy? No<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens was able to &ldquo;Carry on Sissy&rdquo; and the &ldquo;power of affection&rdquo; in No. II, and in No. III he had considered possibilities for expanding her presence through either a lover or becoming acquainted with Rachael (these possibilities are left unrealized) (see <em>HT.III.L5</em> &amp; <em>HT.III.L6)</em>. Although Dickens answers this particular query about Sissy in the negative, she does make a brief appearance in the &lsquo;number&rsquo; in chapter 25 when Louisa returns to Coketown to visit her dying mother. In that scene, Mrs. Gradgrind gestures at the &ldquo;power of affection&rdquo; that Sissy embodies to direct Louisa beyond her father&rsquo;s philosophy: &ldquo;&lsquo;But there is something&ndash;not an Ology at all&ndash;that your father has missed, or forgotten, Louisa. I don&rsquo;t know what it is. I have often sat with Sissy near me, and thought about it&rsquo;&rdquo; (HT 225). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:50:50.034Z"
 }
