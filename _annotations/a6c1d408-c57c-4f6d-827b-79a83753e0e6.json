@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 31
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R26</em></p>\n<p dir=\"ltr\"><strong>The Shadow of the Marshalsea Wall</strong></p>\n<p><span id=\"docs-internal-guid-9ed61460-7fff-f040-b7d0-433df5fc0606\">&nbsp;</span></p>\n<p dir=\"ltr\">Again, Dickens ends a chapter note and a chapter with the shadow motif, this time using the same phrase in note and novel. This time, the shadow connects Arthur&rsquo;s musings about both Little Dorrit and the river motif of his disappointed love, with Little Dorrit&rsquo;s love for Arthur: &ldquo;the poor child Little Dorrit thought of him&ndash;too faithfully, ah, too faithfully!--in the shadow of the Marshalsea wall&rdquo; (LD 256).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2275,2034,421,64"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2282.72727,2097.27273l413.63636,-17.27273l-6.36364,-46.36364l-414.54545,32.72727l8.18182,27.27273v0z\"  id=\"rough_path_c076dc1d-6692-4693-87b9-353aabd6fcdc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:29:57.521Z",
+    "@id": "a6c1d408-c57c-4f6d-827b-79a83753e0e6.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
