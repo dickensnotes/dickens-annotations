@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R4</em></p>\n<p dir=\"ltr\"><strong>Mr Flintwinch &ldquo;giving it to&rdquo; Mrs Clennam</strong></p>\n<p><span id=\"docs-internal-guid-6dc26482-7fff-f0cc-8355-87a7093e8410\">&nbsp;</span></p>\n<p dir=\"ltr\">Although the language of Jeremiah &ldquo;giving it&rdquo; to Mrs. Clennam does not appear directly in this chapter, Dickens does use this phrase in No. I (chapter 3): &ldquo;It makes me shake from head to foot, to hear him give it her. My husband, Jeremiah Flintwinch, can conquer even your mother&rdquo; (LD 36-37), suggesting that Dickens was recalling this earlier phrasing as he drafted the note. In the current chapter, Jeremiah demonstrates this power over Mrs. Clennam via knowledge by insisting that he will not &ldquo;take&rdquo; any of her &ldquo;nonsense&rdquo; (174).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1441,622,790,47"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1441.24009,669.21212h394.93939v0h394.93939v-23.47552v-23.47552h-394.93939h-394.93939v23.47552z\"  id=\"rectangle_b0e4c320-430c-424f-8289-8be98780ea98\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:04:56.200Z",
+    "@id": "4135f932-65fd-45ae-93d0-6ef25bbb4eab.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
