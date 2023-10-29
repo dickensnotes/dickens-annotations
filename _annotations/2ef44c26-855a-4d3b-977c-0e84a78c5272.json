@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.L2</em></p>\n<p dir=\"ltr\"><strong>Pancks? Yes</strong></p>\n<p><span id=\"docs-internal-guid-416865be-7fff-1ea9-62d9-1fa41eb2494c\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens&rsquo;s emphatic underscoring of &ldquo;Yes&rdquo; indicates the significance of Pancks as the lynchpin of this number. He will appear in all three chapters, watching and gathering information. As Herring explains, it is through Pancks that Dickens &ldquo;begins to implement his decision to endow the Dorrit family with wealth&rdquo; (37).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=75,329,629,126"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M75.27273,328.88578h314.51981v0h314.51981v62.77156v62.77156h-314.51981h-314.51981v-62.77156z\"  id=\"rectangle_4e5dbe98-832d-4586-b502-02251949151a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:32:25.969Z",
+    "@id": "2ef44c26-855a-4d3b-977c-0e84a78c5272.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
