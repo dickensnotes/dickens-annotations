@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 28
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R23</em></p>\n<p dir=\"ltr\"><strong>Our John sits [...]</strong></p>\n<p><span id=\"docs-internal-guid-99e6a83c-7fff-551c-3d26-5c1f349d4a14\">&nbsp;</span></p>\n<p dir=\"ltr\">This language appears in the middle of the chapter: &ldquo;[O]ur John has come to find no pleasure but in taking cold among the linen&hellip;&rsquo; Here the good woman pointed to the little window, whence her son might be seen sitting disconsolate in the tuneless groves&rdquo; (LD 252). &ldquo;He won&rsquo;t go out&hellip; when there&rsquo;s no linen&hellip; Says he feels as if it was groves!&rdquo; (250).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1483,1977,1140,65"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1489.86014,2023.19347l755.24476,18.64802l377.62238,-11.65501l-2.331,-30.30303l-375.29138,6.99301v0l-762.23776,-30.30303z\"  id=\"rough_path_38831213-722d-4c52-8ea4-216e439915de\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:28:07.478Z",
+    "@id": "90018df5-77d9-4079-a357-9da393b459cc.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
