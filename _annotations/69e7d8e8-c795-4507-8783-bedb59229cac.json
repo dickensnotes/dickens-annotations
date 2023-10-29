@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R2</em></p>\n<p dir=\"ltr\"><strong>Condense, if possible, the whole fatherly character</strong></p>\n<p><span id=\"docs-internal-guid-a10e4e65-7fff-934b-8023-9c3347702803\">&nbsp;</span></p>\n<p dir=\"ltr\">The imperative (&ldquo;condense&rdquo;) and conditional qualification (&ldquo;if possible&rdquo;) suggest that this is a proactive chapter note in which Dickens gives himself an instruction about how to establish Mr. Dorrit&rsquo;s character. He will exhibit Mr. Dorrit&rsquo;s combination of false pride, superiority, and shame in two ways, which are the subject of the previous notation (&ldquo;The two brothers&rdquo;) and the subsequent notation (&ldquo;Scene with the father and daughter&rdquo;). In the first, Mr. Dorrit compares his own &ldquo;precise and methodical&rdquo; habits to Frederick&rsquo;s feebleness (LD 217, the subject of the previous note). In the second, his reaction to what he perceives as curtness in Chivery leads to his breakdown in front of Little Dorrit: &ldquo;O despise me, despise me! Look away from me, don&rsquo;t listen to me, stop me, blush for me, cry for me&rdquo; (LD 221, the subject of the subsequent note).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1573,457,967,112"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1573.18429,508.73942l481.65269,-25.96379v0l481.65269,-25.96379l1.62223,30.09384l1.62223,30.09384l-481.65269,25.96379l-481.65269,25.96379l-1.62223,-30.09384z\"  id=\"rectangle_bbdeff43-2f24-4852-bbb6-e31a21fff37a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:14:09.910Z",
+    "@id": "69e7d8e8-c795-4507-8783-bedb59229cac.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
