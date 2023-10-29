@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.L2</em></p>\n<p dir=\"ltr\"><strong>Start from the Marsalsea, carrying on from last No? Yes</strong></p>\n<p><span id=\"docs-internal-guid-ce2b5ddc-7fff-eb37-ce59-7712597c17e8\">&nbsp;</span></p>\n<p dir=\"ltr\">Herring argues that this note &ldquo;sets the proper perspective for the number&hellip; This is not simply an indication of how to tie the monthly instalments together; Dickens seldom needed that kind of reminder&rdquo; (34-35). While this may be true, the note does indicate a need for continuity between Nos. V and VI, and is followed through with an opening chapter set in the Marshalsea that makes explicit reference to the events of the preceding chapter: Mr. Dorrit and his brother &ldquo;walked up and down the yard, on the evening of Little Dorrit&rsquo;s Sunday interview with her mover on the Iron Bridge&rdquo; (LD 214). This number will deepen our understanding of the Dorrit family pride and repeat the metaphor of the shadow cast by the Marshalsea.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=14,332,1187,132"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M13.73427,331.56643h593.65734v0h593.65734v66.03497v66.03497h-593.65734h-593.65734v-66.03497z\"  id=\"rectangle_58509a1f-a7e9-42f7-b93a-37187fa873b4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:54:41.997Z",
+    "@id": "1e3e6394-7edd-4ff5-867b-eabef5e0a5a4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
