@@ -4,16 +4,14 @@ order: 4
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "3e3ea23f-3724-4d65-9c01-a7f86030d887.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-e9926059-7fff-59c0-8ab0-755d9dca561d\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A Sunny day in coketown? </span><span id=\"docs-internal-guid-8f558e6e-7fff-fe0f-1b6d-d5f5b75f3412\" style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ndash; </span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Picture?</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This &ldquo;Picture&rdquo; becomes the opening of the third &lsquo;number&rsquo; and begins weekly installment no. 9 (chapter 17). Dickens initially begins composition of the chapter with this exact phrase, before deleting &ldquo;in Coketown&rdquo; and adding &ldquo;midsummer&rdquo; above. The opening sentences of the published text read: &ldquo;A sunny midsummer day. There was such a thing sometimes, even in Coketown&rdquo; (HT 145). The third paragraph of the chapter shows a substantial degree of revising and editing in the manuscript. This is one of several &ldquo;Pictures&rdquo; Dickens documents in the Working Notes, along with the &ldquo;Mill Pictures&rdquo; from No. II, the &ldquo;Morning picture, of Stephen going away from Coketown&rdquo; in No. III (chapter 22), and the &ldquo;Wet night picture&rdquo; in No. IV (chapter 27) (see <em>HT.II.L4</em>).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:54:36.433Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 4
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M107.61018,976.36218h482.64073v0h482.64073v57.55273v57.55273h-482.64073h-482.64073v-57.55273z\"  id=\"rectangle_11c34aa8-3b12-4b2c-a605-a1a02b41eec1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M107.61018,976.36218h482.64073v0h482.64073v57.55273v57.55273h-482.64073h-482.64073v-57.55273z\"  id=\"rectangle_11c34aa8-3b12-4b2c-a605-a1a02b41eec1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 4
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:54:36.433Z",
-    "@id": "3e3ea23f-3724-4d65-9c01-a7f86030d887.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-e9926059-7fff-59c0-8ab0-755d9dca561d\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A Sunny day in coketown? </span><span id=\"docs-internal-guid-8f558e6e-7fff-fe0f-1b6d-d5f5b75f3412\" style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ndash; </span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Picture?<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This &ldquo;Picture&rdquo; becomes the opening of the third &lsquo;number&rsquo; and begins weekly installment no. 9 (chapter 17). Dickens initially begins composition of the chapter with this exact phrase, before deleting &ldquo;in Coketown&rdquo; and adding &ldquo;midsummer&rdquo; above. The opening sentences of the published text read: &ldquo;A sunny midsummer day. There was such a thing sometimes, even in Coketown&rdquo; (HT 145). The third paragraph of the chapter shows a substantial degree of revising and editing in the manuscript. This is one of several &ldquo;Pictures&rdquo; Dickens documents in the Working Notes, along with the &ldquo;Mill Pictures&rdquo; from No. II, the &ldquo;Morning picture, of Stephen going away from Coketown&rdquo; in No. III (chapter 22), and the &ldquo;Wet night picture&rdquo; in No. IV (chapter 27) (see <em>HT.II.L4</em>).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:48:44.579Z"
 }
