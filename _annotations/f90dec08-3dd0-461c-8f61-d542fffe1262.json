@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.R3</em></p>\n<p dir=\"ltr\"><strong>Visit from Flora [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The imperative phrase (&ldquo;Prepare for&rdquo;) Dickens uses in this and other notes for this chapter likely indicates a level of proactive planning, not just for the composition of this number, but for how this chapter will prepare for the one that follows.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">To Forster, Dickens wrote that &ldquo;There are some things in Flora in number seven that seem to me to be extraordinarily droll, with something serious at the bottom of them after all. Ah, well! was there not something very serious in it once?&rdquo; (Forster 2.183). While Clennam is disturbed by the visit at first, especially given Flora&rsquo;s continual (and comic) references to their young love, he takes a &ldquo;sudden interest in the conversation&rdquo; when he realizes Flora is talking about Little Dorrit (LD 265).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1399,527,1224,112"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1398.95105,540.67599l1223.77622,-13.98601l-2.331,44.28904l-547.78555,18.64802l-16.31702,30.30303l-650.34965,18.64802l-4.662,-102.5641v0z\"  id=\"rough_path_679de5bc-8f26-48ac-9fb8-4277142d017b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:37:40.939Z",
+    "@id": "f90dec08-3dd0-461c-8f61-d542fffe1262.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
