@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R12</em></p>\n<p dir=\"ltr\"><strong>The Shadow of the Marshalsea on whom?</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This note appears to be written in a different ink than those above (though it is consistent with the ink used for the first chapter note, &ldquo;Family Pride,&rdquo; LD.VI.R6). It may have been added later.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Each of the chapter plans for 20, 21, and 22 ends with a mention of the shadow, as does the conclusion of each of these chapters in the novel. At the close of this chapter, as Little Dorrit leaves her Uncle and Fanny and returns to the Marshalsea, Dickens turns to the shadow: &ldquo;[T]he shadow of the wall was on every object. Not least, upon the figure in the old grey gown and the black velvet cap, as it turned towards her when she opened the door of the dim room. &lsquo;Why not upon me too!&rsquo; thought Little Dorrit&rdquo; (LD 240).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The question in this note may imply Dickens's uncertainty as to how the shadow will operate, though it is perhaps more likely that he is considering the extent to which the &ldquo;shadow&rdquo; of imprisonment impacts &ldquo;every object,&rdquo; including Little Dorrit. In the proofs, Dickens erases his original ending for the chapter, in which he imagines Little Dorrit as a light that dispels the shadow: &ldquo;And yet the shadow of the wall seemed to pass away before the light of her coming.&rdquo; Dickens made a series of erasures in the proofs to this number due to his overwriting (see headnote), but perhaps he erased this phrase because it undermined the extent to which Amy herself is trapped in the shadow of the Marshalsea.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1348,1245,557,100"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1354.662,1244.63869l-6.99301,60.60606l149.18415,6.99301l-2.331,23.31002l228.43823,9.32401l4.662,-39.62704l174.82517,6.99301l2.331,-44.28904z\"  id=\"rough_path_96dbc30a-057e-48ca-b610-a7b1aa19cec2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:20:34.325Z",
+    "@id": "62eb0c4b-c3b8-4214-b864-36b8d1db3b3c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
