@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R3</em></p>\n<p dir=\"ltr\"><strong>Begin (with a view to Rigaud catastrophe) [...]</strong></p>\n<p><span id=\"docs-internal-guid-243e648e-7fff-3059-56cf-7eb534c7a046\">&nbsp;</span></p>\n<p dir=\"ltr\">This is the first time we see an explicit reference to events in Book II, suggesting that Dickens now had a clearer sense of how certain storylines would play out. Dickens&rsquo;s careful preparation for the &ldquo;Rigaud catastrophe&rdquo; begins as early as his description of the house&rsquo;s precarity in No. I, suggesting that Dickens had reason to be perturbed when James Fitzgerald Stephen accused him of basing the house&rsquo;s collapse on the collapse of three houses in Tottenham Court Road on May 9, 1857 (&ldquo;The License of Modern Novelists&rdquo;). In his defense, Dickens wrote an article in <em>Household Words </em>in which he insisted that &ldquo;the catastrophe is carefully prepared for from the very first presentation of the old house in the story&hellip; the rotten and crazy state of the house is laboriously kept before the reader, whenever the house is shown\" (&ldquo;Curious Misprint&rdquo; 97). Indeed, when Dickens refers to the impending &ldquo;Catastrophe&rdquo; in the Notes for No. XVII, he again references their long preparation (see LD.XVII.R3). For more on Dickens&rsquo;s response to Stephen, see LD.XIX-XX.R10 and Critical Introduction.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1373,501,1253,113"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1373.17483,501.4965h626.6993v0h626.6993v56.59441v56.59441h-626.6993h-626.6993v-56.59441z\"  id=\"rectangle_6c318874-9dbd-4b72-a7e1-5e8c52dbec0d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:04:01.936Z",
+    "@id": "cd09e092-c158-4da1-9675-ed2a86ca388e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
