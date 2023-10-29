@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 30
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R22</em></p>\n<p dir=\"ltr\"><strong>Iron bridge again&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-86fe7626-7fff-c359-555e-b1625fd5fde4\">&nbsp;</span></p>\n<p dir=\"ltr\">With this phrase, Dickens acknowledges the parallel and contrast between Chivery&rsquo;s encounter with Little Dorrit on the iron bridge and her encounter with Clennam there in No. III, chapter 9 (LD.III.R4).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2156,2009,262,33"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2156.16786,2041.79335h130.83737v0h130.83737v-16.42406v-16.42406h-130.83737h-130.83737v16.42406z\"  id=\"rectangle_9c33dbce-8a40-450b-b096-90fcf2a0d967\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:51:18.911Z",
+    "@id": "cf7743eb-4b96-4a53-89d7-42d64d55948f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
