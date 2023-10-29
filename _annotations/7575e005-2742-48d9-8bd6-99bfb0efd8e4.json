@@ -4,16 +4,14 @@ order: 6
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "7575e005-2742-48d9-8bd6-99bfb0efd8e4.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-cb7ca48c-7fff-87a1-90ad-60ecbbc5056c\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.L5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dolly Jupe</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This initial formulation of the young Jupe girl&rsquo;s name is carried over into the manuscript, and throughout chapter 2 her name appears as &ldquo;Dolly&rdquo; (and even once, curiously, as Mary, when Gradgrind insists, &ldquo;You are not, Mary Jupe.&rdquo;). Dickens seems to have decided to change her name to Sissy before he began composing chapter 3, as her name appears as &ldquo;Sissy&rdquo; from its first appearance in chapter 3. As Dickens does not return to the manuscript to change the name, it must have been made consistent in a set of corrected proofs that were not preserved.</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:16:50.742Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 6
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M479.69297,564.02349l151.15855,14.01925v0l151.15855,14.01925l-3.41778,36.85118l-3.41778,36.85118l-151.15855,-14.01925l-151.15855,-14.01925l3.41778,-36.85118z\"  id=\"rectangle_b5534c76-9a8c-4e8a-9320-e717ad7620a1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M479.69297,564.02349l151.15855,14.01925v0l151.15855,14.01925l-3.41778,36.85118l-3.41778,36.85118l-151.15855,-14.01925l-151.15855,-14.01925l3.41778,-36.85118z\"  id=\"rectangle_b5534c76-9a8c-4e8a-9320-e717ad7620a1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 6
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:16:50.742Z",
-    "@id": "7575e005-2742-48d9-8bd6-99bfb0efd8e4.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-cb7ca48c-7fff-87a1-90ad-60ecbbc5056c\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.L5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dolly Jupe<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This initial formulation of the young Jupe girl&rsquo;s name is carried over into the manuscript, and throughout chapter 2 her name appears as &ldquo;Dolly&rdquo; (and even once, curiously, as Mary, when Gradgrind insists, &ldquo;You are not, Mary Jupe.&rdquo;). Dickens seems to have decided to change her name to Sissy before he began composing chapter 3, as her name appears as &ldquo;Sissy&rdquo; from its first appearance in chapter 3. As Dickens does not return to the manuscript to change the name, it must have been made consistent in a set of corrected proofs that were not preserved.</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:44:29.625Z"
 }
