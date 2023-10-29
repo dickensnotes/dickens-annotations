@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R10</em></p>\n<p dir=\"ltr\"><strong>Daniel Doyce</strong></p>\n<p><span id=\"docs-internal-guid-c2191104-7fff-b844-e637-3e506eb2b9bd\"><br />Dickens underscores Doyce for emphasis in this note, suggesting his importance to this chapter. It is here that Doyce takes on a more fleshed out role in the novel as Clennam&rsquo;s friend and future partner. Incorporating him here allows Dickens to &ldquo;pave the way&rdquo; for his future partnership with Clennam (LD.V.L6).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1411,1026,270,77"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1410.93706,1025.85548h135.03263v0h135.03263v38.29604v38.29604h-135.03263h-135.03263v-38.29604z\"  id=\"rectangle_042a325d-273d-4a8e-a4a4-56137a115d5e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:07:35.424Z",
+    "@id": "5aa5d885-0fd8-4755-91a4-4476edd3afa1.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
