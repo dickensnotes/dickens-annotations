@@ -4,16 +4,14 @@ order: 16
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "366efbf9-18a5-499b-b65f-7f08be9e3e8f.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-38132fd3-7fff-aee4-375e-09dbd4547170\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.R6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mrs Gradgrind &ndash; badly done transparency [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note&ndash;and Dickens&rsquo;s conception of Mrs. Gradgrind&ndash;appears to have preceded his composition of chapter 3. While the chapter opens with a description of Gradgrind&rsquo;s home and children at Stone Lodge, the further note &ldquo;No not yet&rdquo; reflects how Dickens decided to forego further description of Gradgrind&rsquo;s domestic affairs (including further elaboration of Mrs. Gradgrind) and instead introduce Sleary&rsquo;s circus before the close of the first weekly installment. This is one early manifestation of Dickens&rsquo;s struggles to adjust to the shortened space of the weekly installment. The second weekly installment (chapter 4) uses a further description of Bounderby to revisit Gradgrind&rsquo;s home life, which includes a characterization of Mrs. Gradgrind along the lines of this note and directive below (&ldquo;Now, Mrs Gradgrind&rdquo;): &ldquo;Mrs Gradgrind, weakly smiling, and giving no other sign of vitality, looked (as she always did) like an indifferently executed transparency of a small female figure, without enough light behind it&rdquo; (HT 60).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:27:32.401Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 16
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1650.04364,868.71273l361.30909,3.14182l-1.57091,-36.13091l556.10182,-1.57091l-1.57091,-39.27273l-915.84,-10.99636v83.25818v0v0z\"  id=\"rough_path_f8acc59c-41d4-4b7a-b109-1f2b768cb03d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1650.04364,868.71273l361.30909,3.14182l-1.57091,-36.13091l556.10182,-1.57091l-1.57091,-39.27273l-915.84,-10.99636v83.25818v0v0z\"  id=\"rough_path_f8acc59c-41d4-4b7a-b109-1f2b768cb03d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"0.90909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 16
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:27:32.401Z",
-    "@id": "366efbf9-18a5-499b-b65f-7f08be9e3e8f.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-38132fd3-7fff-aee4-375e-09dbd4547170\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.R6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mrs Gradgrind &ndash; badly done transparency [...]<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note&ndash;and Dickens&rsquo;s conception of Mrs. Gradgrind&ndash;appears to have preceded his composition of chapter 3. While the chapter opens with a description of Gradgrind&rsquo;s home and children at Stone Lodge, the further note &ldquo;No not yet&rdquo; reflects how Dickens decided to forego further description of Gradgrind&rsquo;s domestic affairs (including further elaboration of Mrs. Gradgrind) and instead introduce Sleary&rsquo;s circus before the close of the first weekly installment. This is one early manifestation of Dickens&rsquo;s struggles to adjust to the shortened space of the weekly installment. The second weekly installment (chapter 4) uses a further description of Bounderby to revisit Gradgrind&rsquo;s home life, which includes a characterization of Mrs. Gradgrind along the lines of this note and directive below (&ldquo;Now, Mrs Gradgrind&rdquo;): &ldquo;Mrs Gradgrind, weakly smiling, and giving no other sign of vitality, looked (as she always did) like an indifferently executed transparency of a small female figure, without enough light behind it&rdquo; (HT 60).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:45:30.511Z"
 }
