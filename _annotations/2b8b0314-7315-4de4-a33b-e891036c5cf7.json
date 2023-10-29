@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R11</em></p>\n<p dir=\"ltr\"><strong>Society, Society, Society.</strong></p>\n<p><span id=\"docs-internal-guid-07ee80b6-7fff-b1d0-253e-9d27414f5e38\">&nbsp;</span></p>\n<p dir=\"ltr\">Repetition and underscoring emphasize the significance of &ldquo;Society&rdquo; as another imprisoning force in this novel. In Mrs. Merdle&rsquo;s words, &ldquo;Society suppresses and dominates us&rdquo; (LD 235). To Forster, Dickens would explain that &ldquo;Society, the Circumlocution Office, and Mr Gowan are of course three parts of one idea and design&rdquo; (Forster 2.183).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2021,1217,478,119"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2499.18415,1253.9627l-466.20047,-37.29604l-11.65501,83.91608l473.19347,34.96503z\"  id=\"rough_path_a9f159d6-16f1-45e7-9bac-17e2121c2c7e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:19:50.464Z",
+    "@id": "2b8b0314-7315-4de4-a33b-e891036c5cf7.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
