@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.L4</em></p>\n<p dir=\"ltr\"><strong>Cavalletto? Carry through</strong></p>\n<p><span id=\"docs-internal-guid-c396a178-7fff-38c7-afcd-45c4de07d04c\">&nbsp;</span></p>\n<p dir=\"ltr\">Cavalletto is &ldquo;carried through&rdquo; in his appearance towards the end of the final chapter of the number (chapter 25), as he becomes a fixture of Bleeding Heart Yard. As of this number, his role in the novel is still not developed, but this installment begins to establish his connections with Clennam, Plornish, and Pancks.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=110,772,769,126"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M110.23776,771.77622h384.44988v0h384.44988v62.77156v62.77156h-384.44988h-384.44988v-62.77156z\"  id=\"rectangle_cc9baa41-c580-407b-80fb-f0470244c562\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:33:28.839Z",
+    "@id": "68ab4244-9e23-4a92-963c-e98a5a47650b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
