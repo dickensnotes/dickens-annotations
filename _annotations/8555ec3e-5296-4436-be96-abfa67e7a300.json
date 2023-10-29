@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 8
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R3</em></p>\n<p dir=\"ltr\"><strong>Scene with the father and daughter [...]</strong></p>\n<p><span id=\"docs-internal-guid-bf5617cc-7fff-ed09-c0d7-216d21aed92b\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens will mirror this scene with one in Book II (No. XII), which the Working Note will describe as &ldquo;A companion scene between the father &amp; daughter, to the old scene in the Marshalsea&rdquo; (see LD.XII.R5). Dickens places the focus on how Little Dorrit &ldquo;sees&rdquo; her father: &ldquo;I tell you, if you could see me as your mother saw me, you wouldn&rsquo;t believe it to be the creature you have only looked at through the bars of this cage&rdquo; (LD 221).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1448,613,715,109"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1448.2331,613.26807h357.64336v0h357.64336v54.61305v54.61305h-357.64336h-357.64336v-54.61305z\"  id=\"rectangle_af1c1db0-bcf7-4faf-91d8-9f4a1234cac0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:14:45.960Z",
+    "@id": "8555ec3e-5296-4436-be96-abfa67e7a300.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
