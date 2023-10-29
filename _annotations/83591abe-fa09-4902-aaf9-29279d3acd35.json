@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 28
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R20</em></p>\n<p dir=\"ltr\"><strong>Through Turnkey&rsquo;s son [...]</strong></p>\n<p><span id=\"docs-internal-guid-978a1cd9-7fff-c73b-55ce-cee622191dd9\">&nbsp;</span></p>\n<p dir=\"ltr\">In the manuscript, Young John is written as George throughout the chapter. Dickens corrects &ldquo;George&rdquo; to &ldquo;John&rdquo; in the proofs throughout, but he also returns here to make the addition in the Notes. By No. VI, he is writing Young John in the manuscript (chapter 20). It is &ldquo;through&rdquo; Chivalry&rsquo;s love for Little Dorrit that we get insight into her emotional state. The chapter is narrated through the perspective of the turnkey&rsquo;s son, whose passion for Little Dorrit is rendered comical and piteous by his imagined epitaphs.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1397,1948,1252,80"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2116.57494,2028.05548l120.28224,-25.85506l268.6678,-10.1172l143.88903,-2.24827l-6.7448,-41.59292l-358.59845,2.24827l-110.16504,25.85506l-130.39944,6.7448l-258.55061,4.49653l-385.57764,-21.35853l-2.24827,38.22052l365.34325,19.11026z\"  id=\"rough_path_35b4dfea-2716-4e29-a3d1-7118a2e35a64\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:50:39.857Z",
+    "@id": "83591abe-fa09-4902-aaf9-29279d3acd35.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
