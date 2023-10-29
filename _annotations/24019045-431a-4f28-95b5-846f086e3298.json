@@ -13,6 +13,7 @@ order: 3
     "oa:annotatedBy": [
         "Adam Grener"
     ],
+    "oa:serializedAt": "2023-10-29T01:48:39.511Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -25,7 +26,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M96.29964,821.78473h541.07855v0h541.07855v71.69091v71.69091h-541.07855h-541.07855v-71.69091z\"  id=\"rectangle_81ab3fec-87d5-4ea6-b2d6-9b0b2899f408\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"0.90909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M96.29964,821.78473h541.07855v0h541.07855v71.69091v71.69091h-541.07855h-541.07855v-71.69091z\"  id=\"rectangle_81ab3fec-87d5-4ea6-b2d6-9b0b2899f408\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -40,6 +41,5 @@ order: 3
             "chars": "<p id=\"docs-internal-guid-5762c0db-7fff-cb9a-469a-5fd250afc10b\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.III.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Man dropped in No. 1? [...]<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">After deferring Harthouse&rsquo;s appearance through the first two &lsquo;numbers&rsquo; of the novel, Dickens finally introduces him in chapter 17. As the deliberations over his name here indicate, Dickens had not yet determined the name of this &ldquo;man dropped in No. 1.&rdquo; Although Dickens moves from &ldquo;Percy&rdquo; to &ldquo;Jem&rdquo; to &ldquo;James&rdquo; in this planning, he seems to have settled on this name by the time he began composing this &lsquo;number,&rsquo; as the name appears in the notes for chapter 20 (&ldquo;Introduce Mr James Harthouse) and &ldquo;James&rdquo; appears in the manuscript from his first mention. Harthouse is casually referred to as &ldquo;Jem&rdquo; a number of times in the novel.</span></p>\n<p>&nbsp;</p>",
             "format": "text/html"
         }
-    ],
-    "oa:serializedAt": "2023-10-29T01:48:34.431Z"
+    ]
 }
