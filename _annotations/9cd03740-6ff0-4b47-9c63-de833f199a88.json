@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.L5</em></p>\n<p dir=\"ltr\"><strong>Pet and Gowran? No (Next No)</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Even though Dickens dismisses Gowan from this number, his presence in these memoranda is significant because of Dickens&rsquo;s misspelling of his name. As Sucksmith argues, the fact that Dickens had not yet settled on the spelling of Gowan when he wrote these questions (as with the questions to No. VIII) suggests that he likely wrote these left-hand memoranda as early as January or February as he was drafting No. V, since both the chapter notes and the manuscript for that No. contain the final spelling of &ldquo;Gowan&rdquo; (see Sucksmith xxviii). If this is the case, Dickens likely drafted the left-hand questions in the Notes for numbers V-VIII before finishing composition of No. V.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens dismisses Pet and Gowan from this number, but he will open No. VIII with this storyline (&ldquo;Nobody&rsquo;s State of Mind&rdquo;).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=99,1042,848,112"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M98.58275,1042.17249h424.07692v0h424.07692v55.77855v55.77855h-424.07692h-424.07692v-55.77855z\"  id=\"rectangle_4517b75a-71b2-4eb1-be90-e5855a6ebcaf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:34:56.342Z",
+    "@id": "9cd03740-6ff0-4b47-9c63-de833f199a88.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
