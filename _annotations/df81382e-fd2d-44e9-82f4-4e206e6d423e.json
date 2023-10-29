@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.L3</em></p>\n<p dir=\"ltr\"><strong>Miss Wade? No [...]&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-0bf21fce-7fff-1726-3162-c459acc24d5c\">&nbsp;</span></p>\n<p dir=\"ltr\">The number of rejections here underscores how focused this number will be on one motif: the shadow of the Marshalsea and the implicit connection between the literal prison and the prison of Society. Again, Dickens rejects Miss Wade&rsquo;s entry into a number (see LD.III.L4; LD.IV.L2).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=10,472,432,76"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M9.53846,547.65035h216.03497v0h216.03497v-37.81119v-37.81119h-216.03497h-216.03497v37.81119z\"  id=\"rectangle_6699d038-9065-41d2-ae5a-0b10e6ce92b3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:55:08.826Z",
+    "@id": "df81382e-fd2d-44e9-82f4-4e206e6d423e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
