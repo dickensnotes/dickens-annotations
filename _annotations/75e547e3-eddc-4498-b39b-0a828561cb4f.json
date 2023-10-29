@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "75e547e3-eddc-4498-b39b-0a828561cb4f.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.VI.L4</em></p>\n<p dir=\"ltr\"><strong>Hold over.</strong></p>\n<p><span id=\"docs-internal-guid-3cc36df2-7fff-9287-e6f0-e3aa1e8813f7\">&nbsp;</span></p>\n<p dir=\"ltr\">Pancks does not appear by name in this number. Having initially included him in the emphatic \"No\" that appears to group his name with Flora's, Dickens evidently decides to &ldquo;hold&rdquo; his reintroduction until the opening chapter of the following number, No. VII, when he will begin his knowledge-gathering about the Dorrits. The notation to &ldquo;hold over&rdquo; Pancks rather than a simple rejection or deferment may indicate Dickens&rsquo;s sense that this number will establish the grounds for Pancks&rsquo;s intervention. While Dickens may be instructing himself to &ldquo;hold&rdquo; Pancks for use in the next number, we might imagine Pancks&rsquo;s presence to be &ldquo;held over&rdquo; this number. Indeed, when Pancks appears in the next number, his arrival will &ldquo;cast a shadow through the glass,&rdquo; repeating the shadow motif that is so prevalent in this number (LD 268). Flora will also appear along with Pancks in the first chapter of the next number.</p>"
-        }
+    "oa:annotatedAt": "2023-10-29T01:02:32.861Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M606.74126,743.8042h112.88811v0h112.88811v41.79254v41.79254h-112.88811h-112.88811v-41.79254z\"  id=\"rectangle_e9d35aa3-c2db-4a96-b271-3961d78e5713\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M606.74126,743.8042h112.88811v0h112.88811v41.79254v41.79254h-112.88811h-112.88811v-41.79254z\"  id=\"rectangle_e9d35aa3-c2db-4a96-b271-3961d78e5713\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.98601\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-29T01:02:32.861Z",
-    "@id": "75e547e3-eddc-4498-b39b-0a828561cb4f.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.L4</em></p>\n<p dir=\"ltr\"><strong>Hold over.</strong></p>\n<p><span id=\"docs-internal-guid-3cc36df2-7fff-9287-e6f0-e3aa1e8813f7\">&nbsp;</span></p>\n<p dir=\"ltr\">Pancks does not appear by name in this number. Having initially included him in the emphatic \"No\" that appears to group his name with Flora's, Dickens evidently decides to &ldquo;hold&rdquo; his reintroduction until the opening chapter of the following number, No. VII, when he will begin his knowledge-gathering about the Dorrits. The notation to &ldquo;hold over&rdquo; Pancks rather than a simple rejection or deferment may indicate Dickens&rsquo;s sense that this number will establish the grounds for Pancks&rsquo;s intervention. While Dickens may be instructing himself to &ldquo;hold&rdquo; Pancks for use in the next number, we might imagine Pancks&rsquo;s presence to be &ldquo;held over&rdquo; this number. Indeed, when Pancks appears in the next number, his arrival will &ldquo;cast a shadow through the glass,&rdquo; repeating the shadow motif that is so prevalent in this number (LD 268). Flora will also appear in the first chapter of the next number.</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:03:21.952Z"
 }
