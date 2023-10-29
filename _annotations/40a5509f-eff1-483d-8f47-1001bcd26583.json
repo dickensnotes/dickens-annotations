@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R9</em></p>\n<p dir=\"ltr\"><strong>Tattycoram<br /></strong><strong>Miss Wade</strong></p>\n<p><span id=\"docs-internal-guid-353c8b27-7fff-502c-79e9-9d0a8eaa5c2b\">&nbsp;</span></p>\n<p dir=\"ltr\">These two names are set aside and placed together on the page in a way that mirrors Tattycoram&rsquo;s position in the Meagles family. As noted on the left (LD.V.L2), Miss Wade only appears in this chapter as the subject of conversation; she is merely &ldquo;carr[ied] on.&rdquo;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2231,877,282,121"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2231.44988,876.67133h140.86014v0h140.86014v60.44056v60.44056h-140.86014h-140.86014v-60.44056z\"  id=\"rectangle_2fbb7480-5bf1-4abd-87b7-1d48fdb16dfd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:07:17.386Z",
+    "@id": "40a5509f-eff1-483d-8f47-1001bcd26583.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
