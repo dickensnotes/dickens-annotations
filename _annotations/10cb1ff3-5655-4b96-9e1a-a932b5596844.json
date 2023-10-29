@@ -4,16 +4,14 @@ order: 15
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "10cb1ff3-5655-4b96-9e1a-a932b5596844.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R10</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;I leave &lsquo;t to yo to clear [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This quotation captures the import of Stephen&rsquo;s exchange with Gradgrind, although the wording in the published text is different and more substantial: &ldquo;&lsquo;Sir, yo will clear me an mak my name good wi&rsquo; aw men. This I leave to yo.&rsquo; Mr Gradgrind was troubled and asked how? &lsquo;Sir,&rsquo; was the reply; &lsquo;yor son will tell yo how. Ask him&rsquo;&rdquo; (HT 291).</span></p>"
-        }
+    "oa:annotatedAt": "2023-10-23T21:30:59.577Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 15
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1415.88769,1349.41222l653.72495,20.13845v35.62956l-399.6707,-4.64733l-1.54911,26.33489l-206.0318,-9.29467l-46.47334,-60.41534\"  id=\"rough_path_174c7683-3d7c-49be-bbcb-411af21c7707\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1415.88769,1349.41222l653.72495,20.13845v35.62956l-399.6707,-4.64733l-1.54911,26.33489l-206.0318,-9.29467l-46.47334,-60.41534\"  id=\"rough_path_174c7683-3d7c-49be-bbcb-411af21c7707\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 15
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-23T21:30:59.577Z",
-    "@id": "10cb1ff3-5655-4b96-9e1a-a932b5596844.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R10</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;I leave &lsquo;t to yo to clear [...]<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This quotation captures the import of Stephen&rsquo;s exchange with Gradgrind, although the wording in the published text is different and more substantial: &ldquo;&lsquo;Sir, yo will clear me an mak my name good wi&rsquo; aw men. This I leave to yo.&rsquo; Mr Gradgrind was troubled and asked how? &lsquo;Sir,&rsquo; was the reply; &lsquo;yor son will tell yo how. Ask him&rsquo;&rdquo; (HT 291).</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:54:15.906Z"
 }
