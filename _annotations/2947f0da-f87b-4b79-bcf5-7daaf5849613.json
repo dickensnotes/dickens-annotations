@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 27
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R19</em></p>\n<p dir=\"ltr\"><strong>First suggestion of her being in love with Clennam</strong></p>\n<p><span id=\"docs-internal-guid-8017df1e-7fff-9aab-f1ad-145c55b3e737\">&nbsp;</span></p>\n<p dir=\"ltr\">This suggestion is accomplished by the description of Little Dorrit&rsquo;s emotional state when John Chivery encounters her on the Iron Bridge. Dickens will write a similar note for No. VI (chapter 22), suggesting his wish to make this exposition of Amy&rsquo;s love for Arthur gradual (see LD.VI.R24).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1380,1917,793,61"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2172.59424,1978.21892l-792.51381,-26.22977l2.81033,-34.66077l786.89315,28.10333z\"  id=\"rough_path_112082d9-1a01-4bdc-980b-150dfda7060e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:14:31.807Z",
+    "@id": "2947f0da-f87b-4b79-bcf5-7daaf5849613.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
