@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R6</em></p>\n<p dir=\"ltr\"><strong>Family Pride</strong></p>\n<p><span id=\"docs-internal-guid-f9286e38-7fff-1a33-bf99-d24d612a4b3f\">&nbsp;</span></p>\n<p dir=\"ltr\">This note appears in a slightly different ink than the notes above and below, suggesting it was perhaps added after the others. This ink is similar to that used for the final chapter note (LD.VI.R12).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1339,955,249,82"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1344.14165,954.58707l121.73577,10.77982v0l121.73577,10.77982l-2.6583,30.02006l-2.6583,30.02006l-121.73577,-10.77982l-121.73577,-10.77982l2.6583,-30.02006z\"  id=\"rectangle_a20d2632-7aac-4fd3-948d-54791d092013\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:15:47.526Z",
+    "@id": "ed62bf26-0e5f-41d3-8831-b134cf77d25d.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
