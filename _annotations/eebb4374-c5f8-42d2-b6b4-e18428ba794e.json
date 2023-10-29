@@ -4,16 +4,14 @@ order: 4
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "eebb4374-c5f8-42d2-b6b4-e18428ba794e.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-4bc7738d-7fff-ac0a-6a78-25c43f85f096\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.IV.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Rachael? Bring her with Louisa again? No.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">While the memoranda above identify the main action for this &lsquo;number&rsquo;&ndash;Tom&rsquo;s robbery of Bounderby&rsquo;s bank and Louisa being &ldquo;acted on by Harthouse&rdquo;&ndash;this set of memoranda show Dickens considering the possible role of the novel&rsquo;s working-class characters in it. As the list of negative responses indicates, Dickens decides against (or is unable to manage) the inclusion of any of the characters in the &lsquo;number,&rsquo; once again likely as a consequence of the compressed space of each installment. This is a clear instance of how the planning and composition of <em>Hard Times</em> in these monthly installments shaped the novel: while the first half of No. III introduces Harthouse and entangles him with Louisa, the second half of the &lsquo;number&rsquo; focuses on Stephen and Rachael. This &lsquo;number&rsquo; returns to the Gradgrind and Bounderby set, but requires the entire space of the number to advance these plot lines. See the Critical Introduction for more on the challenges of the weekly serial. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T01:06:20.163Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 4
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M152.85236,853.83127h407.23709v0h407.23709v60.38036v60.38036h-407.23709h-407.23709v-60.38036z\"  id=\"rectangle_b40ec1a7-dd99-4569-96e2-e6eae647a39a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M152.85236,853.83127h407.23709v0h407.23709v60.38036v60.38036h-407.23709h-407.23709v-60.38036z\"  id=\"rectangle_b40ec1a7-dd99-4569-96e2-e6eae647a39a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"0.90909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 4
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T01:06:20.163Z",
-    "@id": "eebb4374-c5f8-42d2-b6b4-e18428ba794e.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-4bc7738d-7fff-ac0a-6a78-25c43f85f096\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.IV.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Rachael? Bring her with Louisa again? No.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">While the memoranda above identify the main action for this &lsquo;number&rsquo;&ndash;Tom&rsquo;s robbery of Bounderby&rsquo;s bank and Louisa being &ldquo;acted on by Harthouse&rdquo;&ndash;this set of memoranda show Dickens considering the possible role of the novel&rsquo;s working-class characters in it. As the list of negative responses indicates, Dickens decides against (or is unable to manage) the inclusion of any of the characters in the &lsquo;number,&rsquo; once again likely as a consequence of the compressed space of each installment. This is a clear instance of how the planning and composition of <em>Hard Times</em> in these monthly installments shaped the novel: while the first half of No. III introduces Harthouse and entangles him with Louisa, the second half of the &lsquo;number&rsquo; focuses on Stephen and Rachael. This &lsquo;number&rsquo; returns to the Gradgrind and Bounderby set, but requires the entire space of the number to advance these plot lines. See the Critical Introduction for more on the challenges of the weekly serial. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:50:54.829Z"
 }
