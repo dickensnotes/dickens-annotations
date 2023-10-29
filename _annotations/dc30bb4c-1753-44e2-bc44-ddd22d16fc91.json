@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "dc30bb4c-1753-44e2-bc44-ddd22d16fc91.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-8890dd21-7fff-0c34-8afb-71e351c60a53\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">One of the best actions of his life [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The tone in which this idea is expressed in the published text is different, as secrecy and shame seem more dominant than &ldquo;silent sorrow&rdquo;: &ldquo;The moral sort of fellows might suppose that Mr James Harthouse derived some comfortable reflections afterwards, from this prompt retreat, as one of his few actions that made any amends for anything, and as a token to himself that he had escaped the climax of a very bad business. But it was not so, at all. A secret sense of having failed and been ridiculous&ndash;a dread of what other fellows who went in for similar sorts of things, would say at his expense if they knew it&ndash;so oppressed him, that what was about the very best passage in his life was the one of all others he would not have owned to on any account, and the only one that made him ashamed of himself&rdquo; (HT 257).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-23T21:25:29.313Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2067.27273,444.84912l-0.90909,-41.81818l587.27273,-4.54545l2.72727,47.27273l-205.45455,5.45455v41.81818l-577.27273,1.81818v-40.90909z\"  id=\"rough_path_5bea4123-0bb2-4b31-abc9-c4c2f5f2b756\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2067.27273,444.84912l-0.90909,-41.81818l587.27273,-4.54545l2.72727,47.27273l-205.45455,5.45455v41.81818l-577.27273,1.81818v-40.90909z\"  id=\"rough_path_5bea4123-0bb2-4b31-abc9-c4c2f5f2b756\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-23T21:25:29.313Z",
-    "@id": "dc30bb4c-1753-44e2-bc44-ddd22d16fc91.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-8890dd21-7fff-0c34-8afb-71e351c60a53\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.V-VI.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">One of the best actions of his life [...]<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The tone in which this idea is expressed in the published text is different, as secrecy and shame seem more dominant than &ldquo;silent sorrow&rdquo;: &ldquo;The moral sort of fellows might suppose that Mr James Harthouse derived some comfortable reflections afterwards, from this prompt retreat, as one of his few actions that made any amends for anything, and as a token to himself that he had escaped the climax of a very bad business. But it was not so, at all. A secret sense of having failed and been ridiculous&ndash;a dread of what other fellows who went in for similar sorts of things, would say at his expense if they knew it&ndash;so oppressed him, that what was about the very best passage in his life was the one of all others he would not have owned to on any account, and the only one that made him ashamed of himself&rdquo; (HT 257).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:53:16.615Z"
 }
