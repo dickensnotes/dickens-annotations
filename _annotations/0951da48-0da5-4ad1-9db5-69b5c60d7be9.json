@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI.R16</em></p>\n<p dir=\"ltr\"><strong>Dinner and reception [...]</strong></p>\n<p><span id=\"docs-internal-guid-71feb6ba-7fff-5663-3cfa-ce67b9bb990f\">&nbsp;</span></p>\n<p dir=\"ltr\">This list of metonyms indicates those used throughout the chapter to portray characters representing institutions. In &ldquo;Bar,&rdquo; Dickens was caricaturing barrister and Tory MP Sir Fitzroy Kelly. To Forster he wrote &ldquo;I shall beg, when you have read the present number, to inquire whether you consider &lsquo;Bar&rsquo; an instance, in reference to K F, of a suggested likeness in not many touches?&rdquo; (Forster 2.183). The reversal of these initials is likely Forster&rsquo;s (see Letters 8.79fn6), but Forster responds in his commentary, &ldquo;The likeness no one could mistake&rdquo; (Forster 2.183).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1389,1620,1279,99"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1396.9438,1619.97478l-8.09376,89.03134l142.45014,9.71251l6.47501,-43.70629l1129.88863,42.08754l-3.2375,-45.32505z\"  id=\"rough_path_2d8238aa-4b63-447a-b31e-262f4517b4da\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:23:09.189Z",
+    "@id": "0951da48-0da5-4ad1-9db5-69b5c60d7be9.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
