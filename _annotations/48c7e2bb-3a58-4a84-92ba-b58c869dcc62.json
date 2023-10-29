@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VII.R1</em></p>\n<p dir=\"ltr\"><strong>Machinery in motion</strong></p>\n<p><span id=\"docs-internal-guid-f8fcfee7-7fff-9879-dfd6-841257d813cb\">&nbsp;</span></p>\n<p dir=\"ltr\">In the manuscript, this chapter title is inserted at an angle to the right due to a lack of space, indicating its later addition to the manuscript. This suggests that Dickens composed the beginning of this chapter, at least, before writing the chapter notes.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN07.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1621,296,561,95"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1620.72727,296.25175h280.72028v0h280.72028v47.62005v47.62005h-280.72028h-280.72028v-47.62005z\"  id=\"rectangle_b08b00c3-7f3d-4d33-a566-86c4e52d41ab\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T01:35:53.876Z",
+    "@id": "48c7e2bb-3a58-4a84-92ba-b58c869dcc62.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
