@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VI</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">There are distinct layers to the questions and answers on the left side, which notably do not include any reference to Mr. Merdle&rsquo;s complaint or to the subject of the final chapter, which was added after Dickens had sent the first three back to London for typesetting (see LD.VI.R20). Dickens was evidently not clear at this stage about the number&rsquo;s direction, though he was starting to consider the centrality of the Marshalsea to the installment. As he wrote, he used the motif of the shadow to connect the chapters.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">There appears to be a combination of retroactive and proactive work in this Note. While the chapter notes appear fairly consistent, two entries in chapter 20 would seem to be a separate temporal layer due to differences in ink (see LD.VI.R6 and LD.VI.R12).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens wrote this number while in Paris; he completed it fairly swiftly, beginning around mid February and finishing it by March 6. To Burdett-Coutts he wrote about the difficulty of beginning the number: &ldquo;Your note finds me settling myself to Little Dorrit again, and in the usual wretchedness of such settlement&ndash;which is unsettlement. Prowling about the rooms, sitting down, getting up, stirring the fire, looking out the window, tearing my hair, sitting down to write, writing nothing, writing something and tearing it up, going out, coming in, a Monster to my family, a dread Phenomonon [sic] to myself, &amp;c &amp;c &amp;c&rdquo; (19 February, Letters 8.60-61). On March 6 he wrote to Wills that &ldquo;Little Dorrit has completed her sixth; and that wonderful man the writer thereof is in that state of weary excitement which is a part of him at such periods&rdquo; (8.69).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">When he was correcting the proofs for this number, Dickens realized that he had over-written it and needed to make cuts. The erasures he would make would take three sets of proofs due to a series of mistakes by the printer and Dickens&rsquo;s attempts to rectify erasures he had not intended (see Sucksmith xxix).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN06.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1346,32,1250,94"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1345.9021,31.56643h625.12587v0h625.12587v47.15385v47.15385h-625.12587h-625.12587v-47.15385z\"  id=\"rectangle_d7dea1dc-a2f6-4e1d-995f-c1cf1c885bd5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:53:29.992Z",
+    "@id": "f87f3a79-b3f8-4524-a6e0-3a5a054006dd.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
