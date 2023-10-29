@@ -4,16 +4,14 @@ order: 23
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "867f0061-344c-44fe-af9b-e4ae461159e1.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p id=\"docs-internal-guid-d0d37669-7fff-d7b3-54a0-cd25fe36b561\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.R13</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Indication of Louisa&rsquo;s marrying Bounderby, bye &amp; bye</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bounderby himself does not appear in chapter 6, and his potential marriage to Louisa is not explicitly mentioned. However, there is an &ldquo;indication&rdquo; of it through Tom&rsquo;s going to work under Bounderby, and Louisa&rsquo;s love for Tom. After Louisa asks what Tom&rsquo;s &ldquo;&lsquo;great mode of smoothing and managing&rsquo;&rdquo; (HT 92) Bounderby will be, he replies: &ldquo;&lsquo;Oh!&rsquo; [...] if it is a secret, it&rsquo;s not far off. It&rsquo;s you. You are his little pet, you are his favourite; he&rsquo;ll do anything for you. When he says to me what I don&rsquo;t like, I shall say to him, &lsquo;My sister Loo will be hurt and disappointed, Mr Bounderby. She always used to tell me she was sure you would be easier with me than this.&rsquo; That&rsquo;ll bring him about, or nothing will&rsquo;&rdquo; (HT 93).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-22T00:32:32.179Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 23
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1635.76291,1929.13448h466.10516v0h466.10516v61.22945v61.22945h-466.10516h-466.10516v-61.22945z\"  id=\"rectangle_b7a49136-b6b7-4fac-ba34-3dc09b09c9c5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1635.76291,1929.13448h466.10516v0h466.10516v61.22945v61.22945h-466.10516h-466.10516v-61.22945z\"  id=\"rectangle_b7a49136-b6b7-4fac-ba34-3dc09b09c9c5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1.11536\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 23
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-22T00:32:32.179Z",
-    "@id": "867f0061-344c-44fe-af9b-e4ae461159e1.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p id=\"docs-internal-guid-d0d37669-7fff-d7b3-54a0-cd25fe36b561\" dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">HT.I.R13</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Indication of Louisa&rsquo;s marrying Bounderby, bye &amp; bye<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bounderby himself does not appear in chapter 6, and his potential marriage to Louisa is not explicitly mentioned. However, there is an &ldquo;indication&rdquo; of it through Tom&rsquo;s going to work under Bounderby, and Louisa&rsquo;s love for Tom. After Louisa asks what Tom&rsquo;s &ldquo;&lsquo;great mode of smoothing and managing&rsquo;&rdquo; (HT 92) Bounderby will be, he replies: &ldquo;&lsquo;Oh!&rsquo; [...] if it is a secret, it&rsquo;s not far off. It&rsquo;s you. You are his little pet, you are his favourite; he&rsquo;ll do anything for you. When he says to me what I don&rsquo;t like, I shall say to him, &lsquo;My sister Loo will be hurt and disappointed, Mr Bounderby. She always used to tell me she was sure you would be easier with me than this.&rsquo; That&rsquo;ll bring him about, or nothing will&rsquo;&rdquo; (HT 93).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-29T01:46:11.497Z"
 }
