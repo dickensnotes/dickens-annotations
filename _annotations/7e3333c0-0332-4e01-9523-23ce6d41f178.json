@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.V.R12</em></p>\n<p dir=\"ltr\"><strong>So flows the quiet river [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This long note corresponds to two passages in the chapter, one at the very end (&ldquo;Year after year so much allowance for the drifting of the ferry-boat, so many miles an hour the flowing of the stream, here the rushes, there the lilies, nothing uncertain or unquiet&rdquo; [LD 194]), which is itself an echo of an earlier passage: &ldquo;Within view was the peaceful river and the ferry-boat, to moralise to all the inmates saying: Young or old, passionate or tranquil, chafing or content, you, thus runs the current always. Let the heart swell into what discord it will, thus plays the rippling water on the prow of the ferry-boat ever the same tune. Year after year, so much allowance for the drifting of the boat, so many miles an hour the flowing of the stream, here the rushes, there the lilies, nothing uncertain or unquiet, upon this road that steadily runs away; while you, upon your flowing road of time, are so capricious and distracted&rdquo; (187).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In this language Dickens also draws upon an entry in his book of <em>Memoranda</em>: &ldquo;The ferryman on a peaceful river. Who lives, who dies, who does well, who does ill, who changes, who grows old&ndash;the river runs six hours up, and six hours down, the current sets off that point, the same allowance must be made for the drifting of the boat, the same tune is played by the rippling water against the prow&rdquo; (10-11). Dickens marks this entry as &ldquo;Done in Dorrit.&rdquo;&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Two references in this quotation will also appear in later numbers as part of a recurring motif relating the river to Clennam&rsquo;s unrequited love. At the close of No. VI (chapter 22), Dickens repeats the same language: &ldquo;so many miles an hour the peaceful flowing of the stream, here the rushes, there the lilies, nothing uncertain or unquiet&rdquo; (LD 257).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The reference to the &ldquo;Eternal seas&rdquo; in this note appears not at the end of <em>this</em> chapter, but at the end of chapter 28 (No. VIII), bookending the series of &ldquo;Nobody&rdquo; chapters focused on Clennam&rsquo;s love for Pet (&ldquo;Nobody&rsquo;s Disappearance&rdquo;). In that scene, Clennam launches Pet&rsquo;s roses down the river: &ldquo;While the flowers&hellip; floated away upon the river; and thus do greater things that once were in our breasts, and near our hearts, flow from us to the eternal seas&rdquo; (LD 330). Dickens perhaps returned to the Note for this number when he was writing a parallel closing scene and made use of the language he had already generated (see LD.VIII.R15).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN05.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1390,1193,1268,135"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1389.62704,1193.35664l4.662,135.19814l398.6014,-16.31702l4.662,-27.97203h860.13986l-2.331,-81.58508z\"  id=\"rough_path_74f633b4-c7e2-4dcd-853a-c8fdf77fba28\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-29T00:08:53.958Z",
+    "@id": "7e3333c0-0332-4e01-9523-23ce6d41f178.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
