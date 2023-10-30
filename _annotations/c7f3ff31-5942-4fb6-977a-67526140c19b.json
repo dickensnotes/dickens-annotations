@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.R2</em></p>\n<p dir=\"ltr\"><strong>New feature of the Circumlocution</strong></p>\n<p><span id=\"docs-internal-guid-532dc515-7fff-40cf-0b68-61c66826052f\">&nbsp;</span></p>\n<p dir=\"ltr\">The note does more than summarize or describe; it relates to the language used in the novel: &ldquo;Here arises a feature of the Circumlocution Office, not previously mentioned in the present record&rdquo; (LD 502). What follows is a paragraph describing the Barnacle manner of defending the activity of the Circumlocution Office against any potential attacks from within on the grounds of the amount of &ldquo;red tape&rdquo; and other &ldquo;stationary&rdquo; consumed by the office in the name of &ldquo;public service&rdquo; (502-503). Herring suggests that the brevity of the description devoted to this &ldquo;new feature&rdquo; is &ldquo;an indication of the now reduced significance of official red tape for the larger social theme of the novel&rdquo; (47). However, the inclusion of a note relating to this passage might instead suggest a continued emphasis on the wasteful mismanagement of government bureaucracy.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1683,574,668,81"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1682.92252,592.24466l333.03891,-9.26751v0l333.03891,-9.26751l0.87074,31.29092l0.87074,31.29092l-333.03891,9.26751l-333.03891,9.26751l-0.87074,-31.29092z\"  id=\"rectangle_96fc1507-7674-4b2d-bec3-b236d8ed1b88\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:49:32.478Z",
+    "@id": "c7f3ff31-5942-4fb6-977a-67526140c19b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
