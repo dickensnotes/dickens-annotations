@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 8
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R1</em></p>\n<p dir=\"ltr\"><strong>As opposed to Mr Merdle&rsquo;s complaint [...]</strong></p>\n<p><span id=\"docs-internal-guid-556a1c5f-7fff-f11d-2a4e-e06e0111da38\">&nbsp;</span></p>\n<p dir=\"ltr\">This unusual chapter note expands upon the meaning of the chapter&rsquo;s title, explaining not how the number will open (that appears below), but the nature of Mrs. Merdle&rsquo;s complaint in relation to (and about) her husband. Herring argues that these chapter notes indicate prospective planning, &ldquo;for Dickens evidently changed the internal sequence before he began to write&rdquo; (41). The language &ldquo;heavy and careworn manner&rdquo; does not appear in the chapter. Mrs Merdle will spell out her complaint: &ldquo;that you really ought not to go into Society, unless you can accommodate yourself to Society,&rdquo; but it is Mr. Merdle who uses the language of this note: &ldquo;to tell me that I am not fit for it after all I have done for it&rdquo; (LD 387-88).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1342,369,1330,128"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1341.60839,369.23077l706.99301,39.86014l623.07692,-6.29371l-2.0979,73.42657l-910.48951,-16.78322l-23.07692,37.76224l-383.91608,-10.48951l-8.39161,-113.28671z\"  id=\"rough_path_55395f38-6b5d-4353-b3db-fa6727e1b769\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:44:02.897Z",
+    "@id": "5eacb5f5-8ee4-417b-82d4-dbb37c92faa1.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
