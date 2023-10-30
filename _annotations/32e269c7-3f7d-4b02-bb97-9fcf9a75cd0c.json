@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R13</em></p>\n<p dir=\"ltr\"><strong>Contrast of father and daughter.</strong></p>\n<p><span id=\"docs-internal-guid-bfdba762-7fff-5778-54fb-affac98585a7\">&nbsp;</span></p>\n<p dir=\"ltr\">The importance of this contrast to the close of the chapter is indicated by triple underlining. The &ldquo;father and daughter&rdquo; pairing in the note harkens back to the &ldquo;Scene with the father and daughter&rdquo; in No. VI (LD.VI.R3) and forward to the &ldquo;companion scene&rdquo; in No. XII (LD.XII.R5), but the contrast will also prefigure the way that Amy is &ldquo;displaced&rdquo; in her experience at the opening of Book II (LD.XI.R10).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2316,1436,358,127"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2316.24441,1436.28079h179.06268v0h179.06268v63.72663v63.72663h-179.06268h-179.06268v-63.72663z\"  id=\"rectangle_17544ce7-79a5-48a1-93b2-347efd710da4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:59:18.979Z",
+    "@id": "32e269c7-3f7d-4b02-bb97-9fcf9a75cd0c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
