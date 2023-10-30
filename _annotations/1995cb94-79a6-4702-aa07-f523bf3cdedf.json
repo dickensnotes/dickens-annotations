@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 23
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R16</em></p>\n<p dir=\"ltr\"><strong>Two Brothers [...] </strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">&ldquo;All particulars&rdquo; could refer to the detail with which Dickens treats the procession (accompanied as it is by Phiz&rsquo;s illustration) or to the removal of &ldquo;particulars&rdquo; from the house, though Dickens will use the phrase &ldquo;family effects&rdquo; for this purpose (LD 414). As with the &ldquo;&amp;c&rdquo; in the note above, Dickens appears to be employing his own shorthand for the inclusion of material that requires no elaboration in the Notes.</p>\n<p><br />Some of the &ldquo;particulars&rdquo; of this &ldquo;family procession&rdquo; were added after initial composition. The paragraph in the novel beginning &ldquo;In the yard, was the usual chorus of people&rdquo; (414) and ending &ldquo;passed&rdquo; (417), which details those gathered to view the Dorrits&rsquo; departure, was inserted in the proofs on a separate manuscript slip (now bound with the proofs) when Dickens realized he had underwritten the number by more than a page. As Herring notes, &ldquo;the new addition is not simply padding: Dickens used the new paragraph to foreshadow the social prison Little Dorrit recognizes in Book II. The new paragraph is essentially an expanded version of one included in the <em>Household Words</em> article &lsquo;The Martyrs of Chancery&rsquo; [from February 15, 1851]... In this context, the new paragraph is Dickens&rsquo;s most explicit statement of the symbolic importance of the Marshalsea in Book II of <em>Little Dorrit</em>&rdquo; (Herring 43fn25).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1477,1789,1012,128"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1488,1789.42317l1000.36364,26.18182l1.09091,39.27273l-207.27273,-4.36364l-8.72727,66.54545l-796.36364,-17.45455z\"  id=\"rough_path_7bba33d6-72de-49a9-89fb-29c962d25af4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:01:00.488Z",
+    "@id": "1995cb94-79a6-4702-aa07-f523bf3cdedf.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
