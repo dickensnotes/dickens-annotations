@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R9</em></p>\n<p dir=\"ltr\"><strong>Work out Tattycoram&rsquo;s spiriting away</strong></p>\n<p><span id=\"docs-internal-guid-e0913243-7fff-8d5b-6448-30c6e1e4bb0f\">&nbsp;</span></p>\n<p dir=\"ltr\">This proactive phrase indicates the need to figure out how the narrative will address this topic. It is in this chapter that Tattycoram joins Clennam as the referent for the &ldquo;Nobody&rdquo; of chapter 28&rsquo;s title.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1387,824,750,70"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1388.05336,823.72453l374.22091,7.974v0l374.22091,7.974l-0.58029,27.23293l-0.58029,27.23293l-374.22091,-7.974l-374.22091,-7.974l0.58029,-27.23293z\"  id=\"rectangle_b79da5d2-7fd9-45ac-a90c-9a3c134a9232\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:16:12.377Z",
+    "@id": "3eb875d0-954c-4d63-ab46-5c9dcf9ce67e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
