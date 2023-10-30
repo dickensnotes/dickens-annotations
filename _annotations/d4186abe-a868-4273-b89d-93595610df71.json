@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R1</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><strong>Chapter XXVI</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In the manuscript, the number header (&ldquo;Little Dorrit No. VIII&rdquo;) and the chapter header (&ldquo;chapter XXVI&rdquo;) are in black ink, whereas the chapter title and the text are in blue, just as in these Notes. This may indicate that Dickens laid out the right-side chapter numbers at the same time that he headed the first manuscript page, but switched to blue ink when he began to write.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">There is an unusual uncorrected error in the first proof for this chapter, which titles this Chapter XIX.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1693,170,422,70"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1692.98834,170.37762h210.79021v0h210.79021v34.79953v34.79953h-210.79021h-210.79021v-34.79953z\"  id=\"rectangle_c927bc9e-6796-40c9-afb1-536de1eaabdf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:12:04.838Z",
+    "@id": "d4186abe-a868-4273-b89d-93595610df71.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
