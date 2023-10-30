@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p><em>LD.VIII.L1</em></p>\n<p><strong>Clennam and Pet?&nbsp; Yes [...|</strong></p>\n<p>&nbsp;</p>\n<p>The ink colors establish four, or possibly five, layers to the left-hand memoranda, one comprising the first three questions in fine black ink; one featuring &ldquo;Tattycoram?&rdquo; and &ldquo;Miss Wade?&rdquo; in a slightly thicker black; one with the unanswered &ldquo;Merdle?&rdquo; in blue; one with answers to the first three questions, and the deletion of the &ldquo;r&rdquo; in Gowan, in thick blue ink; and a possible fifth featuring the final two &ldquo;Yes&rdquo; responses in thinner blue.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Sucksmith notes that the misspelling of &ldquo;Gowan&rdquo; as &ldquo;Gowran&rdquo; likely dates the writing of the initial questions to January or February as he was beginning to compose No. V, since at that stage he made the decision to spell Gowan without an &lsquo;r&rsquo; (LD.V.R13, Sucksmith xxviii). If this is the case, Dickens likely jotted down some initial memoranda on the left side of the Notes for Nos V-VIII at that early stage; in the case of this number, the questions included at this early stage were likely just the first three, which are similar in ink to the questions on the left of No. V. Dickens was evidently thinking across numbers at the point of drafting No. V; he sets himself up to treat the same subjects in this No. that he did at that earlier stage in No. V. However, the presence of multiple layers indicates that he likely returned to these memoranda numerous times, despite their brevity.</p>\n<p>&nbsp;</p>\n<p>Dickens decides to include all characters in this list except &ldquo;Sprightly Young Barnacle.&rdquo; He finds it unnecessary to include Barnacle specifically, since Circumlocution now pervades corrupt Society, which he can represent via Mrs. Gowan and her entourage of Barnacles and Stiltstalkings in chapter 26.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=47,75,725,575"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M47.3007,74.80653h362.30536v0h362.30536v287.71329v287.71329h-362.30536h-362.30536v-287.71329z\"  id=\"rectangle_b8fd06e5-0574-41c6-a929-6babbeddabba\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:11:22.261Z",
+    "@id": "29457426-b41e-4203-bfac-d1c7e48bcfa5.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
