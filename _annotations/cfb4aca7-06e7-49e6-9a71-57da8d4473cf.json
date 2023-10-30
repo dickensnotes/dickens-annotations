@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.R4</em></p>\n<p dir=\"ltr\"><strong>Gowan&rsquo;s character</strong></p>\n<p><span id=\"docs-internal-guid-e25c2172-7fff-7dbb-94f2-fa44d17dd636\">&nbsp;</span></p>\n<p dir=\"ltr\">The significance of including some indication of Gowan&rsquo;s character is emphasized by the box Dickens places around this note, although the novel will elaborate on (&ldquo;anatomise&rdquo;) Gowan&rsquo;s character in the next number (see LD.XII.R9). In this chapter, Gowan&rsquo;s character is indicated by his manner of conversation, his &ldquo;mocking inconsistency,&rdquo; his &ldquo;refined&rdquo; &ldquo;manner,&rdquo; and his &ldquo;simple and dispassionate&hellip; tone&rdquo; (LD 429).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2315,494,363,154"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2315.36597,494.38695h181.65268v0h181.65268v76.75758v76.75758h-181.65268h-181.65268v-76.75758z\"  id=\"rectangle_2d5ebb7b-55b7-4e74-b13b-2c6a2b2ce922\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:11:29.592Z",
+    "@id": "cfb4aca7-06e7-49e6-9a71-57da8d4473cf.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
