@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R4</em></p>\n<p dir=\"ltr\"><strong>Pave the way for a change in Mr Merdle&rsquo;s manner&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">&ldquo;Pave the way&rdquo; indicates Dickens&rsquo;s use of the Notes to consider how one number prepares for future events. &ldquo;Pave the way,&rdquo; or a similar instruction using the verb &ldquo;pave,&rdquo; appears seven times in the Notes for this novel, indicating Dickens&rsquo;s attention to careful future-oriented plotting (other examples are found in the Notes for numbers V, VII, XII, XVI, and XVII. See LD.XII.L2 for more on his use of this phrase).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens will activate this note at the end of the chapter, with a long passage considering Merdle&rsquo;s &ldquo;oppressed soul&rdquo; as he wanders around his house and avoids his butler (LD 390).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2032,551,652,100"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2032.36327,583.63406l2.00191,-33.0315l348.33221,8.00764l301.28734,56.05346l-10.00955,36.03437l-299.28543,-57.05441z\"  id=\"rough_path_ca5002b7-b073-4487-b9c5-31e66b1ae3bc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:54:40.638Z",
+    "@id": "9b984fb4-1f4c-4570-9c94-16b9a67f5ed9.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
