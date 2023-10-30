@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R7</em></p>\n<p dir=\"ltr\"><strong>Effect on [Fanny] [...]&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-5f41fccd-7fff-dd9b-b75c-ebadfcaa09ca\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens ends this chapter&rsquo;s summary with a phrase that is repeated in the chapter&rsquo;s final sentence, suggesting retrospective notation: &ldquo;Miss Fanny awakened much affectionate uneasiness in her sister&rsquo;s mind that day, by passing the greater part of it in violent fits of embracing her, and in alternately giving her brooches, and wishing herself dead&rdquo; (LD 471).&nbsp;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1973,659,650,124"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1973.07692,677.62238l650.34965,-18.88112l-65.03497,119.58042l-402.7972,4.1958l-50.34965,-58.74126l-132.16783,-2.0979z\"  id=\"rough_path_b3bad702-be1d-4421-be58-87d1653ec609\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:32:46.878Z",
+    "@id": "095bfdaf-388f-465b-a529-c12c34bdcad1.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
