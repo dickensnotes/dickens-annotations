@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.R17</em></p>\n<p dir=\"ltr\"><strong>A Letter from Little Dorrit.</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The ink for both the chapter number and title appear the same, and seem to be the same layer as the &ldquo;Mrs General&rdquo; title above, suggesting that they may have been added at the same time. This layer is also similar to that used for the content of the notes for the first two chapters. It is possible that Dickens made these as planning notes before deciding on the transposition of chapters 2 and 3. Evidence from his page numbering in the manuscript suggests that he made the decision to transpose these chapters as he wrote the final pages of &ldquo;On the Road,&rdquo; which focus on Little Dorrit&rsquo;s emotional state and therefore lead naturally into this letter.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Judging by the ink in the novel manuscript, Dickens evidently added the chapter number and title for this chapter upon finishing composition of the previous chapter, but he returned later to write the letter itself.&nbsp;</p>\n<p><br />On the final page of the proof for this chapter, Dickens has written an instruction to the printer: &ldquo;Printer &ndash; Please so to arrange the matter as to bring it down a little more on this page.&rdquo; The letter wasn&rsquo;t quite long enough to fill the space allotted for the number, but he did not intend to add more to what is a short, succinct chapter. Notably, he needed to include a similar instruction to the printer in the proof for the final chapter of No. XIII, also a letter from Little Dorrit to Clennam (LD.XIII.R12).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1416,1906,776,86"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1415.98757,1906.30631h387.88164v0h387.88164v43.08754v43.08754h-387.88164h-387.88164v-43.08754z\"  id=\"rectangle_608748f9-9705-49c4-b534-27eb306d6947\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:18:14.531Z",
+    "@id": "c2642044-a9e2-4e30-a5cc-e6984b3099bb.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
