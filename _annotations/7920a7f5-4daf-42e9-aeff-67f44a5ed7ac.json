@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.R11</em></p>\n<p dir=\"ltr\"><strong>And Tips spirit, and his father&rsquo;s Christian spirit</strong></p>\n<p><span id=\"docs-internal-guid-d240c543-7fff-dd8a-907c-1a96abd24393\">&nbsp;</span></p>\n<p dir=\"ltr\">Tip&rsquo;s manifestation of the &ldquo;spirit&rdquo; is anger at Clennam for not advancing him money. Mr. Dorrit&rsquo;s anger is directed at Tip, not for insulting Mr. Clennam, but for the implied insult to himself that, in receiving a refusal of money, he &ldquo;received treatment not due to a gentleman&rdquo; (LD 370). Mr. Dorrit will suggest that Tip is lacking in &ldquo;Christian&rdquo; duty in not trying Clennam again.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1365,1187,564,135"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1365.14615,1213.30079l559.09091,-26.36364l4.54545,37.27273l-263.63636,28.18182l-35.45455,43.63636l-246.36364,25.45455z\"  id=\"rough_path_003645a8-e74b-42da-a5b5-7846ad0b2ebf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:33:59.149Z",
+    "@id": "7920a7f5-4daf-42e9-aeff-67f44a5ed7ac.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
