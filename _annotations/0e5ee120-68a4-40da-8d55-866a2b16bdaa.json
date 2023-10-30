@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R14</em></p>\n<p dir=\"ltr\"><strong>The Marshalsea becomes an Orphan.</strong></p>\n<p><span id=\"docs-internal-guid-dc7d3ace-7fff-99c1-46dc-9528480e9468\">&nbsp;</span></p>\n<p dir=\"ltr\">The notes for this chapter, which appear fairly consistent with those for the chapter above (with the exception of this title, which seems to be in a thinner hand), likely preceded the chapter&rsquo;s composition and played a significant role in helping Dickens wind up the first book and prepare for the second. In the manuscript, the chapter number and title are written in a similar dark ink as the notes below, but the body of the text appears lighter and thinner, suggesting that Dickens headed the chapter and wrote the notes before beginning composition.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1589,1619,825,80"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1588.58168,1618.51408h412.36364v0h412.36364v40.09091v40.09091h-412.36364h-412.36364v-40.09091z\"  id=\"rectangle_5781fe98-b7de-46d9-985c-fb4f4456f648\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:59:36.242Z",
+    "@id": "0e5ee120-68a4-40da-8d55-866a2b16bdaa.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
