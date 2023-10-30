@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.R2</em></p>\n<p dir=\"ltr\"><strong>Mr Merdle&rsquo;s Barnacle dinner [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Both Sucksmith (804) and Fred Kaplan (89) suggest that the picture of adulation of Lord Decimus and Mr. Merdle depicted most especially in this chapter likely draws on two notes from Dickens&rsquo;s Memoranda book, which appear one after the other: &ldquo;Sensible men enough, agreeable men enough, independent men enough in a certain way,&ndash;but the moment they begin to circle round My Lord and to shine with a borrowed light from His Lordship, Heaven and Earth how mean and subservient! What a competition and outbidding of each other in servility!&rdquo; and &ldquo;Full length Portrait of His Lordship, surrounded by Worshippers&rdquo; (8).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Indeed, at the end of chapter 25 (No. XVII), Dickens will reflect this language of worship and servility to reflect on Mr. Merdle&rsquo;s downfall: &ldquo;every servile worshipper of riches who had helped to set [Mr. Merdle] on his pedestal, would have done better to worship the Devil point-blank&rdquo; (LD 690-691).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1353,429,1221,158"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1352.662,429.11888h610.55711v0h610.55711v79.08858v79.08858h-610.55711h-610.55711v-79.08858z\"  id=\"rectangle_6fcf42ff-6df1-48b9-9b48-8c97a96f386f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T23:37:11.434Z",
+    "@id": "52ef85d1-cd41-4cf5-a66b-6d89f8dddcd7.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
