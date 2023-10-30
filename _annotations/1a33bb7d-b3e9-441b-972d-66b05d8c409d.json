@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.L1</em></p>\n<p dir=\"ltr\"><strong>The Bleeding Heart Yard people? Yes</strong></p>\n<p><span id=\"docs-internal-guid-62023846-7fff-7546-52e4-85091d81938f\">&nbsp;</span></p>\n<p dir=\"ltr\">In the Note for the previous number, Dickens deferred &ldquo;The Plornishes? Old Nandy? Maggy?&rdquo; to this number with a &ldquo;Next time&rdquo; (LD.XIII.L5). Here he groups them into &ldquo;The Bleeding Heart Yard people,&rdquo; who will appear in chapter 13.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=17,37,1009,112"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M16.99767,149.3986h504.4965v0h504.4965v-56.10956v-56.10956h-504.4965h-504.4965v56.10956z\"  id=\"rectangle_a87a0f27-f06e-4617-af4f-9f02a23508cb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T23:34:53.723Z",
+    "@id": "1a33bb7d-b3e9-441b-972d-66b05d8c409d.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
