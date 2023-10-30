@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.L1</em></p>\n<p dir=\"ltr\"><strong>Back to Clennam [...]</strong></p>\n<p><span id=\"docs-internal-guid-c8779b89-7fff-b5ad-3e40-4cf843300931\">&nbsp;</span></p>\n<p dir=\"ltr\">With the exception of brief mentions of Clennam, and Little Dorrit&rsquo;s letter addressed to him, Clennam had yet to appear in Book II. The lack of a question mark after the first memorandum suggests that Dickens was certain about his inclusion in this number. The second memorandum (&ldquo;Clennam and Doyce?&rdquo;) operates as answer to the question of how the novel will return attention to Arthur: as engaged in business with Doyce.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=45,65,661,92"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M706.04196,157.44056h-330.46853v0h-330.46853v-46.2028v-46.2028h330.46853h330.46853v46.2028z\"  id=\"rectangle_896da728-a25f-4b0f-8fee-10287def9d3c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:40:08.026Z",
+    "@id": "dcb482f8-af05-4df0-b975-965ffc68ab66.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
