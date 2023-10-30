@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 25
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R17</em></p>\n<p dir=\"ltr\"><strong>Still Prunes and Prism.</strong></p>\n<p><span id=\"docs-internal-guid-50018c7e-7fff-8ae0-6fc3-266a98f52f39\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens adds corrections throughout the proof for this chapter to capitalize Prunes and Prism, which becomes a metonym for the pretenses of Society.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2005,1796,563,77"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2006.34376,1796.21594l280.60028,8.20719v0l280.60028,8.20719l-0.88111,30.12465l-0.88111,30.12465l-280.60028,-8.20719l-280.60028,-8.20719l0.88111,-30.12465z\"  id=\"rectangle_ed154f38-1219-45a3-80a8-e659baa3c7ff\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:37:49.508Z",
+    "@id": "8f0590c9-4ea4-46ab-a47a-3d095e1fc916.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
