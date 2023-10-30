@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.L1</em></p>\n<p dir=\"ltr\"><strong>Rigaud. Yes</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">It is unsurprising that we find Rigaud&rsquo;s name appearing first in these Notes given his significance to No.IX and his mysterious appearance (unnamed) at the end of the previous number; the memorandum does not even warrant a question mark, and the \"Yes\" is triple underlined. The number opens with his foreboding presence and the promise of his return in preparation for the end of the novel. Michael Slater suggests that we might identify a parallel between the type of villainy Dickens imagines in Rigaud and the villainy of the Rugeley poisoner William Palmer, who had been convicted in late May of 1856, as Dickens was contemplating work on this number. Dickens wrote a Household Words article titled &ldquo;The Demeanor of Murderers&rdquo; for the 14 June issue in which he commented on the &ldquo;complete self-possession&rdquo; shown by Palmer during his trial. &ldquo;Nature never writes a bad hand,&rdquo; he wrote (505), echoing his description of Rigaud in this No. of his novel (chapter 30): &ldquo;Nature, always true, and never working in vain, had set the mark, Beware!&rdquo; (LD 346).</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">It is notable that Dickens continues to use &ldquo;Rigaud&rdquo; in the Notes rather than Blandois; he has yet to use the latter in the Notes, but he will begin to do so for No. XI (LD.XI.R7). The confusion between these two names will recur (see LD.XV.L4)&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=39,42,346,99"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M385.06294,140.65734h-173.12587v0h-173.12587v-49.34965v-49.34965h173.12587h173.12587v49.34965z\"  id=\"rectangle_f822adfb-9e84-4bad-a0e0-efe2fc065984\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:24:07.813Z",
+    "@id": "cb7cdcf1-a9f2-4a84-8e3a-c1a3d66896dc.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
