@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 22
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.R15</em></p>\n<p dir=\"ltr\"><strong>Little Dorrit and Clennam[...]</strong></p>\n<p><span id=\"docs-internal-guid-a7be93cc-7fff-25bf-c853-4380e268c38a\">&nbsp;</span></p>\n<p dir=\"ltr\">As in the Notes for No. VIII (see, for instance, LD.VIII.R3 and LD.VIII.R14), Dickens uses an extended phrase to describe characters&rsquo; emotional states. The manifestation of these phrases in the chapter replicates similar language: Clennam has &ldquo;the feeling that he was an older man, who had done with that tender part of life&rdquo; (LD 373-74). The effect of this disclosure on Little Dorrit is described as damage to her heart: &ldquo;O! If he had known, if he had known! If he could have seen the dagger in his hand, and the cruel wounds it struck in the faithful bleeding breast of his Little Dorrit!&rdquo; (374).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1430,1473,1232,170"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1430.18182,1472.79272l9.16364,119.12727l96.87273,7.85455l10.47273,35.34545l705.6,7.85455l1.30909,-56.29091l408.43636,2.61818l-1.30909,-81.16364z\"  id=\"rough_path_8769bc46-ec4b-4a41-b1c0-bb267378c711\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:36:42.736Z",
+    "@id": "ed29c6b4-adc6-4ccc-acc2-745c4c460e02.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
