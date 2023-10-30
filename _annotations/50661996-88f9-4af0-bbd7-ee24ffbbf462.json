@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R9</em></p>\n<p dir=\"ltr\"><strong>Anatomise Gowan, and see what breeds about his heart</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">While the Note for the previous number had emphasized the importance of establishing &ldquo;Gowan&rsquo;s character&rdquo; (LD.XI.R4), it is in the opening to this chapter that we see two pages devoted to a description of Gowan&rsquo;s character and his relationship with Blandois, which Dickens uses as a means to explore Glowan&rsquo;s character. The phrasing of this likely prospective note does not mirror language used in the chapter; its unusual imperatives (&ldquo;anatomise,&rdquo; &ldquo;see&rdquo;) suggest dissection of a living being. Interestingly, the only use of the word &ldquo;anatomise&rdquo; in the novel is applied to Gowan himself. Miss Wade, in her &ldquo;History of a Self-Tormentor&rdquo; narrative, praises Mr Gowan as one &ldquo;who knew&hellip; how to anatomise the wretched people around us&rdquo; (LD 650).</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Stone renders the word &ldquo;Anatomize&rdquo; in his transcriptions. While Dickens&rsquo;s &ldquo;s&rdquo; is hard to read here, the one use of the word in the novel (in chapter 21) was rendered with an &ldquo;s&rdquo; by the printers (though it is similarly hard to make out in the manuscript), suggesting that the intention here was an &ldquo;s&rdquo; rather than a &ldquo;z.&rdquo;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1400,858,1066,90"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1400.34965,858.04196l346.15385,29.37063l715.38462,6.29371l4.1958,54.54545l-646.15385,-8.39161l-413.28671,-25.17483z\"  id=\"rough_path_334bf496-ef24-4d4b-a68f-41e1cddb3c38\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:33:48.498Z",
+    "@id": "50661996-88f9-4af0-bbd7-ee24ffbbf462.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
