@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.L5</em></p>\n<p dir=\"ltr\"><strong>Society&rsquo;s idea of a marriage.</strong></p>\n<p><span id=\"docs-internal-guid-7d8f53c0-7fff-725a-c3c8-bb332a1be20d\">&nbsp;</span></p>\n<p dir=\"ltr\">This note appears to be a different layer than the one above, in a slightly darker ink. Dickens uses Pet&rsquo;s marriage as a means of highlighting the absurdity of aristocratic Society.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=163,1223,751,105"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M162.68531,1223.17483h375.47552v0h375.47552v52.3986v52.3986h-375.47552h-375.47552v-52.3986z\"  id=\"rectangle_f3826b06-ba72-4e47-ae9e-0ad6e80761b0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:43:01.484Z",
+    "@id": "c4ac3cf4-258c-4b77-9812-497b383dd7ad.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
