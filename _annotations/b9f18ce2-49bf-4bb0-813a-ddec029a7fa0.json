@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R2</em></p>\n<p dir=\"ltr\"><strong>Pursue the objections to Amy</strong></p>\n<p><span id=\"docs-internal-guid-0defeba7-7fff-f51d-40c5-af03ccd4bff0\">&nbsp;</span></p>\n<p dir=\"ltr\">These objections began in Book I and were the subject of that book&rsquo;s closing scene. For the second time in this Note, Dickens employs the language of &ldquo;pursuit&rdquo; to describe the narrative work of this number, as if the installment must follow an action rather than initiating it.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1424,348,642,69"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1423.52448,348.34965h320.93007v0h320.93007v34.56643v34.56643h-320.93007h-320.93007v-34.56643z\"  id=\"rectangle_20dc61bc-9dda-482b-b1fe-bec180bf43c3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:29:26.445Z",
+    "@id": "b9f18ce2-49bf-4bb0-813a-ddec029a7fa0.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
