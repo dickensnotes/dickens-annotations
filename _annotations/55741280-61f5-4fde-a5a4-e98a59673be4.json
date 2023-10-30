@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 25
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R18</em></p>\n<p dir=\"ltr\"><strong>But no mention of Little Dorrit until the end [...]</strong></p>\n<p><span id=\"docs-internal-guid-53e4162f-7fff-f76d-3eb3-4a1f18e49737\">&nbsp;</span></p>\n<p dir=\"ltr\">The longest note for this chapter, this preparation for the chapter&rsquo;s conclusion sets the stage for Little Dorrit&rsquo;s displacement from the family that will shape the opening of Book II. In the final scene, the Dorrits have forgotten Amy, but her absence is read by them as her own act of disgrace, an element not indicated in this note. The note does, however, make use of language that will be used in reference to Clennam&rsquo;s role: &ldquo;Clennam appeared at the carriage-door, bearing the little insensible figure in his arms. &lsquo;She has been forgotten,&rsquo; he said&rdquo; (LD 418).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1349,1900,1159,97"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1349.01818,1899.70909l924.21818,18.32727l234.32727,9.16364l-1.30909,35.34545l-383.56364,-1.30909l-5.23636,35.34545l-767.12727,-13.09091z\"  id=\"rough_path_a58a14b1-fb17-46b9-ab4a-ddcc6084bd49\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:02:30.020Z",
+    "@id": "55741280-61f5-4fde-a5a4-e98a59673be4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
