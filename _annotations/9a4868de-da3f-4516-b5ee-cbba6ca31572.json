@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.R13</em></p>\n<p dir=\"ltr\"><strong>Musing Little Dorrit taken on to Venice [...]</strong></p>\n<p><span id=\"docs-internal-guid-0cffbaea-7fff-3f41-4058-cecb5c9cadda\"><br />This &ldquo;picture&rdquo; refers to the extended description of Little Dorrit&rsquo;s &ldquo;musings&rdquo; as she encounters the unreality of Venice and its contrast to her former life in the shadow of the Marshalsea. Most significantly, its language is mirrored in the final paragraph, in which Little Dorrit &ldquo;would lean upon her balcony, and look over at the water&hellip; musingly watch its running, as if, in the general vision, it might run dry, and show her the prison again&rdquo; (LD 454). The underlining of &ldquo;watching the water&rdquo; emphasizes the repeated use of water as a metaphor for emotional disturbance (see, for instance, the use of the river to describe Clennam&rsquo;s disappointed love in LD.V.R12 and LD.VIII.R15).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1374,1456,1225,69"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1373.63636,1475.62108l390,-20l446.36364,0.90909l388.18182,16.36364l-2.72727,38.18182l-340,13.63636l-28.18182,-55.45455l-175.45455,-2.72727l-0.90909,16.36364l-670.90909,27.27273z\"  id=\"rough_path_616ecba8-3524-4ecb-b6ed-334b5f4d8282\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:16:01.211Z",
+    "@id": "9a4868de-da3f-4516-b5ee-cbba6ca31572.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
