@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R3</em></p>\n<p dir=\"ltr\"><strong>Mr Dorrit and Mrs General [...] </strong></p>\n<p><span id=\"docs-internal-guid-a01c0536-7fff-2830-d8e0-bc5cc2cf3635\">&nbsp;</span></p>\n<p dir=\"ltr\">The exact quotation appears in the novel as Mrs. General instructs Amy upon a proper form of address for her father (Papa), one that &ldquo;gives a pretty form to the lips&rdquo; (461).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1482,426,1177,162"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1526.22378,430.06993l1120.27972,-4.1958l12.58741,62.93706l-589.51049,-8.39161l-2.0979,106.99301l-213.98601,-2.0979l-18.88112,-48.25175l-352.44755,2.0979z\"  id=\"rough_path_2f227a01-4fdd-49da-b6cc-606862a2f2de\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:30:28.648Z",
+    "@id": "aeddd170-9697-4dbd-a9f8-37dbc5d311b6.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
