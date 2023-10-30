@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.R9</em></p>\n<p dir=\"ltr\"><strong>To Martigny.</strong></p>\n<p><span id=\"docs-internal-guid-85414114-7fff-4839-3a62-706602d7d05f\">&nbsp;</span></p>\n<p dir=\"ltr\">Since this note appears to follow on from the chapter title (&ldquo;On the road to Martigany&rdquo;), it may be the case that Dickens wrote the chapter title in the note before writing these contents. Although Stone reads this note as having an additional &ldquo;a&rdquo; misspelling the name of the Swiss town (&ldquo;Martigany&rdquo; instead of &ldquo;Martigny&rdquo;) the extra mark is likely an extension of the &ldquo;n&rdquo; rather than an &ldquo;a.&rdquo; Dickens does not misspell the name in his manuscript. He had himself been in Martigny two years before, in October 1853, and spelled the name correctly in his letters from that period (Letters 7.169).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1392,1194,263,79"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1392.28904,1193.68765h131.53613v0h131.53613v39.46154v39.46154h-131.53613h-131.53613v-39.46154z\"  id=\"rectangle_94f58ab6-2878-4d4a-b1f1-466a9c570189\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:13:40.200Z",
+    "@id": "c9ec2636-b7f4-4d83-a2b4-d568a39f65ac.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
