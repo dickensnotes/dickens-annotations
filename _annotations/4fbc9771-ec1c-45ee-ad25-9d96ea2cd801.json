@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 23
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.R16</em></p>\n<p dir=\"ltr\"><strong>Prepare for the time to come &ndash; in that room, long afterwards</strong></p>\n<p><span id=\"docs-internal-guid-0d5eb389-7fff-eff3-1095-80f78123225d\">&nbsp;</span></p>\n<p dir=\"ltr\">This note indicates that Dickens is already preparing for the very end of the novel at this stage. In his Memoranda book, he wrote the following entry: &ldquo;Arthur Clennam falling into difficulty and himself imprisoned in the Marshalsea. Then Little Dorrit, out of all her wealth and changed station, comes back in her old dress, and devotes herself in the old way&rdquo; (12). This was the last note in the book of Memoranda that pertained to Little Dorrit. Directly after this entry is a cutting pasted from The Times from August 25, 1856, at which point Dickens would likely have been working on No. XI. It is therefore likely that Dickens wrote this entry in his Memoranda as he was working out ideas for this number, as it is here that he begins contemplating the parallelism between this scene and a later one &ldquo;long afterwards&rdquo; (see &nbsp;LD.XVIII.L1 for his reference to this later scene).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1570,1595,1097,96"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1572.87273,1642.97454l-2.61818,37.96364l585.16364,9.16364l157.09091,-26.18182l353.45455,7.85455l1.30909,-61.52727l-405.81818,-15.70909l-2.61818,53.67273z\"  id=\"rough_path_ffb52393-ba62-4f73-84fc-2dfe0f0fba73\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:37:22.556Z",
+    "@id": "4fbc9771-ec1c-45ee-ad25-9d96ea2cd801.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
