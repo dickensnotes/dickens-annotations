@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R5</em></p>\n<p dir=\"ltr\"><strong>A companion scene between [...]</strong></p>\n<p><span id=\"docs-internal-guid-d9e6d680-7fff-83f0-2267-ed7beaa41903\">&nbsp;</span></p>\n<p dir=\"ltr\">In both the wording of the Notes and the construction of the &ldquo;scenes&rdquo; themselves, Dickens establishes parallels between No. VI and this number. In the Notes for No. VI he wrote &ldquo;Scene with the father and daughter. You have never seen me&rdquo; (LD.VI.R3). As he wrote this scene, he may have referred back to his earlier notes, since he reiterates the same language: &ldquo;A faint misgiving, which had hung about her since their accession to fortune, that even now she could never see him as he used to be before the prison days, had gradually begun to assume form in her mind&rdquo; (LD 463). The latter scene refers specifically to the earlier one: &ldquo;He began to whimper, just as he had done that night in the prison when she afterwards sat at his bedside till morning&rdquo; (465). This passage is heavily corrected in the proofs, all with minor corrections, as if Dickens was determined to create the most poignant effect from this &ldquo;companion scene.&rdquo;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1381,575,1288,109"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1381.46853,583.21678l786.71329,10.48951l501.3986,-18.88112l-2.0979,48.25175l-67.13287,31.46853l-526.57343,10.48951l-459.44056,-8.39161l-8.39161,27.27273l-195.1049,0z\"  id=\"rough_path_d7ceb5f6-5bb6-450e-95a8-df72677045a4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:32:03.534Z",
+    "@id": "b3d1471c-b536-4278-bf00-287b6f2b925b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
