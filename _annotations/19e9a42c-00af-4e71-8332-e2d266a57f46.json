@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R10</em></p>\n<p dir=\"ltr\"><strong>Park Lane Picture. Evening</strong></p>\n<p><span id=\"docs-internal-guid-df9adbcc-7fff-2045-e209-d74d5e06e83c\"><br />Again, Dickens uses the term &ldquo;Picture&rdquo; in these Working Notes (for more on this language, see LD.V.R7 and LD.VII.R2). It likely functions here as a reference to the chapter&rsquo;s extended description of Park Lane, with its &ldquo;rickety dwellings&rdquo; featuring balconies &ldquo;resting on crutches&rdquo; (LD 316-17). Dickens emphasizes this note with underscoring, perhaps to suggest the significance of this description to his characterization of Miss Wade&rsquo;s impact on Tattycoram. </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1490,892,560,102"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1492.00046,892.02398l279.17361,5.24833v0l279.17361,5.24833l-0.85643,45.55617l-0.85643,45.55617l-279.17361,-5.24833l-279.17361,-5.24833l0.85643,-45.55617z\"  id=\"rectangle_5ac3ffb9-311d-41bf-87e9-5aab613ddda3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:16:43.197Z",
+    "@id": "19e9a42c-00af-4e71-8332-e2d266a57f46.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
