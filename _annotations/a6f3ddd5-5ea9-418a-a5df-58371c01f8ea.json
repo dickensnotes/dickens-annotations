@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R3</em></p>\n<p dir=\"ltr\"><strong>Edmund Sparkler.&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-8b4b1367-7fff-7528-482c-7d3e05cf3d1c\">&nbsp;</span></p>\n<p dir=\"ltr\">Sparkler is brought into the conversation to attest to his stepfather&rsquo;s attitude: &ldquo;Fellers referring to my Governer&hellip; Say he carries the Shop about, on his back rather&rdquo; (LD 389).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1610,555,334,58"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1610.2482,563.11449l328.31312,-8.00764l6.00573,40.03818l-326.31121,18.01718z\"  id=\"rough_path_2dfbfe19-dbd4-4766-a650-d7310e8cd8ab\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:54:01.045Z",
+    "@id": "a6f3ddd5-5ea9-418a-a5df-58371c01f8ea.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
