@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.L6</em></p>\n<p dir=\"ltr\"><strong>Mrs General? Yes</strong></p>\n<p><span id=\"docs-internal-guid-bde6e168-7fff-76cf-9817-8a0badca80e0\">&nbsp;</span></p>\n<p dir=\"ltr\">The manuscript shows Dickens in the process of settling upon this character&rsquo;s name in the opening chapter. The first mention of the character has her name written &ldquo;General Varnisher,&rdquo; with both names crossed out and &ldquo;General&rdquo; added above. The second instance has &ldquo;Mrs Varnisher&rdquo; with &ldquo;Varnisher&rdquo; erased and &ldquo;General&rdquo; added directly afterwards. Subsequent uses have abandoned &ldquo;Varnisher.&rdquo; While it is difficult to know for certain whether Dickens originally intended for both words to be part of her name, we might suppose that he originally wrote &ldquo;Mrs General&rdquo; in the first instance, erased it and changed it to &ldquo;Mrs Varnisher,&rdquo; but then changed his mind on the second instance and returned to &ldquo;General,&rdquo; returning to the first instance and changing the name back to his original. If this is the case, the memoranda in this Note may still be prospective.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=66,1026,624,107"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M65.94872,1025.85548h312.18881v0h312.18881v53.44755v53.44755h-312.18881h-312.18881v-53.44755z\"  id=\"rectangle_4a5f1753-130f-4127-a790-ebcc2721ed95\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:08:28.412Z",
+    "@id": "a9993dd1-48a3-4720-a3df-984b9c4c8ebe.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
