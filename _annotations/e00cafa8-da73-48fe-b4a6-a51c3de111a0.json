@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 24
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R16</em></p>\n<p dir=\"ltr\"><strong>Rome and Mr Eustace&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-9ef0678c-7fff-152d-151d-075adbe1772e\">&nbsp;</span></p>\n<p dir=\"ltr\">John Chetwode Eustace&rsquo;s <em>Classical Tour through Italy</em> (1813) was an important precursor to the modern guidebook. In her article on Eustace, Alexandra Milsom argues that &ldquo;Eustace&rsquo;s Classical Tour established a style&ndash;adopted by the popular travel guidebooks of the century&hellip; &ndash;in which the guidebook appears to patronize and condescend to ill-educated tourists, despite facilitating the very sort of bourgeois travel it denigrates&rdquo; (222). It is therefore unsurprising that Dickens adopts this guide as his means of ridiculing the &ldquo;formation of surface&rdquo; involved in tourism (LD 498). Dickens made a depreciatory reference to Eustace in a letter to Forster in November 1853 during his own travels in Italy, suggesting that &ldquo;guide-book writer[s]&rdquo; were &ldquo;bound to follow Eustace&hellip; and all the rest of them&rdquo; in encouraging a traveler not to &ldquo;think for himself&rdquo; but to &ldquo;go into ecstacies with things that have neither imagination, nature, proportion, possibility, nor anything else in them. You immediately obey, and tell your son to obey. He tells his son, and he tells his, and so the world gets at three-fourths of its frauds and miseries&rdquo; (Forster 2.141-142).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1468,1784,528,79"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1470.15182,1783.54747l263.14763,6.88789v0l263.14763,6.88789l-0.84957,32.45741l-0.84957,32.45741l-263.14763,-6.88789l-263.14763,-6.88789l0.84957,-32.45741z\"  id=\"rectangle_6e96da6d-689f-45dd-8292-5d872e78d70a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:37:30.026Z",
+    "@id": "e00cafa8-da73-48fe-b4a6-a51c3de111a0.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
