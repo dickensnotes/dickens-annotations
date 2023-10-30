@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.R3</em></p>\n<p dir=\"ltr\"><strong>Scene in Mrs Clennam&rsquo;s room</strong></p>\n<p><span id=\"docs-internal-guid-b0702a5a-7fff-fcc7-1627-d265596ac2fb\"><br />This note uses the language of drama (&ldquo;scene&rdquo;) to imagine a distinct sequence of action involving a specific place or combination of characters in the novel. Dickens had used this term in Notes to previous novels (see, for instance, DC.XVI.R9), and he uses it multiple times in these Notes (e.g. LD.V.R13, LD.XII.R5, LD.XV.R12, and four instances in the Notes for XVIII). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1720,568,555,56"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1719.81352,582.98459l552.44755,-15.15152l2.331,36.13054l-550.11655,19.81352z\"  id=\"rough_path_2e569f7c-1baf-4677-9f68-c8479ab042b0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:28:23.923Z",
+    "@id": "50f56338-4785-4417-99d9-fa3df5bef5ea.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
