@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Unlike the Notes for No. XII, with their heavy inclusion of imperative phrases indicating prospective work, the Notes for No. XIII include a mixture of prospective planning and retrospective summary. Dickens uses a number of descriptive present-tense phrases in his right-hand chapter notes (e.g. Clennam follows [xx] them to the Patriarchs&rdquo;; &ldquo;Clennam going to his mother&rsquo;s is run against by Blandois&rdquo;), as if summarizing the events of a chapter already written rather than instructing himself to include elements, as in the previous number. In the final chapter&rsquo;s notes, though, he reverts to the future-oriented language of instruction: &ldquo;Pursue&hellip;&rdquo; &ldquo;Shew&hellip;&rdquo;&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">When laying out the Notes for No. XIII, Dickens planned to include four chapters, which are evenly spaced on the right side. Whether this was because he planned at an early stage for the final chapter to be a letter from Little Dorrit is unclear, since the question referring to this letter appears to be in the same temporal layer as his answers to the questions on the left. There are visible layers to both the questions and answers on the left and to the chapter headers and content notes on the right, with the title of chapter 8 in a notably thinner ink than its contents, as well as subtle differences between certain content notes (see, for instance, LD.XIII.R5). Titles for chapters 8-10 in the Notes were added after their composition was underway in the manuscript, as is made most evident by the absence of titles for chapters 9 and 10 in the manuscript (both were added in the proofs).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens had finished the number by late November; he wrote a letter on November 24, likely to William Bradbury, asking for &ldquo;the Revise&rdquo; so that he could make &ldquo;two very slight alterations&rdquo; (Letters 8.226). One of these revisions was to a blasphemous joke Dickens had included in his manuscript describing Mr. Casby &ldquo;making his polished head and forehead look largely benevolent in every knob as if he had got baptismal water on the brain.&rdquo; Intending to tease Forster, who had warned Dickens about offensive religious references in the past, Dickens had left the phrase in the proofs he sent to his friend, correcting it in the &ldquo;Revise&rdquo; by removing the final simile. But the printers failed to make the correction. Dickens wrote to Bradbury &amp; Evans in great distress on November 29 about this &ldquo;fatal mistake,&rdquo; bemoaning the fact that it was &ldquo;too late&rdquo; to &ldquo;suppress the whole issue&rdquo; (Letter 8.227). Action must have been taken, though, because the corrections were made in time for printing of the serial part. Notably, the simile was included in the <em>Harper&rsquo;s New Monthly</em> issue of the number in January 1857 (254), suggesting that the correction was made too late to edit the version sent to the United States.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1386,44,1286,124"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1385.76224,44.15385h642.95804v0h642.95804v61.83916v61.83916h-642.95804h-642.95804v-61.83916z\"  id=\"rectangle_62a87509-8a04-4c90-9eb8-34b6e7176326\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:39:51.467Z",
+    "@id": "a1303daf-3f8c-453d-8c07-20b03bb4ca4f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
