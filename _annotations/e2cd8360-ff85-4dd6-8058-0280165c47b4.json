@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "e2cd8360-ff85-4dd6-8058-0280165c47b4.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">LD.XIV.L4</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Engage Fanny to Edmund Sparkler</span></p>\n<p><span id=\"docs-internal-guid-6a57560a-7fff-df33-9d94-9ca5f139144a\">&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This memorandum appears to be a different layer than the ones above, possibly consistent with the contents of the chapter notes on the right. Phrased as an instruction rather than a question, it was likely added later to indicate the role of chapter 14.</span></p>"
-        }
+    "oa:annotatedAt": "2023-10-30T23:36:13.233Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M68.27972,541.00699h470.69697v0h470.69697v45.28904v45.28904h-470.69697h-470.69697v-45.28904z\"  id=\"rectangle_87467eb7-fa97-493f-82e6-87b04a626397\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M68.27972,541.00699h470.69697v0h470.69697v45.28904v45.28904h-470.69697h-470.69697v-45.28904z\"  id=\"rectangle_87467eb7-fa97-493f-82e6-87b04a626397\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.98601\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-30T23:36:13.233Z",
-    "@id": "e2cd8360-ff85-4dd6-8058-0280165c47b4.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.L4</em></p>\n<p dir=\"ltr\"><strong>Engage Fanny to Edmund Sparkler</strong></p>\n<p><span id=\"docs-internal-guid-6a57560a-7fff-df33-9d94-9ca5f139144a\">&nbsp;</span></p>\n<p dir=\"ltr\">This memorandum appears to be a different layer than the ones above, possibly consistent with the contents of the chapter notes on the right. Phrased as an instruction rather than a question, it was likely added later to indicate the role of chapter 14.</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-30T23:36:22.990Z"
 }
