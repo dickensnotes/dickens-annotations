@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.L1</em></p>\n<p dir=\"ltr\"><strong>Society? And [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens only offers one short list of questions and a single &ldquo;Yes&rdquo; in the left-hand page for this Note, indicating that he was fairly certain at this stage what needed to be accomplished to complete the first book.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The &ldquo;Flora? Casby?&rdquo; questions appear smaller and in a slightly darker ink, indented between the first list of names relating to Society (marked off by a dash) and the next item: &ldquo;Pet&rsquo;s marriage.&rdquo; Dickens presumably recognized the need to return to these characters before closing Book I; he would use Flora as the means by which Clennam would reveal Little Dorrit&rsquo;s fortune to her, and Casby would appear in the Yard upon the Dorrits&rsquo; departure.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Despite the separation between items in this list implied by non-textual markings and spacing, Dickens groups them together with an emphatic &ldquo;Yes.&rdquo; Pet&rsquo;s marriage, the only item in this list without a question mark, acts in part as an answer to the questions above, since the marriage provides the occasion for Society, with its &ldquo;Shoal of Barnacles,&rdquo; to gather.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=18,52,864,483"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M17.93007,535.06294h432.11888v0h432.11888v-241.30769v-241.30769h-432.11888h-432.11888v241.30769z\"  id=\"rectangle_6ab8b6a3-3455-4a7b-9c27-984a1ebcb512\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:41:56.732Z",
+    "@id": "e0ba305a-17cf-4200-b716-38366c6ac654.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
