@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This Note, with its mixture of ink colors and weights, indicates a number of temporal layers and uses of the page. Dickens likely began the left-hand questions as early as the beginning of 1856 as he was drafting No. V, since he spells &ldquo;Gowan&rdquo; as &ldquo;Gowran&rdquo; here (LD.VIII.L1), as in No. VII on the left, but has settled on Gowan in the Notes and manuscript to No. V. There are multiple layers present on the left (see LD.VIII.L1) and in the chapter notes, for which the contents of the notes for chapters 26 and 27 appear similar, but chapters 28 and chapter 29 are separate layers. Dickens evidently planned on four chapters to this number early in the process, since he lays out the evenly spaced chapter headings in black ink without correction.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">There is evidence of both proactive and retroactive use of this Note. The titles for chapters 28 and 29 are added to the Note in their corrected forms after some editing in the manuscript (see LD.VIII.R12 and LD.VIII.R16), whereas Dickens appears to have settled on the first two chapter titles before beginning their composition. The use of imperative instructions and extended phrases to describe characters&rsquo; emotional states in these chapter notes may indicate that he used the notes for proactive planning.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Herring speculates that Dickens had &ldquo;confident control of his story&rdquo; at this point, citing as evidence that he &ldquo;had no need even to query in his memoranda several important items in the four chapters&rdquo; (37). However, Dickens&rsquo;s letters tell a different story. On April 22 he complained to Wilkie Collins that &ldquo;[t]he first blank page of Little Dorrit No. 8 now eyes me on this desk with a pressing curiosity&rdquo; but decides not to work on it (Letters 8.96). He will complain to both Wills and Mark Lemon on April 27 of how the chaos of the family packing up to leave Paris (Slater 406) made writing a challenge: &ldquo;I can&rsquo;t work in the midst of the unsettled domesticity&rdquo; (Letters 8.99). It wasn&rsquo;t until returning to Tavistock House after a stay in Dover, where he enjoyed long walks but little writing, that he would get back to composition. First, he requested Bradbury &amp; Evans send him &ldquo;No. 6&rdquo; and &ldquo;a pull of No. 7,&rdquo; presumably so that he could re-read his work and get himself into a frame of mind to write (8.107). On May 5 he admitted to his wife that he had &ldquo;not begun &lsquo;Little Dorrit&rsquo; No. 8, yet&rdquo; (8.108); it wouldn&rsquo;t be until May 9, in a letter to Georgiana Hogarth, that he would claim to be making progress: &ldquo;I am &lsquo;going&rsquo; to work furiously. Am only just beginning after all!&rdquo; (8.115).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">After all this delay, and after a review of Nos. VI and VII, Dickens may have made more use of the right-hand chapter notes for proactive planning during his &ldquo;furious&rdquo; work session, rather than extending his left-hand memoranda.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1369,12,1300,109"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1368.97902,11.86946h650.18415v0h650.18415v54.61305v54.61305h-650.18415h-650.18415v-54.61305z\"  id=\"rectangle_50e4d2c4-0c11-47a8-82ab-de30ee8e5458\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:10:38.743Z",
+    "@id": "acb70441-7ef6-4179-818c-38e74fe6a84c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
