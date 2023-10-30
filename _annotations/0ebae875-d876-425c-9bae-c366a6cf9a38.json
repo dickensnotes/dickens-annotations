@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R10</em></p>\n<p dir=\"ltr\"><strong>(Remember the Bank at Venice)</strong></p>\n<p><span id=\"docs-internal-guid-349c3285-7fff-28a1-7566-2cf2f7cfcb29\">&nbsp;</span></p>\n<p dir=\"ltr\">This is a rare instance of Dickens's use of the Notes for this novel to refer to a specific memory from his travels (for one other example, see LD.II.L6). As he wrote to Lavinia Watson in early October, his &ldquo;remembrances&rdquo; from his travels &ldquo;were fresh in my mind&rdquo; and perhaps did not, therefore, require many notes (Letters 8.201). In Slater&rsquo;s words, &ldquo;This jotting was enough to bring forth three richly-detailed paragraphs evoking the Gowans&rsquo; highly picturesque location, not forgetting &lsquo;the prevailing Venetian odor of bilge water and an ebb-tide on a weedy shore&rsquo;&rdquo; (409). The phrase Slater quotes (from LD 475) recalls the language Dickens used in his description of Venice in Pictures from Italy, in which he refers to carpenters tossing shavings into the water &ldquo;where it lay like weed, or ebbed away before me in a tangled heep&rdquo; (84).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2147,1009,546,71"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2147.3007,1009.18881h273.2028v0h273.2028v35.61538v35.61538h-273.2028h-273.2028v-35.61538z\"  id=\"rectangle_edefb6df-b9d6-4779-9aa1-f87741c8d142\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:34:03.497Z",
+    "@id": "0ebae875-d876-425c-9bae-c366a6cf9a38.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
