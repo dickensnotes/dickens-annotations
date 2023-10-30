@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R2</em></p>\n<p dir=\"ltr\"><strong>Mrs Gowan&rsquo;s pretext [...]</strong></p>\n<p><span id=\"docs-internal-guid-c1ccc0f8-7fff-dde7-915e-5cae548bb2f9\">&nbsp;</span></p>\n<p dir=\"ltr\">Again, we see possible evidence of prospective planning in Dickens&rsquo;s direction to &ldquo;Open with this.&rdquo; The chapter indeed opens with Mrs. Gowan &ldquo;[R]esigning herself to inevitable fate&rdquo; and recognizing the benefits of the marriage between Henry and Pet, not least of which is the fact that &ldquo;Henry&rsquo;s debts must clearly be paid down upon the alter-railing by his father-in-law&rdquo; (LD 380). The conference between these two women as to the suitability of the marriage helps Dickens establish the memoranda he made and emphasized on the left-hand-side: &ldquo;Society&rsquo;s idea of a marriage.&rdquo; Mrs. Merdle &ldquo;(speaking as a Priestess of Society)&rdquo; in effect authorizes the marriage (386).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1374,511,1269,114"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1374.02291,511.06485l4.00382,114.10883h182.17374l-4.00382,-68.06491l478.45631,-6.00573l378.36085,8.00764l224.21384,10.00955l6.00573,-4.00382l0,-44.042z\"  id=\"rough_path_fd3287b8-6642-413f-9ce0-ed95eb227b30\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:53:42.721Z",
+    "@id": "60901673-a28f-419d-9d91-820ab8b785a3.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
