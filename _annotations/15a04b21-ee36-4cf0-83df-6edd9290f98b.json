@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.L8</em></p>\n<p dir=\"ltr\"><strong>On the road abroad [...]</strong></p>\n<p><span id=\"docs-internal-guid-c836cccd-7fff-4e02-84e7-f7e2adcfa7a1\">&nbsp;</span></p>\n<p dir=\"ltr\">This note includes a reference to what will become the title for chapter 3 (planned as chapter 2 before the chapters were transposed): &ldquo;On the Road.&rdquo; This reference to &ldquo;Little Dorrit&rsquo;s party&rdquo; will come at the end of that chapter, as Little Dorrit looks out from her balcony to the canals of Venice and the stars above and muses on the difference between the unrealities of Venice and the realities of her life at the Marshalsea: &ldquo;Was there no party of her own, in other times, on which the stars had shone? To think of that old gate now! She would think of that old gate, and of herself sitting at it in the dead of the night, pillowing Maggy&rsquo;s head&rdquo; (LD 454).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=25,1346,1172,176"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M25.17514,1363.52668l584.84698,-8.99053v0l584.84698,-8.99053l1.21564,79.07923l1.21564,79.07923l-584.84698,8.99053l-584.84698,8.99053l-1.21564,-79.07923z\"  id=\"rectangle_5be49869-3732-48f8-9751-e3a207032f40\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:09:18.926Z",
+    "@id": "15a04b21-ee36-4cf0-83df-6edd9290f98b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
