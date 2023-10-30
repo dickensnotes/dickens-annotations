@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.R7</em></p>\n<p dir=\"ltr\"><strong>Fanny</strong></p>\n<p><span id=\"docs-internal-guid-c1a994b6-7fff-0506-2128-bc09ef95be14\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens places Fanny&rsquo;s name within a box in this note, perhaps to emphasize the significance of Fanny&rsquo;s negative reaction (reminiscent of her father&rsquo;s) to Amy coming through the streets with Old Nandy, a precursor to her condescending behavior after her change of fortune: &ldquo;The idea of coming along the open streets, in the broad light of day, with a Pauper!&rdquo; (LD 360). Fanny and Mr. Dorrit must share in this &ldquo;Family Spirit&rdquo; for Amy to feel its full effect (see LD.IX.L4).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1801,1005,167,76"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1801.3986,1013.05452l13.98601,67.59907l152.68065,-11.65501l-13.98601,-64.10256z\"  id=\"rough_path_557ca541-9f31-45db-8f9c-c24ed23ce47e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:30:48.418Z",
+    "@id": "af97fc2f-ef69-4e6a-91d8-c5e365f3d5d4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
