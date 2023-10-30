@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.R9</em></p>\n<p dir=\"ltr\"><strong>The Secret City after dark</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">While no mention is made of the phrase &ldquo;Secret City,&rdquo; chapter 10 opens with Clennam&rsquo;s walk through the city towards his childhood home, dwelling upon the streets as &ldquo;depositories of oppressive secrets&rdquo; (LD 526). In two paragraphs, the word &ldquo;secret&rdquo; appears 14 times, as if the secrets held within the Clennam house have infected the streets in its vicinity.&nbsp;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1381,1405,523,63"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1380.98368,1405.22611h261.48951v0h261.48951v31.30303v31.30303h-261.48951h-261.48951v-31.30303z\"  id=\"rectangle_bc56117e-d501-4e43-90e0-95120b28fb2a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:53:08.378Z",
+    "@id": "759c17cc-dc7a-4e71-91e5-b317ada63313.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
