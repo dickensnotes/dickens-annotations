@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.R4</em></p>\n<p dir=\"ltr\"><strong>The wonderful Bank</strong></p>\n<p><span id=\"docs-internal-guid-bc9ca513-7fff-1486-1db3-591a9e62b1c6\">&nbsp;</span></p>\n<p dir=\"ltr\">The chapter will close with two references to &ldquo;the wonderful Bank&rdquo; (LD 553), of which Mr. Merdle &ldquo;was the chief projector, establisher, and manager&rdquo; (541), and which has now (due to the promotion of Young Sparkler) been &ldquo;bolstered by this mark of Government homage&rdquo; (553). The union of the Bank and Government allows Dickens to cement the connections between fraudulent Society and ineffectual Circumlocution.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1343,732,425,121"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1349.24751,732.21168l209.15483,14.02764v0l209.15483,14.02764l-3.10864,46.35042l-3.10864,46.35042l-209.15483,-14.02764l-209.15483,-14.02764l3.10864,-46.35042z\"  id=\"rectangle_862e9917-0ec8-4556-bb11-3c6f29c06935\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T23:37:52.321Z",
+    "@id": "7db66a73-bf5e-453d-b62b-2411df2828d8.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
