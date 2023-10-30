@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.R4</em></p>\n<p dir=\"ltr\"><strong>&ldquo;You shall see me again, Flintwinch!&rdquo; [...]</strong></p>\n<p><span id=\"docs-internal-guid-e6685898-7fff-4d0d-7a1f-c7cd6121d0dd\">&nbsp;</span></p>\n<p dir=\"ltr\">The second half of this note (after the quotation) may be in a slightly darker ink than the first half (and the notes above), and appears similar to the ink used for the chapter title. See LD.IX.R1. The closing passage for this chapter includes this language, spoken by Blandois as he leaves: &ldquo;Receive at parting&hellip; the word of a gentleman! By a thousand Thunders, you shall see me again!&rdquo; (LD 356). Although Flintwinch discovers the next day that Blandois has left the country, he carries with him &ldquo;a lively conviction that Mr Blandois would keep his word on this occasion, and would be seen again.&rdquo;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1357,593,1336,97"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1851.51515,626.10814l837.99534,-32.63403l3.4965,41.95804l-699.3007,27.97203l-1.1655,26.80653l-635.19814,-18.64802l1.1655,-33.79953l489.51049,10.48951z\"  id=\"rough_path_c5640249-f4b0-4b1e-9b9d-30f26df0739a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:29:05.946Z",
+    "@id": "f4e22f2b-0637-49a1-8571-464e0d96cb95.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
