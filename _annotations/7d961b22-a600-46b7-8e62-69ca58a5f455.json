@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">No. IX, the penultimate number in Book I, focused on preparation for the end of Book I and certain events in Book II; we see numerous forward-looking references in these notes that work to &ldquo;Prepare&rdquo; and &ldquo;Suspend it all&rdquo; (see LD.IX.R2, LD.IX.R16, LD.IX.R18). The number deepens the mystery at Mrs. Clennam&rsquo;s; explores the family dignity and shame of the Dorrits; depicts Little Dorrit&rsquo;s heartbreak; and ends with the almost-revelation of Pancks&rsquo;s discovery. Dickens heads the Note in black, suggesting that he prepared the page ahead of time, but the rest of the note is in various blue inks.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The Note contains what appears to be a larger proportion of prospective than retrospective notes, but generates some confusion as to temporality which may offer evidence of nearly contemporaneous work on Note and manuscript (see, for instance, LD.IX.R1 and LD.IX.R19). The ink colors on the left are fairly consistent; we can identify only two distinct temporal layers (questions and answers), though there may be more. On the right there are two layers&ndash;chapter 32 is in a darker ink than the opening two chapters&ndash;though there is some indication of another layer in the notes for chapter 30 (see LD.IX.R1).&nbsp;</p>\n<p><br />By the time he began composing this penultimate number of Book I, Dickens felt more confident about his work. &ldquo;Now to work again&ndash;to work!&rdquo; he wrote to Forster in a letter Forster implicitly dates in mid-June. &ldquo;The story lies before me, I hope, strong and clear. Not to be easily told; but nothing of that sort is to be easily done that I know of&rdquo; (Forster 2.155). By early July he had written at least through chapter 31, since he wrote to Hablot Knight Browne on July 2 with a request for an illustration for that number (&ldquo;as characteristic as ever you please, by little dear, but quiet&rdquo; [8.141]), and he would be at work on No. X by July 9.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1346,8,1340,124"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1345.9021,8.48951h670.23077v0h670.23077v61.83916v61.83916h-670.23077h-670.23077v-61.83916z\"  id=\"rectangle_f1a49199-bb39-482e-a593-ea186f7a160f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:22:23.885Z",
+    "@id": "7d961b22-a600-46b7-8e62-69ca58a5f455.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
