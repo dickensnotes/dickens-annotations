@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The ink colors for this number suggest a series of layers. On the left, Dickens evidently settled on the subject of his opening chapter fairly early, since the first three &ldquo;Yes&rdquo; responses are in a darker ink, perhaps the same layer as the questions themselves. A dark ink is also used to lay out <em>three</em> chapters on the right, indicating that Dickens originally had no intention of a fourth (unsurprising given that this first number needed to be shorter to accommodate the title page, see LD.XI.R1). He likely made the decision to incorporate the fourth chapter as he was planning the number, realizing the importance of including the letter he had mentioned in his left-hand memoranda so as to reactivate the Little Dorrit-Clennam storyline in this opening installment of Book II.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">On the right side the chapter content notes, including titles for all chapters (with the possible exception of &ldquo;On the Road&rdquo;) and the number header for the added chapter 4, appear to comprise one layer in an ink that appears to be the same as that used to answer the remaining questions on the right (from &ldquo;Venice?&rdquo; LD.XI.L4). Dickens evidently made decisions about what to incorporate from his left-hand memoranda as he was sketching out the chapter contents on the right.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">It is likely that these were, at least to some extent, prospective planning notes, since it was only after he finished writing the third chapter that Dickens made the decision, added retroactively in boxed notes (LD.XI.R8 and LD.XI.R14), to transpose chapters 2 and 3. The final temporal layer thus comprises the addition of boxed notes about the transposition, along with the description of the &ldquo;Mrs General&rdquo; chapter and the final note about chapter 4 (LD.XI.R16 and LD.XI.R18).</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The titling of all three chapters in the manuscript adds some evidence for the supposition that much of this Note was prospective, since it appears that Dickens created initial pages for chapters 2-4 before writing their contents. These chapters are headed and titled in the manuscript at the same time (a rare practice; he often returned to add titles later, as evidenced by the aborted beginnings to both chapters 1 and 2 of this number) in ink that does not match that of the text below.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Perhaps because his memories of his 1853 travels were so clear, Dickens offers little detail in his descriptions of Switzerland and Italy in the notes for this number, referring only to place names and reserving the Note for directions about the characters&rsquo; relationships and emotional states.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Although Dickens&rsquo;s letters offer little evidence about when he was working on No. XI, Slater dates the composition of this number to August 1856 (409).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1375,6,1289,115"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1375.27273,121.77622h644.53147v0h644.53147v-57.74126v-57.74126h-644.53147h-644.53147v57.74126z\"  id=\"rectangle_453dd428-22ac-431f-8a1b-90969deeacde\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:05:38.169Z",
+    "@id": "257a3f6c-7127-4685-813d-b4f5a163f1b4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
