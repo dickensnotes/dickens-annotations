@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.L3</em></p>\n<p dir=\"ltr\"><strong>Mrs Gowan&rsquo;s reception of Pet, and [...]</strong></p>\n<p><span id=\"docs-internal-guid-9299c389-7fff-f769-cf04-6ec9fe1164a5\">&nbsp;</span></p>\n<p dir=\"ltr\">This note, written in a slightly thicker ink than that above, appears to be a new layer, consistent with that directly below it. Herring speculates that Dickens may have at first intended &ldquo;reception&rdquo; to be literal: a scene between Mrs. Gowan and Pet (41).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=16,919,1257,145"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M15.83217,918.97902h628.27273v0h628.27273v72.32867v72.32867h-628.27273h-628.27273v-72.32867z\"  id=\"rectangle_b080d665-3873-460d-8acc-3d62f32ebe80\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:42:34.034Z",
+    "@id": "ec868d47-0817-4144-9e8b-650b2f9e6770.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
