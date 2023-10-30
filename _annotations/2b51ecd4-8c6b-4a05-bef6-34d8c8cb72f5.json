@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The Note for No. X differs significantly from the previous Notes in Dickens&rsquo;s use of the left side, which he has previously reserved almost exclusively for fairly sparse questions and answers (with the notable exception of No. I). Here, as he works his way through to the end of Book I, Dickens includes decisive notes on the left summarizing the two principal events of the number: marriage and fortune, both endings and new beginnings appropriate to the end of one book and setup for the next. These left-hand notes also lay the ground for Clennam&rsquo;s continued relationship with Little Dorrit via his commitment to improve relations between Mr. Meagles back in England, and Pet&rsquo;s new husband Gowan, who will encounter the Dorrits on their continental travels.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Multiple layers are evident on both sides of the page, indicating Dickens&rsquo;s heavy use of this Note to help him manage elements to include in this final number. The chapter notes on the right, with their combination of brevity, future-oriented phrases, and summaries of the main focus of each chapter, appear to be largely prospective.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens wrote the bulk of No. X in July 1856. On July 8, he told William Macready that the &ldquo;beginning of No. X&ndash;the first line&ndash;now lies upon my desk&rdquo; (Letters 8.156). On July 13 he reported to Wilkie Collins that he was &ldquo;hard at it with Little Dorrit, and am now doing No. X&rdquo; (8.162). He was likely still working on the number on August 8 when he wrote to Macready that he could not schedule a reading because it would &ldquo;shake Little Dorrit out of my head&rdquo; (8.171).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1340,19,1296,111"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1339.60839,130.16783h648.2028v0h648.2028v-55.64336v-55.64336h-648.2028h-648.2028v55.64336z\"  id=\"rectangle_35581f7f-a862-4f67-ae66-e83f09e68434\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:41:31.866Z",
+    "@id": "2b51ecd4-8c6b-4a05-bef6-34d8c8cb72f5.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
