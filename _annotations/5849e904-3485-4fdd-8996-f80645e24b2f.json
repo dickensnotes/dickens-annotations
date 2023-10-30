@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 26
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R18</em></p>\n<p dir=\"ltr\"><strong>Mrs Merdle. Work distantly up to Mr Merdle.</strong></p>\n<p><span id=\"docs-internal-guid-0bab3170-7fff-d1aa-0874-4dd83fa0cb14\">&nbsp;</span></p>\n<p dir=\"ltr\">Again, Dickens uses the language of preparation to refer to this number&rsquo;s treatment of Mr. Merdle. The &ldquo;distance&rdquo; here refers not just to a kind of foreshadowing, but to a temporal gap, since Mr. Merdle will not appear until No. XIV.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1482,1869,985,100"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1482.22557,1938.70595l491.45331,14.79609v0l491.45331,14.79609l1.05607,-35.07746l1.05607,-35.07746l-491.45331,-14.79609l-491.45331,-14.79609l-1.05607,35.07746z\"  id=\"rectangle_1516b8b4-e6e0-45a2-a8e2-8a4b302a76fe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:38:13.575Z",
+    "@id": "5849e904-3485-4fdd-8996-f80645e24b2f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
