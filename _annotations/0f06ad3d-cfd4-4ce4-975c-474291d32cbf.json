@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R2</em></p>\n<p dir=\"ltr\"><strong>Nobody&rsquo;s state of mind</strong></p>\n<p><span id=\"docs-internal-guid-3bb44f86-7fff-5983-d609-1b73ec4d7c8f\">&nbsp;</span></p>\n<p dir=\"ltr\">In titling this chapter and chapter 28, Dickens draws clear parallels between this number and No. V, which (as Herring notes) deals in reverse with the same subjects as this number (Herring 37). No. V contains the chapters &ldquo;Nobody&rsquo;s Weakness&rdquo; and &ldquo;Nobody&rsquo;s Rival.&rdquo; This number contains &ldquo;Nobody&rsquo;s State of Mind&rdquo; and &ldquo;Nobody&rsquo;s Disappearance.&rdquo;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1709,275,557,72"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1709.30536,275.27273h278.38928v0h278.38928v35.96503v35.96503h-278.38928h-278.38928v-35.96503z\"  id=\"rectangle_c1a0e299-3702-42c6-a075-9f2d424bf721\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:12:26.129Z",
+    "@id": "0f06ad3d-cfd4-4ce4-975c-474291d32cbf.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
