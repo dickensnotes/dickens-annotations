@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 22
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R14</em></p>\n<p dir=\"ltr\"><strong>Mostly, Prunes and Prism.</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In the manuscript, the title is rendered as &ldquo;Prunes and Prism.&rdquo; The &ldquo;Mostly&rdquo; was added in the proof. The full final title appears to have been rendered in the Notes in one layer, since the ink appears continuous and the title is centered on the page, suggesting that Dickens may have added it after the fact (as he appears to have done with the title to chapter 6 above).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens likely wrote this final chapter after he had completed the previous two and sent them to the printer, since a second proof picks up at this point (see also Sucksmith xxxiv). The chapter would prove too long; Dickens had to cut two passages in the second proof.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1642,1436,792,84"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1641.70629,1436.11189h396.1049v0h396.1049v41.79254v41.79254h-396.1049h-396.1049v-41.79254z\"  id=\"rectangle_a32b304b-7a67-46e9-836d-44c56d2865ef\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:36:21.987Z",
+    "@id": "f3284aa2-ca8e-4d03-88a4-e662af3c2135.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
