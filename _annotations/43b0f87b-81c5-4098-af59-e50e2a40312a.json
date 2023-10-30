@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 22
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R15</em></p>\n<p dir=\"ltr\"><strong>The Departure from the Prison &ndash; Feast &amp;c</strong></p>\n<p><span id=\"docs-internal-guid-441040f5-7fff-d31f-5b85-d3185ef16961\">&nbsp;</span></p>\n<p dir=\"ltr\">This note, as with the opening notes for each of the chapters in this number, acts as a summary for the chapter as a whole, the &ldquo;&amp;c&rdquo; indicating material that will be elaborated below.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1341,1701,862,99"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1343.73259,1700.7283l429.51014,25.60578v0l429.51014,25.60578l-1.42365,23.88023l-1.42365,23.88023l-429.51014,-25.60578l-429.51014,-25.60578l1.42365,-23.88023z\"  id=\"rectangle_40310434-be6a-4040-925d-14d564089e13\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:59:58.054Z",
+    "@id": "43b0f87b-81c5-4098-af59-e50e2a40312a.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
