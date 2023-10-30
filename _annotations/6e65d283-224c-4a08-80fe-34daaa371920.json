@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 24
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R17</em></p>\n<p dir=\"ltr\"><strong>[Casby] Casby</strong></p>\n<p><span id=\"docs-internal-guid-f11a20be-7fff-26e0-0136-be5de345a03e\">&nbsp;</span></p>\n<p dir=\"ltr\">While Casby is mentioned only briefly here, and Dickens appears to have some initial hesitation about his appearance, his presence is significant, suggesting that he takes credit for Pancks&rsquo;s work.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2376,1830,308,121"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2665.09091,1835.24135l-153.81818,-5.45455l2.18182,31.63636l-121.09091,-6.54545l-16.36364,64.36364l142.90909,7.63636l-2.18182,24l166.90909,-5.45455z\"  id=\"rough_path_4646845d-e905-4788-9a4f-55d9233f42b4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:01:54.989Z",
+    "@id": "6e65d283-224c-4a08-80fe-34daaa371920.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
