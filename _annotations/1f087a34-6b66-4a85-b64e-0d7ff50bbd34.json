@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.L3</em></p>\n<p dir=\"ltr\"><strong>The Uncle, and his new trait ? Yes</strong></p>\n<p><span id=\"docs-internal-guid-60b2283c-7fff-e793-427f-70b3d5af367d\"><br />Frederick Dorrit&rsquo;s &ldquo;new trait&rdquo; is manifested as his &ldquo;protest&rdquo; (see LD.XII.R6) in chapter 5, in which he displays a rare &ldquo;burst of earnestness&rdquo; [LD 470]). While this &ldquo;trait&rdquo; may be &ldquo;new,&rdquo; the Notes for No. IX laid the groundwork for Frederick&rsquo;s refusal to display the same &ldquo;Family Spirit&rdquo; as his brother, oldest niece, and nephew, upon their rise in fortunes (LD.IX.L4). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=89,806,871,124"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M89.25874,929.46853h435.26573v0h435.26573v-61.93706v-61.93706h-435.26573h-435.26573v61.93706z\"  id=\"rectangle_846a49a0-8901-44a2-b6a9-604cd69695a1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:25:06.163Z",
+    "@id": "1f087a34-6b66-4a85-b64e-0d7ff50bbd34.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
