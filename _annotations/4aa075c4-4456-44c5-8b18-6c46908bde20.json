@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R18</em></p>\n<p dir=\"ltr\"><strong>arrival of Rigaud to close the chapter [...]</strong></p>\n<p><span id=\"docs-internal-guid-58a88f06-7fff-84a4-22d9-3d6e012f82aa\">&nbsp;</span></p>\n<p dir=\"ltr\">With this note Dickens is explicit about the reference he makes to the chapter&rsquo;s closing in language that may suggest proactive planning, as seems to be the case for this chapter&rsquo;s notes. Rigaud/Blandois and Mrs. Flintwinch will hear &ldquo;[t]he strangest of sounds&rdquo; when he enters the house (LD 339). Notably, Dickens writes &ldquo;Rigaud&rdquo; rather than &ldquo;Blandois&rdquo; in the note, despite the character&rsquo;s use of Blandois in London, although this is consistent with the fact that the novel has yet to introduce the pseudonym (it will do so in the opening chapter of the next number). Instead of naming him in this chapter, Dickens uses his tick as a means of identification: &ldquo;as he laughed, his moustache went up under his nose, and his nose came down over his moustache&rdquo; (LD 337). For more on Dickens&rsquo;s confusion about the character&rsquo;s name, see LD.XV.L4.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1535,1881,1090,160"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1540.05504,1880.75467l542.7922,23.05925v0l542.7922,23.05925l-2.41424,56.82882l-2.41424,56.82882l-542.7922,-23.05925l-542.7922,-23.05925l2.41424,-56.82882z\"  id=\"rectangle_1fc8f9de-364c-4b41-a9fd-d4d2a0c00d14\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:21:35.179Z",
+    "@id": "4aa075c4-4456-44c5-8b18-6c46908bde20.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
