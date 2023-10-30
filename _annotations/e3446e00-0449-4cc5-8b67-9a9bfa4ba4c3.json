@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.R2</em></p>\n<p dir=\"ltr\"><strong>chapter I</strong></p>\n<p><span id=\"docs-internal-guid-f4ffc529-7fff-d6e1-c708-09cdea206ec4\">&nbsp;</span></p>\n<p dir=\"ltr\">There is an aborted opening to chapter 1 on the verso of the opening page, with no chapter title, adding evidence to the supposition that Dickens often began composing his chapters before he had settled on a title and returned to add it. There is little difference between the opening sentence of the aborted chapter and the final one, but one line of text is erased from the second paragraph, so Dickens may have decided on another direction and turned over the leaf.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1723,364,361,70"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1723.29138,433.78089h180.48718v0h180.48718v-35.13054v-35.13054h-180.48718h-180.48718v35.13054z\"  id=\"rectangle_6c76f606-5777-4101-b4fd-5d5aec2c0e65\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:10:49.879Z",
+    "@id": "e3446e00-0449-4cc5-8b67-9a9bfa4ba4c3.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
