@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 8
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.L7</em></p>\n<p dir=\"ltr\"><strong>Mr Merdle? Next time</strong></p>\n<p><span id=\"docs-internal-guid-11927bbb-7fff-29b3-9e48-9c4f6656fdb7\">&nbsp;</span></p>\n<p dir=\"ltr\">Given the emphasis in the previous number on &ldquo;pav[ing] the way&rdquo; for Mr. Merdle&rsquo;s downfall, it is notable that he is dismissed from this number, as if No. XII had laid down enough groundwork. There is, in fact, no mention of either Mr. Merdle or his wife in this number. This decision is consistent with the final note in No. XII to &ldquo;Work distantly up to Mr Merdle&rdquo; (LD.XII.R18); there will be the distance of an installment before the &ldquo;Epidemic&rdquo; of Merdle&rsquo;s speculations returns to the forefront.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=80,1047,606,193"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M79.93473,1046.8345h302.8648v0h302.8648v96.5711v96.5711h-302.8648h-302.8648v-96.5711z\"  id=\"rectangle_e301a2b2-1b68-43da-8788-2f0881ee8fbc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:47:09.327Z",
+    "@id": "5d53a98b-6276-45db-9fbb-2fdcf88bd73f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
