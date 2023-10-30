@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.L4</em></p>\n<p dir=\"ltr\"><strong>Blandois. Carry him on? Yes.</strong></p>\n<p><span id=\"docs-internal-guid-3b561a1e-7fff-356e-0c6d-b8a24390d6b8\">&nbsp;</span></p>\n<p dir=\"ltr\">This installment must &ldquo;carry [Blandois] on,&rdquo; as if his appearances in this number are a function of his need to appear in future numbers. That Dickens underlined his name with such emphasis perhaps indicates both the need to establish his presence and the importance of his function to develop Gowan&rsquo;s character, create sympathy between Minnie and Amy, and establish parts of Miss Wade&rsquo;s story.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=77,1028,820,139"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M76.67133,1166.53147h410.09091v0h410.09091v-69.27972v-69.27972h-410.09091h-410.09091v69.27972z\"  id=\"rectangle_c85d42f5-7885-4aed-a487-f0dee782bb89\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:25:34.411Z",
+    "@id": "0ee90dd6-b545-49fa-aaf7-58f0f5af9504.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
