@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.R14</em></p>\n<p dir=\"ltr\"><strong>Transpose this, and the preceding chapter</strong></p>\n<p><span id=\"docs-internal-guid-e983368a-7fff-69b5-ceba-d4c4b87cc183\">&nbsp;</span></p>\n<p dir=\"ltr\">See LD.XI.R8 for an explanation of this transposition.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2226,1548,411,174"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2238.1611,1547.92277l199.28345,17.60686v0l199.28345,17.60686l-6.13058,69.389l-6.13058,69.389l-199.28345,-17.60686l-199.28345,-17.60686l6.13058,-69.389z\"  id=\"rectangle_fbd5fdae-2891-4b11-bbb3-b4c498f03b38\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:17:02.542Z",
+    "@id": "99551735-ac7f-4c0c-9665-c09b42c6ec6b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
