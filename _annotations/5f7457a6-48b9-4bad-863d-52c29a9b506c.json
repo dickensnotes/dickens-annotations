@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R9</em></p>\n<p dir=\"ltr\"><strong>And yet the company does Mr Meagles good [...]</strong></p>\n<p><span id=\"docs-internal-guid-7bfb7d7b-7fff-9893-483b-141aaeed5273\">&nbsp;</span></p>\n<p dir=\"ltr\">The construction &ldquo;And yet&rdquo; suggests the intention of a shift in focus at the end of the chapter, which is accomplished by Mr. Meagles overcoming his sadness at Pet&rsquo;s departure with his &ldquo;remembrance&hellip;that really did him good&rdquo; of the &ldquo;high company&rdquo; that had attended the wedding (LD 398). The &ldquo;and yet&rdquo; also operates to draw on the left-hand note &ldquo;Mr and Mrs Meagles, and their loss&rdquo; (LD.X.L4), which belongs to this chapter even though it appears as a memorandum for the number as a whole.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1774,974,888,88"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1773.96262,1062.61896h444.13326v0h444.13326v-44.19015v-44.19015h-444.13326h-444.13326v44.19015z\"  id=\"rectangle_f5cf2a29-9c01-4d91-94fc-e410f05ad1c9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:57:33.228Z",
+    "@id": "5f7457a6-48b9-4bad-863d-52c29a9b506c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
