@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.R7</em></p>\n<p dir=\"ltr\"><strong>The Progress of an Epidemic.</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">As with all chapters in this number, there is no title in the manuscript; it is added in Dickens&rsquo;s hand in the proof, indicating Dickens&rsquo;s return to the Working Notes to enter the titles at some point after composition. The ink of this title appears slightly lighter than both the contents below and the chapter number above. Because the title is entered here over the top of the underlines for the chapter number, it is possible that he left a space for it in the Note, writing the content notes below before returning to add the title. We cannot be sure.</p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1593,1010,820,79"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1592.75524,1009.53846h410.09091v0h410.09091v39.46154v39.46154h-410.09091h-410.09091v-39.46154z\"  id=\"rectangle_aa30fddf-7102-4d18-b6b0-73a522c3e548\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T23:38:52.701Z",
+    "@id": "dd6f32b8-2dbe-4e57-9dae-b0f03752c125.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
