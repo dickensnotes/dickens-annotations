@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R15</em></p>\n<p dir=\"ltr\"><strong>And the roses, floating away.</strong></p>\n<p><span id=\"docs-internal-guid-c6014c40-7fff-c80a-f961-936fb16dadd0\">&nbsp;</span></p>\n<p dir=\"ltr\">Again, the final chapter note indicates the closing scene, in this case a return to the motif of the river with which he had closed chapters 16 and 22. In writing this scene, Dickens likely returned to his Notes for No. V (chapter 16), in which he used the language of &ldquo;Eternal seas&rdquo;&nbsp; (LD.V.R12) without implementing the language in the novel. He uses it here: &ldquo;While the flowers, pale and unreal in the moonlight, floated away upon the river; and thus do greater things that once were in our breasts, and near our hearts, flow from us to the eternal seas&rdquo; (LD 330). The manuscript suggests that Dickens may have added this final sentence as an afterthought, since he appears to add a trademark flourish signaling the end of the chapter, only to return to add this sentence after the flourish (a point also made by Sucksmith, xlvi). If this is the case, we might imagine Dickens returning to the earlier Note before emending his conclusion to this chapter.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2205,1481,422,117"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2256.19226,1594.14012l-2.69792,-56.65631l-48.56255,-13.4896v-43.16671l422.22438,9.44272v66.09902l-221.22939,-8.09376l1.34896,49.91151z\"  id=\"rough_path_11ffea29-9ab5-4060-ad54-5de46f370e9c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:19:54.246Z",
+    "@id": "659609dc-d547-4eb3-b642-71443abaf289.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
