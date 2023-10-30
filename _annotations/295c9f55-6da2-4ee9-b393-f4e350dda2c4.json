@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.L4</em></p>\n<p dir=\"ltr\"><strong>Letter from Mrs Gowan to her daughter in law? No&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-e1be9f1d-7fff-e141-790c-2bffa3f291c7\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens dismisses the idea to include a second letter in this number, likely on the grounds that two letters in one number would be excessive. Instead, Mrs. Gowan appears in person in chapter 8 in a visit to the Meagles, where she &ldquo;cuts them off&rdquo; as the note on the right indicates.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=629,604,637,202"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M630.78042,603.59161l635.13063,1.08755l0,139.20671l-301.25203,0l1.08755,61.99049l-120.71832,0l0,-65.25315h-215.33538v-133.76895h-1.08755z\"  id=\"rough_path_43ed3704-db74-44f6-82fc-49e294b28919\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:44:50.735Z",
+    "@id": "295c9f55-6da2-4ee9-b393-f4e350dda2c4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
