@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.L6</em></p>\n<p dir=\"ltr\"><strong>Clennam has already [...]</strong></p>\n<p><span id=\"docs-internal-guid-11d78ab5-7fff-a981-1055-13805c335850\">&nbsp;</span></p>\n<p dir=\"ltr\">Again, it is likely that Dickens begins a new layer with this long note; the ink seems thinner and the hand slightly smaller than the one above. The emphasized &ldquo;Observe this always&rdquo; is a direction not just for this number, but for future numbers of Book II, since it establishes the rationale for Clennam&rsquo;s continued (if altered) relationship with Little Dorrit via her correspondence. This note refers to the &ldquo;pledge&rdquo; that took place in the &ldquo;Scene with Pet&rdquo; in No. VIII, chapter 28 (LD.VIII.R14), echoing his resolution first made in chapter 26 (&ldquo;Resolves never to disparage him&rdquo; LD.VIII.R3). Dickens reminds himself of Clennam&rsquo;s resolution here, since he plans to have Clennam struggle with his dislike for Gowan in chapter 34.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=14,1418,1244,308"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M13.73427,1418.27972h621.97902v0h621.97902v154.14685v154.14685h-621.97902h-621.97902v-154.14685z\"  id=\"rectangle_814e4549-a9bb-44e7-8e5d-cc3e7fdfed7b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:43:19.148Z",
+    "@id": "65d36eab-584a-4315-bdb5-390f8ee76dd5.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
