@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.L3</em></p>\n<p dir=\"ltr\"><strong>Chivery? Slightly</strong></p>\n<p dir=\"ltr\"><span id=\"docs-internal-guid-25dc71cc-7fff-ca6f-645a-6a3c70acdf27\">&nbsp;</span></p>\n<p dir=\"ltr\">The &ldquo;slight&rdquo; appearance of Chivery in this number is a brief mention in chapter 31, when he delivers a letter from Clennam to Mr. Dorrit and writes himself a new epitaph (LD 363).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=79,246,503,99"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M78.76923,245.55245h251.6993v0h251.6993v49.25175v49.25175h-251.6993h-251.6993v-49.25175z\"  id=\"rectangle_eeab1746-7a19-47ef-88be-f381e7918910\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:24:50.484Z",
+    "@id": "01f525f0-e774-427f-a34a-259e7482568d.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
