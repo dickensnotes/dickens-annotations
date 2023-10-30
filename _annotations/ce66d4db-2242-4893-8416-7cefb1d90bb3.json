@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.L2</em></p>\n<p dir=\"ltr\"><strong>Mr Merdle Yes.</strong></p>\n<p><span id=\"docs-internal-guid-b762a24f-7fff-bbab-0732-026351332124\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens underscores Mr. Merdle&rsquo;s name here and does not even require a question mark, indicating his sense that Mr. Merdle will be at the center of this installment, featured in each chapter.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=43,151,536,96"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M42.63869,247.3007h267.89977v0h267.89977v-47.95105v-47.95105h-267.89977h-267.89977v47.95105z\"  id=\"rectangle_b58a0d92-b5a2-421c-992d-e1140b0b7d5d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T23:35:09.439Z",
+    "@id": "ce66d4db-2242-4893-8416-7cefb1d90bb3.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
