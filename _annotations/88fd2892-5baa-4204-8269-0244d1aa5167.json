@@ -4,16 +4,14 @@ order: 7
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "88fd2892-5baa-4204-8269-0244d1aa5167.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.VIII.R4</em></p>\n<p dir=\"ltr\"><strong>A Noble Refrigerator in company &ndash; British Embassy</strong></p>\n<p><span id=\"docs-internal-guid-2f3b4270-7fff-664f-16fa-5e396d9b631c\">&nbsp;</span></p>\n<p dir=\"ltr\">The &ldquo;noble Refrigerator&rdquo; is Lord Lancaster Stiltstalking, who has &ldquo;been in the British Embassy way&rdquo; as &ldquo;a representative of the Britannic Majesty abroad&rdquo; (LD 304-305).</p>"
-        }
+    "oa:annotatedAt": "2023-10-30T16:13:41.378Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 7
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1524.82517,550l-2.331,37.29604l517.48252,-11.65501h328.67133l6.99301,-34.96503l-335.66434,6.99301z\"  id=\"rough_path_ef2a42fa-d4e2-47a2-a949-70ef01d0a0a5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1524.82517,550l-2.331,37.29604l517.48252,-11.65501l325.861,-4.68389l9.80334,-30.28114l-335.66434,6.99301z\"  id=\"rough_path_ef2a42fa-d4e2-47a2-a949-70ef01d0a0a5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.62067\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 7
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-30T16:13:41.378Z",
-    "@id": "88fd2892-5baa-4204-8269-0244d1aa5167.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R4</em></p>\n<p dir=\"ltr\"><strong>A Noble Refrigerator in company &ndash; British Embassy</strong></p>\n<p><span id=\"docs-internal-guid-2f3b4270-7fff-664f-16fa-5e396d9b631c\">&nbsp;</span></p>\n<p dir=\"ltr\">The &ldquo;noble Refrigerator&rdquo; is Lord Lancaster Stiltstalking, who has &ldquo;been in the British Embassy way&rdquo; as &ldquo;a representative of the Britannic Majesty abroad&rdquo; (LD 304-305).</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-30T16:14:37.022Z"
 }
