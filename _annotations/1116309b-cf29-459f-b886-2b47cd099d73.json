@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R6</em></p>\n<p dir=\"ltr\"><strong>Mrs Gowan and Clennam</strong></p>\n<p><span id=\"docs-internal-guid-3018b34f-7fff-aedf-08f6-1968548c0793\">&nbsp;</span></p>\n<p dir=\"ltr\">This brief notation refers to the awkward scene in which Mrs. Gowan insists that Pet and Mr. Meagles are trying to ensnare Henry Gowan. As with the &ldquo;Hampton Court Palace and Mrs Gowan&rdquo; notation above, Dickens uses quick shorthand to refer to either planned or already drafted scenes.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2211,580,384,42"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2211.00212,588.25727l1.87356,33.72399l382.20524,-13.11489l-1.87356,-29.0401z\"  id=\"rough_path_17fa52bd-4a54-4746-af98-7aab33141666\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:14:58.175Z",
+    "@id": "1116309b-cf29-459f-b886-2b47cd099d73.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
