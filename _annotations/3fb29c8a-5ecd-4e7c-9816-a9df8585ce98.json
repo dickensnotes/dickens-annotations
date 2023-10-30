@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.R1</em></p>\n<p dir=\"ltr\"><strong>The Dowager Mrs Gowan is reminded that &ldquo;it never does.&rdquo;</strong></p>\n<p><span id=\"docs-internal-guid-9891c153-7fff-f7f0-6c85-f5bcc6751596\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens&rsquo;s initial version of this chapter title appears in the manuscript with a deleted word corrected to &ldquo;is reminded.&rdquo; The word is obscured, but it appears to be &ldquo;believes.&rdquo; Dickens therefore likely wrote the title in the manuscript before entering it in the Notes, though he likely began writing the chapter before inserting the title in the manuscript in what appears to be a thinner nib, squeezed in the space left available between chapter header and the first line of text. In the proof, he removed the quotation marks around &ldquo;it never does,&rdquo; but he did not return to erase them from either Note or manuscript. The chapter title in this note is in a notably lighter, thinner ink than that of the chapter notes, indicating that title and content notes are separate temporal layers.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1420,343,1280,112"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1420.26107,342.87179h639.86946v0h639.86946v55.77855v55.77855h-639.86946h-639.86946v-55.77855z\"  id=\"rectangle_5f202b56-e659-4117-b85e-b52fc09466c4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:49:11.754Z",
+    "@id": "3fb29c8a-5ecd-4e7c-9816-a9df8585ce98.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
