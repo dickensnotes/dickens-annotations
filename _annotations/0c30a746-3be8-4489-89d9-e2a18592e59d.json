@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.L2</em></p>\n<p dir=\"ltr\"><strong>Flora? Yes [...]</strong></p>\n<p><span id=\"docs-internal-guid-cfed1cdf-7fff-db3f-536c-f1e9cb164f91\">&nbsp;</span></p>\n<p dir=\"ltr\">While the first two numbers of Book II were set in Italy, this list of characters shows Dickens&rsquo;s intention to return the action to London, as these characters&ndash;like Clennam&ndash;had been excluded from the prior numbers.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=33,302,415,363"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M447.15916,665.7572h-207.26629v0h-207.26629v-181.70881v-181.70881h207.26629h207.26629v181.70881z\"  id=\"rectangle_68b91059-daa3-4955-90f5-5b7a29fc9695\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:42:24.911Z",
+    "@id": "0c30a746-3be8-4489-89d9-e2a18592e59d.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
