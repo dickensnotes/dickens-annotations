@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R14</em></p>\n<p dir=\"ltr\"><strong>Clennam on the Summer Evening [...]</strong></p>\n<p><span id=\"docs-internal-guid-cb0f523f-7fff-aec6-fa4d-ce0ae2d6f586\">&nbsp;</span></p>\n<p dir=\"ltr\">&ldquo;Very delicate&rdquo; appears to be a proactive instruction, as part of this lengthy note about an emotional state, to treat Clennam&rsquo;s feelings, and the Meagles&rsquo; recognition of those feelings, carefully in this chapter. &ldquo;The dead twin daughter&rdquo; becomes a means by which Mr Meagles can acknowledge his wish that Clennam, rather than Gowan, was the object of Pet&rsquo;s affection: &ldquo;I feel to-night, my dear fellow, as if you had loved my dead child very tenderly, and had lost her when she was like what Pet is now.&rsquo;&rdquo; (LD 330).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1344,1383,1347,158"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1353.85065,1413.76322l-10.30455,127.40175l369.09036,-5.62067l481.50366,-8.431l3.74711,-51.52277l488.99788,-1.87356l3.74711,-87.12031l-1026.7082,-3.74711l-5.62067,31.85044l-303.51593,-1.87356v0.93678z\"  id=\"rough_path_1c652e33-f319-44dd-be75-b580b898a25a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:19:07.256Z",
+    "@id": "099ec8bd-9f9f-4368-b2b3-27f019812a74.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
