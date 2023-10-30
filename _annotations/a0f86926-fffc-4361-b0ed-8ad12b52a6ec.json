@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.L2</em></p>\n<p dir=\"ltr\"><strong>Merdle?&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-ca494add-7fff-ad35-2d0e-fb737cab9b1b\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens leaves this question unanswered, but presumably wrote it here at a later stage given the blue ink. Merdle does not appear in this chapter, but the Society that will be concerned with his undoing is further established in chapter 26. His presence is left as a lingering question not to be taken up again until No. X.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=66,660,387,168"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M65.94872,659.88811h193.30769v0h193.30769v83.75058v83.75058h-193.30769h-193.30769v-83.75058z\"  id=\"rectangle_60d379a7-34e3-4c94-b6ff-3340a92ff142\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:11:43.089Z",
+    "@id": "a0f86926-fffc-4361-b0ed-8ad12b52a6ec.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
