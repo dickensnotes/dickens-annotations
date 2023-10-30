@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R3</em></p>\n<p dir=\"ltr\"><strong>Dissection of Clennam&rsquo;s feelings [...]</strong></p>\n<p><span id=\"docs-internal-guid-d046b619-7fff-aaa4-508c-36833fc2f163\"><br />This is just one example of a long chapter note characteristic of those in this number and the next describing characters&rsquo; emotional states (see, for instance, LD.VIII.R14 and LD.IX.R15). That the note contains descriptive phrases (the noun form of &ldquo;dissect&rdquo; and the descriptive &ldquo;resolves&rdquo;) rather than imperative future-oriented directions may lead us to read this as a retroactive notation, but the length of the phrase, with its sense of working through an idea, may indicate proactive planning. The novel will &ldquo;dissect&hellip; Clennam&rsquo;s feelings&rdquo; via his conversation with Doyce (LD 300). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1345,315,1331,186"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1370.97902,319.23077l-25.64103,163.17016l365.96737,18.64802l58.27506,-37.29604l906.75991,13.98601l-6.99301,-107.22611l-869.46387,4.662l-428.90443,-60.60606v2.331z\"  id=\"rough_path_9dafd07a-dcc3-4d0b-a9ba-e499fcf0e6af\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:13:13.873Z",
+    "@id": "a38cf9a5-2e3c-490e-a081-cd93514337b6.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
