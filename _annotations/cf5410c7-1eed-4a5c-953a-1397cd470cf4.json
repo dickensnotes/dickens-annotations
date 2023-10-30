@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.R7</em></p>\n<p dir=\"ltr\"><strong>Close with Pancks.</strong></p>\n<p><span id=\"docs-internal-guid-4807b478-7fff-e5d3-ef6c-02b3efe53026\">&nbsp;</span></p>\n<p dir=\"ltr\">In Pancks&rsquo;s first appearance in Book II, this chapter closes with the first indication of the extent of his distaste for his employer. This is the first and only use of an imperative mood present tense note in the notes for the first three chapters.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2122,1165,390,80"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2121.65303,1225.27033l193.65247,9.60345v0l193.65247,9.60345l1.50565,-30.36133l1.50565,-30.36133l-193.65247,-9.60345l-193.65247,-9.60345l-1.50565,30.36133z\"  id=\"rectangle_941dc36a-2809-42fc-a065-408e97bb3ee3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:52:31.614Z",
+    "@id": "cf5410c7-1eed-4a5c-953a-1397cd470cf4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
