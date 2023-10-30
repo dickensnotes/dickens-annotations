@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.L4 </em></p>\n<p dir=\"ltr\"><strong>Tip? [...]</strong></p>\n<p><span id=\"docs-internal-guid-cc7003a4-7fff-0744-921e-74ca46da53cc\">&nbsp;</span></p>\n<p dir=\"ltr\">The &ldquo;carry through&rdquo; answer here demonstrates that Dickens is already thinking ahead to Book II; the novel is &ldquo;working up&rdquo; to their new situation, drawing connections between Mr. Dorrit&rsquo;s behavior to Old Nandy and his behavior to those around him once he has higher status. The dismissal of the uncle (&ldquo;except the Uncle&rdquo;) indicates that Dickens prepares here for the fact that Federick and Amy Dorrit will be the only ones unchanged in character by their new fortune.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=49,363,1269,298"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M49.3986,363.03497h634.56643v0h634.56643v148.9021v148.9021h-634.56643h-634.56643v-148.9021z\"  id=\"rectangle_4896ca0d-d92c-46b8-924b-3940a4547ed3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:25:20.964Z",
+    "@id": "ac299690-ed32-42e0-9757-d9136e9a4578.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
