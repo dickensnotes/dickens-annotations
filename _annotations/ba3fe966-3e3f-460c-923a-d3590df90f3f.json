@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R1</em></p>\n<p dir=\"ltr\"><strong>Something wrong somewhere.</strong></p>\n<p><span id=\"docs-internal-guid-26a7254e-7fff-bb85-a051-d6eab5ba6e5b\">&nbsp;</span></p>\n<p dir=\"ltr\">The language in this chapter title is applied both to Amy via Mr. Dorrit&rsquo;s comment that &ldquo;there is something wrong in&ndash;ha&ndash;Amy&rdquo; (LD 460) and to Frederick Dorrit via Fanny&rsquo;s comment that &ldquo;it is only charitable to suppose that there must be something wrong in him somewhere&rdquo; (471). But, in his &ldquo;protest&rdquo; (LD.XII.R6), Frederick Dorrit will suggest that what is &ldquo;wrong&rdquo; lies in the other Dorrits&rsquo;s displays of &ldquo;pride,&rdquo; &ldquo;ingratitude&rdquo; and &ldquo;pretension&rdquo; (470).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1671,260,696,75"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1671.07692,260.23776h348.2028v0h348.2028v37.71329v37.71329h-348.2028h-348.2028v-37.71329z\"  id=\"rectangle_6de33b7b-604d-4e2c-a1b1-991cd0c57803\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:29:13.926Z",
+    "@id": "ba3fe966-3e3f-460c-923a-d3590df90f3f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
