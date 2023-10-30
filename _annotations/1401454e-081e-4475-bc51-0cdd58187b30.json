@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The left-hand memoranda for No. XIV are notably brief compared to the previous two numbers, perhaps indicating Dickens&rsquo;s level of confidence about the number. This is consistent with his comments to William Macready on December 13, 1856: &ldquo;Calm amidst the wrack, your aged friend glides away on the Dorrit stream, forgetting the uproar for a stretch of hours&rdquo; (Letters 8.238). Describing his walks, rehearsals for a performance of &ldquo;The Frozen Deep&rdquo; at Tavistock House, and his editorial work, he then returns to describing his work on the novel as &ldquo;calmly float[ing] upon the Dorrit waters.&rdquo; While there is little indication in his correspondence as to when Dickens was at work on this number, by December 6 he was suggesting improvements to Browne&rsquo;s sketches for the illustrations.</p>\n<p><br />The ink for this Note is fairly consistent, with the exception of two distinct layers on the left. All chapters for this number have missing titles in the manuscript and are added in Dickens&rsquo;s hand in the proofs, as had been the case for two of the chapters from the previous number (chapters 9 and 10, LD.XIII.R3 and LD.XIII.R8). We might conclude from this evidence, and from the relative brevity of the notes, that much of what we see here is retrospective summary, were it not for the use of certain imperative instructions, particularly in the chapter notes for 13 and 14, suggesting the possibility of prospective intention: &ldquo;Foreshadow&hellip;&rdquo; (LD.XIV.R12), &ldquo;Delicately trace out&hellip;&rdquo; (LD.XIV.R15).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1355,26,1268,135"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1354.99301,25.85548h633.86713v0h633.86713v67.43357v67.43357h-633.86713h-633.86713v-67.43357z\"  id=\"rectangle_ee5d1d6c-5712-4605-b153-d3353cb2ba63\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T23:33:58.824Z",
+    "@id": "1401454e-081e-4475-bc51-0cdd58187b30.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
