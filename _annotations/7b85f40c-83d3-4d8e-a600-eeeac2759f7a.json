@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.L5</em></p>\n<p dir=\"ltr\"><strong>To shew why, and how [...]</strong></p>\n<p><span id=\"docs-internal-guid-338322df-7fff-9db2-6aa1-4684ac57a395\">&nbsp;</span></p>\n<p dir=\"ltr\">While the length and elaboration of this note indicate some surety of purpose, the question marks suggest that Dickens was still uncertain about using Rigaud/Blandois in this manner. Dickens places heavy emphasis in this number on establishing Gowan&rsquo;s character, since doing so helps to deepen our sympathy for his wife Minnie (Pet) and justify Miss Wade&rsquo;s bitterness towards him in her future narrative (No. XVI). This memorandum establishes the basis for the opening chapter note for chapter 6, &ldquo;Anatomise Gowan, and see what breeds about his heart&rdquo; (LD.XII.R9).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=63,1192,1252,342"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M69.54881,1191.591l622.89779,12.7358v0l622.89779,12.7358l-3.2368,158.30957l-3.2368,158.30957l-622.89779,-12.7358l-622.89779,-12.7358l3.2368,-158.30957z\"  id=\"rectangle_465eeb12-0432-4b53-80e8-8fdf5ad016af\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:26:00.097Z",
+    "@id": "7b85f40c-83d3-4d8e-a600-eeeac2759f7a.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
