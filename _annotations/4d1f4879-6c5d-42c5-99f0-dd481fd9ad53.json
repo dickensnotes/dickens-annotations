@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 22
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.R11</em></p>\n<p dir=\"ltr\"><strong>Blandois in the old house in the city. Swagger, swagger</strong></p>\n<p><span id=\"docs-internal-guid-b96de208-7fff-55c9-d12a-5df230b59908\">&nbsp;</span></p>\n<p dir=\"ltr\">Although Dickens does not include the word &ldquo;swagger&rdquo; in this chapter, the previous chapter has described Blandois as &ldquo;a swaggering man&rdquo; (LD 514), connecting him with his previous &ldquo;swagger&rdquo; in his earlier encounter with Flintwinch (345). Emphasizing Blandois&rsquo;s presence in the house with a double underlining indicates the significance of this number continuing to prepare the way for the house&rsquo;s collapse in the final double number.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1480,1524,1121,82"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1484.38228,1523.77622l-4.662,76.92308l659.67366,-22.14452l64.10256,-10.48951l397.4359,37.29604l-1.1655,-55.94406l-358.97436,-22.14452z\"  id=\"rough_path_67dd5cc0-8ca7-49b1-b3f8-22f5855a0b98\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:54:24.774Z",
+    "@id": "4d1f4879-6c5d-42c5-99f0-dd481fd9ad53.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
