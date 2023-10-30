@@ -4,16 +4,14 @@ order: 20
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "87254479-46fc-40fd-8978-7ec8c6a23fac.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.IX.R13</em></p>\n<p dir=\"ltr\"><strong>More Fortune-Telling.</strong></p>\n<p><span id=\"docs-internal-guid-0af4caa3-7fff-f7f5-38ea-570d83a07cee\">&nbsp;</span></p>\n<p dir=\"ltr\">The contents of these chapter notes are significantly darker than those for the previous chapter (31), indicating an additional, later layer.&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-30T16:35:04.723Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -23,11 +21,11 @@ order: 20
                 "@type": "oa:Choice",
                 "default": {
                     "@type": "oa:FragmentSelector",
-                    "value": "xywh=1676,1332,573,77"
+                    "value": "xywh=1674,1331,573,77"
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1675.74895,1332.20193h286.45455v0h286.45455v38.72727v38.72727h-286.45455h-286.45455v-38.72727z\"  id=\"rectangle_907c6bae-88d8-4517-85d3-eeede15e200c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1673.93077,1331.29284h286.45455v0h286.45455v38.72727v38.72727h-286.45455h-286.45455v-38.72727z\"  id=\"rectangle_907c6bae-88d8-4517-85d3-eeede15e200c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 20
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-30T16:35:04.723Z",
-    "@id": "87254479-46fc-40fd-8978-7ec8c6a23fac.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.R13</em></p>\n<p dir=\"ltr\"><strong>More Fortune-Telling.</strong></p>\n<p><span id=\"docs-internal-guid-0af4caa3-7fff-f7f5-38ea-570d83a07cee\">&nbsp;</span></p>\n<p dir=\"ltr\">The contents of these chapter notes are significantly darker than those for the previous chapter (31), indicating an additional, later layer.&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-30T16:35:49.490Z"
 }
