@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.L4</em></p>\n<p dir=\"ltr\"><strong>Venice? Yes</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In depicting Venice as the &ldquo;crowning unreality&rdquo; of Little Dorrit&rsquo;s experience, &ldquo;where all the streets were paved with water&rdquo; in this &ldquo;strange city&rdquo; (LD 453-54), Dickens was drawing upon his own experiences of Venice, which he described in <em>Pictures from Italy</em> as a &ldquo;strange Dream upon the water&rdquo; (<em>Pictures</em> 85).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">At this point in the left-hand notes, the answers to these questions are in a different layer, consistent with the ink used for the contents of the first two chapter notes on the right. Dickens was evidently selecting items for incorporation as he planned the chapters.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=68,617,407,126"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M68.27972,616.88112h203.44755v0h203.44755v62.88811v62.88811h-203.44755h-203.44755v-62.88811z\"  id=\"rectangle_e3af2482-76bc-42d7-ab8b-9b674c68c6ef\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:07:41.075Z",
+    "@id": "4a073a87-7a86-4c2b-8e1a-0c41052a1c04.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
