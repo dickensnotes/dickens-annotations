@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.R8</em></p>\n<p dir=\"ltr\"><strong>Transpose this and the following chapter</strong></p>\n<p><span id=\"docs-internal-guid-2595de7d-7fff-0e8e-137f-ee71caa4fbbb\">&nbsp;</span></p>\n<p dir=\"ltr\">The chapters appear in the original order in both the Notes and the manuscript. It was after Dickens had written three chapters that he made the decision to transpose them so that &ldquo;On the Road,&rdquo; with its closing scene of Little Dorrit&rsquo;s displacement, leads into her letter to Clennam. He renumbered both the chapter and the page numbers in the manuscript; the page numbers have been corrected by the final page of what will become chapter 3, suggesting that he made this decision in the process of writing the closing scene of &ldquo;On the Road.&rdquo; The boxed transposition notes here and below (LD.XI.R14) are a different layer than the contents of the chapter and were added later. The ink used is similar to the content notes LD.XI.R16 and LD.XI.R18 below.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2231,977,471,191"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2231.44988,976.90443h235.44056v0h235.44056v95.40559v95.40559h-235.44056h-235.44056v-95.40559z\"  id=\"rectangle_00ad5699-48f6-459f-affb-a238c5c73478\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:13:11.702Z",
+    "@id": "36b51386-b2eb-455a-9507-0b9f7cd372f3.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
