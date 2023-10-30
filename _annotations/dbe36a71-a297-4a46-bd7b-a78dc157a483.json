@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R13</em></p>\n<p dir=\"ltr\"><strong>Mr Meagles&rsquo;s advertisement.</strong></p>\n<p><span id=\"docs-internal-guid-3360064a-7fff-594e-7f85-690c50bc92e9\">&nbsp;</span></p>\n<p dir=\"ltr\">Mr. Meagle&rsquo;s advertisement for the missing Tattycoram indicates that the subject of the &ldquo;Nobody&rdquo; in this chapter&rsquo;s title is both Tattycoram, with her literal disappearance, and Clennam, whose hopes regarding Pet have to be put to rest in this chapter.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1374,1292,528,75"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1376.47713,1291.64226l263.08675,10.53792v0l263.08675,10.53792l-1.08974,27.20608l-1.08974,27.20608l-263.08675,-10.53792l-263.08675,-10.53792l1.08974,-27.20608z\"  id=\"rectangle_40a588d7-92b5-4ca9-816c-9c61f36ffdba\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:17:53.831Z",
+    "@id": "dbe36a71-a297-4a46-bd7b-a78dc157a483.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
