@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.L1</em></p>\n<p dir=\"ltr\"><strong>Pursue the Dorrit Family and [...]</strong></p>\n<p><span id=\"docs-internal-guid-43b08670-7fff-9a0d-bcde-9df68562bdbf\">&nbsp;</span></p>\n<p dir=\"ltr\">The language of &ldquo;pursuit&rdquo; implies that this number will follow a narrative movement that is already underway rather than establishing a narrative thread. Dickens will use the same term in the right-hand notes for chapter 5 (LD.XII.R2). The line across the middle of this note implies that Dickens initially underscored &ldquo;Pursue the Dorrit Family&rdquo; before then adding the additional characters (with three &ldquo;and&rdquo; phrases) below, recognizing that Mrs. General, the Gowans, and the Merdles should all be &ldquo;pursued&rdquo; alongside the Dorrit family.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=43,94,1022,350"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M43.1049,444.85315h510.79021v0h510.79021v-175.22378v-175.22378h-510.79021h-510.79021v175.22378z\"  id=\"rectangle_cf2e80e2-3660-4ef3-bbe7-618b725c248f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:23:45.401Z",
+    "@id": "78bfae19-dd89-48ea-96c5-d9d66af4e19e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
