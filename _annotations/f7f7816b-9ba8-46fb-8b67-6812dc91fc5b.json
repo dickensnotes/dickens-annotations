@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.R6</em></p>\n<p dir=\"ltr\"><strong>Cuyp [...]</strong></p>\n<p><span id=\"docs-internal-guid-5c6e0718-7fff-bb35-0657-bf0c6a8d6eb8\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens boxes this amusing reference to Tite Barnacle and Mr. Merdle and their likeness to two cows in a painting by Aelbert Cuyp (1620-1691), a Dutch landscape painter who often included animals in the foreground of his works: &ldquo;This eminent gentleman and Mr Merdle, seated diverse ways and with ruminating aspects on a yellow ottoman in the light of the fire, holding no verbal communication with each other, bore a strong general resemblance to the two cows in the Cuyp picture over against them&rdquo; (LD 544). Subsequently, Lord Decimus &ldquo;composed himself into the picture after Cuyp, and made a third cow in the group.&rdquo;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2382,676,314,205"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2396.33854,676.48258l149.77556,12.09107v0l149.77556,12.09107l-7.30483,90.48701l-7.30483,90.48701l-149.77556,-12.09107l-149.77556,-12.09107l7.30483,-90.48701z\"  id=\"rectangle_7a4e1de1-d62d-42ef-b136-9d5b598e9198\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T23:38:32.044Z",
+    "@id": "f7f7816b-9ba8-46fb-8b67-6812dc91fc5b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
