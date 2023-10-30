@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.R5</em></p>\n<p dir=\"ltr\"><strong>Parliamentary chorus</strong></p>\n<p><span id=\"docs-internal-guid-cd169841-7fff-75df-4303-f8e65d9c0528\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens first mentions &ldquo;the Chorus of Parliamentary Barnacles who went about the provinces when the House was up, warbling the praises of their Chief&rdquo; early in the chapter (LD 540), but the &ldquo;Barnacle Chorus&rdquo; is referenced throughout as a way of imagining the collective identity and anonymity of this group of followers (543). Dickens&rsquo;s letters during this period demonstrate his continued frustration at the ineffectiveness of government. In January 1857, he complained to Edward Bulwer Lytton: &ldquo;it appears to me that the House of Commons and Parliament altogether, is just the dreariest failure and nuisance that ever bothered this much bothered world&rdquo; (Letters 8.269-70).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1858,760,459,47"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1858.48951,806.74126h229.43823v0h229.43823v-23.47552v-23.47552h-229.43823h-229.43823v23.47552z\"  id=\"rectangle_2f27a148-51b4-4663-8eb1-e0746e7c9415\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T23:38:10.376Z",
+    "@id": "35256e76-627f-48d8-8f87-06c8ad116ddd.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
