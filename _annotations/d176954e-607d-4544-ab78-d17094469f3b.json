@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R8</em></p>\n<p dir=\"ltr\"><strong>Something right somewhere.</strong></p>\n<p><span id=\"docs-internal-guid-650b0f86-7fff-5e28-a86e-0d375854c921\">&nbsp;</span></p>\n<p dir=\"ltr\">The manuscript for this chapter lacks a title; it was likely added in an earlier corrected proof than the one that survives (where it appears in print). Given that the title in the Notes is added over the markings beneath the chapter number, Dickens may have returned to the Note to add the title after composing the chapter notes below, though it is impossible to know this for sure. Given the frequency of imperative instructions in the chapter notes below, these were likely prospective notes written before Dickens had composed the chapter or settled on a title. That Dickens returned to add the title to the Notes at proof stage (but not to the manuscript) indicates the importance of the Working Notes as records of work completed.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1745,806,577,82"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1744.5035,805.69231h288.41259v0h288.41259v40.86014v40.86014h-288.41259h-288.41259v-40.86014z\"  id=\"rectangle_3b430a50-84e7-40b8-8e28-0c76f0bd6101\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:33:12.647Z",
+    "@id": "d176954e-607d-4544-ab78-d17094469f3b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
