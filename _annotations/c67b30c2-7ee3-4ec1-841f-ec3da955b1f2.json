@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.L5</em></p>\n<p dir=\"ltr\"><strong>The Plornishes? [...]</strong></p>\n<p><span id=\"docs-internal-guid-ecd47271-7fff-4c35-12ee-998135437ba6\">&nbsp;</span></p>\n<p dir=\"ltr\">All three characters will appear &ldquo;next time&rdquo; in chapter 13 of No. XIV, the notes for which refer to them collectively as &ldquo;The Bleeding Heart Yard people&rdquo; (LD.XIV.L1).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=31,720,867,268"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M30.65268,720.16317h580.41958l37.29604,97.9021h249.41725v123.54312l-242.42424,0l0,46.62005l-624.70862,0z\"  id=\"rough_path_0eaf9b1e-08e0-47f2-b5aa-10a13015625c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:46:18.316Z",
+    "@id": "c67b30c2-7ee3-4ec1-841f-ec3da955b1f2.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
