@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.R9</em></p>\n<p dir=\"ltr\"><strong>Open with old Pauper out for the day &ndash; Picture</strong></p>\n<p><span id=\"docs-internal-guid-dcc44470-7fff-968d-5765-3af41bd58f3b\">&nbsp;</span></p>\n<p dir=\"ltr\">We see a rare instance here of Dickens mentioning explicitly how he will open a chapter later in the chapter notes. Clearly, then, Dickens uses these chapter notes proactively to plan the chapter, only deciding on his opening after identifying its other significant elements. He underscores this line twice as if to indicate the importance of having identified an opening strategy. Yet again, he refers in the Notes to a &ldquo;Picture&rdquo; (see LD.VII.R2) indicating the extended descriptive work that this opening, with its lack of dialogue, will do.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1384,1113,737,94"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1384.14918,1129.60464l736.59674,-16.31702l-1.1655,62.93706l-723.77622,31.46853z\"  id=\"rough_path_19a197b9-1fad-4976-a709-c32a2866e016\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:32:24.559Z",
+    "@id": "e8b8c0e8-eb50-49ae-a81a-06295df46720.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
