@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.L6</em></p>\n<p dir=\"ltr\"><strong>&ldquo;They settled that the weather&ndash;&rdquo;</strong></p>\n<p><span id=\"docs-internal-guid-9ea30ed7-7fff-03ae-83fb-abceab0e9f9e\">&nbsp;</span></p>\n<p dir=\"ltr\">While this exact phrase does not appear in the number, it is likely a reference to the Meagles&rsquo;s decision to travel to Italy to visit Pet: &ldquo;let us see&ndash;how&rsquo;s the weather for travelling now?&rdquo; asks Mr. Meagles. &ldquo;They agreed that the weather was of high promise&rdquo; (511). The placement of this note on the page does not, however, associate it with the Meagles, who are not mentioned until the bottom of the page. The unusual placement of this note may relate to the temporal layering here, since the answers to the questions appear to be in a darker ink, perhaps suggesting that Dickens wrote this quotation (which is in a thinner ink fairly consistent with the list of questions) before he accepted and rejected his suggestions for the number. Even so, the quotation appears unanchored by any associated character.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=733,946,489,122"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M732.61538,1067.81352h244.58974v0h244.58974v-60.77156v-60.77156h-244.58974h-244.58974v60.77156z\"  id=\"rectangle_392466ae-d879-485c-a6f0-1301e6dbb0ea\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:46:54.399Z",
+    "@id": "feb89ce0-83cd-4d9e-8ccf-2d94067037be.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
