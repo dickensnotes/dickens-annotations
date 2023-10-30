@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R7</em></p>\n<p dir=\"ltr\"><strong>The Ride home.</strong></p>\n<p><span id=\"docs-internal-guid-41a2b346-7fff-f91e-a1ef-e0d22c271337\">&nbsp;</span></p>\n<p dir=\"ltr\">As is his practice, Dickens uses this final note to refer to the closing scene of the chapter: the ride home along a &ldquo;dark road&rdquo; in which Gowan observes that Clennam is &ldquo;evidently out of spirits&rdquo; (LD 310). Clennam imagines the road as a metaphor for life: &ldquo;Where are we driving, he and I, I wonder, on the darker road of life?&rdquo;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2271,609,292,46"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2272.82943,654.76848l-1.87356,-35.59755l292.2746,-10.30455l-2.81033,40.28143z\"  id=\"rough_path_5e752fd8-a7fb-4609-809f-e6a247d16ae3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:15:16.858Z",
+    "@id": "09e18740-b037-4ede-90bc-26e1cbe10ae0.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
