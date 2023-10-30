@@ -4,16 +4,14 @@ order: 17
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "e1199d56-4077-49bc-a244-dbd16423653f.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">LD.XIII.R6</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Flora on Italy [...]</span></p>\n<p><span id=\"docs-internal-guid-ca236f56-7fff-07ef-7fad-cae0c1957228\"><br /><span style=\"font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">The phrase appears word for word: &ldquo;Drat him, if he an&rsquo;t come back again!&rdquo; (LD 517), although this phrase, following the note about &ldquo;Flora on Italy,&rdquo; appears in the novel </span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">before </span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Flora&rsquo;s humorous remarks about Italy (518). Mr F&rsquo;s Aunt and her dislike of Clennam will be the subject of one of the two illustrations in this number. Dickens&rsquo;s concern here was for Browne to take care with his depiction of Clennam: &ldquo;Please keep Clennam, always, as agreeable and well-looking as possible&rdquo; (Letters 8.219). </span></span></p>"
-        }
+    "oa:annotatedAt": "2023-10-30T17:52:04.902Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 17
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1545.95163,1155.86102l556.27329,8.677v0l556.27329,8.677l0.34739,-22.2708l0.34739,-22.2708l-556.27329,-8.677l-556.27329,-8.677l-0.34739,22.2708z\"  id=\"rectangle_ecbfe5f8-1037-4189-aad2-4c8a52216efb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1545.95163,1155.86102l556.27329,8.677v0l556.27329,8.677l0.34739,-22.2708l0.34739,-22.2708l-556.27329,-8.677l-556.27329,-8.677l-0.34739,22.2708z\"  id=\"rectangle_ecbfe5f8-1037-4189-aad2-4c8a52216efb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.98601\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 17
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-30T17:52:04.902Z",
-    "@id": "e1199d56-4077-49bc-a244-dbd16423653f.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">LD.XIII.R6</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Flora on Italy [...]</span></strong></p>\n<p><span id=\"docs-internal-guid-ca236f56-7fff-07ef-7fad-cae0c1957228\"><br /><span style=\"font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">The phrase appears word for word: &ldquo;Drat him, if he an&rsquo;t come back again!&rdquo; (LD 517), although this phrase, following the note about &ldquo;Flora on Italy,&rdquo; appears in the novel </span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">before </span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Flora&rsquo;s humorous remarks about Italy (518). Mr F&rsquo;s Aunt and her dislike of Clennam will be the subject of one of the two illustrations in this number. Dickens&rsquo;s concern here was for Browne to take care with his depiction of Clennam: &ldquo;Please keep Clennam, always, as agreeable and well-looking as possible&rdquo; (Letters 8.219). </span></span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-30T19:18:58.230Z"
 }
