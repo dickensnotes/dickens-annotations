@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R8</em></p>\n<p dir=\"ltr\"><strong>Five and Twenty</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Although the manuscript and Notes have &ldquo;Five and Twenty&rdquo; as the title for chapter 27, the proofs mistakenly title this chapter &ldquo;A Puzzle,&rdquo; perhaps out of some confusion with chapter 22. It is corrected in Dickens&rsquo;s hand.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The chapter notes for this chapter appear to be in a similar ink to those for the previous chapter.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The chapter begins with Clennam&rsquo;s &ldquo;uneasiness&rdquo; about Pancks&rsquo;s intentions, his sense that Little Dorrit is avoiding him, and his feeling that a &ldquo;shadow of a supposed act of injustice&rdquo; still hangs over him (LD 311). Clennam&rsquo;s uneasiness does not feature in the Notes; Dickens focuses instead on the Tattycoram storyline, which may be an indication of proactive planning.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1694,716,500,72"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1693.77446,715.53257h250.18283v0h250.18283v36.12916v36.12916h-250.18283h-250.18283v-36.12916z\"  id=\"rectangle_473a1221-ca8e-4eca-8042-774bfa9f1fdc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:15:36.595Z",
+    "@id": "ab4acd4c-1a72-4015-9121-e58befd6ca1c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
