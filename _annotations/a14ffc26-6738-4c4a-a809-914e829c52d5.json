@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R7</em></p>\n<p dir=\"ltr\"><strong>A &ldquo;disappointed man,&rdquo; Gowan.</strong></p>\n<p><span id=\"docs-internal-guid-edd1bddc-7fff-cee1-ec6a-32f18031e89a\">&nbsp;</span></p>\n<p dir=\"ltr\">Erased from the edited title, this phrase appears in the content notes instead. The quotation marks might reference the original title or refer to Gowan&rsquo;s own naming of himself this way: &ldquo;I am a disappointed man&rdquo; (LD 392), as well as to the contrast between Gowan&rsquo;s disappointment and that of Clennam and Mr. Meagles.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1641,834,673,59"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1640.99192,833.87462h336.3198v0h336.3198v29.52721v29.52721h-336.3198h-336.3198v-29.52721z\"  id=\"rectangle_3c53e8cf-d50f-41e8-bd98-3d95beca9ea4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:56:33.144Z",
+    "@id": "a14ffc26-6738-4c4a-a809-914e829c52d5.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
