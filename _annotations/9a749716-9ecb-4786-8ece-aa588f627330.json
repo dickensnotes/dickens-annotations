@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.L5</em></p>\n<p dir=\"ltr\"><strong>Foreign picture and foreign atmosphere? [...]</strong></p>\n<p><span id=\"docs-internal-guid-de8b3107-7fff-3e2d-6d4d-a35ba8585a51\">&nbsp;</span></p>\n<p dir=\"ltr\">Instead of one description &ndash; a &ldquo;picture&rdquo; &ndash; of the foreign atmosphere experienced by the Dorrits in this number, Dickens decides to incorporate this foreignness &ldquo;generally&rdquo; (a rather ironic choice of term given the introduction of Mrs. General in this number). The number begins with an extended &ldquo;picture&rdquo; of the Pass of the Great Saint Bernard (LD 419-422) and offers another extended picture of the &ldquo;unreality&rdquo; (453) of the locations focalized through Little Dorrit at the end of chapter 3 (451-454).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=51,839,1254,103"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M51.4965,839.25874h627.22378v0h627.22378v51.34965v51.34965h-627.22378h-627.22378v-51.34965z\"  id=\"rectangle_88f3d32c-5c13-4c83-a957-ee2820825568\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:07:54.297Z",
+    "@id": "9a749716-9ecb-4786-8ece-aa588f627330.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
