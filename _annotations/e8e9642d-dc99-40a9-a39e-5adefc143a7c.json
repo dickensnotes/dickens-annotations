@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.VIII.R17</em></p>\n<p dir=\"ltr\"><strong>The old house in the City &ndash; Carry through [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The repeated use of &ldquo;carry through&rdquo; in these notes indicates how Dickens positions this chapter as a continuation, a step on the road to completion, of both the Mrs. Clennam mystery and the Mr. Dorrit fortune plot.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This Note is the only mention of Little Dorrit in the Notes for this number. Indeed, Little Dorrit is notably absent from the first three chapters of this number; she appears only in this chapter in a brief conversation with Mrs. Clennam (LD 335-336) and in a passing reference to Pancks continuing his &ldquo;fortune-telling&rdquo; (337).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN08.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1383,1708,1128,203"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1389.95385,1708.08349l560.16122,27.13919v0l560.16122,27.13919l-3.60795,74.46912l-3.60795,74.46912l-560.16122,-27.13919l-560.16122,-27.13919l3.60795,-74.46912z\"  id=\"rectangle_c874bd1d-50f0-42e4-9222-08e761d6a0a6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:21:00.459Z",
+    "@id": "e8e9642d-dc99-40a9-a39e-5adefc143a7c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
