@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.L8</em></p>\n<p dir=\"ltr\"><strong>Mrs Clennam? [...]</strong></p>\n<p><span id=\"docs-internal-guid-453bc6a1-7fff-5e9a-2c0f-7adb2c97a0b2\">&nbsp;</span></p>\n<p dir=\"ltr\">While Blandois appears in this number as part of the Clennam plot (chapter 10), as indicated by the grouping of names here, he first enters this number in connection with Miss Wade and Tattycoram in chapter 9.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=50,1268,1121,333"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M49.6317,1268.27972h560.44056v0h560.44056v166.50117v166.50117h-560.44056h-560.44056v-166.50117z\"  id=\"rectangle_2d842e3c-05b0-4d32-a3d0-6d28fea7984e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:47:22.434Z",
+    "@id": "eeb20a79-8562-4e23-9100-f45215c4628c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
