@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.R10</em></p>\n<p dir=\"ltr\"><strong>Clennam going to his mother&rsquo;s is run against by Blandois</strong></p>\n<p><span id=\"docs-internal-guid-7bdf2d25-7fff-d810-32fb-1ecbc7a07c3b\">&nbsp;</span></p>\n<p dir=\"ltr\">As with many of the chapter notes for No. XIII, Dickens describes the content of the chapter in the present tense as if it already exists, likely indicating his retrospective summary of work already completed. Contrast this language with the preparatory imperatives used throughout No. XII and in the notes for chapter 11 below.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1475,1462,1161,74"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1475.05193,1509.24658l580.09258,13.68926v0l580.09258,13.68926l0.55382,-23.46834l0.55382,-23.46834l-580.09258,-13.68926l-580.09258,-13.68926l-0.55382,23.46834z\"  id=\"rectangle_5076df84-9485-4c39-8491-5dc50b2816e5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:53:40.085Z",
+    "@id": "3655e368-4be1-4ed3-9670-289c8e367498.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
