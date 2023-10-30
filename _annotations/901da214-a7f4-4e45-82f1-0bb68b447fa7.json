@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.L9</em></p>\n<p dir=\"ltr\"><strong>Miss Wade and Tattycoram? Yes. Carry on.</strong></p>\n<p><span id=\"docs-internal-guid-691baadd-7fff-9e28-d9f9-3f4b27ccaa40\">&nbsp;</span></p>\n<p dir=\"ltr\">While we only see a glimpse of Miss Wade and Tattycoram in this number via Clennam, the decision to &ldquo;carry on&rdquo; their presence is consistent with the way their overseen encounter with Blandois in chapter 9 lays the foundation for No. XVI, when that encounter will be explained.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=56,1706,1214,219"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M56.29371,1706.17716h1214.45221v219.11422l-426.57343,0l0,-107.22611h-787.87879z\"  id=\"rough_path_ded0844e-367e-48d1-8dec-e97f095eb5a8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:48:35.648Z",
+    "@id": "901da214-a7f4-4e45-82f1-0bb68b447fa7.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
