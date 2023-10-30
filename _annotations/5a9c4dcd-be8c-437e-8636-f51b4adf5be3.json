@@ -4,16 +4,14 @@ order: 15
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "5a9c4dcd-be8c-437e-8636-f51b4adf5be3.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.XIII.R4</em></p>\n<p dir=\"ltr\"><strong>Tattycoram and Miss Wade, in union with [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">There is no mention in the notes for this chapter of the material with which it opens: the Meagles&rsquo; decision to visit Pet in Italy; Clennam&rsquo;s attempts to speak well of Gowan; or Mr. Tickit&rsquo;s description of having seen Tattycoram (LD 510-513). Instead, Dickens begins the chapter notes with the nighttime encounter between Tattycoram, Miss Wade, and Blandois, overseen by Clennam. Dickens may have been using the compressed space to summarize what he understood to be the main event of the chapter.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">These two notes appear to be in a continuous layer with the chapter title, suggesting a single temporal layer. If this is the case, these notes are likely added retroactively, since Dickens did not add the title for this chapter until the proof stage.</p>"
-        }
+    "oa:annotatedAt": "2023-10-30T17:50:25.598Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -23,11 +21,11 @@ order: 15
                 "@type": "oa:Choice",
                 "default": {
                     "@type": "oa:FragmentSelector",
-                    "value": "xywh=1402,951,1116,121"
+                    "value": "xywh=1397,944,1116,121"
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1401.61305,951.2634h558.10956v0h558.10956v60.44056v60.44056h-558.10956h-558.10956v-60.44056z\"  id=\"rectangle_c4d60c1d-71b3-4910-ad0b-c3d75782c314\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1396.95105,944.27039h558.10956v0h558.10956v60.44056v60.44056h-558.10956h-558.10956v-60.44056z\"  id=\"rectangle_c4d60c1d-71b3-4910-ad0b-c3d75782c314\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.98601\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 15
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-30T17:50:25.598Z",
-    "@id": "5a9c4dcd-be8c-437e-8636-f51b4adf5be3.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.R4</em></p>\n<p dir=\"ltr\"><strong>Tattycoram and Miss Wade, in union with [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">There is no mention in the notes for this chapter of the material with which it opens: the Meagles&rsquo; decision to visit Pet in Italy; Clennam&rsquo;s attempts to speak well of Gowan; or Mr. Tickit&rsquo;s description of having seen Tattycoram (LD 510-513). Instead, Dickens begins the chapter notes with the nighttime encounter between Tattycoram, Miss Wade, and Blandois, overseen by Clennam. Dickens may have been using the compressed space to summarize what he understood to be the main event of the chapter.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">These two notes appear to be in a continuous layer with the chapter title, suggesting a single temporal layer. If this is the case, these notes are likely added retroactively, since Dickens did not add the title for this chapter until the proof stage.</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-30T17:50:45.183Z"
 }
