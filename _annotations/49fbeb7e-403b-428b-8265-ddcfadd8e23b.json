@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R6</em></p>\n<p dir=\"ltr\"><strong>[A disappointed Man xx] A Shoal of Barnacles</strong></p>\n<p><span id=\"docs-internal-guid-c61800be-7fff-72d6-0e6b-e302be97b78f\"><br />Both this note and the manuscript have a curious parallel correction to the title. Dickens appears to have first settled on &ldquo;A Shoal of Barnacles&rdquo; in both locations given its center justification, but he returned to both to add a prefix phrase. In the manuscript, this reads &ldquo;A Disappointed Man and,&rdquo; which is then canceled. A similar erasure appears here. Stone renders it as merely &ldquo;A disappointed Man,&rdquo; but at least the beginning of another word, likely &ldquo;and,&rdquo; appears to be erased here too. The fact that Dickens made these additions and deletions to both manuscript and Note suggests his contemporaneous use of both documents as he worked on this chapter. Although he will incorporate the &ldquo;disappointed man&rdquo; in his description of Gowan, he decides to focus the chapter&rsquo;s title, and the chapter itself, on the Barnacle element.</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN10.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1363,684,958,93"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1362.72653,683.73143h478.95583v0h478.95583v46.54344v46.54344h-478.95583h-478.95583v-46.54344z\"  id=\"rectangle_345b35de-0b79-4b51-94e8-cc84df1327b4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:56:17.084Z",
+    "@id": "49fbeb7e-403b-428b-8265-ddcfadd8e23b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
