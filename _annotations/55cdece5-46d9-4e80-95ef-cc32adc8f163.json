@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 26
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.R19</em></p>\n<p dir=\"ltr\"><strong>&ldquo;There Sir; that&rsquo;s what you&rsquo;ll have to break to her!&rdquo; [...]</strong></p>\n<p><span id=\"docs-internal-guid-50da7c9d-7fff-aa99-b6b3-aa565b795ed5\">&nbsp;</span></p>\n<p dir=\"ltr\">Pancks presents information to Clennam with the near-identical phrase written in the note: &ldquo;There sir! That&rsquo;s what you&rsquo;ll have to break to her! That man&rsquo;s your Father of the Marshalsea!&rdquo; (LD 379). Stone renders the deleted word in this last phrase of the Note unreadable, but it is likely &ldquo;man&rsquo;s.&rdquo; Dickens makes a parallel change to the very last line of the manuscript. In the note, Dickens crosses out &ldquo;man&rsquo;s&rdquo; and turns &ldquo;that&rdquo; into a contraction to create the phrase: &ldquo;That&rsquo;s your Father of the Marshalsea.&rdquo; In the manuscript, he erases &ldquo;That&rsquo;s your Father of the Marshalsea&rdquo; and replaces it with &ldquo;That man&rsquo;s [xxx] your Father of the Marshalsea!&rdquo; While there&rsquo;s no way of knowing for certain which was written and which corrected first, the pattern of erasures suggests that Dickens first wrote the note, settling on one version of the phrase and writing it in the manuscript in the same way, only to change his mind and return to his initial idea as erased in the note.&nbsp;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1589,1728,1075,141"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1643.56364,1843.26545l-54.98182,-115.2l1074.76364,32.72727l0,108.65455l-1021.09091,-30.10909z\"  id=\"rough_path_9c4eb61e-6e72-4082-b45a-9bf5f7770b11\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:39:33.342Z",
+    "@id": "55cdece5-46d9-4e80-95ef-cc32adc8f163.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
