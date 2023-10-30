@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.R18</em></p>\n<p dir=\"ltr\"><strong>Always think of your poor child Little D.</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This note was likely added as a final temporal layer along with that describing the contents of the previous chapter (LD.XI.R16) as a retrospective summary. The language is a succinct summary of the letter&rsquo;s closing:&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">&ldquo;That you will think of me (when you think of me at all), and of my true affection and devoted gratitude, always, without change, as of&nbsp;</p>\n<p dir=\"ltr\">Your poor child</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Little Dorrit.&rdquo; (LD 457)&nbsp;</p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2263,1871,422,217"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2263.12241,1927.27242l199.59482,-28.15275v0l199.59482,-28.15275l11.33093,80.33303l11.33093,80.33303l-199.59482,28.15275l-199.59482,28.15275l-11.33093,-80.33303z\"  id=\"rectangle_e00fcd7b-e9c0-4c26-93e4-83506c4d6eef\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:18:46.824Z",
+    "@id": "8a36ad37-c315-4bb3-ae9c-0b271bb2f6f5.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
