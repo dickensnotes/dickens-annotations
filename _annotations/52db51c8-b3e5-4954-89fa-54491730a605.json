@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The Working Notes for No. XII are unique in their use of imperative phrases indicating forward movement and continuity (pursue, pave the way, bring, work, work up, lead on, carry on). Such instructions suggest the use of this note as preparatory work, to some extent, although it is evident that Dickens returned to the page to add chapter titles, at least, after composition (see LD.XII.R8 and LD.XII.R14), and his final notes for chapters 5 and 6, with their direct correspondence to the closing lines of each chapter, may indicate retroactive addition.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This Note&rsquo;s emphasis on foreshadowing future action, continuing certain narrative threads, and postponing specific events, is unsurprising given this installment&rsquo;s emphasis on preparing for the Merdle downfall and its effects on Society, on the Dorrits, and on Clennam. This number is concerned with laying that groundwork, as well as in furthering the pride and false gentility of Mr. Dorrit, Fanny, and Tip, and establishing a rapport between Little Dorrit and Pet in opposition to Gowan and Rigaud/Blandois. The use of conjunctions and directions that connect one direction to another (e.g. &ldquo;To shew why&hellip;&rdquo; &ldquo;And work&hellip;&rdquo;) demonstrates the author&rsquo;s concern with crafting careful transitions between the many narrative elements he weaves together in this number. While many of these notes focus on continuity of plot, other emphasized notes keep character development in mind, such as those focused on Frederick Dorrit (LD.XII.L3; LD.XII.R6) and Gowan in relation to Rigaud (LD.XII.L5; LD.XII.R9).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">It is difficult to discern temporal layers on this page, which is written in fairly consistent blue ink, though the left-hand notes do appear to have subtle differences. For instance, &ldquo;The Uncle&hellip;&rdquo; note (LD.XII.L3) looks to be a different layer from that above, and the final note on the page, despite opening with a conjunction &ldquo;And work&hellip;&rdquo; (LD.XII.L7), is not the same ink as the one above. Layers on the right are harder to discern. Dickens likely wrote the final chapter of the number (7) after he had submitted the first two to the printer, since a new set of proofs begins at this stage. As was sometimes the case when Dickens wrote one chapter separately from the rest, he overwrote this number and had to make cuts in a second proof.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens may have written this number in stages out of a concern for timing. At the end of September he expressed concern about his progress in a letter of September 26 to Burdett-Coutts: &ldquo;I am falling behind-hand with that reserve of Little Dorrit which has kept me easy during its progress, and to lose which would be a serious thing. All the week I have been hard at it with a view to tomorrow; but I have not been in a quick vein (which is not to be commanded), and have made but tardy way&rdquo; (Letters 8.192). Since the number was scheduled to be released at the very end of October (as the November issue), Dickens was pressed for time and may have relied heavily on his Working Notes to establish the number&rsquo;s purpose and scope.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1392,21,1288,117"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1392.05594,21.07692h644.00699v0h644.00699v58.69231v58.69231h-644.00699h-644.00699v-58.69231z\"  id=\"rectangle_05565ff4-e5a3-4155-9c75-6e72c814e60b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:21:08.142Z",
+    "@id": "52db51c8-b3e5-4954-89fa-54491730a605.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
