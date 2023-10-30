@@ -4,16 +4,14 @@ order: 4
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "fb2800ad-28f6-4e5a-81ca-a512e6df054a.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.XI.L3</em></p>\n<p dir=\"ltr\"><strong>The Great St Bernard? Yes</strong></p>\n<p><span id=\"docs-internal-guid-16263fff-7fff-0c5d-b02e-9d50d868d5f5\"><br />Here Dickens finally returns to an idea he had toyed with in a very early reference to the novel in a 1854 letter to Forster: &ldquo;I have visions of living for half a year or so, in all sorts of inaccessible places, and opening a new book therein. A floating idea of going up above the snow-line in Switzerland, and living in some astonishing convent, hovers about me&rdquo; (Forster 2.196-7). On January 20, 1856, Dickens would again write to Forster as he was at work on No. V: &ldquo;Again I am beset by my former notions of a book whereof the whole story shall be on the top of the Great St. Bernard. As I accept and reject ideas for Little Dorrit, it perpetually comes back to me. Two or three years hence, perhaps you&rsquo;ll find me living with the Monks and the Dogs a whole winter&ndash;among the blinding snows that fall about that monastery. I have a serious idea that I shall do it, if I live&rdquo; (2.197). He told Mrs. Watson on October 7, 1856 that the source for the Great St. Bernard episode was a visit to the Hospice twenty years earlier (Letters 8.201; see note 3). Sucksmith offers a helpful list of the many references to his own experience from Pictures of Italy that Dickens likely drew upon for the Italy portions of Book II (xxxii, fn4). </span></p>"
-        }
+    "oa:annotatedAt": "2023-10-30T17:06:41.154Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 4
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M139.60839,472.12587h399.6014v0h399.6014v64.98601v64.98601h-399.6014h-399.6014v-64.98601z\"  id=\"rectangle_ec50e0b7-b8b7-4a44-ac16-81916dd93270\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M139.60839,472.12587h399.6014v0h399.6014v64.98601v64.98601h-399.6014h-399.6014v-64.98601z\"  id=\"rectangle_ec50e0b7-b8b7-4a44-ac16-81916dd93270\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"12.58741\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 4
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-30T17:06:41.154Z",
-    "@id": "fb2800ad-28f6-4e5a-81ca-a512e6df054a.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.L3</em></p>\n<p dir=\"ltr\"><strong>The Great St Bernard? Yes</strong></p>\n<p><span id=\"docs-internal-guid-16263fff-7fff-0c5d-b02e-9d50d868d5f5\"><br />Here Dickens finally returns to an idea he had toyed with in a very early reference to the novel in a 1854 letter to Forster: &ldquo;I have visions of living for half a year or so, in all sorts of inaccessible places, and opening a new book therein. A floating idea of going up above the snow-line in Switzerland, and living in some astonishing convent, hovers about me&rdquo; (Forster 2.196-7). On January 20, 1856, Dickens would again write to Forster as he was at work on No. V: &ldquo;Again I am beset by my former notions of a book whereof the whole story shall be on the top of the Great St. Bernard. As I accept and reject ideas for <em>Little Dorrit</em>, it perpetually comes back to me. Two or three years hence, perhaps you&rsquo;ll find me living with the Monks and the Dogs a whole winter&ndash;among the blinding snows that fall about that monastery. I have a serious idea that I shall do it, if I live&rdquo; (2.197). He told Lavinia Watson on October 7, 1856 that the source for the Great St. Bernard episode was a visit to the Hospice twenty years earlier (Letters 8.201; see note 3). Sucksmith offers a helpful list of the many references to his own experience from Pictures of Italy that Dickens likely drew upon for the Italy portions of Book II (xxxii, fn4). </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-30T17:07:04.811Z"
 }
