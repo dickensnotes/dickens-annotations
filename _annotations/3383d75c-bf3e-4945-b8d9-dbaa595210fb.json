@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.R6</em></p>\n<p dir=\"ltr\"><strong>Travellers&rsquo; Book [...]</strong></p>\n<p><span id=\"docs-internal-guid-ca90a400-7fff-fb51-32ed-b432c708d892\">&nbsp;</span></p>\n<p dir=\"ltr\">With the chapter title and this note, Dickens returns to the idea he first proposed in the notes to No. 1: &ldquo;People to met and part as travellers do, and the future connexion between them in the story, not to be now shewn to the reader but to be worked out as in life. Try this uncertainty and this not-putting of them together, as a new means of interest. Indicate and carry through this intension.&rdquo; Dickens &ldquo;indicated&rdquo; this intention in Book I, chapter 2, using the language of travellers &ldquo;coming and going so strangely, to meet and to act and react on one another&rdquo; (LD 26), and &ldquo;carried it through&rdquo; in chapter 15, with a reference to the &ldquo;vast multitude of travellers&hellip; coming and going so strangely, to meet and to act and react one one another&rdquo; (173). It is in this chapter that the novel makes that traveling literal. This chapter parallels chapter 2 of the first book in its intentional delayed revelation of characters&rsquo; identities, as indicated in this note, as if making into a narrative strategy the idea that the connection between travelers will not be &ldquo;shewn to the reader.&rdquo; While the characters in this chapter are recognizable based on their traits, their names are not revealed until they are read from the &ldquo;Travellers&rsquo; Book&rdquo; at the chapter&rsquo;s close by Blandois.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1497,804,1126,63"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1497.18415,804.41026h562.77156v0h562.77156v31.30303v31.30303h-562.77156h-562.77156v-31.30303z\"  id=\"rectangle_5acb904b-9b8a-4c90-8d56-ec4e6cc8f47a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:12:27.894Z",
+    "@id": "3383d75c-bf3e-4945-b8d9-dbaa595210fb.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
