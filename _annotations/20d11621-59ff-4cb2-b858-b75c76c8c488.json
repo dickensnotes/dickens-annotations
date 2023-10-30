@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.R9</em></p>\n<p dir=\"ltr\"><strong>Mrs Plornish&rsquo;s Cottage &ndash; Happy Cottage</strong></p>\n<p><span id=\"docs-internal-guid-5f3b9726-7fff-2110-f9aa-05f1b9022e82\">&nbsp;</span></p>\n<p dir=\"ltr\">The quick reformulation of &ldquo;Cottage&rdquo; as &ldquo;Happy Cottage&rdquo; may show Dickens in the process of settling upon, or reminding himself of, the name inscribed on the door of the small shop run by the Plornishes (LD 556).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1572,1194,809,56"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1571.77622,1193.68765h404.2634v0h404.2634v27.80653v27.80653h-404.2634h-404.2634v-27.80653z\"  id=\"rectangle_15d4826f-8907-4129-ba3e-22c32424cc78\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T23:39:59.633Z",
+    "@id": "20d11621-59ff-4cb2-b858-b75c76c8c488.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
