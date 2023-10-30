@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 25
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.R14</em></p>\n<p dir=\"ltr\"><strong>Little Dorrit&rsquo;s dreams&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-124f927b-7fff-9500-4c44-3bc3293b010d\">&nbsp;</span></p>\n<p dir=\"ltr\">Little Dorrit&rsquo;s dreams feature her as a child, wearing her old &ldquo;threadbare&rdquo; clothing, in the Dorrits&rsquo;s current social circles, and therefore imagining &ldquo;how I should displease and disgrace&rdquo; her family (LD 538).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1529,1927,459,94"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1531.77924,1927.39071l228.10946,8.63201v0l228.10946,8.63201l-1.44814,38.26865l-1.44814,38.26865l-228.10946,-8.63201l-228.10946,-8.63201l1.44814,-38.26865z\"  id=\"rectangle_bb9f5f78-4cd0-437c-a694-3edd085940a9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:55:17.787Z",
+    "@id": "9f465892-491a-44ba-96f8-8ce7d455c90c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
