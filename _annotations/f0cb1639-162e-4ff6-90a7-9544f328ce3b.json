@@ -4,16 +4,14 @@ order: 26
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "f0cb1639-162e-4ff6-90a7-9544f328ce3b.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.X.R19</em></p>\n<p dir=\"ltr\"><strong>End of The First Book</strong></p>\n<p><span id=\"docs-internal-guid-c5ae02f8-7fff-c4c1-701c-e138eb95ba58\">&nbsp;</span></p>\n<p dir=\"ltr\">The ink color indicates that this was evidently written earlier, as Dickens sketched out the numbers and planned the division of the novel into two books. The note is in black and matches that of the number header.&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-30T17:02:58.110Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -23,11 +21,11 @@ order: 26
                 "@type": "oa:Choice",
                 "default": {
                     "@type": "oa:FragmentSelector",
-                    "value": "xywh=1576,1998,629,60"
+                    "value": "xywh=1571,2000,629,60"
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1576.10909,2057.41818h314.52727v0h314.52727v-29.76364v-29.76364h-314.52727h-314.52727v29.76364z\"  id=\"rectangle_8d418cc6-657f-4edd-958b-118a9ad8687a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1570.65454,2059.23636h314.52727v0h314.52727v-29.76364v-29.76364h-314.52727h-314.52727v29.76364z\"  id=\"rectangle_8d418cc6-657f-4edd-958b-118a9ad8687a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 26
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-30T17:02:58.110Z",
-    "@id": "f0cb1639-162e-4ff6-90a7-9544f328ce3b.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.X.R19</em></p>\n<p dir=\"ltr\"><strong>End of The First Book</strong></p>\n<p><span id=\"docs-internal-guid-c5ae02f8-7fff-c4c1-701c-e138eb95ba58\">&nbsp;</span></p>\n<p dir=\"ltr\">The ink color indicates that this was evidently written earlier, as Dickens sketched out the numbers and planned the division of the novel into two books. The note is in black and matches that of the number header.&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-30T17:03:33.991Z"
 }
