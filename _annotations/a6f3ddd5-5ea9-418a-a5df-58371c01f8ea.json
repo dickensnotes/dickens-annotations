@@ -13,6 +13,7 @@ order: 10
     "oa:annotatedBy": [
         "annamgibson"
     ],
+    "oa:serializedAt": "2023-10-30T16:55:47.862Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -21,11 +22,11 @@ order: 10
                 "@type": "oa:Choice",
                 "default": {
                     "@type": "oa:FragmentSelector",
-                    "value": "xywh=1614,558,331,51"
+                    "value": "xywh=1614,556,331,54"
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1614.25202,565.1164l322.30739,-7.00669l9.00859,33.0315l-326.31121,18.01718z\"  id=\"rough_path_2dfbfe19-dbd4-4766-a650-d7310e8cd8ab\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6.00573\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1614.25202,565.1164l329.31407,-9.0086l2.00191,35.03341l-326.31121,19.01813z\"  id=\"rough_path_2dfbfe19-dbd4-4766-a650-d7310e8cd8ab\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6.00573\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -40,6 +41,5 @@ order: 10
             "chars": "<p dir=\"ltr\"><em>LD.X.R3</em></p>\n<p dir=\"ltr\"><strong>Edmund Sparkler.&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-8b4b1367-7fff-7528-482c-7d3e05cf3d1c\">&nbsp;</span></p>\n<p dir=\"ltr\">Sparkler is brought into the conversation to attest to his stepfather&rsquo;s attitude: &ldquo;Fellers referring to my Governer&hellip; Say he carries the Shop about, on his back rather&rdquo; (LD 389).</p>",
             "format": "text/html"
         }
-    ],
-    "oa:serializedAt": "2023-10-30T16:55:31.725Z"
+    ]
 }
