@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.R16</em></p>\n<p dir=\"ltr\"><strong>Her character [...]&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Mrs. General is the last major character to be introduced in the novel. In including her, Dickens drew again on his book of <em>Memoranda</em>: &ldquo;The woman who is never on any account to hear of anything shocking. For whom the world is to be of barley-sugar&rdquo; (11). The mention of &ldquo;varnishing properties&rdquo; recalls the name Dickens considered briefly for the character: Mrs. Varnisher (see LD.XI.L6). The term &ldquo;varnish&rdquo; appears seven times in the final two paragraphs of the chapter.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The ink for this chapter note is not the same as that used for the chapter title. It is slightly patchy and thicker, similar in appearance to the final note for chapter IV (&ldquo;Always think&hellip;&rdquo; LD.XI.R18), and perhaps to the boxed &ldquo;transpose&rdquo; notes on the right (LD.XI.R8 and LD.XI.R14). It was likely written later as a retrospective summary of the chapter&rsquo;s contents.&nbsp;</p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1379,1707,978,68"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1378.75628,1707.19986h489.05361v0h489.05361v34.18441v34.18441h-489.05361h-489.05361v-34.18441z\"  id=\"rectangle_a59022b2-8d6c-4406-b017-cb36505dd09a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:17:47.697Z",
+    "@id": "6c5c1a18-a156-4e0d-93ee-45471d262ff4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
