@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.R12</em></p>\n<p dir=\"ltr\"><strong>Meeting with Mrs Merdle and Mr Sparkler. &ldquo;No Row.&rdquo;</strong></p>\n<p><span id=\"docs-internal-guid-08fc1a39-7fff-7483-3f06-45ea13c9d887\">&nbsp;</span></p>\n<p dir=\"ltr\">The quotation, &ldquo;no Row,&rdquo; refers to Sparkler&rsquo;s phrase, repeated three times, as he speaks to the Dorrits on behalf of his mother, Mrs Merdle, about their occupation of the Dorrits&rsquo; rooms at Martigny: &ldquo;Lady so very much wishes no Row&rdquo; (LD 449).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN11.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1616,1417,1011,38"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1616.18182,1455.43926h505.54545v0h505.54545v-19v-19h-505.54545h-505.54545v19z\"  id=\"rectangle_eeabfabb-b30b-4c8e-9535-99635e7095e0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:14:55.712Z",
+    "@id": "948aa9cf-9a91-49d7-ad63-99267b79a1fa.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
