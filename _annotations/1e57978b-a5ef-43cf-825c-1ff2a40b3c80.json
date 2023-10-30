@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 19
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.R12</em></p>\n<p dir=\"ltr\"><strong>&ldquo;My old Pensioner&rdquo; [...]</strong></p>\n<p><span id=\"docs-internal-guid-0f55fda5-7fff-6782-f70c-bf8625fbcf57\">&nbsp;</span></p>\n<p dir=\"ltr\">These phrases are manifested in the novel in Mr. Dorrit&rsquo;s words about Old Nandy to Clennam: &ldquo;I am always glad to see my old pensioner&hellip; The poor old fellow is a dismal wreck. Spirit broken and gone&ndash;pulverised&ndash;crushed out of him, sir, completely!&rdquo; (LD 368). There is, however, no mention of &ldquo;falling,&rdquo; which may suggest that these notes are proactive, and that Dickens decided against using this phrase.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2155,1139,516,127"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2154.54545,1139.2596l384.54545,1.81818l-0.90909,40l132.72727,8.18182l-0.90909,67.27273l-298.18182,10l-159.09091,-10.90909z\"  id=\"rough_path_cff0478c-6796-4bc9-b1bf-1efbc8ad6941\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:34:31.901Z",
+    "@id": "1e57978b-a5ef-43cf-825c-1ff2a40b3c80.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
