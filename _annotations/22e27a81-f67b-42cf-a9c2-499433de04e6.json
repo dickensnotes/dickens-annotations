@@ -4,16 +4,14 @@ order: 14
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "22e27a81-f67b-42cf-a9c2-499433de04e6.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.XI.R5</em></p>\n<p dir=\"ltr\"><strong>Convent Parlor &ndash; hint of Mrs General</strong></p>\n<p><span id=\"docs-internal-guid-488b648d-7fff-ba81-aeae-41f09148c835\">&nbsp;</span></p>\n<p dir=\"ltr\">Although Dickens decides upon just a &ldquo;hint of Mrs General,&rdquo; she is the only character named until the very end of the chapter. It is in the process of writing this chapter that Dickens settles on her name (see LD.XI.L6).</p>"
-        }
+    "oa:annotatedAt": "2023-10-30T17:11:45.328Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 14
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1459.88811,620.26107h356.47786v0h356.47786v34.79953v34.79953h-356.47786h-356.47786v-34.79953z\"  id=\"rectangle_d5bf62bc-6ae7-4488-9e47-9967eb15e4bc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1459.88811,620.26107h356.47786v0h356.47786v34.79953v34.79953h-356.47786h-356.47786v-34.79953z\"  id=\"rectangle_d5bf62bc-6ae7-4488-9e47-9967eb15e4bc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.98601\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 14
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-30T17:11:45.328Z",
-    "@id": "22e27a81-f67b-42cf-a9c2-499433de04e6.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.XI.R5</em></p>\n<p dir=\"ltr\"><strong>Convent Parlor &ndash; hint of Mrs General</strong></p>\n<p><span id=\"docs-internal-guid-488b648d-7fff-ba81-aeae-41f09148c835\">&nbsp;</span></p>\n<p dir=\"ltr\">Although Dickens decides upon just a &ldquo;hint of Mrs General,&rdquo; she is the only character named until the very end of the chapter. It is in the process of writing this chapter that Dickens settles on her name (see LD.XI.L6).</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-30T17:12:02.825Z"
 }
