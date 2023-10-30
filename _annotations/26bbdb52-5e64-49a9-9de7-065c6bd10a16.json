@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.L10</em></p>\n<p dir=\"ltr\"><strong>Meagleses?&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-f8c265fe-7fff-b72e-a6e8-a352de97a79b\">&nbsp;</span></p>\n<p dir=\"ltr\">While the line to the right of this question might seem to link the &ldquo;Meagleses&rdquo; with &ldquo;Miss Wade and Tattycoram,&rdquo; they are not explicitly associated in the narrative beyond their housekeeper Mrs. Tickit&rsquo;s mention to Clennam (after the Meagles have departed for the Continent) that she has seen Tattycoram. Instead, the Meagles appear with Clennam and Mrs. Gowan in the opening chapter. A quotation noted above does appear to relate to the Meagles, despite its spatial separation from this question (see LD.XIII.L6).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=210,1858,338,107"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M210.47086,1858.02331h168.83217v0h168.83217v53.44755v53.44755h-168.83217h-168.83217v-53.44755z\"  id=\"rectangle_bcf6d16e-2ea3-455c-bb48-b731af450fc5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:48:50.548Z",
+    "@id": "26bbdb52-5e64-49a9-9de7-065c6bd10a16.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
