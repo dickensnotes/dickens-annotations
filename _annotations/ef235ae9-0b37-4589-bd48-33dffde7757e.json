@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.L2</em></p>\n<p dir=\"ltr\"><strong>Pave the way &ndash; with the first stone [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The emphasis to Dickens&rsquo;s answer here foregrounds the main thrust of this number. The right-hand notes for each chapter contain a similar reference to the preparatory foreshadowing of Merdle&rsquo;s downfall. While Dickens does not reserve the language of &ldquo;pave the way&rdquo; for Merdle (the same phrase appears in numbers V and VII for other purposes, see LD.V.L6 and LD.VII.R4), he evidently uses this instruction to emphasize the importance of preparatory narrative work; the same phrase appears on the right in the chapter notes for both chapters 5 and 6: &ldquo;Pave the Merdle way&rdquo; (LD.XII.R4) and &ldquo;Pave on the Merdle way&rdquo; (LD.XII.R12). Chapter 7 must &ldquo;Work distantly up to Mr Merdle&rdquo; (LD.XII.R18). The &ldquo;distant&rdquo; treatment here is significant, since Mr. Merdle does not appear in the number. Despite his absence, as Herring argues, &ldquo;virtually the entire plot movement of the novel&rdquo; at this point is tied up in &ldquo;the diagnosis of Mr. Merdle&rsquo;s complaint&rdquo; in No. XVII, since his downfall will precipitate that of Mr. Dorrit and of Clennam (Herring 45).&nbsp;</p>\n<p><br />Dickens had already started this preparatory work, using the same language in No. X: &ldquo;Pave the way for a change in Mr Merdle&rsquo;s manner&rdquo; (LD.X.R4). Indeed, preparation for Merdle&rsquo;s fate has been ongoing since No. VI, when Dickens specifies his fate in the Notes: &ldquo;Fraud &amp; Forgery bye and bye&rdquo; (LD.VI.R17).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN12.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=31,510,1292,279"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M30.51748,509.88811h646.1049v0h646.1049v139.46154v139.46154h-646.1049h-646.1049v-139.46154z\"  id=\"rectangle_6edd3042-31a1-4088-802b-1a286dfab872\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:24:23.372Z",
+    "@id": "ef235ae9-0b37-4589-bd48-33dffde7757e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
