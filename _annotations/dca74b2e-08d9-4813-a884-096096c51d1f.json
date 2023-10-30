@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json"
+order: 24
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIII.R13</em></p>\n<p dir=\"ltr\"><strong>Pursue former letter</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The language of pursuit here describes how this letter will follow on from the former letter from Little Dorrit. Just as her first letter ended No. XI, this letter ends No. XIII. As Herring notes, these two letters tie together the London and the Italy plots: &ldquo;The first [letter] occurred exactly midway in the six chapters set on the Continent, and the second constitutes the fourth of six chapters laid in London&rdquo; (Herring 47).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The ink used for the contents of these notes is not the same as the chapter title, suggesting a different temporal layer. These notes, with their future-oriented imperatives (Pursue, Shew) reminiscent of those that appeared throughout the Note for No. XII, appear to be prospective instructions.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN13.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1505,1778,493,87"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1507.2357,1778.18653l244.97587,9.81713v0l244.97587,9.81713l-1.34676,33.60706l-1.34676,33.60706l-244.97587,-9.81713l-244.97587,-9.81713l1.34676,-33.60706z\"  id=\"rectangle_9d912c66-4b9e-44d5-ac44-83c30738529e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T17:55:01.808Z",
+    "@id": "dca74b2e-08d9-4813-a884-096096c51d1f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
