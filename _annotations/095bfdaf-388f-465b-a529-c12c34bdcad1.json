@@ -4,16 +4,14 @@ order: 15
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "095bfdaf-388f-465b-a529-c12c34bdcad1.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.XII.R7</em></p>\n<p dir=\"ltr\"><strong>Effect on [Fanny] [...]&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-5f41fccd-7fff-dd9b-b75c-ebadfcaa09ca\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens ends this chapter&rsquo;s summary with a phrase that is repeated in the chapter&rsquo;s final sentence, suggesting retrospective notation: &ldquo;Miss Fanny awakened much affectionate uneasiness in her sister&rsquo;s mind that day, by passing the greater part of it in violent fits of embracing her, and in alternately giving her brooches, and wishing herself dead&rdquo; (LD 471).&nbsp;&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-30T17:32:46.878Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 15
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1973.07692,677.62238l650.34965,-18.88112l-65.03497,119.58042l-402.7972,4.1958l-50.34965,-58.74126l-132.16783,-2.0979z\"  id=\"rough_path_b3bad702-be1d-4421-be58-87d1653ec609\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1973.07692,677.62238l650.34965,-18.88112l-25.17483,119.58042l-442.65734,4.1958l-50.34965,-58.74126l-132.16783,-2.0979z\"  id=\"rough_path_b3bad702-be1d-4421-be58-87d1653ec609\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"12.58741\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 15
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-30T17:32:46.878Z",
-    "@id": "095bfdaf-388f-465b-a529-c12c34bdcad1.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.XII.R7</em></p>\n<p dir=\"ltr\"><strong>Effect on [Fanny] [...]&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-5f41fccd-7fff-dd9b-b75c-ebadfcaa09ca\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens ends this chapter&rsquo;s summary with a phrase that is repeated in the chapter&rsquo;s final sentence, suggesting retrospective notation: &ldquo;Miss Fanny awakened much affectionate uneasiness in her sister&rsquo;s mind that day, by passing the greater part of it in violent fits of embracing her, and in alternately giving her brooches, and wishing herself dead&rdquo; (LD 471).&nbsp;&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-30T17:32:55.238Z"
 }
