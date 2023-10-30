@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.R10</em></p>\n<p dir=\"ltr\"><strong>Groves of old men in Marylebone Workhouse</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens repeats the language of &ldquo;groves&rdquo; (previously used in No. VI, chapter 22 to refer to Young John in the linen, LD.VI.R23) to refer to the old men in the workhouse. Old Nandy is &ldquo;in a grove of little old men&rdquo; (LD 357). Dickens may have been recalling his earlier visit to a workhouse detailed in his <em>Household Words</em> article &ldquo;A Walk in the Workhouse&rdquo; from 1850, in which he had used the same language: &ldquo;Groves of babies in arms; groves of mothers and other sick women in bed; groves of lunatics; jungles of men in stone-paved down-stairs day-rooms, waiting for their dinners; longer and longer groves of old people&rdquo; (206).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Stone renders the non-textual marking after this note as a closing parenthesis, but it may be another form of non-textual marking.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2267,1012,407,114"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2266.70683,1036.16462l201.07015,-11.86437v0l201.07015,-11.86437l2.66953,45.24164l2.66953,45.24164l-201.07015,11.86437l-201.07015,11.86437l-2.66953,-45.24164z\"  id=\"rectangle_957edc18-c432-4754-a5c9-b19dae3f29a2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:33:22.475Z",
+    "@id": "b3af3078-1b94-49fa-82b8-e9cbae97a380.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
