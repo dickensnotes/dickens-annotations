@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.L5</em></p>\n<p dir=\"ltr\"><strong>Little Dorrit. Yes &ndash; With Clennam</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Little Dorrit featured relatively little in No. VIII; Dickens decides to bring her back in this number &ldquo;with Clennam,&rdquo; who will declare his intention to never marry. Dickens feels no need for a question mark for this memorandum, and his response is underscored. This number prepares for Amy&rsquo;s rise in fortunes by dashing any hopes she (or the reader) might have of a union with Clennam.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=61,697,881,130"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M61.28671,697.18415h440.39394v0h440.39394v65.10256v65.10256h-440.39394h-440.39394v-65.10256z\"  id=\"rectangle_184c9fdf-828e-4a8a-81e9-28c38493b4ca\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:25:49.932Z",
+    "@id": "f5b51037-ca09-4b10-b7f5-5f798c448dcd.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
