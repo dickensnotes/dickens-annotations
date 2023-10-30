@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.L3</em></p>\n<p dir=\"ltr\"><strong>Begin Clennam&rsquo;s course downward? Yes</strong></p>\n<p><span id=\"docs-internal-guid-c8ccc0f3-7fff-fca5-6245-cd74b3f8320d\">&nbsp;</span></p>\n<p dir=\"ltr\">While this number does not feature Clennam&rsquo;s loss, it establishes the grounds for it via Pancks&rsquo;s encouragement of the Merdle investments and the metaphor of infection and disease to describe such speculations, as indicated in the chapter note LD.XIV.R13.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=61,308,1098,149"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M61.28671,307.90676h548.78555v0h548.78555v74.42657v74.42657h-548.78555h-548.78555v-74.42657z\"  id=\"rectangle_67885dfb-7e30-48b1-a99f-56fd417e4d3a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T23:35:23.150Z",
+    "@id": "1908d93a-2769-4138-b340-19248a6c936f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
