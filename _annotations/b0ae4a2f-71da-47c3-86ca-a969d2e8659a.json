@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.IX.L2</em></p>\n<p dir=\"ltr\"><strong>The Merdles? No &ndash; Next time</strong></p>\n<p><span id=\"docs-internal-guid-85211d61-7fff-5dd9-1fb0-4a6f3057e658\">&nbsp;</span></p>\n<p dir=\"ltr\">For the second time, Dickens defers a chapter focused on the Merdles (see LD.VIII.L2). He will postpone this until the final number of the Book (chapter 33, &ldquo;Mrs Merdle&rsquo;s Complaint&rdquo;), but even then he will only hint at Mr. Merdle&rsquo;s fate, leaving that suspended until Book II.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN09.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=64,141,640,82"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M64.08392,222.47552h319.88112v0h319.88112v-40.95804v-40.95804h-319.88112h-319.88112v40.95804z\"  id=\"rectangle_08b72c0b-58e9-4738-bd4d-4e1b12a850ee\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-30T16:24:22.997Z",
+    "@id": "b0ae4a2f-71da-47c3-86ca-a969d2e8659a.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
