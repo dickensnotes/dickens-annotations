@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 25
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.R17</em></p>\n<p dir=\"ltr\"><strong>Cavalletto off in Search. Throw the interest back [...]</strong></p>\n<p><span id=\"docs-internal-guid-b1d1449c-7fff-35f3-a431-de50e4afe71a\">&nbsp;</span></p>\n<p dir=\"ltr\">It is partly through the use of the song &ldquo;Campagnon de la Majolaine,&rdquo; and partly by the renewed association between Cavalletto and Rigaud, that Dickens &ldquo;throw[s] the interest back to the first chapter&rdquo; and &ldquo;run[s] the two ends of the book together.&rdquo; Here we see a strong indication of Dickens&rsquo;s planning for the end of the novel and Rigaud&rsquo;s return to the Clennam house.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1437,1982,1193,112"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1436.57809,1981.56643h596.5711v0h596.5711v55.77855v55.77855h-596.5711h-596.5711v-55.77855z\"  id=\"rectangle_f68d7e61-5d67-4f8e-bb9c-d0d8da44cdba\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:28:13.238Z",
+    "@id": "5c672d2b-2a16-40a8-b44f-874765ea83d3.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
