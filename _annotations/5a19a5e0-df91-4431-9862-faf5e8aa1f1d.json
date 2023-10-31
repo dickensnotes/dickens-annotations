@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 19
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.R14</em></p>\n<p dir=\"ltr\"><strong>Taking Advice.</strong></p>\n<p><span id=\"docs-internal-guid-8e5248b1-7fff-9d4b-4c23-bf103d4f9631\">&nbsp;</span></p>\n<p dir=\"ltr\">Again, there is no title for this chapter in the manuscript; it is added in Dickens&rsquo;s hand in the proof, indicating Dickens&rsquo;s later return to the Working Notes to enter the titles for this number&rsquo;s chapters.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1707,1595,433,71"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1707.16084,1594.5035h216.66434v0h216.66434v35.40559v35.40559h-216.66434h-216.66434v-35.40559z\"  id=\"rectangle_b043ec96-9510-4b5d-82c9-3ee41ce2ddf0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:09:56.290Z",
+    "@id": "5a19a5e0-df91-4431-9862-faf5e8aa1f1d.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
