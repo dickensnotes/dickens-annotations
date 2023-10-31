@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.R10</em></p>\n<p dir=\"ltr\"><strong>Missing.</strong></p>\n<p><span id=\"docs-internal-guid-6007812d-7fff-0023-382f-5936ed052f9e\">&nbsp;</span></p>\n<p dir=\"ltr\">The position of the chapter title for this and the previous chapter on the left of the page rather than in the center is unusual, and might indicate an initial uncertainty as to the titling of the chapter, especially if Dickens made these notes before entering his subdivision of chapter 16 in the manuscript. Dickens draws from the answer to his question on the left (LD.XV.L4) to become the chapter&rsquo;s title.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1407,1329,267,90"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1412.16762,1328.83786l131.0944,9.72403v0l131.0944,9.72403l-2.62266,35.35741l-2.62266,35.35741l-131.0944,-9.72403l-131.0944,-9.72403l2.62266,-35.35741z\"  id=\"rectangle_5c24061d-7f86-4090-b67e-f92fca8284a9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:21:25.048Z",
+    "@id": "eaadcf1c-6ae0-4e07-9888-a9a6f0e88ce6.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
