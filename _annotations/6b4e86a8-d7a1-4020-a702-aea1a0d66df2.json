@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.R9</em></p>\n<p dir=\"ltr\"><strong>Done</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Sucksmith and Herring both read &ldquo;Done&rdquo; as a reference to Dickens&rsquo;s decision to divide what was initially one long chapter into two, separating Dickens&rsquo;s visit with Mr. Merdle into chapter 16 and making the chapter focused on Flora&rsquo;s visit to Mr. Dorrit and Mr. Dorrit&rsquo;s subsequent call on Mrs. Clennam a separate chapter 17. Dickens made this change after he began writing the final chapter of the number, which he initially headed &ldquo;chapter XVII&rdquo; in the manuscript.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The presence of this word, &ldquo;Done,&rdquo; in the notes is interesting. Since the right side of this Working Note is laid out with four chapters, it was clearly composed after Dickens had written the chapters, perhaps during or after his composition of chapter 18. However, the word &ldquo;Done&rdquo; indicates completion of a task, which might suggest that Dickens used the writing of these chapter notes to help him sketch out the shape of the number as he made the decision about where to make the chapter break, &ldquo;done&rdquo; thereby indicating his insertion of the break in the manuscript. Dickens inserted the break after the fact between two paragraphs, and he appears to have mistakenly written &ldquo;chapter XVI&nbsp; Missing&rdquo; instead of chapter XVII, perhaps due to some confusion about numbering (although there is an unlikely possibility that he considered reversing the chapters.)</p>\n<p><br />While &ldquo;done&rdquo; almost certainly refers to this practical decision, given its ambiguous spatial relationship to chapters 16 and 17 we might posit an alternative reading that links it instead to the preceding note about the coming together of Mr. Merdle and Mr. Dorrit as a realization of the initial memorandum on the left (LD.XV.L1).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1470,1248,185,68"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1481.81818,1315.90909l-11.81818,-66.36364l134.54545,-1.81818l50,29.09091l0.90909,20.90909z\"  id=\"rough_path_6fe83839-a41a-4f1b-b43d-c8bcc6f97fd9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:21:01.494Z",
+    "@id": "6b4e86a8-d7a1-4020-a702-aea1a0d66df2.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
