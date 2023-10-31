@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.R6</em></p>\n<p dir=\"ltr\"><strong>Open at the chief Butler&rsquo;s</strong></p>\n<p><span id=\"docs-internal-guid-52cd3135-7fff-a28e-d3dd-20c965744f25\">&nbsp;</span></p>\n<p dir=\"ltr\">Although we might read &ldquo;Open&rdquo; as an imperative verb, this note is likely descriptive rather than proactive, since all the right-hand notes were likely retroactive (see LD.XV headnote annotation). The chapter indeed opens with &ldquo;the newly-married pair&rdquo; being &ldquo;received by the Chief Butler&rdquo; (LD 592). The possessive Dickens employs in this note indicates this unnamed character&rsquo;s condescending presence and the influence he holds over both Mr. Merdle (he described in chapter 12 as &ldquo;the Avenging Spirit of this great man&rsquo;s life&rdquo; [540]) and Mr. Dorrit, who feels himself under the butler&rsquo;s scrutiny at the end of this chapter and in the opening paragraphs of both of the following chapters (LD 598 &amp; 608). The Chief Butler&rsquo;s power over those he ostensibly serves is such that Dickens imagines him in this note as the proprietor of the house itself.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1399,944,559,65"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1399.28205,944.2704h279.55478v0h279.55478v32.46853v32.46853h-279.55478h-279.55478v-32.46853z\"  id=\"rectangle_4c722555-fb3e-4789-9946-20f40151309a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:18:42.669Z",
+    "@id": "d0cbad17-9efd-4ef3-9071-9b9fba372166.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
