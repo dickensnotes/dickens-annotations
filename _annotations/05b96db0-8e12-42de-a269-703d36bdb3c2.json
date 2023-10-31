@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 24
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.R16</em></p>\n<p dir=\"ltr\"><strong>&ldquo;Compagnon de la Majolaine&rdquo;</strong></p>\n<p><span id=\"docs-internal-guid-dc48af92-7fff-f38c-a5c1-499ca2101cbc\">&nbsp;</span></p>\n<p dir=\"ltr\">This chapter returns us to the use of the song in the novel&rsquo;s very opening chapter, included in the Notes (see LD.I.R7), thus helping this chapter to &ldquo;throw the interest back to the first chapter&rdquo; as he indicates below. Dickens uses the song as a strategy to spark Cavalletto&rsquo;s recognition; Arthur finds himself &ldquo;unconscious of having repeated it audibly&rdquo; after hearing Rigaud singing it in Book II, chapter 10 (No. XIII); Cavalletto picks up the song, leading to the recognition of Blandois&rsquo;s identity.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1821,1900,715,72"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1821.19347,1899.98135h357.64336v0h357.64336v35.96503v35.96503h-357.64336h-357.64336v-35.96503z\"  id=\"rectangle_fbf74d68-afbd-4719-ad86-b62a8c06f5dc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:27:54.536Z",
+    "@id": "05b96db0-8e12-42de-a269-703d36bdb3c2.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
