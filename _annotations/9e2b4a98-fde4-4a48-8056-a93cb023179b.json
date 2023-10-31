@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.L3</em></p>\n<p dir=\"ltr\"><strong>His mother and the Flintwinches? No</strong></p>\n<p><span id=\"docs-internal-guid-c401ff4a-7fff-a498-1ee7-255966cdd0d9\">&nbsp;</span></p>\n<p dir=\"ltr\">Rejecting their inclusion in this number, Dickens will postpone the appearance of Mrs. Clennam and Flintwinches until the opening of No. XVII, answering &ldquo;Yes&rdquo; to their inclusion in the left-hand notes for that number (LD.XVII.L3).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=304,235,736,63"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M303.71096,298.58275h368.13287v0h368.13287v-31.63403v-31.63403h-368.13287h-368.13287v31.63403z\"  id=\"rectangle_57b6ce3c-fa3a-44db-be12-e011d5342e6d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:02:28.011Z",
+    "@id": "9e2b4a98-fde4-4a48-8056-a93cb023179b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
