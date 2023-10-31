@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R1</em></p>\n<p dir=\"ltr\"><strong>Mistress Affery makes a [...]</strong></p>\n<p><span id=\"docs-internal-guid-97f68d36-7fff-71c8-0cd2-7292de0912c8\">&nbsp;</span></p>\n<p dir=\"ltr\">In the manuscript, this chapter title and those for at least the first three chapters of this number appear to have been inserted after composition. As with all four chapter titles in this Note, the ink used is thinner and lighter than that used for the content notes. There is also an evident difference between the ink used for the chapter number and the title. While it is possible that Dickens left a gap here for the title between the chapter number and content notes, this seems unlikely given the title&rsquo;s length. Notably, though, the title seems to have been added in the manuscript after composition of the opening lines, perhaps suggesting that Dickens began writing the manuscript first, then returned to add the title there and in the Note (both of which appear to have been written with similar thin nibs), before he returned to write the chapter notes we see below. If this is the case, &ldquo;pave the way&rdquo; below could be a descriptive summary of the narrative strategy rather than a proscriptive intention, though the language does imply preparatory instruction.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1371,313,1205,128"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1371.31002,312.56876h602.3986v0h602.3986v63.93706v63.93706h-602.3986h-602.3986v-63.93706z\"  id=\"rectangle_889ac523-56a1-4b54-bfdc-00f731d26133\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:53:25.821Z",
+    "@id": "6dd96cce-db5d-4258-9a2e-3777a3a55117.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
