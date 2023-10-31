@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.R7</em></p>\n<p dir=\"ltr\"><strong>Mr Dorrit and Mr Merdle come together</strong></p>\n<p><span id=\"docs-internal-guid-44cfbc63-7fff-d915-b632-d3381cd66217\">&nbsp;</span></p>\n<p dir=\"ltr\">With this double-underlined note, Dickens&rsquo;s intention to &ldquo;pave the way&hellip; to Mr Merdle&rsquo;s ruining everybody&rdquo; in No. XII (LD.XII.L2) is realized. The two characters &ldquo;come together,&rdquo; joining important strands of the narrative.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1509,1033,923,84"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1508.83916,1032.84848h461.37296v0h461.37296v41.79254v41.79254h-461.37296h-461.37296v-41.79254z\"  id=\"rectangle_04c8ab50-4b36-4aa4-97ff-e0b8fdbcba44\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:18:58.955Z",
+    "@id": "a81dfffe-6b51-4b91-b39a-67fb534264d6.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
