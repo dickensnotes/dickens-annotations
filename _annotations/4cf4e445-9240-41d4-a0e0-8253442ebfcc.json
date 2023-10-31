@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.L2</em></p>\n<p dir=\"ltr\"><strong>Fanny and spouse? Yes [...]</strong></p>\n<p><span id=\"docs-internal-guid-fca0deb0-7fff-05ee-c179-6412f7d252bd\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens connects these two questions together with his standard non-textual markings separating elements. Edmund is rendered as merely &ldquo;spouse&rdquo; here, indicating his purely functional role; indeed, the pair are used in chapter 24 to facilitate the number&rsquo;s central event: Merdle&rsquo;s suicide. Dickens&rsquo;s use of the term &ldquo;demolition&rdquo; in this note links Merdle&rsquo;s death, and the subsequent ruin of his many investors, to that other demolition that concludes the novel: the collapse of Clennam&rsquo;s house.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=124,259,1149,200"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M124.22378,258.95571h574.42657v0h574.42657v100.0676v100.0676h-574.42657h-574.42657v-100.0676z\"  id=\"rectangle_5b3de4f3-bf65-4fb6-9115-444305644af3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:51:53.143Z",
+    "@id": "4cf4e445-9240-41d4-a0e0-8253442ebfcc.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
