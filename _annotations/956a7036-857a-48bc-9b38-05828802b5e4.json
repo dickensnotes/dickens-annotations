@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The Notes for No. XV are unusual in their clear evidence of retroactive use of the right-hand page. After writing up to at least the opening of the number&rsquo;s final chapter, and quite possibly the number in its entirety, Dickens reassessed his initial plan for three chapters, deciding to subdivide his middle chapter into two. He inserted the chapter division with a small interlinear chapter number and title in the manuscript between two paragraphs. Dickens&rsquo;s decision was likely determined by multiple factors, most notably the sheer length and complexity of this middle chapter as originally composed (which ran to 11.5 manuscript pages). The division of the chapter allowed him to separate Mr. Dorrit&rsquo;s meeting with Mr. Merdle about financial matters from Flora&rsquo;s visit and his subsequent call upon Mrs. Clennam. The new chapter 17, with its rather contrived visit by Mr. Dorrit to Mrs. Clennam in search of information about Blandois, was made necessary by the need for this number to return to the Clennam-Flintwinch-Blandois/Rigaud storyline, setting up Arthur Clennam&rsquo;s visit to Calais in search of information about Blandois in the next number (chapter 20).&nbsp;</p>\n<p dir=\"ltr\"><br />That the right-hand chapter notes were made with a clear four-chapter division indicates their retroactive composition. The language of these notes is consistent with retroactive summary; they describe rather than prescribe narrative work. A notable exception to this descriptive work is the word &ldquo;Done&rdquo; inserted between chapters 16 and 17, which likely refers to the work of subdividing these chapters, and possibly indicates Dickens's use of the Note after composition to work through the nature of this division (for more on this chapter division, see LD.XV.R9).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The left-hand notes indicate this number&rsquo;s focus on Mr. Dorrit, whose visit to England is the subject of all four chapters. The opening memoranda is a statement of this purpose rather than a question (LD.XV.L1); the questions that follow are accepted or rejected as far as they are useful to the implementation of this first stated intention to &ldquo;Tone on to his dying in next No.&rdquo;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">It appears that Dickens relied little on the Notes when initially composing this number, as evidenced both by his need to retroactively subdivide the chapters and by his reference to Rigaud as &ldquo;Blandois&rdquo; on the left, but his mistaken use of &ldquo;Rigaud&rdquo; in the manuscript, proofs, and initial printing of the number, a mistake that necessitated a printed Errata slip in the next number (see LD.XV.L4).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens was likely working on this number during December 1856 and perhaps into early January 1857 as he was immersed in preparations for a production of &ldquo;The Frozen Deep&rdquo; at Tavistock House (January 7), since by late January he had &ldquo;knitted brows&rdquo; over what was likely the next number (Letters 8.270). He would be well into No. XVI by the beginning of February when he noticed the Rigaud/Blandois error.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1348,15,1323,136"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1348,151.14685h661.31469v0h661.31469v-68.23077v-68.23077h-661.31469h-661.31469v68.23077z\"  id=\"rectangle_f905edb5-f6e5-4841-b9c7-298fce1097f0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:12:16.301Z",
+    "@id": "956a7036-857a-48bc-9b38-05828802b5e4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
