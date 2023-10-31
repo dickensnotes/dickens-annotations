@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R5</em></p>\n<p dir=\"ltr\"><strong>Flora &amp; Casby</strong></p>\n<p><span id=\"docs-internal-guid-816c9892-7fff-6444-27a5-393a6bc6934c\">&nbsp;</span></p>\n<p dir=\"ltr\">The box around the mention of these two characters might suggest that Dickens is placing them here as he answers his questions on the left, deciding to &ldquo;carry [them] through at Mrs Clennams&rdquo; (LD.XVII.L5). Casby&rsquo;s role here is minor; he is seen conversing with Mrs. Clennam at the end of the chapter in a way that pairs these two unsympathetic characters. Flora&rsquo;s presence supplies the means by which Arthur can speak to Affery; Arthur asks her to request a visit around the house (LD 664). Flora&rsquo;s misreading of Arthur&rsquo;s motivation for this request supplies some comic relief, but her role here is largely functional. See LD.XVII.L5 for more on Dickens&rsquo;s incorporation of these characters.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1338,564,163,144"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1338.07981,563.54002h81.73524v0h81.73524v72.02273v72.02273h-81.73524h-81.73524v-72.02273z\"  id=\"rectangle_2c3444a3-a674-4c23-85cb-d2a44be0a199\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:56:37.078Z",
+    "@id": "81483870-306d-46c1-833f-bbdb56d7c5fe.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
