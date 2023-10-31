@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R4</em></p>\n<p dir=\"ltr\"><strong>And with Affery &ndash; for the telling of her dreams</strong></p>\n<p><span id=\"docs-internal-guid-11c4aaae-7fff-3522-ba48-d2e87114d3a5\">&nbsp;</span></p>\n<p dir=\"ltr\">Affery remains reluctant to disclose &ldquo;her dreams&rdquo; to Clennam throughout their conversation: &ldquo;Don&rsquo;t ask me nothing&hellip; I have been in a dream for ever so long. Go away, go away!&rdquo; (LD 671). Refusing to help Arthur for fear of her husband&rsquo;s retribution, she volunteers to disclose her dreams to Clennam if he is able to assert his own power over his mother and Flintwinch: &ldquo;If you ever begin to get the better of them two clever ones your own self&hellip; then do you get the better of &lsquo;em afore my face; and then do you say to me, Affery tell your dreams! Maybe, then I&rsquo;ll tell &lsquo;em!&rdquo; (671). In the final number, Dickens uses the Notes to remind himself that it will not be Arthur who calls for &ldquo;Affery&rsquo;s dreams,&rdquo; since he is unable to leave the prison: &ldquo;Affery&rsquo;s dreams. Pancks has to be deputed by Arthur to call for them&rdquo; (LD.XIX-XX.R4).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1811,545,852,103"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1819.63497,648.09635l-8.49845,-44.92036l842.56022,-58.27506l9.71251,50.99068z\"  id=\"rough_path_484a14a6-f522-4342-bd4b-959e57b4f2eb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:56:23.764Z",
+    "@id": "3ebf33fe-fa30-4445-855e-a828da016c22.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
