@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 23
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R15</em></p>\n<p dir=\"ltr\"><strong>Bar &ndash; Chief Butler</strong></p>\n<p><span id=\"docs-internal-guid-b92872b0-7fff-118f-0c44-b3445ec72781\">&nbsp;</span></p>\n<p dir=\"ltr\">The inclusion of these two names refers to the two characters whose reactions to Merdle&rsquo;s suicide are included in the chapter, Bar displaying astonishment and the Chief Butler, &ldquo;erect and calm,&rdquo; immediately turning in his notice (LD 688-689).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2095,1597,495,66"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2100.71748,1596.63535l-5.51064,44.08515l79.90434,8.26597l122.61183,13.77661l292.06412,-12.39895l-5.51064,-38.57451l-297.57477,-4.13298z\"  id=\"rough_path_1600bcf8-c0e5-4d87-ba41-6b38eb928297\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T15:15:21.761Z",
+    "@id": "d7608263-558d-4805-ad88-90c7347c2a39.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
