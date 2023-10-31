@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.L4</em></p>\n<p dir=\"ltr\"><strong>Rigaud&rsquo;s disappearance? Carry through</strong></p>\n<p><span id=\"docs-internal-guid-5cd234cf-7fff-ee78-ed08-776ffe2f19a5\"><br />It was while writing this number that Dickens realized his error in using the name Rigaud in the previous published number (chapter 17) instead of Blandois (see LD.XV.L4 for more on the error); he wrote to his publishers on February 5 to alert them to this error and to enclose an Errata slip for publication with the current number. In the letter, he explains that he would not have discovered the error &ldquo;but that I have been working today on that part of the story&rdquo; (Letters 8.274). Sucksmith dates the recognition of this error to his corrections of the proof for chapter 20 (xxxvi), though it was likely as he was working on chapter 22 that he realized the error: the manuscript uses Rigaud in chapter 20 but corrects Rigaud to Blandois in chapter 22 at the point where the discrepancy between the names becomes a subject addressed by the characters themselves. Clennam asks Cavalletto, &ldquo;Do you know a man of the name of Blandois?&rdquo; (LD 656); in the manuscript Rigaud is erased at this point with Blandois written above it. Although he has to make the correction twice, he did not return to correct the same error in the manuscript for chapter 20, either because he overlooked his use of the name in that chapter, or because that portion of the number had already been sent to the printer. The proofs for the number have corrections from Rigaud to Blandois in chapter 20 in Dickens&rsquo;s hand. Dickens corrects Rigaud to Blandois in the right-hand chapter note for chapter 20 (see LD.XVI.R9). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=322,312,839,68"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M322.35897,380.16783h419.41492v0h419.41492v-33.96503v-33.96503h-419.41492h-419.41492v33.96503z\"  id=\"rectangle_0448905c-3f5f-4ba4-bef4-24b88580252c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:02:49.718Z",
+    "@id": "d1a02637-53bf-4ea5-9ace-8905e580e94e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
