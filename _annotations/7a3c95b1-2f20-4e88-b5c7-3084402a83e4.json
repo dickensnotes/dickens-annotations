@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 8
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.L7</em></p>\n<p dir=\"ltr\"><strong>The History of a Self Tormentor [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens described the &ldquo;great pains&rdquo; he took to write Miss Wade&rsquo;s story in the letter to Forster in which he agonized over the potential change he would later make to the chapters (see LD.XVI.R13) (Forster 2.184). Originally a spoken history, Dickens restructured the chapters, with Forster&rsquo;s encouragement, to make Miss Wade&rsquo;s narrative a written account in &ldquo;a chapter by itself.&rdquo;&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens&rsquo;s emphasis on Miss Wade&rsquo;s own point of view here is consistent with his description of his intention for the character&rsquo;s role in the novel: &ldquo;In Miss Wade I had an idea, which I thought a new one, of making the introduced story so fit into surroundings impossible of separation from the main story, as to make the blood of the book circulate through both&rdquo; (Forster 2.184-185). Echoing the somatic language of blood in this letter to Forster, Dickens instructs himself in this note to &ldquo;Dissect&rdquo; her story. But the Notes suggest a tension between Miss Wade&rsquo;s &ldquo;own point of view,&rdquo; which might imply a liberating account, and the narrative operation of &ldquo;dissection,&rdquo; in which we might hear an echo of the Notes&rsquo; earlier intention to &ldquo;Anatomise Gowan, and see what breeds about his heart&rdquo; in No. XII (LD.XII.R9). The chapter note translates this dissection to an unconscious display of a repressed self: &ldquo;Unconsciously laying bare all her character&rdquo; (LD.XVI.R11). For more on what she calls a &ldquo;battle between narrated and narrator&rdquo; in Miss Wade, see Barbara Black&rsquo;s analysis (102).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">It was perhaps this tension between narrative dissection and first-person perspective that led to Dickens dissatisfaction with what he had written, which was certainly more profound than the annoyance with &ldquo;the necessity of the turned commas&rdquo; he bemoans; he admits to Forster that he has &ldquo;not exactly succeeded&rdquo; in his &ldquo;idea&rdquo; for Miss Wade (Forster 2.184-185).&nbsp;</p>\n<p><br />That Dickens had struggled to incorporate Miss Wade into this novel is evident from the early Working Notes, which repeatedly raise the possibility of her appearance before dismissing her (see LD.III.L4; LD.IV.L2; LD.VI.L3; LD.VII.L3). As Herring suggests, &ldquo;perhaps one reason for Dickens&rsquo; dissatisfaction with the first numbers stemmed from his inability to work [Miss Wade] firmly in to the novel&rdquo; (25). Forster identifies &ldquo;the surface-painting of both Miss Wade and Tattycoram&rdquo; as one element under his consideration of the novel&rsquo;s &ldquo;defect&rdquo;: &ldquo;there is under it a rare force of likeness in the unlikeness between the two which has much subtlety of intention; and they must both have had, as well as Mr. Gowan himself, a striking effect in the novel, if they had been made the contribute in a more essential way to its interest or development.&rdquo; (Forster 2.184). It was Forster&rsquo;s encouragement to make Miss Wade&rsquo;s story &ldquo;contribute in a more essential way&rdquo; to the novel that likely led to Dickens&rsquo;s decision to devote a chapter to her story. See Critical Introduction for more on Forster&rsquo;s critique of the novel&rsquo;s defects.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=71,567,1170,213"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M76.39885,566.91653l582.29351,18.42959v0l582.29351,18.42959l-2.79004,88.15306l-2.79004,88.15306l-582.29351,-18.42959l-582.29351,-18.42959l2.79004,-88.15306z\"  id=\"rectangle_8b9289c9-e137-47a3-bce6-61bcc93a31e3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:04:51.141Z",
+    "@id": "7a3c95b1-2f20-4e88-b5c7-3084402a83e4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
