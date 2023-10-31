@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 22
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R14</em></p>\n<p dir=\"ltr\"><strong>Merdle dead by his own hand</strong></p>\n<p><span id=\"docs-internal-guid-bc8318e1-7fff-3503-f361-fd949537b5a6\">&nbsp;</span></p>\n<p dir=\"ltr\">This is a summary rather than a quotation from the text, which instead includes the lines &ldquo;Mr Merdle is dead&rdquo; and &ldquo;Mr Merdle has destroyed himself&rdquo; (LD 688). Curiously, the phrase &ldquo;his own hand,&rdquo; while not used in this chapter to refer to his suicide, does appear at the close of the previous chapter when Merdle shakes Fanny&rsquo;s hand: &ldquo;Where his own hand had shrunk to, was not made manifest&rdquo; (683).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1497,1604,528,51"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1497.30198,1610.41196l522.13351,-6.8883l5.51064,38.57451l-163.94165,1.37766l-203.89382,5.51064l-143.27674,5.51064z\"  id=\"rough_path_5e87e523-6200-4356-89e8-b5527e06e8e3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T15:09:58.771Z",
+    "@id": "9cb69df4-0ce1-4c97-8392-b8abea5a0b08.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
