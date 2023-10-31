@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.L6</em></p>\n<p dir=\"ltr\"><strong>Pancks?</strong></p>\n<p><span id=\"docs-internal-guid-c7d08161-7fff-017d-a4cb-2f41a9bb08e2\">&nbsp;</span></p>\n<p dir=\"ltr\">No answer is given to this question, perhaps because, by the time he reached the final chapter of the number, he had already decided to include the &ldquo;Penitent Pancks.&rdquo;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=159,1350,321,105"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M159.18881,1349.8648h160.67366v0h160.67366v52.28205v52.28205h-160.67366h-160.67366v-52.28205z\"  id=\"rectangle_c9dbd375-4f27-4072-af5a-ab860084875b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:52:53.642Z",
+    "@id": "76e9f8de-af7e-45bd-beb7-ce0f886e4f56.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
