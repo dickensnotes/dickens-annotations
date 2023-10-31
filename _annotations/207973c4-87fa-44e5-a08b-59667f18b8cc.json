@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 8
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.L7</em></p>\n<p dir=\"ltr\"><strong>close with a Letter from Little Dorrit? [...]</strong></p>\n<p><span id=\"docs-internal-guid-67127a27-7fff-2e76-15c1-3002ad0b3b7a\"><br />Little Dorrit has been absent from the novel since her father&rsquo;s death at the beginning of the last number, when she was left sleeping (&ldquo;Sleep, good Little Dorrit. Sleep through the night!&rdquo; [LD 632]). Dickens suspends her reappearance until the final chapter of the next number (chapter 29), when she can return to the imprisoned Clennam. Dickens only includes mentions of Little Dorrit in this number. The first is by Fanny (&ldquo;Amy&hellip; will require to be roused from a low tendency which I know very well to be at the bottom of her heart&rdquo; [677]); the second is by Clennam in the final phrase of both this Working Note (LD.XVII.R21) and the number: &ldquo;O my little Dorrit!&rdquo; (699).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=87,1508,1244,307"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M86.92774,1508.37296h622.21212v0h622.21212v153.68065v153.68065h-622.21212h-622.21212v-153.68065z\"  id=\"rectangle_4cb82341-cf6d-44dc-8ef9-eda45b7ca8c4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:53:09.252Z",
+    "@id": "207973c4-87fa-44e5-a08b-59667f18b8cc.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
