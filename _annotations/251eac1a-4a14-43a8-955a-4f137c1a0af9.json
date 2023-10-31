@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.L2</em></p>\n<p dir=\"ltr\"><strong>Take Clennam and his fortunes? Carry through</strong></p>\n<p><span id=\"docs-internal-guid-f8a01277-7fff-622c-56a0-73dde87e0cc9\">&nbsp;</span></p>\n<p dir=\"ltr\">Clennam&rsquo;s &ldquo;fortunes&rdquo; are still intact in this number, but chapter 22 will continue to hint at his impending losses by describing a conversation between himself and the departing Doyce about money. Doyce insists that he will not discuss such matters: &ldquo;all rests with you&rdquo;; he merely expresses a &ldquo;prejudice&hellip; against speculating,&rdquo; which Clennam will recast as a rejection of all but &ldquo;safe investments&rdquo; (LD 653). With this conversation recalling Pancks&rsquo;s advice that Clennam invest with Mr. Merdle, the number will &ldquo;carry through&rdquo; this thread. It was perhaps as he contemplated Clennam&rsquo;s losses that Dickens decided to &ldquo;Get Doyce away on his expedition&rdquo; (see LD.XVI.R15).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=189,138,986,79"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M189.49184,137.74359h492.84149v0h492.84149v39.46154v39.46154h-492.84149h-492.84149v-39.46154z\"  id=\"rectangle_3c488c0b-0a25-4e4b-b959-516e8469c3a3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:02:08.451Z",
+    "@id": "251eac1a-4a14-43a8-955a-4f137c1a0af9.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
