@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.L5</em></p>\n<p dir=\"ltr\"><strong>And Mrs Clennam and the Flintwinches? Yes.</strong></p>\n<p><span id=\"docs-internal-guid-c6cdafc6-7fff-6179-0385-5b0b3de05449\">&nbsp;</span></p>\n<p dir=\"ltr\">This is the only reference to the content of chapter 17 in the left-hand memoranda. Dickens recognized the need to return to this storyline to continue building the Clennam-Rigaud mystery (last referenced in No. XIII, chapter 10) in preparation for Arthur Clennam&rsquo;s search for information about Blandois in the following number (No. XVI, chapter 20). He must therefore find a way of connecting Mr. Dorrit, the focus of this installment, with Mrs. Clennam.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=159,1364,953,170"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M159.18881,1363.85082h476.52448v0h476.52448v84.91608v84.91608h-476.52448h-476.52448v-84.91608z\"  id=\"rectangle_9f3208d7-c1e2-4000-8653-21464aeb8b9f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:16:15.230Z",
+    "@id": "ff0af571-da3b-4069-8a2e-7dbf32f02076.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
