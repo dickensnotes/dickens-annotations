@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.R10</em></p>\n<p dir=\"ltr\"><strong>(Pancks supposed to have found [...]</strong></p>\n<p><span id=\"docs-internal-guid-704fc378-7fff-e054-6ec4-bdd7f52f086a\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens recognizes that he must supply this information to justify Arthur&rsquo;s knowledge of it. What is rendered here in parentheses as an afterthought is also supplied after the fact in the story; Clennam mutters the information to himself: &ldquo;&lsquo;So Pancks said,&rsquo; he murmured to himself, as he stopped before a dull house answering to the address. &lsquo;I suppose his information to be correct and his discovery, among Mr Casby&rsquo;s loose papers, indisputable; but, without it, I should hardly have supposed this to be a likely place&rsquo;&rdquo; (LD 635).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1397,1225,1255,130"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2237.87782,1225.30909l414.72,18.85091l-5.65527,111.22036l-1246.04509,-37.70182l-3.77018,-49.01236l275.22327,20.736l148.92218,5.65527l426.03055,-5.65527z\"  id=\"rough_path_48151247-c7d1-4c85-b450-10bfd6fd39b8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:24:04.687Z",
+    "@id": "661e774d-059d-43ca-8dc8-56938295c79c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
