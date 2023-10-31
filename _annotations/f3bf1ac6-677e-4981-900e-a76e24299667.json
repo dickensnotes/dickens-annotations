@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.R15</em></p>\n<p dir=\"ltr\"><strong>Delicately trace out [...]</strong></p>\n<p><span id=\"docs-internal-guid-a1cf171e-7fff-d8bf-73a9-6cfd39fcc8ba\">&nbsp;</span></p>\n<p dir=\"ltr\">This long, descriptive note is likely preparatory, filled as it is with directions for the installment. It demonstrates concern with careful exposition of the &ldquo;naturalness&rdquo; of the Fanny-Sparkler union, perhaps even indicating Dickens&rsquo;s concern that it may appear too contrived.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1353,1663,1224,241"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1360.67193,1662.78052l608.13913,22.42501v0l608.13913,22.42501l-3.62412,98.28174l-3.62412,98.28174l-608.13913,-22.42501l-608.13913,-22.42501l3.62412,-98.28174z\"  id=\"rectangle_8699b420-4475-4e90-ba06-b7a4f3dc604e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:10:27.745Z",
+    "@id": "f3bf1ac6-677e-4981-900e-a76e24299667.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
