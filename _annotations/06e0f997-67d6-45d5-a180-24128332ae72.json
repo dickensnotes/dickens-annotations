@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.R13</em></p>\n<p dir=\"ltr\"><strong>Infection and sickening&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-b9f9d840-7fff-2d89-61ba-6e4eb1524fcd\">&nbsp;</span></p>\n<p dir=\"ltr\">Infection is a leading metaphor throughout this chapter. Despite the placement of this note, the chapter opens with a sentence that refers to &ldquo;moral infection,&rdquo; &ldquo;disease,&rdquo; and &ldquo;contagion&rdquo; (LD 553), and the same language continues throughout.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1380,1437,431,49"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1380.46798,1440.04466l215.44626,-1.60113v0l215.44626,-1.60113l0.172,23.14388l0.172,23.14388l-215.44626,1.60113l-215.44626,1.60113l-0.172,-23.14388z\"  id=\"rectangle_0f275333-19ea-4b36-bbfe-549988d73c40\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:09:38.673Z",
+    "@id": "06e0f997-67d6-45d5-a180-24128332ae72.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
