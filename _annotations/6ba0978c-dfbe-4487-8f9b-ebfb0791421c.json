@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.R3</em></p>\n<p dir=\"ltr\"><strong>Pave on to Mrs Merdle&rsquo;s great dinner</strong></p>\n<p><span id=\"docs-internal-guid-c81822ce-7fff-4549-74cc-020e9d23dc7f\">&nbsp;</span></p>\n<p dir=\"ltr\">&ldquo;Pave on&rdquo; suggests prospective preparation, an instruction for the narrative to transition from Mr. Dorrit&rsquo;s arrival home to the event at which his breakdown will take place.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1644,646,748,74"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1644.0373,645.9021h373.96037v0h373.96037v37.13054v37.13054h-373.96037h-373.96037v-37.13054z\"  id=\"rectangle_24933089-4b00-4d3b-958b-9df78b7f8fd2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:15:06.255Z",
+    "@id": "6ba0978c-dfbe-4487-8f9b-ebfb0791421c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
