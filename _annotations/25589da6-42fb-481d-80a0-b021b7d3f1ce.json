@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens makes heavy use of the chapter notes for No. XVI, writing in a cramped hand, especially for chapter 19, to sketch out elements of each chapter. The Note likely features a combination of prospective and retrospective content. The left-hand questions and answers indicate at least two temporal layers as Dickens considers what to include after Mr. Dorrit&rsquo;s death in the number&rsquo;s opening chapter. The right-hand notes include a mixture of imperative directions (e.g. &ldquo;Open on&hellip;&rdquo; &ldquo;Pave on to&hellip;&rdquo; &ldquo;Then shew&hellip;&rdquo; &ldquo;Get Doyce away&hellip;&rdquo;) and descriptive verbs (&ldquo;Dies&rdquo; &ldquo;Clennam lands&rdquo;); the prevalence of the former, especially in the final instruction to &ldquo;Throw the interest back to the first chapter [and] Run the ends of the book together,&rdquo; suggests some preparatory use. We know that the right-hand chapter notes were written no later than Dickens&rsquo;s decision to divide the middle chapter into two parts, separating Miss Wade&rsquo;s story into its own chapter; he returned to the Note to add this instruction: &ldquo;Change this to two chapters, getting the Self-Tormentor Narrative by itself.&rdquo; For more on the decision to make this change and its impact on the number, see LD.XVI.R13. A comparison between the Notes for this number and the previous one (XV), both of which involved a division of two chapters into one, indicates the range of preparatory and retroactive uses of the Notes to this novel (see Critical Introduction).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This number ends Mr Dorrit&rsquo;s story with his death; finally takes up Tattycoram and Miss Wade; and returns us to memories from the beginning of the book via Cavalletto&rsquo;s recognition of Blandois&rsquo;s identity. In his final direction to &ldquo;run&rdquo; the ends of the book together,&rdquo; and in his decision to send Doyce away, we can see Dickens preparing for the novel&rsquo;s conclusion.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens struggled to write this number, presumably expending the most energy on Miss Wade&rsquo;s story. On January 28, he complained to Macready that he had &ldquo;knitted brows now turning into cordage over Little Dorrit&rdquo; (Letters 8.270), and in what was possibly early February he wrote at length to Forster about reworking that narrative (see LD.XVI.R13). He was likely at work on the final chapter of the number around February 5 when he wrote to Bradbury &amp; Evans about his discovery of the Blandois/Rigaud error in the previous number, since it was at this point that he began to make the correction in the manuscript (see LD.XVI.L4 for more on when he noticed this error).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1346,31,1316,163"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1345.8249,31.13846h657.88168v0h657.88168v81.47888v81.47888h-657.88168h-657.88168v-81.47888z\"  id=\"rectangle_88a2b3eb-e046-45f1-824c-5622eea10af1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:01:28.567Z",
+    "@id": "25589da6-42fb-481d-80a0-b021b7d3f1ce.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
