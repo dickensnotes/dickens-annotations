@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 23
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.R15</em></p>\n<p dir=\"ltr\"><strong>Get Doyce away on his expedition</strong></p>\n<p><span id=\"docs-internal-guid-8d4bfba7-7fff-a833-f229-d92656968be1\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens recognizes his need here to &ldquo;Get Doyce away&rdquo; so that he is able to make way for Clennam&rsquo;s speculations and losses, setting up the conditions for his return to aid in Clennam&rsquo;s release in the very last chapter of the novel. With this strategy, Dickens is able to &ldquo;carry through&rdquo; his intention to &ldquo;Take Clennam and his fortunes&rdquo; (see LD.XVI.L2). Herring cites this note as evidence that &ldquo;Dickens was now writing with narrative economy, for Doyce&rsquo;s commission would later supply the funds for Arthur&rsquo;s release from the Marshalsea&rdquo; (52).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1493,1747,771,81"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1493.152,1747.36436h385.55855v0h385.55855v40.58691v40.58691h-385.55855h-385.55855v-40.58691z\"  id=\"rectangle_c599f6e2-5d66-49bd-a6b0-9128603c8afa\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:27:37.696Z",
+    "@id": "cb619806-546b-44c9-bb51-0b897f206969.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
