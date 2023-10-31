@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R2</em></p>\n<p dir=\"ltr\"><strong>Pave the Way.</strong></p>\n<p><span id=\"docs-internal-guid-8fd5b346-7fff-b158-e09d-e7fb136f7655\">&nbsp;</span></p>\n<p dir=\"ltr\">With this instruction, Dickens includes the following two-item note referring to both &ldquo;the noises&rdquo; and &ldquo;Affery.&rdquo; The construction of &ldquo;pave the way&hellip; with&hellip; to&rdquo; and &ldquo;pave the way&hellip; with&hellip; for&rdquo; indicates the instrumentality of this chapter as a means of setting up the events of the final number, in particular the revelation of Mrs. Clennam&rsquo;s secrets (and Affery&rsquo;s &ldquo;dreams&rdquo;) in chapter 30 and the collapse of the house in chapter 31.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1422,461,280,55"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1422.10197,467.19872l139.65077,-3.00851v0l139.65077,-3.00851l0.52359,24.30438l0.52359,24.30438l-139.65077,3.00851l-139.65077,3.00851l-0.52359,-24.30438z\"  id=\"rectangle_6173b265-14e8-458b-8fdc-92ec2039111c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:54:02.574Z",
+    "@id": "05e52a49-c270-47d6-a309-0fc81353f84f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
