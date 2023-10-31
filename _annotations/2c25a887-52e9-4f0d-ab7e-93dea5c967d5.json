@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 8
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.R2</em></p>\n<p dir=\"ltr\"><strong>She acts upon advice</strong></p>\n<p><span id=\"docs-internal-guid-e8fcc8ec-7fff-2696-b96c-ccf5818e8708\">&nbsp;</span></p>\n<p dir=\"ltr\">This note corresponds to the original title Dickens wrote for this chapter in the manuscript: &ldquo;Acting On Advice&rdquo; (see LD.XV.R1). Two types of &ldquo;advice&rdquo; are invoked in this chapter: Fanny makes a pretense of asking for &ldquo;sisterly advice&rdquo; about arrangements for her marriage; Fanny offers &ldquo;a word of advice&rdquo; to Little Dorrit that she raise objections to any proposed union between their father and Mrs. General (LD 587).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2065,398,410,175"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2065.43189,508.96678l195.88498,-55.23542v0l195.88498,-55.23542l9.12813,32.37168l9.12813,32.37168l-195.88498,55.23542l-195.88498,55.23542l-9.12813,-32.37168z\"  id=\"rectangle_73ad3cb5-c096-49eb-8f5a-fc632361d17a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:17:21.384Z",
+    "@id": "2c25a887-52e9-4f0d-ab7e-93dea5c967d5.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
