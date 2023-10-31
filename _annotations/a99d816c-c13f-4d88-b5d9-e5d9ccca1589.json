@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.R7</em></p>\n<p dir=\"ltr\"><strong>Dies. Uncle steals down [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The chapter ends with this image, which is also the subject of the second illustration for the number: &ldquo;One figure reposed upon the bed. The other, kneeling on the floor, drooped over it; the arms easily and peacefully resting on the coverlet; the face bowed down, so that the lips touched the hand over which with its last breath it had bent. The two brothers were before their Father; far beyond the twilight judgment of this world; high above its mists and obscurities&rdquo; (LD 632).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This note is written in small script, as is much of the content in the second half of this chapter note, in order to fit it into the available space.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1358,860,545,87"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1357.54036,860.06344v86.71418h147.03709v-22.62109l245.06182,-3.77018l13.19564,-22.62109l139.49673,-7.54036v-28.27636z\"  id=\"rough_path_688a258b-73af-4a68-b01b-9c2e3c083cc1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:20:45.114Z",
+    "@id": "a99d816c-c13f-4d88-b5d9-e5d9ccca1589.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
