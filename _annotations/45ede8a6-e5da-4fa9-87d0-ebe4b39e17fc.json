@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R7</em></p>\n<p dir=\"ltr\"><strong>Such a long, long, Day. [...]</strong></p>\n<p><span id=\"docs-internal-guid-d771979e-7fff-f80e-549b-da7af1bba324\">&nbsp;</span></p>\n<p dir=\"ltr\">This phrase, imputed to Fanny, encapsulates the nature of the couple&rsquo;s &ldquo;domesticity.&rdquo; The phrase &ldquo;Oh, you do look so big!&rdquo; does appear, as do the phrases &ldquo;Dear me, dear me, there never was such a long day as this!&rdquo; and &ldquo;Good gracious, Edmund&rdquo; (LD 674). Given the presence of the future-oriented direction in the next note, it is possible that Dickens was testing out phrases for Fanny here.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1427,912,1202,143"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1428.67133,911.54817l1200.4662,30.59441l-4.37063,52.44755l-993.58974,-26.22378l-2.91375,53.90443l-201.04895,32.05128z\"  id=\"rough_path_3ed7d8f8-7c77-4d66-892c-a002e5f106b3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:57:28.412Z",
+    "@id": "45ede8a6-e5da-4fa9-87d0-ebe4b39e17fc.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
