@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.R10</em></p>\n<p dir=\"ltr\"><strong>Cavalletto has seen Rigaud</strong></p>\n<p><span id=\"docs-internal-guid-f0e31b7d-7fff-1722-4703-5c1536c0680e\">&nbsp;</span></p>\n<p dir=\"ltr\">In a December 6 letter to Browne, Dickens responded to an initial sketch of the illustration that would become &ldquo;Mr. Baptist is supposed to have seen something&rdquo; (LD 559): &ldquo;Mrs. Plornish is too old, and Cavalletto a leetle bit too furious and wanting in stealthiness&rdquo; (Letters 8.232). In the chapter, he describes Cavalletto&rsquo;s &ldquo;great stealthiness&rdquo; in attempting to evade Rigaud (561).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1525,1266,641,74"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1525.15618,1265.94872h320.34732v0h320.34732v37.13054v37.13054h-320.34732h-320.34732v-37.13054z\"  id=\"rectangle_0ae34a24-59e7-4ef6-9584-194b30aa5f49\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:07:11.825Z",
+    "@id": "e7b0838b-2c27-4b87-a25a-4590828c373e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
