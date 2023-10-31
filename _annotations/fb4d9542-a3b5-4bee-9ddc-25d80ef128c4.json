@@ -4,16 +4,14 @@ order: 12
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "fb4d9542-a3b5-4bee-9ddc-25d80ef128c4.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.XVI.R4</em></p>\n<p dir=\"ltr\"><strong>First, Mrs General</strong></p>\n<p><span id=\"docs-internal-guid-f4bdbf87-7fff-7a72-b26b-0e71936a24e2\">&nbsp;</span></p>\n<p dir=\"ltr\">This boxed note functions as an important interjection, a reminder to include a reference to Mrs. General before turning to the Merdle dinner, given her role in Mr. Dorrit&rsquo;s &ldquo;Castle in the Air&rdquo; (he has just purchased a &ldquo;nuptial offering&rdquo; at a Paris jewelers [LD 615]). Mr. Dorrit will ask after Mrs. General&rsquo;s health upon his arrival, responding with &ldquo;obvious satisfaction&rdquo; at the idea that she had gone to bed with a headache due to &ldquo;the disappointment of his not arriving&rdquo; (619). What follows is a scene hinting at the possibility of a union in the near future via a reference to Fanny&rsquo;s objections to Mrs. General&rsquo;s &ldquo;claims&rdquo; and &ldquo;merits&rdquo; (623-624).&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-31T01:15:33.509Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -23,11 +21,11 @@ order: 12
                 "@type": "oa:Choice",
                 "default": {
                     "@type": "oa:FragmentSelector",
-                    "value": "xywh=2397,639,286,124"
+                    "value": "xywh=2402,639,286,124"
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2396.95105,762.45221h143.19114v0h143.19114v-61.93706v-61.93706h-143.19114h-143.19114v61.93706z\"  id=\"rectangle_bb812b7f-f9ff-40f7-ae9a-5a3e117781de\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2401.61305,762.45221h143.19114v0h143.19114v-61.93706v-61.93706h-143.19114h-143.19114v61.93706z\"  id=\"rectangle_bb812b7f-f9ff-40f7-ae9a-5a3e117781de\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.98601\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 12
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-31T01:15:33.509Z",
-    "@id": "fb4d9542-a3b5-4bee-9ddc-25d80ef128c4.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.R4</em></p>\n<p dir=\"ltr\"><strong>First, Mrs General</strong></p>\n<p><span id=\"docs-internal-guid-f4bdbf87-7fff-7a72-b26b-0e71936a24e2\">&nbsp;</span></p>\n<p dir=\"ltr\">This boxed note functions as an important interjection, a reminder to include a reference to Mrs. General before turning to the Merdle dinner, given her role in Mr. Dorrit&rsquo;s &ldquo;Castle in the Air&rdquo; (he has just purchased a &ldquo;nuptial offering&rdquo; at a Paris jewelers [LD 615]). Mr. Dorrit will ask after Mrs. General&rsquo;s health upon his arrival, responding with &ldquo;obvious satisfaction&rdquo; at the idea that she had gone to bed with a headache due to &ldquo;the disappointment of his not arriving&rdquo; (619). What follows is a scene hinting at the possibility of a union in the near future via a reference to Fanny&rsquo;s objections to Mrs. General&rsquo;s &ldquo;claims&rdquo; and &ldquo;merits&rdquo; (623-624).&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-31T01:15:44.750Z"
 }
