@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.R1</em></p>\n<p dir=\"ltr\"><strong>No just or cause or impediment [...]</strong></p>\n<p><span id=\"docs-internal-guid-6af3a6f1-7fff-a940-0229-0754e1ef811e\">&nbsp;</span></p>\n<p dir=\"ltr\">In the manuscript, Dickens initially titled this chapter &ldquo;Acting On Advice,&rdquo; which would have connected this chapter to chapter 14 in No. XIV, &ldquo;Taking Advice,&rdquo; drawing an explicit connection between the final chapter of one number and the opening chapter of the next. The amended title is written either side of this erasure in the manuscript, with &ldquo;No just&rdquo; appearing before the deletion and &ldquo;cause or impediment why these two persons should not be joined together&rdquo; written after.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1355,277,1331,191"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1354.662,277.27273l638.69464,37.29604l692.30769,-11.65501l-6.99301,90.90909h-897.4359l-65.26807,74.59207l-347.31935,-2.331z\"  id=\"rough_path_7474c293-4db3-4b88-858e-df089646a450\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:16:51.923Z",
+    "@id": "ddf41f47-8fb4-4e0d-a545-ed703245cc6d.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
