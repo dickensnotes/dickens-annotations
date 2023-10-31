@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.R6</em></p>\n<p dir=\"ltr\"><strong>His watch [...]</strong></p>\n<p><span id=\"docs-internal-guid-be4e5deb-7fff-e5d0-4e34-b63d51817f09\">&nbsp;</span></p>\n<p dir=\"ltr\">As he is &ldquo;sinking&rdquo; in the days before his death, Dickens describes Mr. Dorrit as &ldquo;troubled&rdquo; by the presence of his expensive watch and clothes, and is &ldquo;kept alive for some days by the satisfaction of sending them, piece by piece, to an imaginary pawnbroker&rsquo;s&rdquo; (LD 630). That he boxed this note may indicate his emphasis on its importance to drive home the pathos of the scene.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2217,856,469,149"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2230.33745,1005.21544l-13.19564,-141.38182l209.24509,1.88509l252.60218,-9.42545l7.54036,131.95636z\"  id=\"rough_path_7590e809-0c1c-4a6a-b058-67cb3e321ffe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:20:19.987Z",
+    "@id": "ab732744-cf7d-4e85-9d28-cf9b45d42578.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
