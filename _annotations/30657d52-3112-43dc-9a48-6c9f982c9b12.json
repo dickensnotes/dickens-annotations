@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 29
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R21</em></p>\n<p dir=\"ltr\"><strong>&ldquo;O my little Dorrit!&rdquo;</strong></p>\n<p><span id=\"docs-internal-guid-c86e076a-7fff-244e-c869-407f875c0278\"><br />This phrase, uttered in despair by a weeping Clennam, is the last of the chapter (LD 699) and of this Note. Ending in this manner, with Clennam dwelling on Little Dorrit&rsquo;s &ldquo;absence in his altered fortunes&rdquo; and his &ldquo;need of such a face of love and truth&rdquo; (699), allows Dickens to strengthen rather than &ldquo;weaken her next appearance,&rdquo; as he indicates on the left when he chooses not to include a letter from her in this number (LD.XVII.L7). Readers will have to wait until the final chapter of the next number for Clennam&rsquo;s plea to be answered. </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2117,2014,494,61"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2116.59838,2014.3645h247.18514v0h247.18514v30.67711v30.67711h-247.18514h-247.18514v-30.67711z\"  id=\"rectangle_4a5a0d5d-e257-470d-91fd-3888211fe3dc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T15:30:14.138Z",
+    "@id": "30657d52-3112-43dc-9a48-6c9f982c9b12.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
