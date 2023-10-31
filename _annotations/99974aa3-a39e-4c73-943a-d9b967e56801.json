@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.L3</em></p>\n<p dir=\"ltr\"><strong>Affery Flintwinch? [...]</strong></p>\n<p><span id=\"docs-internal-guid-f9eaa83c-7fff-445c-3833-d0a0347002eb\"><br />Dickens underlines Affery Flintwinch, indicating the significance of her dreams as &ldquo;the device through which much of the action in the old house in the City had been presented&rdquo; (Herring 54). Affery&rsquo;s dreams draw &ldquo;altogether&rdquo; the secrets held by Flintwinch and Mrs. Clennam. This number will &ldquo;pave the way&rdquo; for the revelation of those secrets via Affery&rsquo;s &ldquo;conditional promise respecting her dreams&rdquo; (LD.XVII.R1; LD.XVII.R2). Dickens will again make Affery&rsquo;s dreams central to his strategy for wrapping up the mystery plot in his &ldquo;Mems for working the story round&rdquo; (see LD.Mems1). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=52,480,841,270"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M51.9627,480.40093h420.58042v0h420.58042v135.03263v135.03263h-420.58042h-420.58042v-135.03263z\"  id=\"rectangle_94113903-d4e3-4dbd-b803-4873b5aa4b45\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:52:08.340Z",
+    "@id": "99974aa3-a39e-4c73-943a-d9b967e56801.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
