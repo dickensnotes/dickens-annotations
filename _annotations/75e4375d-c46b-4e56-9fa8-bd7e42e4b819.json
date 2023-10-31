@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.R8</em></p>\n<p dir=\"ltr\"><strong>Containing the history of a Self-Tormentor.</strong></p>\n<p><span id=\"docs-internal-guid-915d0c37-7fff-b136-1759-ba5088edab28\">&nbsp;</span></p>\n<p dir=\"ltr\">When Dickens divides chapter 20 into two parts (see&nbsp;LD.XVI.R13), he changes the title of this chapter to &ldquo;Introduces the Next.&rdquo;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1603,996,903,78"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1605.69575,996.19144l-2.72727,37.27273l901.81818,40.90909l0.90909,-38.18182l-900,-38.18182h0.90909z\"  id=\"rough_path_66cccd0f-38e4-4172-b747-8d3b5fd010d8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:21:55.970Z",
+    "@id": "75e4375d-c46b-4e56-9fa8-bd7e42e4b819.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
