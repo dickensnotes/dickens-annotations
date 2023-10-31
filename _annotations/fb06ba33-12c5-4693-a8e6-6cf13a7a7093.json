@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.L5</em></p>\n<p dir=\"ltr\"><strong>Casby? [...]</strong></p>\n<p><span id=\"docs-internal-guid-bb5cc155-7fff-d128-07a2-eff0fbdf6800\">&nbsp;</span></p>\n<p dir=\"ltr\">This is the penultimate appearance of both characters; Casby will be introduced once more in the final number when Pancks vents his anger upon his employer, and Flora will appear in the closing chapter. Dickens&rsquo;s intention to &ldquo;Carry through&rdquo; these characters indicates that the characters serve a functional purpose in the scene at Mrs. Clennam&rsquo;s.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=145,1012,1193,219"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M145.2028,1011.86946h596.5711v0h596.5711v109.39161v109.39161h-596.5711h-596.5711v-109.39161z\"  id=\"rectangle_9185a22e-23b7-44f1-b0e9-c86cc3a09c7a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:52:41.970Z",
+    "@id": "fb06ba33-12c5-4693-a8e6-6cf13a7a7093.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
