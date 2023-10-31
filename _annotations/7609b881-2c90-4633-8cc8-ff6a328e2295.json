@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 26
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R18</em></p>\n<p dir=\"ltr\"><strong>General Smash [...]</strong></p>\n<p><span id=\"docs-internal-guid-78733fa5-7fff-acaf-6dae-515867016496\">&nbsp;</span></p>\n<p dir=\"ltr\">This &ldquo;General Smash&rdquo; is described as a burning of &ldquo;[t]he admired piratical ship,&rdquo; which sets fire to smaller boats, leaving &ldquo;spent swimmers, floating dead, and sharks&rdquo; in the water (LD 691). Clennam&rsquo;s first reaction is to describe himself as &ldquo;I&hellip; who have ruined my partner!&rdquo; (692).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1350,1852,1259,98"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1353.73824,1851.79142l-4.04688,91.72926l392.54727,6.7448l1.34896,-33.72399l864.68316,22.93231v-56.65631z\"  id=\"rough_path_57ca7041-0b1e-41df-98d1-0b956c4b884d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T15:29:01.148Z",
+    "@id": "7609b881-2c90-4633-8cc8-ff6a328e2295.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
