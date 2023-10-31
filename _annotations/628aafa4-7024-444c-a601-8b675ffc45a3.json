@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R6</em></p>\n<p dir=\"ltr\"><strong>Hot summer night</strong></p>\n<p><span id=\"docs-internal-guid-a9cb1383-7fff-9c7b-2629-8826b0111481\">&nbsp;</span></p>\n<p dir=\"ltr\">The &ldquo;hot summer Sunday evening&rdquo; connects the opening of this chapter with the closing of the last. At the end of chapter 23, Arthur &ldquo;took particular notice&hellip; as he afterwards had occasion to remember, of the airlessness and closeness of the house&rdquo; (LD 671). In the opening of this chapter, the same hot oppressiveness characterizes the Sparkler house: &ldquo;The residence&hellip; at all times stuffed and close as if it had an incurable cold in its head, was that evening particularly stifling&rdquo; (673). This note and that below (&ldquo;Such a long, long, Day&hellip;&rdquo;) appear to be part of the same temporal layer as the chapter notes for 23 above given their similar ink and size.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1372,827,400,71"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1374.66794,827.47783l198.72993,8.03708v0l198.72993,8.03708l-1.1188,27.66424l-1.1188,27.66424l-198.72993,-8.03708l-198.72993,-8.03708l1.1188,-27.66424z\"  id=\"rectangle_cb943e70-93dc-4e69-9640-7f20e7ae7cdc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:57:00.699Z",
+    "@id": "628aafa4-7024-444c-a601-8b675ffc45a3.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
