@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.L4</em></p>\n<p dir=\"ltr\"><strong>Blandois? Yes. Missing.</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">It is notable that Dickens uses the name &ldquo;Blandois&rdquo; in the Notes, since his mistaken use of &ldquo;Rigaud&rdquo; instead of &ldquo;Blandois&rdquo; was overlooked in the manuscript and proofs for this number, leading to the insertion of an Errata slip included before the opening chapter of the following number:&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">&ldquo;By an oversight of the Author&rsquo;s, which he did not observe until it was too late for correction of the Number for last month (No. XV.), the name of RIGAUD is used in the seventeenth chapter of the Second Book, instead of BLANDOIS. The personage in the story who assumed the latter name, is habitually known to the Author by the former, as his real one; and hence the mistake. It is set right, if the reader will have the goodness to substitute the word BLANDOIS for RIGAUD, in that chapter when it occurs.&rdquo;&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">That Dickens made this mistake despite the correct name appearing in the Notes may indicate a lack of reliance on the Notes for the composition of this number, a supposition supported by the retroactive use of the right-hand page for this number (see headnote annotation, LD.XV). Although Dickens claims that the mistake is due to his &ldquo;habitual&rdquo; knowledge of the character as Rigaud, the Notes have been fairly consistent up to this point in their appropriate use of his name. Number XI uses both Rigaud and Blandois, but in ways appropriate to the introduction of the pseudonym (see LD.XI.L1; LD.XI.R7). Numbers XII and XIII use only Blandois, since he is among characters in Italy who know him by that name. Although the name &ldquo;Rigaud&rdquo; is reintroduced in the Notes for No. XIV, this is in reference to Cavalletto, so the name is consistent with Cavalletto&rsquo;s knowledge of the character&rsquo;s real identity (&ldquo;Cavalletto has seen Rigaud&rdquo; [LD.XIV.R10]).</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens wrote to his publishers on February 5 about the mistake: &ldquo;I find an odd mistake in the last No. which none of us observed, and which nobody seems to have discovered yet.&ndash;I shouldn&rsquo;t have done so, I think, but that I have been working today on that part of the story&rdquo; (Letters 8.274). Dickens was presumably writing chapter 22 at the time he wrote this letter, since he continued to make the error in the manuscript for chapter 20, but realized his mistake and corrected the name in chapter 22 at the point where the discrepancy between the names becomes an issue in the narrative (Clennam asks Cavalletto, &ldquo;Do you know a man of the name of Blandois?&rdquo; [656]). The errors in chapter 20 were corrected in the proof.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=110,1247,655,107"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M110.23776,1247.3007h327.34033v0h327.34033v53.44755v53.44755h-327.34033h-327.34033v-53.44755z\"  id=\"rectangle_3e15f36d-35d1-4149-a9d9-57912792f1b8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:16:00.399Z",
+    "@id": "bffdde15-1c55-4e08-93fb-00697ef6b081.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
