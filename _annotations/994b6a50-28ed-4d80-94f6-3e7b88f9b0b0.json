@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">There are multiple temporal layers evident on both the left and right sides of the Working Note for No. XVII, which is densely filled, reflecting the extensive amount of material that is included in these four chapters. On the left, questions and answers are written with different inks/nibs. On the right, chapter titles and the chapter numbers for chapters 24, 25, and 26, along with the chapter title for number 23, appear lighter than the content notes; the ink used for the chapter header &ldquo;chapter XXIII&rdquo; is also quite dark. There is relative consistency to the ink for the chapter content notes, with the exception of what may be a change in chapter 24 when Dickens reaches the note &ldquo;Take up Amy&hellip;&rdquo; (see LD.XVII.R8). Given the cramped nature of the content notes, which often run down beside the headers for subsequent chapters, it is unlikely that Dickens entered these titles after sketching out the contents. The titles for chapters 23-25, at least, appear to have been added to the manuscript after composition, given their cramped hand and/or ink differences. This manuscript evidence, along with descriptive language in the chapter notes, suggests retroactive use of the page to summarize work already completed. However, Dickens&rsquo;s use of some future-directed imperatives (Pave the way, Take up, Gradually work it up), and his extensive use of the chapter notes to sketch out the material for each chapter, might complicate this temporality.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The imperatives in this number could be interpreted as descriptions of, rather than instructions for, the careful preparatory work performed by the installment as Dickens neared the end of the novel, work which required what Herring refers to as &ldquo;narrative economy&rdquo; (53). On February 28, 1857, as he was likely working on this number, Dickens explained to Macready that he was &ldquo;transcendently busy, drawing up the arteries of Little Dorrit. Very hard work, but deeply interesting to me&rdquo; (Letters 8.290). With the phrase &ldquo;drawing up the arteries,&rdquo; Dickens echoes the somatic language he had employed previously in the Notes (e.g. &ldquo;anatomise&rdquo; LD.XII.R9, &ldquo;dissect&rdquo; in LD.XVI.L7) to describe his authorship of this novel. The &ldquo;arteries&rdquo; drawn up in this number are Merdle&rsquo;s collapse, Clennam&rsquo;s ruin, and preparation for the revelation of Mrs. Clennam&rsquo;s secrets. On the left, Dickens considers the various vessels that might connect to these arteries. Slater suggests that the language of Dickens&rsquo;s letter (&ldquo;drawing up the arteries&rdquo;) indicates that he may have been working also on the left-hand memoranda for No. XVIII and the &ldquo;Mems: for working the story round&rdquo; (LD_Mems1 and LD_Mems2) at this point, too.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens likely finished the number in early March. He anticipated this much when he told Burdett-Coutts that he was unable to work on another task until the 6th or 7th of March because &ldquo;I am obliged to work at Little Dorrit&rdquo; (Letters 8.287). On March 4 he reported to William Howitt: &ldquo;I am very hard at work finishing a long story; and at such times wildnesses come over me, and I go off unexpectedly into strange places and write in inaccessible fastnesses&rdquo; (8.295). By March 6 he was approving the illustrations for the number (8.297).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1339,26,1305,154"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1338.67599,25.85548h652.51515v0h652.51515v76.75758v76.75758h-652.51515h-652.51515v-76.75758z\"  id=\"rectangle_4c6d2bc6-a8bf-45e2-b009-269f37ed492c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:51:24.382Z",
+    "@id": "994b6a50-28ed-4d80-94f6-3e7b88f9b0b0.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
