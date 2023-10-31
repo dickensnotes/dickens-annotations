@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 24
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R16</em></p>\n<p dir=\"ltr\"><strong>Gradually work it up &ndash;</strong></p>\n<p><span id=\"docs-internal-guid-d85a2527-7fff-1c91-bcb0-434fbed7eecc\">&nbsp;</span></p>\n<p dir=\"ltr\">This note either indicates Dickens&rsquo;s intention or describes the narrative mechanism by which this chapter&rsquo;s second half &ldquo;gradually&rdquo; reveals Mr. Merdle&rsquo;s crimes. This gradual revelation begins with the presence of a letter from Mr. Merdle, picked up by Physician at the scene of his death and handed to Bar. The reader does not get access to the content of the letter; we only view Bar&rsquo;s reaction: &ldquo;There was not much in it as to quantity; but, it made a great demand on his close and continuous attention&rdquo; (LD 688). The focus on Bar and Physician gives way to a consideration of the multitudes affected by Merdle&rsquo;s fraud, again without specifying the nature of the crime: &ldquo;If all those hundreds and thousands of beggared people who were yet asleep, could only know, as [Bar and Physician] spoke, the ruin that impended over them, what a fearful cry against one miserable soul would go up to Heaven!&rdquo; (689). After a paragraph speculating on the cause of death, the focus turns to rumors about Mr. Merdle&rsquo;s wealth: &ldquo;appalling whispers [began] to circulate, east, west, north, and south&rdquo; (690), which then get &ldquo;louder and higher,&rdquo; becoming a &ldquo;roar&rdquo; (691). The chapter culminates with the revelation of &ldquo;Forgery and Robbery&rdquo; in the final paragraph.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1337,1643,1345,182"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1341.62629,1647.6088l-4.13298,39.95217l362.32483,15.15427l245.22365,-20.66491l112.9682,-4.13298h77.14901l35.81919,4.13298l110.21288,20.66491l-2.75532,96.43627l322.37267,26.17556l78.52668,-4.13298l2.75532,-141.89908l-221.80342,-5.51064l-180.47359,-11.02129l-125.36715,-13.77661l-128.12247,-5.51064l-338.9046,22.04258z\"  id=\"rough_path_d47691d8-6696-47c8-b2b8-9c4317e335c7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T15:26:33.451Z",
+    "@id": "2031cca3-1bc5-4ebb-9cee-8f4a6cd80365.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
