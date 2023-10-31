@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.L1</em></p>\n<p dir=\"ltr\"><strong>Mr Dorrit to come to London [...]</strong></p>\n<p><span id=\"docs-internal-guid-817e3e2d-7fff-fd28-f35e-0d602735c8eb\">&nbsp;</span></p>\n<p dir=\"ltr\">As Herring puts it, &ldquo;Number XV is Mr. Dorrit&rsquo;s number&rdquo; (50). This note, which appears to be one temporal layer, not consistent with the ink used for the memoranda below, encapsulates the material in this installment. Instead of a question, it makes a confident statement about the purpose of this number that focuses forward to the next number using the unusual direction to &ldquo;Tone on to his dying in the next No.&rdquo; Elements of this note are allotted to chapters 15, 16, and 18.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=23,58,905,404"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M928.41958,461.75291h-452.55478v0h-452.55478v-201.7972v-201.7972h452.55478h452.55478v201.7972z\"  id=\"rectangle_f4525fe8-fcdf-4bd2-baf2-905086c138ea\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:13:43.551Z",
+    "@id": "5f477a2b-4bf9-41ef-8b74-bec2818dc7fd.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
