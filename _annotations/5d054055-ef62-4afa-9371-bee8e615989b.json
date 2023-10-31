@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.R12</em></p>\n<p dir=\"ltr\"><strong>Then show Tattycoram like her [...]</strong></p>\n<p><span id=\"docs-internal-guid-dccbdce8-7fff-7dae-7136-f019c987ce8a\"><br />&ldquo;Then show&rdquo; indicates Dickens&rsquo;s recognition that the display of mutual anger should follow Miss Wade&rsquo;s story. When he changes the nature of Miss Wade&rsquo;s revelations (see LD.XVI.R13), he is forced to include this interaction before we read the chapter containing Miss Wade&rsquo;s history. The end of the chapter makes this mutual torture explicit: &ldquo;Arthur Clennam looked at them, standing a little distance asunder in the dull confined room, each proudly cherishing her own anger; each, with a fixed determination, torturing her own breast, and torturing the other&rsquo;s&rdquo; (LD 643).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1408,1418,1139,79"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2547.03273,1464.71564v-37.70182l-748.38109,-9.42545l-88.59927,39.58691l-299.72945,-1.88509l-1.88509,41.472h337.43127l65.97818,-39.58691z\"  id=\"rough_path_d3bc5d0e-8ec7-455c-a5b7-7c3b07a6aa86\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:25:27.344Z",
+    "@id": "5d054055-ef62-4afa-9371-bee8e615989b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
