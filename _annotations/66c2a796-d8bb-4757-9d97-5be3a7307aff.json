@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.R1</em></p>\n<p dir=\"ltr\"><strong>The storming of the Castle in the Air</strong></p>\n<p><span id=\"docs-internal-guid-ba9485f8-7fff-b5c9-43ce-2d1bf80d8bb5\">&nbsp;</span></p>\n<p dir=\"ltr\">The notes for this chapter emphasize Dickens's careful concern with the pathos of Mr. Dorrit&rsquo;s decline. He rejected Phiz&rsquo;s first attempt at illustrating the dinner in a letter written on February 10, 1857: &ldquo;In the dinner scene, it is highly important that Mr. Dorrit should not be too comic. He is too comic now. He is described in the text as &lsquo;shedding tears&rsquo;, and what he imperatively wants, is an expression doing less violence in the reader&rsquo;s mind to what is going to happen to him, and much more in accordance with that serious end which is so close before him&rdquo; (Letters 8.280).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1534,350,946,93"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1534.48019,349.8648h473.02797v0h473.02797v46.45455v46.45455h-473.02797h-473.02797v-46.45455z\"  id=\"rectangle_f8319ff0-2183-48b6-9630-841939b6155f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T01:14:32.010Z",
+    "@id": "66c2a796-d8bb-4757-9d97-5be3a7307aff.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
