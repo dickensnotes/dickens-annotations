@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.R8</em></p>\n<p dir=\"ltr\"><strong>If Mr Merdle can help [...]</strong></p>\n<p><span id=\"docs-internal-guid-794a28e8-7fff-1c87-4ef7-d945d0804406\"><br />Although this note appears to refer to language used by Merdle and Dorrit, no such specific language appears in the published novel. Likely retrospective, the note summarizes the tone of their exchange, in which Mr. Dorrit expresses his need for &ldquo;arrangement&ndash;hum&ndash;the laying out, that is to say, in the best way of&ndash;ha hum&ndash;my money&rdquo; and Mr. Merdle offers his assistance: &ldquo;[I]f I can be of any use to you in that respect, you may command me.&rdquo; Upon receiving this offer, Mr. Dorrit &ldquo;heap[s] acknowledgments upon him&rdquo;: &ldquo;You are very good&hellip; You are very good&rdquo; (LD 595). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1376,1147,1240,105"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1513.17016,1146.7366l1102.5641,20.97902v60.60606l-699.3007,-16.31702l-6.99301,25.64103l-531.46853,13.98601l-2.331,-51.28205l137.52914,-4.662z\"  id=\"rough_path_01fd3271-9b5c-47a1-9049-1212a9a480d7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:19:54.028Z",
+    "@id": "7c5d5f54-c1ff-4dfb-a1ba-5c6470e260de.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
