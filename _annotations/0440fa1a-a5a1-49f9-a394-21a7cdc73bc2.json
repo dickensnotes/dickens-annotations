@@ -4,16 +4,14 @@ order: 13
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "0440fa1a-a5a1-49f9-a394-21a7cdc73bc2.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.XVI.R5</em></p>\n<p dir=\"ltr\"><strong>&ldquo;My dear, will you [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Much of the language used here is translated into the chapter. Mr. Dorrit&rsquo;s speech opens with his request to Little Dorrit: &ldquo;Amy, my dear&hellip; Will you go and see if Bob is on the Lock&rdquo; (LD 626). He refers to the dinner guests as &ldquo;Ladies and gentlemen&rdquo; repeatedly (626-629). He announces &ldquo;Welcome to the Marshalsea!... I am accustomed to be complimented by strangers as the&ndash;ha&ndash;Father of the Marshalsea&rdquo; (626) and he introduces &ldquo;My child, ladies and gentlemen. My daughter. Born here!&rdquo;&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens tested out this idea in his book of <em>Memoranda</em> with rare specificity for this notebook: &ldquo;First sign of Little Dorrit&rsquo;s father failing and breaking down. Cancels long interval. Begins to talk about the Turnkey who first called him the Father of the Marshalsea&ndash;as if he were still living&ndash;&lsquo;Tell Bob I want to speak to him. See if he is on the Lock, my dear&rsquo;&rdquo; (12). Dickens must have written this note prior to August 1856, since it is followed two entries later by a pasted advertisement from <em>The Times</em> from August 25, 1856, six months earlier. It is likely that he wrote this note in the early summer of 1856 as he was working on No. IX, since it is in the Working Note for that number that Dickens first references the future of the Dorrits&rsquo; &ldquo;Family Spirit&rdquo; (LD.IX.L4) and the scene of the novel described in the next entry in his <em>Memoranda</em> about Clennam and Little Dorrit (see LD.IX.R16). Herring agrees that &ldquo;the idea for Mr. Dorrit&rsquo;s death must have been entered sometime before Dickens wrote No. IX&rdquo; (51 n.28); and Kaplan similarly dates the entry from between April and August of 1856, the period of his work on Nos. VIII-XI (Kaplan 93).&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-10-31T01:16:58.706Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -23,11 +21,11 @@ order: 13
                 "@type": "oa:Choice",
                 "default": {
                     "@type": "oa:FragmentSelector",
-                    "value": "xywh=1363,728,1282,136"
+                    "value": "xywh=1356,728,1289,143"
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1419.74836,728.10708l972.70691,30.16145l1.88509,9.42545l250.71709,-1.88509l-43.35709,75.40364h-158.34764l-11.31055,22.62109l-207.36,-3.77018l-861.48655,-18.85091z\"  id=\"rough_path_60323eae-0bbe-4480-842a-6989b9fffded\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1410.32291,728.10708l982.13236,30.16145l1.88509,7.54036l250.71709,0l-43.35709,75.40364h-158.34764l-15.08073,30.16145l-196.04945,-7.54036l-876.56728,-20.736z\"  id=\"rough_path_60323eae-0bbe-4480-842a-6989b9fffded\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"11.31055\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 13
             }
         }
     ],
-    "oa:annotatedAt": "2023-10-31T01:16:58.706Z",
-    "@id": "0440fa1a-a5a1-49f9-a394-21a7cdc73bc2.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.XVI.R5</em></p>\n<p dir=\"ltr\"><strong>&ldquo;My dear, will you [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Much of the language used here is translated into the chapter. Mr. Dorrit&rsquo;s speech opens with his request to Little Dorrit: &ldquo;Amy, my dear&hellip; Will you go and see if Bob is on the Lock&rdquo; (LD 626). He refers to the dinner guests as &ldquo;Ladies and gentlemen&rdquo; repeatedly (626-629). He announces &ldquo;Welcome to the Marshalsea!... I am accustomed to be complimented by strangers as the&ndash;ha&ndash;Father of the Marshalsea&rdquo; (626) and he introduces &ldquo;My child, ladies and gentlemen. My daughter. Born here!&rdquo;&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens tested out this idea in his book of <em>Memoranda</em> with rare specificity for this notebook: &ldquo;First sign of Little Dorrit&rsquo;s father failing and breaking down. Cancels long interval. Begins to talk about the Turnkey who first called him the Father of the Marshalsea&ndash;as if he were still living&ndash;&lsquo;Tell Bob I want to speak to him. See if he is on the Lock, my dear&rsquo;&rdquo; (12). Dickens must have written this note prior to August 1856, since it is followed two entries later by a pasted advertisement from <em>The Times</em> from August 25, 1856, six months earlier. It is likely that he wrote this note in the early summer of 1856 as he was working on No. IX, since it is in the Working Note for that number that Dickens first references the future of the Dorrits&rsquo; &ldquo;Family Spirit&rdquo; (LD.IX.L4) and the scene of the novel described in the next entry in his <em>Memoranda</em> about Clennam and Little Dorrit (see LD.IX.R16). Herring agrees that &ldquo;the idea for Mr. Dorrit&rsquo;s death must have been entered sometime before Dickens wrote No. IX&rdquo; (51 n.28); and Kaplan similarly dates the entry from between April and August of 1856, the period of his work on Nos. VIII-XI (Kaplan 93).&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-10-31T01:17:21.361Z"
 }
