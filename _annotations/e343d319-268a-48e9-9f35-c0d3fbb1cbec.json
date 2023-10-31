@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.R4</em></p>\n<p dir=\"ltr\"><strong>Little Dorrit in old Rome [...]</strong></p>\n<p><span id=\"docs-internal-guid-fe9a18cc-7fff-eb15-54ab-8a2faa6f5f03\">&nbsp;</span></p>\n<p dir=\"ltr\">With this note&rsquo;s reference to &ldquo;Ruins, Ruins all,&rdquo; Dickens summarizes the end of this chapter and its reference to Little Dorrit&rsquo;s habit of &ldquo;wander[ing] among the ruins of old Rome&rdquo; on her own. This phrase does not appear in the novel, but the penultimate paragraph of the chapter associates the Roman ruins with Little Dorrit&rsquo;s dejection: &ldquo;The ruins of the vast old Amphitheatre, of the old Temples, of the old commemorative Arches, of the old trodden highways, of the old tombs, besides being what they were, to her were ruins of the old Marshalsea &ndash; ruins of her old life &ndash; ruins of the faces and forms that of old peopled it &ndash; ruins of its loves, hopes, cares, and joys. Two ruined spheres of action and suffering were before the solitary girl often sitting on some broken fragment; and, in the lonely places, under the blue sky, she saw them both together&rdquo; (LD 591).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2153,610,524,218"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2152.78813,686.87836l251.01957,-38.22784v0l251.01957,-38.22784l10.81134,70.99168l10.81134,70.99168l-251.01957,38.22784l-251.01957,38.22784l-10.81134,-70.99168z\"  id=\"rectangle_d845b0e1-72ba-4110-a8de-31c00bfdc87a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:18:03.337Z",
+    "@id": "e343d319-268a-48e9-9f35-c0d3fbb1cbec.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
