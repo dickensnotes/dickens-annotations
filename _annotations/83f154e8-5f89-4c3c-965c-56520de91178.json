@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 25
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R17</em></p>\n<p dir=\"ltr\"><strong>His Complaint, Forgery, and [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This long note corresponds to the final paragraph of the chapter: &ldquo;For, by that time it was known that the late Mr. Merdle&rsquo;s complaint had been, simply, Forgery and Robbery&rdquo; (LD 691). The last long sentence, which was heavily revised in the manuscript, reads, in part: &ldquo;He, the uncouth object of such wide-spread adulation&hellip; was simply the greatest Forger and the greatest Thief that ever cheated the gallows.&rdquo; Dickens erases &ldquo;Fraud&rdquo; in the Note, only to rewrite it, but the term does not appear in this final chapter. Instead, Dickens emphasizes theft in the pairing of &ldquo;Forgery and Robbery.&rdquo;&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens had prepared for this revelation as early as No. VI, the notes to which link Merdle&rsquo;s &ldquo;complaint&rdquo; with forgery and fraud: &ldquo;Mr Merdle&rsquo;s mysterious complaint (, to wit: [Forgery] Fraud &amp; Forgery bye and bye&rdquo; (LD.VI.R17). Dickens emphasizes the discovery of the complaint when Physician makes his initial call upon Bar after discovering the body: &ldquo;You asked me once what Merdle&rsquo;s complaint was,&rdquo; Physician says. &ldquo;I have found it out&rdquo; (LD 687-688).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1686,1648,991,185"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1691.03363,1701.57636l-5.39584,-37.77087l237.4169,-10.79168l174.0158,-5.39584l176.71372,13.4896l66.09902,8.09376l308.91177,13.4896l28.32815,89.03134v60.70319l-395.24519,-28.32815l-14.83856,-107.91677l-114.66157,-22.93231l-71.49486,1.34896l-133.54701,5.39584l-183.45852,13.4896z\"  id=\"rough_path_8168a301-faa0-476d-8fbf-6db39fc17b9f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T15:27:56.353Z",
+    "@id": "83f154e8-5f89-4c3c-965c-56520de91178.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
