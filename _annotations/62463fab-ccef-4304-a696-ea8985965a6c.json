@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.L4</em></p>\n<p dir=\"ltr\"><strong>Clennam going downward? Yes. Gone</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The left-hand questions for three numbers indicate that Dickens planned carefully for the gradual progression of Clennam&rsquo;s downfall. In No. XIV he answers in the affirmative to &ldquo;Begin Clennam&rsquo;s course downward?&rdquo; (LD.XIV.L3), activating this question in his chapter note: &ldquo;Foreshadow Clennam&rsquo;s loss, through Pancks&rsquo;s persuasion&rdquo; (LD.XIV.R12). In the previous number, XVI, he asks &ldquo;Take Clennam and his fortunes?&rdquo; and answers &ldquo;Carry through&rdquo; (LD.XVI.L2), deferring the &ldquo;taking&rdquo; of the fortunes to this number. According to Herring, the answer to the question posed in this note &ldquo;suggests that Dickens had intended another picture of Clennam gradually succumbing to the fever of speculation&rdquo; (54); he answers &ldquo;Yes.&rdquo; and then modifies the tense of &ldquo;going&rdquo; to &ldquo;Gone.&rdquo; This original intention is consistent with Dickens&rsquo;s note about Merdle&rsquo;s &ldquo;smashed&rdquo; reputation in the next number (see LD.XVIII.L2).</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Notably, Dickens picks up this same language (&ldquo;going downward&rdquo;) in the chapter notes for the next number (XVIII) in reference not to Clennam&rsquo;s financial affairs, but to his spirits: &ldquo;Drooping Downward&rdquo; (LD.XVIII.R6) and &ldquo;Ever downward, always downward&rdquo; (LD.XVIII.R14). When we first encounter Clennam in this number (XVII, chapter 26), he has his &ldquo;head down on the desk&rdquo; (LD 692); the &ldquo;Bleeding Hearts&rdquo; notice that Clennam is &ldquo;pulled down by&rdquo; his reverse of fortune (698). See LD.XVIII.R6 for Dickens&rsquo;s use of the language of &ldquo;downward&rdquo; in that Note.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=54,823,1039,156"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M54.29371,823.05828h519.64802v0h519.64802v77.92308v77.92308h-519.64802h-519.64802v-77.92308z\"  id=\"rectangle_7a491901-3729-49ab-ba92-8152716c793b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:52:29.157Z",
+    "@id": "62463fab-ccef-4304-a696-ea8985965a6c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
