@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.R16</em></p>\n<p dir=\"ltr\"><strong>&ldquo;My sweet child, you are my anchor! Will you advise me?</strong></p>\n<p><span id=\"docs-internal-guid-05737952-7fff-4cd8-c788-027dea15abc8\"><br />&ldquo;Will you advise me, my sweet child?&rdquo; Fanny asks Amy, adding, a couple of lines later: &ldquo;You are my anchor&rdquo; (LD 570).&nbsp; It was perhaps after he settled on Fanny&rsquo;s pretense of asking advice from her sister that he identified the title for this chapter, added later at proof stage. </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1429,1873,1155,144"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1433.91608,1873.42657l1149.65035,40.27972l-3.35664,58.74126l-981.81818,-28.53147l-1.67832,73.84615l-167.83217,-8.39161z\"  id=\"rough_path_4e105ac9-2d8a-4579-a39b-fc0684a184e2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:11:36.602Z",
+    "@id": "af98ef04-30f8-4b79-af21-0956b0be1ab7.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
