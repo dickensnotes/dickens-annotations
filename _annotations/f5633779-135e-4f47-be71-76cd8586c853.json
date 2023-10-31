@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.R12</em></p>\n<p dir=\"ltr\"><strong>Scene there. strengthening mystery</strong></p>\n<p><span id=\"docs-internal-guid-c60d993f-7fff-a3d9-30a5-8da8c531e763\">&nbsp;</span></p>\n<p dir=\"ltr\">This unusual note describes the purpose of the &ldquo;scene&rdquo; in Mrs. Clennam&rsquo;s house. The &ldquo;mystery&rdquo; that is strengthened is not just that of Blandois/Rigaud&rsquo;s whereabouts, but of his connection with Mrs. Clennam&rsquo;s secret. Dickens had yet to fully work out the connection between the Dorrits and the Clennams, work he would do in his &ldquo;Mems for working the story round,&rdquo; in which he heads a section of the page &ldquo;How connected with the Dorrits?&rdquo; (LD.XIX-XXMems1.R4).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1452,1600,699,49"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1451.67975,1599.93789l349.63587,0.58701v0l349.63587,0.58701l-0.03984,23.72724l-0.03984,23.72724l-349.63587,-0.58701l-349.63587,-0.58701l0.03984,-23.72724z\"  id=\"rectangle_1d798662-abd9-4820-b3f0-7e89682c322b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:22:08.966Z",
+    "@id": "f5633779-135e-4f47-be71-76cd8586c853.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
