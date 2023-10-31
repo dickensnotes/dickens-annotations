@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVII.R3</em></p>\n<p dir=\"ltr\"><strong>Both with the noises [...]</strong></p>\n<p><span id=\"docs-internal-guid-fc61203a-7fff-48ef-c6af-23d38e3070ee\">&nbsp;</span></p>\n<p dir=\"ltr\">&ldquo;The noises&rdquo; are invoked by Affery: &ldquo;There never was such a house for noises&rdquo; (LD 669). Although Arthur dismisses this&nbsp; (&ldquo;I have never heard any noises here, worth speaking of&rdquo;), Affery persists, noting that Rigaud &ldquo;heard the noises his own self&rdquo; (670). Dickens&rsquo;s reference to the coming &ldquo;Catastrophe&rdquo; and its long set up (&ldquo;to impress them again&hellip; from the first&hellip;&rdquo;) indicates his long preparation for this disaster. We might be reminded of his note for No. V: &ldquo;Begin (with a view to the Rigaud catastrophe) the mysterious sounds in the old house.&rdquo; For more on Dickens&rsquo;s defensiveness about his long preparation for this event, see LD.V.R3 and LD.XIX-XX.R10.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN17.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1539,457,1142,183"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1539.16084,526.53336l1027.97203,-69.93007l114.23077,139.2009l-522.37762,33.56643l-339.86014,10.48951l-18.88112,-29.37063l-247.55245,14.68531z\"  id=\"rough_path_effe1d67-72cd-4bd1-abf1-3657feab984c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T14:54:41.679Z",
+    "@id": "b773c0c8-717d-4ce5-b845-59e6520e0b5b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
