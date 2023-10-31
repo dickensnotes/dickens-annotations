@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.R11</em></p>\n<p dir=\"ltr\"><strong>Flora to Mr Dorrit, to lead up to Clennam &amp; Co.</strong></p>\n<p><span id=\"docs-internal-guid-2bbcf1e4-7fff-612a-1150-682425253b6d\">&nbsp;</span></p>\n<p dir=\"ltr\">There is no memoranda on the left associated with Flora&rsquo;s visit to Mr. Dorrit, though the final note refers to &ldquo;Mrs Clennam and the Flintwinches.&rdquo; This chapter allows Dickens to return to the Clennam/Flintwinch/Blandois plot and to establish a brief connection between Mr. Dorrit and the woman whose secrets likely postponed his release from the Marshalsea. Flora becomes Dickens&rsquo;s way of establishing the (somewhat contrived) grounds for the visit.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1701,1430,980,95"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1702.70672,1429.92088l488.94607,15.18536v0l488.94607,15.18536l-1.00429,32.33656l-1.00429,32.33656l-488.94607,-15.18536l-488.94607,-15.18536l1.00429,-32.33656z\"  id=\"rectangle_9679aaa2-97be-42d6-ab44-3b3dc8a0c709\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:21:45.321Z",
+    "@id": "211b3f81-1ac3-4de3-be43-d1bd40e59dcb.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
