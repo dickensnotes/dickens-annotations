@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.R5</em></p>\n<p dir=\"ltr\"><strong>Getting on.</strong></p>\n<p><span id=\"docs-internal-guid-eb2587d8-7fff-4434-db32-920c17bfcd60\">&nbsp;</span></p>\n<p dir=\"ltr\">As with the title for the following chapter, this title appears on the left instead of in the center, a departure from Dickens&rsquo;s usual practice.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1400,811,331,79"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1403.2474,810.65988l164.12906,7.15531v0l164.12906,7.15531l-1.41237,32.39695l-1.41237,32.39695l-164.12906,-7.15531l-164.12906,-7.15531l1.41237,-32.39695z\"  id=\"rectangle_b433a623-9a14-4871-ad3c-ce598915a3ae\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:18:27.441Z",
+    "@id": "2549776c-2bcd-4339-b2f2-184f26fa2442.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
