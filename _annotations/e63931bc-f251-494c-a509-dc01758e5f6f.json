@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.R15</em></p>\n<p dir=\"ltr\"><strong>So Mr Dorrit returns [...]</strong></p>\n<p><span id=\"docs-internal-guid-1f7a0167-7fff-996a-c799-19862227aaa0\">&nbsp;</span></p>\n<p dir=\"ltr\">&ldquo;Building on, building on, busily, busily, from morning to night,&rdquo; the end of this chapter describes Mr. Dorrit&rsquo;s daydreams, hinting at his intention of marriage to Mrs. General as well as his attempt to rebuild the delusions and fictions of grandeur that were threatened by his encounter with John Chivery (LD 616). This note makes explicit the connection between the end of this number and the beginning of No. XVI (&ldquo;the Castle, that is to come down Crash! in the next chapter&rdquo;).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1342,1989,1287,111"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1341.63636,1988.90909h643.72727v0h643.72727v55.54545v55.54545h-643.72727h-643.72727v-55.54545z\"  id=\"rectangle_6fad99e7-6c41-41ce-9f47-658a6965e9af\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:23:07.481Z",
+    "@id": "e63931bc-f251-494c-a509-dc01758e5f6f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
