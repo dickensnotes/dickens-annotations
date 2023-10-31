@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XV.L2</em></p>\n<p dir=\"ltr\"><strong>Fanny to marry Edmund Sparker? Yes</strong></p>\n<p><span id=\"docs-internal-guid-60c87fa0-7fff-48c8-d72c-42991c157907\">&nbsp;</span></p>\n<p dir=\"ltr\">This note provides the link between this and the previous number, which planned to &ldquo;Engage Fanny to Edmund Sparkler&rdquo; (LD.XIV.L4). The marriage facilitates Mr. Dorrit&rsquo;s connection with, and visit to, Mr. Merdle.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN15.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=66,578,1032,126"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M65.94872,578.30303h516.15152v0h516.15152v62.77156v62.77156h-516.15152h-516.15152v-62.77156z\"  id=\"rectangle_13db7a1c-3ced-460e-ad02-de651e26679c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:13:56.017Z",
+    "@id": "cc8b147d-3520-40eb-892e-662bd5709f9e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
