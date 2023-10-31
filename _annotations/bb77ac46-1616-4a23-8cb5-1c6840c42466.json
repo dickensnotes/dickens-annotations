@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIV.R12</em></p>\n<p dir=\"ltr\"><strong>Foreshadow Clennam&rsquo;s loss, through Pancks&rsquo;s persuasion.</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The term &ldquo;foreshadow&rdquo; was rarely used beyond Christian typology until the 1830s. Dickens himself uses the term in <em>A Christmas Carol</em> (1843) to refer to the consequences of a person&rsquo;s actions (&ldquo;Men&rsquo;s courses will foreshadow certain ends&rdquo; [108]), and later in <em>Our Mutual Friend</em> as a synonym for foreseeing (&ldquo;Another consequence that he had never foreshadowed was&hellip;&rdquo; [380]). But in a March 1847 letter to Hablot Knight Browne discussing an illustration for <em>Dombey and Son</em>, the term became one applied to narrative craft, as it is here: &ldquo;as I wish to foreshadow, dimly&hellip;&rdquo; (Letters 5.34). He will first use the terms &ldquo;foreshadowing&rdquo; and &ldquo;shadowing forth&rdquo; in the Working Notes for <em>Bleak House</em>, where the shadow metaphor functions to indicate predetermined actions of narrative and consequence (BH_WN_02 &amp; BH_WN_05). Given the significance of the &ldquo;shadow&rdquo; motif throughout <em>Little Dorrit</em>, it is notable that Dickens adopts this term to refer to the preparatory work of narrative.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Pancks&rsquo;s certainty about the safety of Merdle investments, coupled with Dickens&rsquo;s language of disease and infection (&ldquo;Mr. Pancks had taken the prevalent disease&hellip; [H]e appeared before Clennam, and the infection he threw off was all the more virulent&rdquo; [565-66]), alerts the reader to the future loss to befall both men, and thus fulfills the memorandum on the left (LD.XIV.L3).</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">If we are to read &ldquo;foreshadow&rdquo; as an instruction rather than a description, it is at this point in the right-hand chapter notes for this number that Dickens shifts into imperative directives.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN14.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1362,1371,1124,89"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1366.31702,1370.51282l1116.55012,20.97902l2.331,67.59907l-668.99767,-16.31702l-25.64103,-16.31702l-428.90443,-4.662z\"  id=\"rough_path_301db8f6-65bc-493d-ad96-d20e7aaf3153\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-10-31T00:08:56.366Z",
+    "@id": "bb77ac46-1616-4a23-8cb5-1c6840c42466.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
