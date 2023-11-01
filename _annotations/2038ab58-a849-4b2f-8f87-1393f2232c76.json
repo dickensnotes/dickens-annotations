@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 26
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R12</em></p>\n<p dir=\"ltr\"><strong>Shew what a Humbug [...]</strong></p>\n<p><span id=\"docs-internal-guid-254c8e9b-7fff-5121-a743-a6818c8047db\">&nbsp;</span></p>\n<p dir=\"ltr\">The note referring to Pancks operates as a response to the previous note, as a strategy by which he will &ldquo;Shew what a Humbug the Patriarch is.&rdquo; The chapter describes Bleeding Heart Yard as &ldquo;cropped by Mr. Casby&rdquo; via Pancks&rsquo;s rent-collections (LD 774). What the note describes as a &ldquo;crop,&rdquo; the novel made literal when Pancks &ldquo;whipped out a pair of sheers, swooped upon the Patriarch behind, and snipped off the short sacred locks that flowed upon the shoulders&rdquo; (780). With the word &ldquo;humbug,&rdquo; the note suggests a connection between the Patriarch and the &ldquo;humbug&rdquo; of Circumlocution defended by Barnacle in chapter 28 (718).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1449,1007,786,70"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1453.32686,1007.1703l782.39662,31.02607v39.11983l-786.44349,-28.32815z\"  id=\"rough_path_36f7ced2-3314-43f6-92e3-7fa0ed3b8a23\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:35:36.640Z",
+    "@id": "2038ab58-a849-4b2f-8f87-1393f2232c76.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
