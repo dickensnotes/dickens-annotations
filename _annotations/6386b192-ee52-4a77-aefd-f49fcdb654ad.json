@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 19
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R13</em></p>\n<p dir=\"ltr\"><strong>A Plea in the Marshalsea.</strong></p>\n<p><span id=\"docs-internal-guid-f6723415-7fff-2e35-d428-e8d6265d60e9\">&nbsp;</span></p>\n<p dir=\"ltr\">As with the previous chapters, this chapter title was added in the proof. There is no title in the manuscript, although Dickens clearly left space for it.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1711,1597,764,102"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1713.89469,1596.91429l380.36409,21.18101v0l380.36409,21.18101l-1.67264,30.03701l-1.67264,30.03701l-380.36409,-21.18101l-380.36409,-21.18101l1.67264,-30.03701z\"  id=\"rectangle_ce295e1f-0cef-4013-9250-d2817e99004a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:24:33.374Z",
+    "@id": "6386b192-ee52-4a77-aefd-f49fcdb654ad.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
