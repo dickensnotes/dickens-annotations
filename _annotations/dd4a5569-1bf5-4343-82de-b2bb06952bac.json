@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 8
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R2</em></p>\n<p dir=\"ltr\"><strong>Clennam learns [...]</strong></p>\n<p><span id=\"docs-internal-guid-e08dd813-7fff-1a91-07f1-a45e2be97b9f\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens composes the chapter notes for this number with a series of longer phrases and even sentences. The notes for this chapter are connected via their use of conjunctions and transitions (when&hellip; and&hellip; then&hellip;). Such summaries are characteristic of Dickens&rsquo;s retroactive practice. Indeed, Clennam&rsquo;s reflections center on Little Dorrit (&ldquo;Always, Little Dorrit!&rdquo; [LD 700]), but they express his love &ldquo;imperfectly and vaguely&rdquo;; it is Chivery who &ldquo;completes the lesson&rdquo;: &ldquo;Of Miss Dorrit&rsquo;s love&rdquo; &ldquo;For whom?&rdquo; &ldquo;You&rdquo; (710).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1364,429,1307,240"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1372.62109,429.05105l683.15695,47.50429l615.29367,2.26211l-58.81484,165.13396l-737.44756,-22.62109l-9.04844,47.50429l-502.18822,-27.14531z\"  id=\"rough_path_35ab57f4-5791-4741-ac9d-99a123d5a3fd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:10:31.133Z",
+    "@id": "dd4a5569-1bf5-4343-82de-b2bb06952bac.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
