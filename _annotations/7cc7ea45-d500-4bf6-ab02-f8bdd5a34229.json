@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems1.L2</em></p>\n<p dir=\"ltr\"><strong>Affery saw him</strong></p>\n<p><span id=\"docs-internal-guid-7341d639-7fff-1354-f9f6-565bf0ef8bc5\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens makes multiple references to Affery seeing or overhearing elements of this story, indicating his use of these retrospective notes to establish the exact content of &ldquo;Affery&rsquo;s dreams&rdquo; to be recounted in the final number.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=897,254,371,67"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M896.85315,310.48951v-56.64336l371.32867,4.1958v62.93706z\"  id=\"rough_path_8fd4aef2-411a-45ec-b164-e33b287caa82\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:34:28.844Z",
+    "@id": "7cc7ea45-d500-4bf6-ab02-f8bdd5a34229.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
