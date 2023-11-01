@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.L5</em></p>\n<p dir=\"ltr\"><strong>Ferdinand Barnacle. Yes (Final)</strong></p>\n<p><span id=\"docs-internal-guid-3363e1b8-7fff-c675-95fb-667e881898f2\">&nbsp;</span></p>\n<p dir=\"ltr\">As Dickens nears the end of his novel, he begins to indicate his &ldquo;final&rdquo; use of a character. As Herring puts it, dismissing Barnacle at this point &ldquo;meant the conclusion of the political satire in the novel. He made sure that none of his readers could miss the connection between the power wielded by both the Circumlocution Office and Merdle. Both, Ferdinand insists, rest on humbug&rdquo; (56). Barnacle appears in chapter 28 (&ldquo;Scene with Ferdinand Barnacle&rdquo;).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=111,859,988,122"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M110.62633,859.11389h494.13978v0h494.13978v60.94589v60.94589h-494.13978h-494.13978v-60.94589z\"  id=\"rectangle_a6485b0d-9d24-4da6-abfd-9492847ac79f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:08:49.293Z",
+    "@id": "75949d3f-8f00-4b74-9711-adfe5ee12b6d.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
