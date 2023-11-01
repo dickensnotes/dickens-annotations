@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.L13</em></p>\n<p dir=\"ltr\"><strong>Chapters [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">As Herring notes, &ldquo;[e]ven after determining the connection between the Clennams and the Dorrits, Dickens was not yet ready to write the first chapter of the final number. His notes for the number plans show him trying to decide on the best order for the revelation of the secret&rdquo; (61). The non-textual markings here suggest that Dickens imagined that the opening chapter would be separate from the &ldquo;Discovery&rdquo; chapter, but Dickens combines the two into one long chapter. This likely explains his erasure of the final chapter heading on the right. Notably, though, Dickens only sketches out topics for three of the six intended chapters in this list. At the end of his writing, he does not return to complete the list.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This listing of chapters for the final number on the left side of the final Notes page was not unusual for Dickens. See his working out of the &ldquo;Order&rdquo; for the final number of <em>David Copperfield</em> (DC.XIX-XX.L4) and his list of chapters for the last number of <em>Our Mutual Friend</em>.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The word after &ldquo;Discovery&rdquo; appears to be &ldquo;Do&rdquo;; it is similar to the same letters used elsewhere in the Notes (for other examples, see DC_WN_03 and BH_WN_07).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=386,1520,855,380"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M385.64103,1519.69697l0,379.95338l855.47786,0v-153.84615l-491.84149,0v-226.10723z\"  id=\"rough_path_b2bfde6f-f6d3-46c2-a98f-39d11b212c56\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:28:09.656Z",
+    "@id": "8e59cb92-7aff-4a95-a15e-ca38c71674f5.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
