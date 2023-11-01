@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 23
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R17</em></p>\n<p dir=\"ltr\"><strong>Star</strong></p>\n<p><span id=\"docs-internal-guid-01e7caca-7fff-976c-fa1c-9fe06fdca841\">&nbsp;</span></p>\n<p dir=\"ltr\">The novel will connect the &ldquo;one bright shining star in the sky&rdquo; to &ldquo;the fervent purpose of [Little Dorrit&rsquo;s] own heart shining above her&rdquo; as she makes her &ldquo;offer&rdquo; of money to Arthur (LD 738). Although this star appears only briefly in the chapter (it is mentioned twice), the box Dickens places around the word in the note may indicate his sense of its significance as a symbol of Little Dorrit&rsquo;s goodness.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2508,1933,136,108"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2514.44158,1932.98085l64.99636,4.10265v0l64.99636,4.10265l-3.14671,49.85184l-3.14671,49.85184l-64.99636,-4.10265l-64.99636,-4.10265l3.14671,-49.85184z\"  id=\"rectangle_7d42546d-e7fd-404c-8533-1a7a3b9b6881\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:27:13.046Z",
+    "@id": "121dc19d-f9a8-49ec-ac03-17be696c0beb.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
