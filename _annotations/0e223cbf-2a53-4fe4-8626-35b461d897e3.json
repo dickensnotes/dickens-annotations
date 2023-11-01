@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems1.L3</em></p>\n<p dir=\"ltr\"><strong>Arthur Clennam in his interview [...]&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The passage from which Dickens draws language here is in chapter 5 (No. II), when Clennam asks his mother &ldquo;whether it ever occurred to you to suspect&hellip; that he had any secret remembrance which caused him trouble of mind&ndash;remorse?&rdquo;; &ldquo;is it possible, mother, that he had unhappily wronged any one, and made no reparation?&rdquo; (LD 46). Arthur goes on to describe his father&rsquo;s death: &ldquo;Remember, I saw his face when he gave the watch into my keeping, and struggled to express that he sent it as a token you would understand, to you. Remember, I saw him at the last with the pencil in his failing hand, trying to write some word for you to read, but to which he could give no shape&rdquo; (47).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The &ldquo;old-fashioned gold watch in a heavy double case&rdquo; is first mentioned in No. I, chapter 3, when Clennam describes his father&rsquo;s &ldquo;anxiety&rdquo; about the watch&rsquo;s delivery to Mrs. Clennam. He describes the watch case that his father had struggled to open before his death: &ldquo;I opened it myself, thinking there might be for anything I knew, some memorandum there. However, as I need not tell you, mother, there was nothing but the old silk watch-paper worked in beads, which you found (no doubt) in its place between the cases, where I found and left it&rdquo; (LD 35).&nbsp;</p>\n<p><br />Dickens conflates multiple chapters here. There is no mention in these early numbers of the inscription; this will appear in chapter 30 (No. IX) when Rigaud describes the watch: &ldquo;An old silk watch-lining, worked with beads!&rdquo; he remarks &ldquo;Extraordinary how they used to complicate these cyphers&hellip; Now is this D. N. F.? It might be almost anything&rdquo; (LD 349). Mrs. Clennam confirms that the words &ldquo;have always stood, I believe, for Do Not Forget!&rdquo; (350). It was at this point in the Notes that Dickens reminded himself to &ldquo;Suspend it all. Hanging Sword&rdquo; (LD.IX.R2).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=12,308,1319,459"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M25.99068,307.57576l-13.98601,440.55944l515.15152,18.64802l6.99301,-60.60606l797.2028,27.97203l-4.662,-400.9324z\"  id=\"rough_path_f9c138dc-1412-4f4c-96b6-5d67c890fd5e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:35:56.652Z",
+    "@id": "0e223cbf-2a53-4fe4-8626-35b461d897e3.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
