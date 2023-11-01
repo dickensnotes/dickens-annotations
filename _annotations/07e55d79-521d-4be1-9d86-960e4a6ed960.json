@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 19
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R5</em></p>\n<p dir=\"ltr\"><strong>Mrs Clennam&rsquo;s immobility [...]</strong></p>\n<p><span id=\"docs-internal-guid-b86866b0-7fff-ff51-9095-99bc9b91bf89\"><br />Mrs. Clennam&rsquo;s change in this chapter fulfills the conclusion of a relatively early note in Dickens&rsquo;s book of <em>Memoranda</em>: &ldquo;Bedridden (or room-ridden) twenty&ndash;-five and twenty&ndash;years; any length of time. As to most things, kept at a standstill all the while. Thinking of altered streets as the old streets&ndash;changed things as the unchanged things&ndash;the youth or girl I quarreled with all those years ago, as the same youth or girl now. Brought out of doors by an unexpected exercise of my latent strength of character, and then how strange! (Done in Mrs. Clennam)&rdquo; (3). </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1343,476,383,130"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1342.71216,475.68018l343.98472,8.09376l39.11983,116.01053l-62.05215,5.39584l-298.12009,-17.53648z\"  id=\"rough_path_c51e183a-40d1-4cc6-ac28-0e17e06b3d7e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:32:23.894Z",
+    "@id": "07e55d79-521d-4be1-9d86-960e4a6ed960.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
