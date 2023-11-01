@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.R6</em></p>\n<p dir=\"ltr\"><strong>An orphan [...]</strong></p>\n<p><span id=\"docs-internal-guid-6ee4c119-7fff-c098-b255-fc27747bb10a\">&nbsp;</span></p>\n<p dir=\"ltr\">Mrs. Clennam will describe Arthur&rsquo;s mother as &ldquo;a graceless orphan, training to be a singing girl under the patronage of Frederick Dorrit, who kept &ldquo;an idle house where singers, and players, and such-like children of Evil, turned their backs on the Light and their faces to the Darkness&rdquo; (LD 757).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1738,596,922,115"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1738.46825,613.89147l63.07804,-17.40084l26.10126,15.22573h154.43245l6.52531,32.62657l669.93231,-19.57594l2.1751,43.5021l-82.65399,43.5021l-280.58853,-6.52531l-23.92615,-23.92615l-480.69818,13.05063z\"  id=\"rough_path_b889e388-94bf-417f-b39d-e85e482e0bb9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T02:09:12.357Z",
+    "@id": "ab0c612c-fc3f-41b9-aa9c-865abaf17740.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
