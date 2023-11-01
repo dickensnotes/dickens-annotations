@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 35
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R21</em></p>\n<p dir=\"ltr\"><strong>Flora&nbsp; Mr F&rsquo;s Aunt</strong></p>\n<p><span id=\"docs-internal-guid-74a8745e-7fff-70f5-a0a8-a6ef19e71b18\">&nbsp;</span></p>\n<p dir=\"ltr\">The only character from the left-hand list still to be &ldquo;disposed of,&rdquo; Flora appears in this chapter, flanked by the irascible Mr. F&rsquo;s Aunt, to display her constancy to Arthur and her voluble kindness to Little Dorrit. The box around the names perhaps indicates Dickens&rsquo;s reminder that these characters were still to be &ldquo;taken up.&rdquo;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2207,1768,411,142"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2207.39532,1889.56229l14.83856,-121.40637l389.84935,17.53648l6.7448,33.72399l-39.11983,90.3803z\"  id=\"rough_path_c225c60e-cda7-4632-9ae4-92f310dbcd2c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:49:03.795Z",
+    "@id": "2443985a-48d0-486c-a29c-96cda174417b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
