@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.R8</em></p>\n<p dir=\"ltr\"><strong>Vindictive and with her heart full of [hatred] raging hatred</strong></p>\n<p><span id=\"docs-internal-guid-849235b4-7fff-d41a-5e8a-28815a7f18be\">&nbsp;</span></p>\n<p dir=\"ltr\">&ldquo;I, vindictive and implacable?&rdquo; Mrs. Clennam asks, insisting that she was &ldquo;appointed to be the instrument of their punishment&rdquo; (LD 754). The narrative will describe her as filled with &ldquo;vindictive pride and rage.&rdquo;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1412,751,1114,124"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2103.88587,814.00112l-4.35021,-63.07804l426.32056,4.35021v54.37762l-113.10545,-2.1751l-2.1751,67.42825l-996.19804,-39.15189l-2.1751,-47.85231z\"  id=\"rough_path_1d056532-9c8c-4e48-b433-af564fa4b830\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T02:10:48.252Z",
+    "@id": "66aae953-f8f1-4c51-8378-77606947e7f5.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
