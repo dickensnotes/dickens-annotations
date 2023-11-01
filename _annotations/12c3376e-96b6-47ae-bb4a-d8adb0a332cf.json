@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.L10</em></p>\n<p dir=\"ltr\"><strong>Mrs General [...]</strong></p>\n<p><span id=\"docs-internal-guid-9842e9ba-7fff-fe3e-bbc2-6525393f87de\">&nbsp;</span></p>\n<p dir=\"ltr\">The longest mem refers to the dispatching of Mrs. General in chapter 33: &ldquo;Then, too, here was Mrs General, got home from foreign parts, sending a Prune and a Prism by post every other day, demanding a new Testimonial by way of recommendation to some vacant appointment or other. Of which remarkable gentlewoman it may be finally observed, that there surely never was a gentlewoman of whose transcendent fitness for any vacant appointment on the face of this earth, so many people were (as the warmth of her Testimonials evinced) so perfectly satisfied&mdash;or who was so very unfortunate in having a large circle of ardent and distinguished admirers, who never themselves happened to want her in any capacity&rdquo; (LD 781). Dickens&rsquo;s initial answer to the implied question of the character&rsquo;s inclusion is an affirmative, but he then elaborates on how the narrative will deal with her character&rsquo;s fate, writing over the initial &ldquo;Yes&rdquo; with this detail.&nbsp;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=119,1074,1204,131"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M121.51546,1074.32551l601.10942,12.19453v0l601.10942,12.19453l-1.0836,53.41412l-1.0836,53.41412l-601.10942,-12.19453l-601.10942,-12.19453l1.0836,-53.41412z\"  id=\"rectangle_ba910060-7980-4c69-99b1-ac29560a8169\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:26:35.185Z",
+    "@id": "12c3376e-96b6-47ae-bb4a-d8adb0a332cf.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
