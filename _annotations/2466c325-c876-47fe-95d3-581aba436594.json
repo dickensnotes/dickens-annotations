@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.L2</em></p>\n<p dir=\"ltr\"><strong>The Merdle Image smashed? (Done last No.)</strong></p>\n<p><span id=\"docs-internal-guid-af0acdd5-7fff-d140-8be0-371e2423f0f1\"><br />That Dickens included this question in the notes for this number&ndash;answering it with &ldquo;Done last No.&rdquo; in a different, darker ink&ndash;indicates that he likely wrote these questions before he wrote the previous No. XVII. He likely intended to carry over the financial consequences of Merdle&rsquo;s fraud into this number, before deciding to condense Merdle&rsquo;s collapse into No. XVII. This is consistent with the suggestion that Dickens sought to extend Clennam&rsquo;s downfall into this number, too, given his question &ldquo;Clennam going downward?&rdquo; in the previous number, which he later answers by modifying the tense of &ldquo;going&rdquo;: &ldquo;Yes. Gone&rdquo; (see LD.XVII.L4).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=41,429,1117,131"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M40.50095,429.31316h558.60989v0h558.60989v65.47011v65.47011h-558.60989h-558.60989v-65.47011z\"  id=\"rectangle_66f872f9-b22a-4262-9d4a-d51e580f4dac\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:07:42.846Z",
+    "@id": "2466c325-c876-47fe-95d3-581aba436594.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
