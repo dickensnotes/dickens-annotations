@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 25
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R19</em></p>\n<p dir=\"ltr\"><strong>Close with John [...]</strong></p>\n<p><span id=\"docs-internal-guid-56ebaf34-7fff-90a8-849a-60a42ff9837c\">&nbsp;</span></p>\n<p dir=\"ltr\">The chapter closes with John returning to Clennam&rsquo;s room with a message from Little Dorrit: &ldquo;Tell him&hellip; that his Little Dorrit sent him her underlying love&rdquo; (LD 741). &ldquo;Will you tell Miss Dorrit I&rsquo;ve been honorable, sir?&rdquo; he asks of Clennam. &ldquo;There&rsquo;s my hand, sir&hellip;and I&rsquo;ll stand by you forever!&rdquo;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1414,1991,1095,104"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1434.67582,2085.16144l-20.2344,-94.42718l1094.0063,39.11983l1.34896,64.75006z\"  id=\"rough_path_d8ac7516-f225-4d32-9509-0227368fdb2b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:28:24.906Z",
+    "@id": "e12189f3-4773-488c-9209-863a7c971c64.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
