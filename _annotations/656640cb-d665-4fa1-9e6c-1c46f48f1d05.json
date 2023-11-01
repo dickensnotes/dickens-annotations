@@ -4,16 +4,14 @@ order: 24
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "656640cb-d665-4fa1-9e6c-1c46f48f1d05.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R18</em></p>\n<p dir=\"ltr\"><strong>Arthur&rsquo;s refusal of Little Ds offer</strong></p>\n<p><span id=\"docs-internal-guid-3bce8c97-7fff-f3d3-4353-750b6436fee6\">&nbsp;</span></p>\n<p dir=\"ltr\">This note appears to be in a slightly more faded ink than the notes around it, possibly indicating a separate temporal layer.&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-11-01T01:27:40.091Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 24
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1387.46223,1913.84356l368.26599,33.72399l-6.7448,41.81775l-349.38056,1.34896l-20.2344,-78.23966v0\"  id=\"rough_path_c7c3e407-eed2-4061-989c-63dd280b8b0d\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1379.36847,1912.4946l376.35975,35.07295l-6.7448,41.81775l-349.38056,1.34896l-20.2344,-78.23966v0\"  id=\"rough_path_c7c3e407-eed2-4061-989c-63dd280b8b0d\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"8.09376\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 24
             }
         }
     ],
-    "oa:annotatedAt": "2023-11-01T01:27:40.091Z",
-    "@id": "656640cb-d665-4fa1-9e6c-1c46f48f1d05.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R18</em></p>\n<p dir=\"ltr\"><strong>Arthur&rsquo;s refusal of Little Ds offer</strong></p>\n<p><span id=\"docs-internal-guid-3bce8c97-7fff-f3d3-4353-750b6436fee6\">&nbsp;</span></p>\n<p dir=\"ltr\">This note appears to be in a slightly more faded ink than the notes around it, possibly indicating a separate temporal layer.&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-11-01T01:27:51.700Z"
 }
