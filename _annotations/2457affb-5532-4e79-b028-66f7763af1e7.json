@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R10</em></p>\n<p dir=\"ltr\"><strong>Letter to Mrs Clennam &ndash; One week from this day</strong></p>\n<p><span id=\"docs-internal-guid-beba59fb-7fff-92e7-0c09-6bc9a6fd1a29\">&nbsp;</span></p>\n<p dir=\"ltr\">Rigaud&rsquo;s letter to Mrs Clennam names &ldquo;one week from this day, for a last final visit on my part,&rdquo; at which time he plans to complete his blackmail (LD 728).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1515,1329,957,105"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1514.94545,1371.0022l950.4,62.83636l6.28364,-37.70182l-955.11273,-67.54909z\"  id=\"rough_path_0dead3f6-22b5-4308-bbb0-5abf3f3eda6e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:22:49.902Z",
+    "@id": "2457affb-5532-4e79-b028-66f7763af1e7.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
