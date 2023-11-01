@@ -13,6 +13,7 @@ order: 8
     "oa:annotatedBy": [
         "annamgibson"
     ],
+    "oa:serializedAt": "2023-11-01T19:12:05.992Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -25,7 +26,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M884.13054,713.50117h68.59907v0h68.59907v25.47552v25.47552h-68.59907h-68.59907v-25.47552z\"  id=\"rectangle_f1151ead-503a-4850-bbd4-8b72b4065d0c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M884.13054,713.50117h68.59907v0h68.59907v25.47552v25.47552h-68.59907h-68.59907v-25.47552z\"  id=\"rectangle_f1151ead-503a-4850-bbd4-8b72b4065d0c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"12.58741\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -37,9 +38,8 @@ order: 8
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p dir=\"ltr\"><em>LD.II.L7</em></p>\n<p dir=\"ltr\"><strong>Dorrit&nbsp;</strong></p>\n<p dir=\"ltr\">The left-hand memoranda for No. II culminate in &ldquo;Dorrit,&rdquo; a repetition of the earlier mention, indicating her significance in this second number.</p>",
+            "chars": "<p dir=\"ltr\"><em>LD.II.L7</em></p>\n<p dir=\"ltr\"><strong>Dorrit&nbsp;</strong></p>\n<p dir=\"ltr\">&nbsp;</p>\n<p dir=\"ltr\">The left-hand memoranda for No. II culminate in &ldquo;Dorrit,&rdquo; a repetition of the earlier mention, indicating her significance in this second number.</p>",
             "format": "text/html"
         }
-    ],
-    "oa:serializedAt": "2023-10-28T22:09:08.626Z"
+    ]
 }
