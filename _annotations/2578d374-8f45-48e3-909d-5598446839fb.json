@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R12</em></p>\n<p dir=\"ltr\"><strong>Prepare finally, for the last scene at the old house</strong></p>\n<p><span id=\"docs-internal-guid-c8592643-7fff-a5b1-78af-2d4d6db72480\">&nbsp;</span></p>\n<p dir=\"ltr\">The box around this note encapsulates how this chapter &ldquo;prepare[s]&rdquo; for the revelation of Mrs. Clenam&rsquo;s story in chapter 30, as well as to the impending collapse of &ldquo;the old house&rdquo; in chapter 31. The word &ldquo;finally&rdquo; indicates just how long Dickens has been building to this point, at least since No. V, where he makes explicit the &ldquo;Rigaud catastrophe&rdquo; (see LD.V.R3).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1333,1384,434,170"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1332.72,1391.42402l421.00364,-7.85455l12.56727,111.53455l-39.27273,20.42182l-318.89455,37.70182l-31.41818,-1.57091l-18.85091,-21.99273z\"  id=\"rough_path_19a389d9-c96a-47c3-bdcf-8e3693c99bbf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:24:06.495Z",
+    "@id": "2578d374-8f45-48e3-909d-5598446839fb.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
