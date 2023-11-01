@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.R13</em></p>\n<p dir=\"ltr\"><strong>The D.N.F. watchpaper was her working</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The origin of &ldquo;Do not forget&rdquo; is revealed in chapter 30 to be a letter from Arthur&rsquo;s mother to his father, Mr. Clennam, which Mrs. Clennam discovers in a &ldquo;secret drawer&rdquo;: &ldquo;No! &lsquo;Do not forget.&rsquo; The initials of those words are within here now, and were within here then. I was appointed to find the old letter that referred to them, and that told me what they meant, and whose work they were, and why they were worked, lying with this watch in his secret drawer. But for that appointment there would have been no discovery. &ldquo;Do not forget.&rdquo; It spoke to me like a voice from an angry cloud. Do not forget the deadly sin, do not forget the appointed discovery, do not forget the appointed suffering. I did not forget&rdquo; (LD 753-755).&nbsp;</p>\n<p><br />In this note and the one below (LD.Mems2.R15), Dickens works through how these words will change their meaning. Mrs. Clennam turns the lovers&rsquo; words of commitment into a reminder of sin: &ldquo;They did not forget&rdquo; (755).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1727,1604,746,87"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1727.01579,1644.9481l3.74711,-41.21821l741.92783,45.9021l-1.87356,41.21821z\"  id=\"rough_path_c662f866-eb0a-4a16-b343-8de7f2316027\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T02:27:23.618Z",
+    "@id": "7b0490f3-b796-48c2-91bb-9b5dc80a5480.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
