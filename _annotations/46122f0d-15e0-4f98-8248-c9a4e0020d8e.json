@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.R12</em></p>\n<p dir=\"ltr\"><strong>She had written numerous appeals to Mrs Clennam [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens makes a change to what may have been his original plan here to have Mrs. Clennam mention her receipt of these appeals. Instead, Flintwinch describes intercepting the letters: &ldquo;When Arthur&rsquo;s mother had been under the care of him and his wife, she had been always writing, incessantly writing,&ndash;mostly letters of confession to you, and Prayers for forgiveness. My brother had handed, from time to time, lots of these sheets to me. I thought I might as well keep them to myself as have them swallowed up alive too; so I kept them in a box, looking over them when I felt in the humour&rdquo; (LD 761).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In the manuscript, &ldquo;letters of confession to you&rdquo; was originally written as &ldquo;letters appealing to you,&rdquo; suggesting that as late as the proof stage, Dickens shifts the focus of the mother&rsquo;s letters from desperation to penitence.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">No mention is made in the novel of Arthur&rsquo;s mother imploring to see her son, though it is suggested that &ldquo;the absence of Arthur was a daily agony to his mother&rdquo; (LD 755). Similarly, there is no mention of a &ldquo;story&rdquo; left to be read beyond the &ldquo;appeals&rdquo; (turned into &ldquo;confessions&rdquo;). Space constraints would not allow for the inclusion of the mother&rsquo;s story, and the erasure of her story via Little Dorrit&rsquo;s destruction of the letters becomes a pivotal act in the novel&rsquo;s conclusion.&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Garrett Stewart considers this note in &ldquo;Dickens and the Narratography of Closure,&rdquo; reading it as a &ldquo;brief telegraphic reminder&rdquo; that &ldquo;is more than the novel itself makes good on&rdquo; (521):</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">&ldquo;The mother&rsquo;s craving for a visit with her child is replaced by a capitulation to guilt, confession, and a plea for forgiveness. It&rsquo;s just as unlikely as it sounds, this sense of penance rather than victimhood&ndash;and just as briefly dispatched amid the other strained and improbable turns of the denouement. This missing mother&rsquo;s story itself goes missing, left in the dust by the momentum of the requisite marriage plot&rdquo; (521-522).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">For Stewart, we see here &ldquo;a flash of notebook inspiration potent enough to justify the contortions of the denouement,&rdquo; but Dickens &ldquo;later scrambled to smooth over that claim with an ameliorative vision of continuity rather than of rupture and return&rdquo; (528). To consider the narrative work of this note, for Stewart, is to be &ldquo;listening in&rdquo; on the &ldquo;final exertions of the prose, transacted at the far margins of plot.&rdquo;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1355,1478,1305,126"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1401.95804,1477.73893l1258.74126,39.62704l-1305.36131,-32.63403v104.8951l449.88345,13.98601v-37.29604l67.59907,2.331l6.99301,-23.31002l780.88578,25.64103v-51.28205\"  id=\"rough_path_8cf50c2d-e2e0-44eb-beb5-33ca119f0fef\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T02:24:26.908Z",
+    "@id": "46122f0d-15e0-4f98-8248-c9a4e0020d8e.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
