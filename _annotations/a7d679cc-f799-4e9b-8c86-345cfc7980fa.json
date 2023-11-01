@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems1.R4</em></p>\n<p dir=\"ltr\"><strong>How connected with the Dorrits?</strong></p>\n<p><span id=\"docs-internal-guid-3057bd47-7fff-3216-b15f-dae33dee82b5\">&nbsp;</span></p>\n<p dir=\"ltr\">The number of erasures, false starts, and corrections in these prospective notes indicates the difficulty Dickens experienced establishing the exact terms of Gilbert Clennam&rsquo;s codicil and the precise connections between Gilbert Clennam, his nephew (Arthur&rsquo;s father), Arthur, Mrs. Clennam, Frederick Dorrit, and Little Dorrit. Despite establishing Arthur&rsquo;s suspicion of a connection between the Clennams and the Dorrits early in the novel, he has yet to work through the precise nature of this relationship at this late stage of writing.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1378,232,806,57"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1378.58611,231.56777l402.71561,9.76629v0l402.71561,9.76629l-0.45429,18.73265l-0.45429,18.73265l-402.71561,-9.76629l-402.71561,-9.76629l0.45429,-18.73265z\"  id=\"rectangle_1836afdf-7f7b-4e06-aed5-50417426f78f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:48:25.679Z",
+    "@id": "a7d679cc-f799-4e9b-8c86-345cfc7980fa.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
