@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems1</em></p>\n<p dir=\"ltr\"><strong>For Nos XIX and XX.</strong></p>\n<p dir=\"ltr\">Mems: for working the story round. &ndash; Retrospective</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In this unusual two pages of notes, Dickens prepares for the work that must be accomplished in his final double number. His strategy for dividing these pages of &ldquo;mems&rdquo; offers striking evidence of his practice of using the Working Notes for both &ldquo;retrospective&rdquo; and &ldquo;prospective&rdquo; purposes, as well as his use of left and right sides for different kinds of notation. &ldquo;Working the story round&rdquo; implies coming full circle, bringing the beginning of the novel to bear upon the end; indeed, Dickens begins by summarizing a scene from the first number. We have seen such language in the Notes before when, in No. XVI, he instructs himself to &ldquo;Run the two ends of the book together&rdquo; (LD.XVI.R17).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In these retrospective &ldquo;mems,&rdquo; both here and on the following page, Dickens acknowledges that &ldquo;working the story round&rdquo; means collecting up his previous references to Mrs. Clennam&rsquo;s secret and, more specifically, to the content of Affery&rsquo;s dreams. In four places (two on each of the left-hand pages devoted to retrospective mems), he refers to Affery seeing or overhearing the information he is summarizing. As he considers how to reveal the secret in the final double number, Dickens finds it necessary to return to the published parts to trace Affery&rsquo;s dreams and remind himself of the information that had been made explicit in them.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">It is possible that Dickens made these memoranda as he was preparing for the final double number in April 1857, when he described himself &ldquo;bringing a pretty large field of characters up to the winning-post, and spurring away with might and main&rdquo; (Letters 8.313). It is also possible that he began these pages earlier. Slater suggests that the language of a letter Dickens wrote to Macready on February 28, 1857, as he was likely working on No. XVII, might indicate his work on these &ldquo;Mems.&rdquo; In that letter, Dickens explains that he is &ldquo;transcendently busy, drawing up the arteries of Little Dorrit. Very hard work, but deeply interesting to me&rdquo; (Letters 8.290). This somatic language of composition, employed elsewhere in the Notes, could apply to his work on No. XVII as he looked forward to the novel&rsquo;s close, or it could apply to his efforts in these Mems to &ldquo;work... the story round.&rdquo;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">For more on Dickens&rsquo;s use of these two pages of Mems, see Critical Introduction.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=202,8,967,95"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1169.67832,102.8951h-483.61538v0h-483.61538v-47.25175v-47.25175h483.61538h483.61538v47.25175z\"  id=\"rectangle_a6942969-c3fb-49c3-ba03-7f7a0e4c14a1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:32:02.499Z",
+    "@id": "a392141b-b070-4285-b713-ac878fd2776b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
