@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\">LD.XIX-XX.L9</p>\n<p dir=\"ltr\"><strong>Miss Wade and Tattycoram. Yes</strong></p>\n<p><span id=\"docs-internal-guid-6257cfd5-7fff-c8c9-8c79-03cd8c4e6b5c\">&nbsp;</span></p>\n<p dir=\"ltr\">Chapter 33 allows Dickens to tie these characters to the mystery plot by having Mr. Meagles seek the original codicil and Arthur&rsquo;s mother&rsquo;s letters in Calais, where Miss Wade will continue her self-tormenting evasions. Tattycoram will return to England with the iron box Rigaud left with Miss Wade, presumably during their encounter in No. XIII. With this move, Dickens is able to reunite Tattycoram with the Meagles and account for the original documents.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=106,949,913,81"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M106.25175,948.9324h456.71096v0h456.71096v40.62704v40.62704h-456.71096h-456.71096v-40.62704z\"  id=\"rectangle_594f524f-2d1b-4267-b80b-0ccb2cf8dd4f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:26:13.559Z",
+    "@id": "2a324a85-8440-4039-be64-2fea4c2d2a0b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
