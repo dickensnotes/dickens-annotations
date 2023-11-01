@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 19
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.R15</em></p>\n<p dir=\"ltr\"><strong>What was the appeal to Mrs Clennam. Do Not Forget? [...]</strong></p>\n<p><span id=\"docs-internal-guid-7847e31b-7fff-36e1-8131-454277058aa0\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens summarizes how the three fateful words will be reimagined yet again, first from a commitment between lovers, then to a reminder of sin, and finally to a demand for restitution from a dying Mr. Clennam to his wife: &ldquo;He died, and sent this watch back to me, with its Do not forget. I do NOT forget, though I do not read it as he did. I read in it, that I was appointed to do these things&rdquo; (LD 756). Flintwinch will add precision to Mr. Clennam&rsquo;s meaning: &ldquo;You know very well that the Do Not Forget, at the time when his father sent that watch to you, could only mean, the rest of the story being then all dead and over, Do Not Forget the suppression. Make restitution!&rdquo; (760).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1446,1848,1256,189"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1446.24709,1848.3683l1256.41026,46.62005v142.19114l-1256.41026,-41.95804z\"  id=\"rough_path_dcf74670-adbd-4d92-ab14-477436d5fcea\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T02:29:27.071Z",
+    "@id": "86526313-de17-453f-813c-d1d4a24c2a7a.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
