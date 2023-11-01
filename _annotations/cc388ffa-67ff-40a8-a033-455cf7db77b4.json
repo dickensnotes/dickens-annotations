@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R9</em></p>\n<p dir=\"ltr\"><strong>Italian character</strong></p>\n<p><span id=\"docs-internal-guid-bc4c0d9a-7fff-4d5a-0b07-1900816c04d5\"><br />The reference to the &ldquo;Italian character&rdquo; likely refers in part to Cavalletto&rsquo;s language (lengthening adverbs and a &ldquo;significant Italian rest&rdquo; on certain words [LD 722]) and his mode of accounting for his search for Rigaud, and in part to the chapter&rsquo;s emphasis on Cavalletto&rsquo;s &ldquo;very remarkable combination of character,&rdquo; a &ldquo;blending&hellip; of his old submission with a sense of something humorous; the striving of that with a certain smouldering ferocity&rdquo; (LD 727). We might be reminded of the note for No. I in which Cavalletto was first introduced: &ldquo;Picture of an Italian&rdquo; (LD.I.R4).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2339,1296,319,96"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2344.19316,1296.07097l156.72301,11.9397v0l156.72301,11.9397l-2.73202,35.86112l-2.73202,35.86112l-156.72301,-11.9397l-156.72301,-11.9397l2.73202,-35.86112z\"  id=\"rectangle_b73a55a6-e34b-4f5f-851d-f545298dfe1a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:20:16.800Z",
+    "@id": "cc388ffa-67ff-40a8-a033-455cf7db77b4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
