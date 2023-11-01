@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 36
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R22</em></p>\n<p dir=\"ltr\"><strong>Very quiet conclusion.&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-67bd7245-7fff-26e8-2324-e818bdc16066\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens&rsquo;s own description of his conclusion mirrors the language he will use in the final paragraph, which describes Arthur and Little Dorrit going &ldquo;quietly down into the roaring streets&rdquo; (LD 802). Notably, the word &ldquo;quietly&rdquo; was added to this final paragraph in proof. But the Note describes more than the language Dickens will incorporate in the conclusion; it encapsulates the novel&rsquo;s bittersweet concluding strategy, with its refusal to use the union of Little Dorrit and Arthur as a solution to the many problems raised in the text.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1849,2000,468,59"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1848.57205,2009.6197l465.39109,-9.44272l2.69792,44.51567l-466.74005,14.83856z\"  id=\"rough_path_e1205711-367b-4861-a33a-b54eee27a028\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:49:40.443Z",
+    "@id": "73b53ec7-522f-4fbc-9850-30debec551e7.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
