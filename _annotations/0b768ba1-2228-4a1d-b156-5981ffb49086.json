@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R7</em></p>\n<p dir=\"ltr\"><strong>Finish Flintwinch [...]</strong></p>\n<p><span id=\"docs-internal-guid-7d65f356-7fff-00d5-272c-940964688570\">&nbsp;</span></p>\n<p dir=\"ltr\">Running out of room for his chapter notes, Dickens adds this final note above the others referring to the fates of both Flintwinch and Rigaud. This novel will &ldquo;Finish Flintwinch&rdquo; in that he will not return after his departure at the end of the chapter, but his fate will be addressed in the following chapter with rumors of his death and the implication that he is now in Amsterdam (LD 773).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2179,207,456,131"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2179.06717,208.58617l32.37503,128.15117l423.57334,1.34896l-9.44272,-130.84909z\"  id=\"rough_path_b0cf3d20-2905-4fb1-ae43-6849f774a1cf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:33:07.347Z",
+    "@id": "0b768ba1-2228-4a1d-b156-5981ffb49086.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
