@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.R5</em></p>\n<p dir=\"ltr\"><strong>he was already married, in a false name [...]&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-cb64353a-7fff-8cfe-069f-4b10811027cd\">&nbsp;</span></p>\n<p dir=\"ltr\">With the addition of &ldquo;as good as married,&rdquo; as well as the correction of &ldquo;her&rdquo; to &ldquo;his wife&rdquo; below, Dickens decides against making Arthur&rsquo;s father a bigamist, and instead makes him an adulterer. However, the Notes and the novel both retain an ambiguity as to the nature of the relationship between Arthur&rsquo;s mother and father: Mrs. Clennam refers to the &ldquo;desecrated ceremony of marriage there had secretly been between them&rdquo; (LD 754).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1412,451,1285,165"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1662.33958,450.7586l1035.34993,36.97678l-2.1751,45.6772l-643.83105,-19.57594l-13.05063,93.52951l-213.16028,2.1751l-19.57594,-21.75105l-95.70462,28.27636l-297.98937,-8.70042l0,-119.63077l243.61175,2.1751z\"  id=\"rough_path_09eccf37-bedb-4be6-af75-2e7317ffcb9b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T02:08:22.651Z",
+    "@id": "6d64e538-c9fa-4ecf-910f-d567f9ca8cc2.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
