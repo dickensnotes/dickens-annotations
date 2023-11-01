@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 30
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R16</em></p>\n<p dir=\"ltr\"><strong>Mr Meagles</strong></p>\n<p><span id=\"docs-internal-guid-baec8f16-7fff-40c2-ffce-5501b8fb382d\">&nbsp;</span></p>\n<p dir=\"ltr\">Underlined here, Mr. Meagles becomes the device by which the chapter can &ldquo;take up&rdquo; Tattycoram, Miss Wade, and (to arrive in the following chapter) Doyce, as well as the means for restoring the &ldquo;original papers&rdquo; from the iron box.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1507,1296,244,70"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1507.28525,1295.84767l4.04688,70.1459l240.11482,-22.93231l-2.69792,-41.81775z\"  id=\"rough_path_b3c58503-7ec4-4f7f-bdc2-9051a82d8aa1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:37:47.922Z",
+    "@id": "e1a26177-90e8-4869-914b-9048b1ab160f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
