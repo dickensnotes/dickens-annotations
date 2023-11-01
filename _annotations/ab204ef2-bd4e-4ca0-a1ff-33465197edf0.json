@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R14</em></p>\n<p dir=\"ltr\"><strong>Ever downward, always downward</strong></p>\n<p><span id=\"docs-internal-guid-a3f67d18-7fff-7e99-68a5-bcc14fa22685\">&nbsp;</span></p>\n<p dir=\"ltr\">See LD.XVIII.R6 for Dickens&rsquo;s use of the language of &ldquo;downward&rdquo; in this Note. In the opening of this chapter, we see Clennam&rsquo;s spirits &ldquo;sunk&rdquo; so low &ldquo;that the weight under which he bent was bearing him down,&rdquo; with the result that &ldquo;his health was sinking&rdquo; (LD 733).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1399,1655,734,118"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1403.60672,1655.3996l364.54839,30.25677v0l364.54839,30.25677l-2.39072,28.80454l-2.39072,28.80454l-364.54839,-30.25677l-364.54839,-30.25677l2.39072,-28.80454z\"  id=\"rectangle_d5c6c45d-8f01-487f-ad38-bf7999ebb68a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:25:01.652Z",
+    "@id": "ab204ef2-bd4e-4ca0-a1ff-33465197edf0.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
