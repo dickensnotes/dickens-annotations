@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems1.R1</em></p>\n<p dir=\"ltr\"><strong>Mems: for working the story round. &ndash; Prospective [)]</strong></p>\n<p><span id=\"docs-internal-guid-c0db17ad-7fff-3d8e-429c-51268c27e9f8\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens composed his prospective notes separately and attached them here and on the next page later. This header is written on the top of a sheet of paper similar to the ones used for the previous Working Notes, but the prospective notes below (and on the following page) are written on another, lighter blue sheet of unlaid paper, which has been torn on the right and bottom sides and pasted with four wafer seals to the larger sheet. A close examination of the manuscript indicates that there is nothing underneath this pasted paper. Why Dickens composed these separately is unknown. It is likely that he wrote them in different sittings and saw the need to combine them.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1492,52,1115,95"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1493.7973,51.69938l556.71045,16.12923v0l556.71045,16.12923l-0.9066,31.29186l-0.9066,31.29186l-556.71045,-16.12923l-556.71045,-16.12923l0.9066,-31.29186z\"  id=\"rectangle_083d6bb7-fc8a-4f71-aaa9-6a02f431bfcb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:43:17.410Z",
+    "@id": "d0072366-bbd4-4053-b094-1a3f35135328.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
