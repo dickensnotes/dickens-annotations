@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems1.R9</em></p>\n<p dir=\"ltr\"><strong>Mrs Clennam with-held this will [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This note picks up Arthur&rsquo;s language from chapter 5 (&ldquo;if restitution can be made to any one, let us know it and make it&rdquo; [47]). While Mrs. Clennam will not utter these words, chapter 30 will feature Flintwinch summarizing the meaning of Do No Forget: &ldquo;Make restitution!&rdquo; (LD 760). Mrs. Clennam will describe Gilbert Clennam as being &ldquo;reduced to imbecility&rdquo; and in a &ldquo;state of weakness&rdquo; in making his will (756).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">That Mrs. Clennam does not speak a version of the words &ldquo;I will make restitution when I see fit&rdquo; suggests a change of plan as Dickens composed chapter 30. Mrs. Clennam sees no need for &ldquo;restitution,&rdquo; instead emphasizing the sin committed by her husband and his lover: &ldquo;It was a rewarding of sin; the wrong result of a delusion&rdquo; (LD 758). Instead of indicating that she &ldquo;will find it, one day,&rdquo; Mrs. Clennam admits that she &ldquo;could&hellip; have made a pretence of finding it,&rdquo; but that she chose not to do so: &ldquo;I have seen no new reason, in all the time I have been tried here, to bring it to light.&rdquo;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1422,890,1174,445"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1928.18182,889.51349l662.72727,20l4.54545,353.63636l-522.72727,-9.09091l0.90909,80.90909l-650.90909,-13.63636l-0.90909,-364.54545l506.36364,30z\"  id=\"rough_path_9a712f28-baf1-4434-9d5c-50dbc905eb0e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:55:17.820Z",
+    "@id": "5e023733-55f7-4a83-8743-c9b615efd91b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
