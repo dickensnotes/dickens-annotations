@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems1.R3</em></p>\n<p dir=\"ltr\"><strong>2</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The pasted prospective notes appear in what is likely the reverse order of their composition. There is a number &ldquo;1&rdquo; at the top of the sheet pasted to the second page of mems (LD.Mems2.R3), and here we find a number &ldquo;2.&rdquo; His reasoning for reordering the two pages may have been twofold. First, he may have felt it necessary to establish the connection between the Clennams and the Dorrits first, before working through the details of the Clennam marriage and Arthur&rsquo;s mother&rsquo;s history. This page, which is less densely written, begins with the question &ldquo;How connected with the Dorrits?&rdquo; In the chapter, though, he will address these items in the order in which they were written, beginning with the material summarized on the page marked &ldquo;1&rdquo; (the history of the Clennams), and only turning to this connection to the Dorrits once Rigaud presses the matter (&ldquo;Madame, let us go on. Time presses. You or I to finish?&rdquo; [LD 756]).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Second, pasting them in this order created greater correspondence between the retrospective and prospective notes on each side of the same page. This first page of retrospective mems focus on Arthur&rsquo;s suspicions about a mystery connecting the Clennams and the Dorrits; they correspond to the prospective mems on the right about the nature of the Clennam-Dorrit connection. The second page of retrospective and prospective mems both relate to the Clennam marriage.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2003,218,49,31"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2002.54545,248.90909h24.63636v0h24.63636v-15.36364v-15.36364h-24.63636h-24.63636v15.36364z\"  id=\"rectangle_ce2cc188-4510-42c6-80bf-56d1cf79a5a3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:47:22.276Z",
+    "@id": "56cbc0c6-ba15-4cd1-bb7a-2d6ddda61bd8.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
