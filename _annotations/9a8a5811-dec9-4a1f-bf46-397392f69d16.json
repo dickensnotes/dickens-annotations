@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R8</em></p>\n<p dir=\"ltr\"><strong>Mr Rugg, and &ldquo;deferring to the opinion of Society&rdquo;</strong></p>\n<p><span id=\"docs-internal-guid-38c9ef38-7fff-95d6-8729-c462159c4fba\">&nbsp;</span></p>\n<p dir=\"ltr\">The chapter uses the phrase &ldquo;Public Opinion&rdquo; rather than &ldquo;Society&rdquo;: &ldquo;&lsquo;Might it not be advisable, sir,&rsquo; said Mr. Rugg, more coaxingly yet, &lsquo;now to make, at last and after all, a trifling concession to public opinion?&rsquo;&rdquo; (LD 719).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1378,1184,984,108"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1380.71908,1183.62069l490.7534,25.98557v0l490.7534,25.98557l-1.49346,28.20493l-1.49346,28.20493l-490.7534,-25.98557l-490.7534,-25.98557l1.49346,-28.20493z\"  id=\"rectangle_92e7f08b-9484-44a6-a54b-58c9afd66faa\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:18:41.483Z",
+    "@id": "9a8a5811-dec9-4a1f-bf46-397392f69d16.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
