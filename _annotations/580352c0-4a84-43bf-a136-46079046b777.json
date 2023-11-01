@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.L4</em></p>\n<p dir=\"ltr\"><strong>John chivery Yes</strong></p>\n<p><span id=\"docs-internal-guid-bb148420-7fff-9413-1190-11df37afb065\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens underlines the name, indicating the significance of Chivery as the device used (with much pathos) in this number to reveal Little Dorrit&rsquo;s love to Clennam and, at the end of the number, to deliver Little Dorrit&rsquo;s &ldquo;undying love&rdquo; to his room (LD 741).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=120,696,676,126"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M119.67476,696.24204h338.05425v0h338.05425v63.208v63.208h-338.05425h-338.05425v-63.208z\"  id=\"rectangle_9ca65bd2-8870-43e0-b59e-159fc3097db9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:08:28.586Z",
+    "@id": "580352c0-4a84-43bf-a136-46079046b777.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
