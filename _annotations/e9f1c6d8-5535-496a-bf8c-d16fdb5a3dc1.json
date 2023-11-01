@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.L6</em></p>\n<p dir=\"ltr\"><strong>The Plornishes and old Nandy? No</strong></p>\n<p><span id=\"docs-internal-guid-91d4e59b-7fff-0f45-3e42-1e4793ddd95a\">&nbsp;</span></p>\n<p dir=\"ltr\">Pancks will make a brief stop at the Plornish house in chapter 32, and Mrs. Plornish is mentioned briefly as one of the community taking care of Clennam in chapter 33, but the characters themselves do not participate significantly in the final number. Old Nandy is not mentioned.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=81,611,953,63"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M80.61072,673.87413h476.52448v0h476.52448v-31.63403v-31.63403h-476.52448h-476.52448v31.63403z\"  id=\"rectangle_63bf1dba-7a9d-431d-be42-bb3f14bd7284\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:25:28.225Z",
+    "@id": "e9f1c6d8-5535-496a-bf8c-d16fdb5a3dc1.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
