@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.R10</em></p>\n<p dir=\"ltr\"><strong>As for you, the father [...]&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-fbdd7061-7fff-ba7f-2bec-115756b899f3\">&nbsp;</span></p>\n<p dir=\"ltr\">No such speech to Arthur&rsquo;s father is recounted in the novel; his suffering is instead summarized in brief: &ldquo;the presence of Arthur was a daily reproach to his father&rdquo; (LD 755).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1369,1286,1253,89"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1368.70042,1285.99888l1252.86042,43.5021l-2.1751,45.6772l-1241.9849,-30.45147z\"  id=\"rough_path_b861cb6f-bb1c-4abe-a46f-7b4d83c16f63\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T02:17:37.035Z",
+    "@id": "751640dd-57a0-4858-ab0a-20524ce0b473.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
