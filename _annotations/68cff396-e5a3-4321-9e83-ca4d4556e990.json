@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 34
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R20</em></p>\n<p dir=\"ltr\"><strong>Shall I tell you what my fortune is? And are you sure you will not share it?</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Using Little Dorrit&rsquo;s words, Dickens indicates his certainty about this strategy for establishing the union between her and Arthur. &ldquo;Do you feel quite strong enough to know what a great fortune I have got?&rdquo; she asks in the text (LD 791); &ldquo;I have nothing in the world&hellip; [A]re you quite sure you will not share my fortune with me now?&rdquo;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Notably, this quotation features short double underlining typical of a chapter title. The three double underlinings below the chapter heading are those underscoring the chapter number itself and appear to be a different temporal layer to the smaller ones that appear to either side. That Dickens appears to have inserted this quotation under the chapter header and added these additional double underlinings suggests that he might have considered this quotation as a possible title for a final chapter.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1457,1664,1194,134"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1480.30605,1664.28602l326.44824,26.97919l325.09928,8.09376l519.34948,-9.44272v75.54174h-430.31814l-39.11983,13.4896l-464.04213,-6.7448l-67.44798,25.63023l-130.84909,-1.34896l-62.05215,-48.56255z\"  id=\"rough_path_43b947a8-1dbd-4c1f-8e3b-2968a9c27fbe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:48:27.838Z",
+    "@id": "68cff396-e5a3-4321-9e83-ca4d4556e990.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
