@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R15</em></p>\n<p dir=\"ltr\"><strong>Clennam Ill</strong></p>\n<p><span id=\"docs-internal-guid-be4c81db-7fff-0fac-8c7a-10d80c8346c4\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens underscores this note with extra emphasis, indicating the importance of Clennam&rsquo;s illness to the reappearance of Little Dorrit. In his feverish confusion, he does not at first realize that she is real: &ldquo;the door of his room seemed to open to a light touch, and, after a moment&rsquo;s pause, a quiet figure seemed to stand there&hellip; It seemed to be his Little Dorrit: (LD 735).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1504,1741,380,98"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1503.84615,1741.14219l11.65501,97.9021l368.29837,-11.65501l-13.98601,-58.27506z\"  id=\"rough_path_9d42b83e-5712-4e68-be56-22d2c21cddc9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:25:36.659Z",
+    "@id": "b6a82ceb-9283-4451-a062-9e6d774e3e7f.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
