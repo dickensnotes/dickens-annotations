@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 27
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R13</em></p>\n<p dir=\"ltr\"><strong>Mr Pancks&rsquo;s figures.</strong></p>\n<p><span id=\"docs-internal-guid-602a1795-7fff-faf2-90b8-f3d9521f3a23\">&nbsp;</span></p>\n<p dir=\"ltr\">The chapter will begin with the subject of this note, referring to Pancks&rsquo;s obsession with the &ldquo;figures&rdquo; that ruined himself and Clennam. He goes through life &ldquo;constantly carrying his figures,&rdquo; and, since &ldquo;figures are catching, a kind of cyphering measles broke out&rdquo; (LD 774). Dickens may also have been considering this boxed note as he wrote the opening chapter of the number (chapter 30), which also makes reference to Pancks&rsquo;s &ldquo;incontrovertible figures,&rdquo; which &ldquo;had been the occupation of every moment of his leisure since he had lost his money&rdquo; (744).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2322,952,335,188"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2322.05689,951.86295l334.542,9.44272l-5.39584,178.06268l-299.46905,-5.39584z\"  id=\"rough_path_a9d67ffc-83e6-48ea-b1fc-29b684756407\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:36:19.803Z",
+    "@id": "41f23d39-02d4-4385-bb28-50b9b9ea1bee.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
