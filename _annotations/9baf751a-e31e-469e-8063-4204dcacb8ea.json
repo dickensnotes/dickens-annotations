@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R3</em></p>\n<p dir=\"ltr\"><strong>Scene between them &ldquo;Take a bit of something green&rdquo;</strong></p>\n<p><span id=\"docs-internal-guid-bce28d2c-7fff-99cd-02e3-3f63630d94d2\">&nbsp;</span></p>\n<p dir=\"ltr\">&ldquo;Try a little something green,&rdquo; says John to Clennam in this scene (LD 704). The &ldquo;something green&rdquo;&ndash;some &ldquo;cabbage leaves,&rdquo; &ldquo;water-cresses and salad herbs&rdquo;&ndash;represents John Chivery&rsquo;s attempts to care for his &ldquo;rival&rdquo; in Little Dorrit&rsquo;s name: &ldquo;[I]f it&rsquo;s not worth your while to take care of yourself for your own sake, it&rsquo;s not worth doing for some one else&rsquo;s&rdquo; (704).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1366,624,1249,88"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1368.09687,684.66938l2.26211,-42.98007l499.92611,29.40742l13.57265,-47.50429l728.39913,20.35898l2.26211,58.81484l-712.56436,-29.40742l-160.60975,38.45585l-373.248,-20.35898h-2.26211z\"  id=\"rough_path_8eebbf62-4bf8-4157-93b9-3ca97b2c6d9f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:13:26.647Z",
+    "@id": "9baf751a-e31e-469e-8063-4204dcacb8ea.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
