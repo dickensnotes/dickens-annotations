@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.L2</em></p>\n<p dir=\"ltr\"><strong>Rigaud&rsquo;s Secret out [...]</strong></p>\n<p><span id=\"docs-internal-guid-b2d39c4d-7fff-1379-ffab-47865696e420\">&nbsp;</span></p>\n<p dir=\"ltr\">With this note, Dickens draws on the retrospective and prospective mems he has already composed (LD_WN_Mems1 &amp; LD_WN_Mems2). &ldquo;Rigaud&rsquo;s death&rdquo; has been heavily pressaged in previous Notes, including the reference to the &ldquo;Rigaud catastrophe&rdquo; in No. V (LD.V.R3).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=20,114,1303,84"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M19.98939,114.72068l651.34959,-0.28711v0l651.34959,-0.28711l0.01842,41.79305l0.01842,41.79305l-651.34959,0.28711l-651.34959,0.28711l-0.01842,-41.79305z\"  id=\"rectangle_3e00d005-98d4-4897-b17e-fcc29a59eb5a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:23:31.408Z",
+    "@id": "b9bffeb9-c0f4-48f6-b33d-e199a7a69e91.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
