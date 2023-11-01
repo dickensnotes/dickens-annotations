@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R5</em></p>\n<p dir=\"ltr\"><strong>An appearance in The Marshalsea.</strong></p>\n<p><span id=\"docs-internal-guid-d506ecd5-7fff-65f0-9105-b65506b327bd\"><br />The title for this chapter is not included in the manuscript; it was added in proof, but Dickens struggled to title it. His first idea (centered under the chapter header) was &ldquo;Another Discovery,&rdquo; which corresponded with the use of the word &ldquo;Discovery&rdquo; in his first draft of the title for chapter 27 (see LD.XVIII.R1). His second attempt was made on the right, and appears to be (as Sucksmith has rendered it) &ldquo;The mist [torment] of the Marshalsea&rdquo; (see Sucksmith 715fn1). Finally, he added &ldquo;An Appearance in the Marshalsea&rdquo; on the left. That Dickens tested out these title ideas in the proof rather than the manuscript or Working Note suggests that he was using the Notes retroactively to record work already completed.</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1638,987,841,100"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1641.26054,986.5493l418.92043,21.85597v0l418.92043,21.85597l-1.46721,28.12242l-1.46721,28.12242l-418.92043,-21.85597l-418.92043,-21.85597l1.46721,-28.12242z\"  id=\"rectangle_553e39ff-156a-4c5a-bd8f-c24dedb8f8ff\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:15:02.032Z",
+    "@id": "f2b2651a-a2d0-4b92-98cc-bc22d95d3028.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
