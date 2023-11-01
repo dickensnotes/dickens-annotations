@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.L8</em></p>\n<p dir=\"ltr\"><strong>Doyce. Yes</strong></p>\n<p><span id=\"docs-internal-guid-9dd43199-7fff-91c6-9163-629196010575\">&nbsp;</span></p>\n<p dir=\"ltr\">Doyce&rsquo;s return in the novel&rsquo;s final chapter is a vital tool in making possible the novel&rsquo;s conclusion.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=90,823,373,100"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M89.93473,823.05828h186.31469v0h186.31469v49.95105v49.95105h-186.31469h-186.31469v-49.95105z\"  id=\"rectangle_150e8401-6d02-4c49-a0f3-65c5ca079b29\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:25:59.578Z",
+    "@id": "b02fa7d7-2839-4101-8e0d-37aac4a9ebe8.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
