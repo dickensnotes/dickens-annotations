@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.L12</em></p>\n<p dir=\"ltr\"><strong>Mrs Merdle Generally</strong></p>\n<p><span id=\"docs-internal-guid-e00c6f1e-7fff-97e1-27a6-266f2e8c3df7\">&nbsp;</span></p>\n<p dir=\"ltr\">&ldquo;Generally&rdquo; refers to the narrative&rsquo;s cursory treatment of a character. As part of the list of characters appearing at the opening of chapter 33, Mrs. Merdle is described as surviving her husband&rsquo;s collapse on the grounds of her fury at him and her inseparability from the Society she represents: &ldquo;Mrs. Merdle, as a woman of fashion and good breeding&hellip; must be actively championed by her order, for her order&rsquo;s sake&rdquo; (LD 781).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=139,1266,594,100"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M138.88578,1265.94872h297.0373v0h297.0373v49.95105v49.95105h-297.0373h-297.0373v-49.95105z\"  id=\"rectangle_e897eeab-8b96-4271-8b3e-7d7d44958870\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:27:06.510Z",
+    "@id": "0056abc5-9e1b-4358-9df7-7ba220733624.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
