@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.L2</em></p>\n<p dir=\"ltr\"><strong>On the same occasion [...]&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-1f52604c-7fff-4e70-7a29-73890cbcb4e5\">&nbsp;</span></p>\n<p dir=\"ltr\">On this new page, Dickens continues his summary of Jeremiah&rsquo;s remonstrance with Mrs. Clennam in chapter 15 of No. VIII, quoting the content word-for-word (LD 175).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=15,155,1330,287"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1345.31469,205.59441v237.06294l-1084.61538,-35.66434l-2.0979,35.66434h-241.25874l-2.0979,-287.41259z\"  id=\"rough_path_4d55157f-c572-492e-96b7-db392196bb74\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:58:04.201Z",
+    "@id": "cbab2db0-4d08-4d46-bf82-b677b2e6021a.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
