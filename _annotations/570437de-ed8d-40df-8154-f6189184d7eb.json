@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.L3</em></p>\n<p dir=\"ltr\"><strong>Mrs Clennam once being [...]&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-3e8260b0-7fff-ecd0-29d8-4166eb7ac244\"><br />In this scene in Book VIII, chapter 29 (on page 253 of the published serial), Mrs. Clennam puts a hand on Little Dorrit&rsquo;s arm and asks her: &ldquo;Have you undergone many privations?&rdquo; (LD 336). In that scene, as she expresses &ldquo;an interest&rdquo; in Little Dorrit, we see Mrs. Clennam &ldquo;looking towards the watch, once her dead husband&rsquo;s, which always lay upon her table.&rdquo; Affery overhears this interchange: &ldquo;In all the dreams Mistress Affery had been piling up since she first became devoted to the pursuit, she had dreamed nothing more astonishing than this.&rdquo; Dickens began to write this same summary, in the same language, on his previous page of retrospective notes (see LD.Mems1.L7), but changed his mind, instead starting a new page to continue his summary of material from the same chapter he had been summarizing in the prior note. Presumably, then, he realized as he first wrote a version of this summary that he needed another page on which to complete his retrospective notes. </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=19,428,1326,227"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M19.44056,625.17483v-182.51748h237.06294l2.0979,-14.68531l1086.71329,31.46853v195.1049z\"  id=\"rough_path_1375dc63-e7fe-4d2e-93b8-f03999f246ca\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:59:43.927Z",
+    "@id": "570437de-ed8d-40df-8154-f6189184d7eb.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
