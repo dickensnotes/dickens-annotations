@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R7</em></p>\n<p dir=\"ltr\"><strong>Scene with Ferdinand Barnacle [...]</strong></p>\n<p><span id=\"docs-internal-guid-c98abef5-7fff-d013-e946-ed8cb80da336\">&nbsp;</span></p>\n<p dir=\"ltr\">Although the novel does use the phrase &ldquo;[w]ith this hopeful confession of his faith as the head of the rising Barnacles&rdquo; (LD 718), this note goes much further than many of Dickens&rsquo;s Notes in naming the purpose of a scene. Dickens uses this visit from Barnacle to drive home his points about governmental inadequacy. In this &ldquo;scene,&rdquo; Barnacle acknowledges the &ldquo;humbug&rdquo; of Circumlocution (718), expressing the opinion that &ldquo;nobody cares&rdquo; about inventions (717), and likening the political bureaucracy he represents to &ldquo;a limited game of cricket&rdquo; in which &ldquo;A field of outsiders are always going in to bowl at the Public Service, and we block the balls&rdquo; (716-17).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1365,1061,1228,188"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1371.56371,1061.18553l610.30371,38.62936v0l610.30371,38.62936l-3.49679,55.24572l-3.49679,55.24572l-610.30371,-38.62936l-610.30371,-38.62936l3.49679,-55.24572z\"  id=\"rectangle_a2462c4b-427d-43a9-8544-03451d8a8acb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:17:57.250Z",
+    "@id": "025eb93f-6a44-4094-97e7-ac3a6dbae361.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
