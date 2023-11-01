@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.R2</em></p>\n<p dir=\"ltr\"><strong>[The Thread] To work out in Nos XIX and XX)</strong></p>\n<p><span id=\"docs-internal-guid-80b392d8-7fff-f1a5-3356-083df9b08b05\">&nbsp;</span></p>\n<p dir=\"ltr\">That Dickens originally considered these notes as tracing a &ldquo;thread&rdquo; or &ldquo;threads&rdquo; of the story indicates his sense that he is tying up these storylines in the final number. That he crosses it out may suggest his awareness that there is more than one thread involved, but it also transfers the focus from the narrative thread itself to the &ldquo;work&rdquo; of both author and narrative in this final number.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1624,199,851,74"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1625.15152,198.55603l847.9021,26.22378l1.45688,48.07692l-850.81585,-23.31002z\"  id=\"rough_path_66bf02d8-6748-4f91-906a-ce80516ea63b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T02:02:55.921Z",
+    "@id": "3833fc03-fc5a-4b12-a2e1-ed1020685bd6.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
