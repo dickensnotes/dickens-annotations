@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 22
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R16</em></p>\n<p dir=\"ltr\"><strong>Scene between her and Arthur</strong></p>\n<p><span id=\"docs-internal-guid-176cc5ff-7fff-952d-99a6-1c6727f564df\">&nbsp;</span></p>\n<p dir=\"ltr\">Again, the underscoring emphasizes the importance of this &ldquo;scene,&rdquo; which Dickens had anticipated in the Notes for No. IX: &ldquo;Prepare for the time to come&ndash;in that room, long afterwards&rdquo; (LD.IX.R16). See his left-hand note LD.XVIII.L1 for more about his reference to this scene.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1798,1920,620,105"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1802.25228,1919.52311l308.29332,15.68986v0l308.29332,15.68986l-1.88151,36.97024l-1.88151,36.97024l-308.29332,-15.68986l-308.29332,-15.68986l1.88151,-36.97024z\"  id=\"rectangle_468dc72c-cb42-4a07-916d-770739dfe821\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:26:19.860Z",
+    "@id": "3c1f7f56-88e4-410d-aab6-8b43049dee1c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
