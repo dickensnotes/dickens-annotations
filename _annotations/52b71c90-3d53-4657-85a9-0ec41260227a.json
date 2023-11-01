@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 33
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R19</em></p>\n<p dir=\"ltr\"><strong>[Chapter XXXV]</strong></p>\n<p><span id=\"docs-internal-guid-53cf7600-7fff-a25f-f15c-002237afda41\"><br />Dickens initially planned six chapters for this final number. In the list of chapters he begins to sketch out on the left (LD.XIX-XX.L13), he contemplates a separation between the &ldquo;opening chapter&rdquo; and the &ldquo;discovery&rdquo; of Mrs. Clennam&rsquo;s secrets, so it is likely that his decision to combine these into one long chapter 30 resulted in his decision to arrange this number into five rather than six chapters. </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1803,1635,529,57"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1803.40534,1635.30683h264.72162v0h264.72162v28.65367v28.65367h-264.72162h-264.72162v-28.65367z\"  id=\"rectangle_19de43ee-2953-47e5-8ee9-b8692626bac4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:39:22.739Z",
+    "@id": "52b71c90-3d53-4657-85a9-0ec41260227a.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
