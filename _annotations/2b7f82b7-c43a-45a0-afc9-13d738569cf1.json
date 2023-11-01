@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.R9</em></p>\n<p dir=\"ltr\"><strong>I have discovered it</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">These words are not spoken by Mrs. Clennam. Instead, she describes her discovery of a letter &ldquo;lying with this watch in his secret drawer&rdquo; as fated: &ldquo;it had been appointed to me to make the discovery&rdquo; (LD 753).&nbsp;</p>\n<p><br />It is at this point that the mems slip into Mrs. Clennam&rsquo;s voice. The extent to which Dickens focalizes these notes through Mrs. Clennam suggests his recognition that the story must be told, at least in part, in her own words, as he will recognize in his chapter note: &ldquo;Tell the whole story, working it out as much as possible through Mrs Clennam herself, so as to present her character very strongly&rdquo; (LD.XIX-XX.R3).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1395,821,1198,104"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2549.78238,820.52643l43.5021,2.1751l-4.35021,82.65399l-726.48503,-28.27636l-2.1751,47.85231l-456.77203,-15.22573l-8.70042,-56.55273l1150.63049,43.5021z\"  id=\"rough_path_06c58345-2041-409c-81e6-919bdce759de\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T02:12:15.847Z",
+    "@id": "2b7f82b7-c43a-45a0-afc9-13d738569cf1.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
