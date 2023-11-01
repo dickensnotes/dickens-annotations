@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens finished Little Dorrit on May 9, 1857, writing to Wilkie Collins two days later (on a Monday): &ldquo;Thank God, I have finished. On Saturday last, I wrote the two little words of three letters each&rdquo; (Letters 8.322). He would make reference to those &ldquo;two little words&rdquo; a few days earlier when, on May 3, he told Joseph Paxton &ldquo;I am finishing my book&ndash;a task to which it is essential to devote much time and care&hellip; I really can not make a gap in the march to those two words &lsquo;The End&rsquo;, which now absorbs me&rdquo; (Letters 8.320).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The Notes for this number necessarily play a different role than those for previous numbers, since, as Herring notes, he &ldquo;would no longer have any real need to refer to them later&rdquo; (62). These proactive planning notes allowed Dickens to track the items &ldquo;to be done&rdquo; and to indicate which &ldquo;characters&rdquo; needed to be &ldquo;take[n] up&rdquo; and &ldquo;disposed of.&rdquo; This echoes language that he used in an April 11 letter to describe his work finishing the novel: &ldquo;bringing a pretty large field of characters up to the winning-post, and spurring away with might and main&rdquo; (Letters 8.313). On the left, Dickens titled the page as a list of characters and actions related to those characters &ldquo;to be done.&rdquo;&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Although he had originally laid out the right-hand page with six chapter headings, Dickens&rsquo;s long opening chapter would encompass the whole of the Mrs. Clennam revelations, thus necessitating a change of plan as he laid out the remaining chapter contents (see LD.XIX-XX.L13 and LD.XIX-XX.R19). He had already created his two pages of &ldquo;Mems to work the story round,&rdquo; but he still made thorough use of these two pages to track what still needed to be accomplished, with a particular focus on the left on the 18 characters (including couples and those he rejects) he considered for inclusion.&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Chapter notes are filled with imperative verbs (tell, finish, leave, set, take up, shew, reserve) as well as descriptive phrases in a mixture of tenses (up and out, Mrs Clennam rushes, House falls, Rigaud Smashed, Pancks does it, papers&hellip; produced, Mr. Meagles off, They will go, etc.). Alongside quotations that relate to, but do not directly reproduce, speech in the novel, this page of Notes is also significant for its use of phrases describing the nuances of Dickens&rsquo;s narrative tactics, including &ldquo;Tell the whole story, working it out as much as possible through Mrs Clennam herself, so as to present her character very strongly,&rdquo; &ldquo;Set the darkness and vengeance against the New Testament,&rdquo; &ldquo;reserve carefully till now,&rdquo; and &ldquo;Very quiet conclusion.&rdquo;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1349,33,1319,156"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1348.67599,32.84848h659.50816v0h659.50816v77.92308v77.92308h-659.50816h-659.50816v-77.92308z\"  id=\"rectangle_87bdc710-a3fd-455f-b5d6-b070fa131e28\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:22:42.833Z",
+    "@id": "7f9607bc-ec43-4ac6-99fc-f76c04de0a23.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
