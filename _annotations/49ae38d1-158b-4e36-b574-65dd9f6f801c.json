@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 29
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R15</em></p>\n<p dir=\"ltr\"><strong>Take up characters again</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">At this point, Dickens still has a number of characters &ldquo;to be disposed of,&rdquo; and this chapter opens with a strategy for mentioning them via Little Dorrit&rsquo;s attention to &ldquo;life outside the gate,&rdquo; which &ldquo;urged its pressing claims upon her&rdquo; (LD 780). The characters that the opening pages &ldquo;take up&rdquo; are those mentioned at the end of the left-hand list: Fanny and her husband, Mrs. General, and Mrs. Merdle.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The chapter will go on to &ldquo;take up&rdquo; Mr. and Mrs. Meagles, Miss Wade, and Tattycoram, and to mention in passing Henry and Pet Gowan (see LD.XIX-XX.L3). Of the list on the left-hand side, chapters 32 and 33 collectively &ldquo;take up&rdquo; thirteen characters, leaving only Doyce (who is mentioned at the end of this chapter) to reappear.&nbsp;</p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1356,1243,449,58"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1356.20176,1243.23824l449.20357,18.88544l-4.04688,39.11983l-445.1567,-13.4896z\"  id=\"rough_path_af0bf90a-0074-4ab0-8f3a-609b3dea8da8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:37:26.289Z",
+    "@id": "49ae38d1-158b-4e36-b574-65dd9f6f801c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
