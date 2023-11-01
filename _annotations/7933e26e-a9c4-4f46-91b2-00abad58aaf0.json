@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems1.R2</em></p>\n<p dir=\"ltr\"><strong>(To work out in Nos XIX and XX.)</strong></p>\n<p><span id=\"docs-internal-guid-a79e298a-7fff-175a-d19e-9438ce69a802\"><br />This material &ldquo;to work out&rdquo; in the final double installment is in fact &ldquo;worked out&rdquo; here as Dickens writes these mems; we see him in the process of working out the connections between the Clennams and the Dorrits, crossing out certain ideas and changing his mind as he writes. This note appears at the top of the pasted sheet of unlaid paper.</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1604,154,744,71"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1605.30706,154.1299l371.45356,11.5573v0l371.45356,11.5573l-0.75272,24.1924l-0.75272,24.1924l-371.45356,-11.5573l-371.45356,-11.5573l0.75272,-24.1924z\"  id=\"rectangle_d32bd5a6-4c4c-4d74-9c9f-579840d94235\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:44:50.586Z",
+    "@id": "7933e26e-a9c4-4f46-91b2-00abad58aaf0.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
