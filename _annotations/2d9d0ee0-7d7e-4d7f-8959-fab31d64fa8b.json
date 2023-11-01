@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R6</em></p>\n<p dir=\"ltr\"><strong>The packet tonight</strong></p>\n<p><span id=\"docs-internal-guid-f14d61f3-7fff-a860-7c74-ed5f376a57de\">&nbsp;</span></p>\n<p dir=\"ltr\">This is the only note for chapter 30 that refers to Rigaud&rsquo;s blackmail of Little Dorrit:&nbsp; &ldquo;For her I with my own hands left a packet at the prison, on my way here, with a letter of instructions&hellip; to keep it without breaking the seal, in case of its being reclaimed before the hour of shutting up to-night&rdquo; (LD 762). The position of this note between chapters 30 and 31 indicates Dickens&rsquo;s use of the packet to connect the two chapters; Mrs. Clennam will get &ldquo;up and out&rdquo; of her house in search of the packet.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2151,507,196,100"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2150.73901,510.75313l172.66684,-4.04688l22.93231,99.82302l-165.92204,-8.09376z\"  id=\"rough_path_c2e85c5b-d343-40b8-b5bc-dd886754f97c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:32:47.737Z",
+    "@id": "2d9d0ee0-7d7e-4d7f-8959-fab31d64fa8b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
