@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII</em></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens likely began writing the left-hand memoranda for No. XVIII as he was working on the previous number, since certain questions here indicate some work already completed in No. XVII (see LD.XVIII.L1 and LD.XVIII.L2). The right-hand chapter notes are almost certainly added retroactively after composition, since Dickens only settled on the chapter titles included here in the proofs (see LD.XVIII.R1 and LD.XVIII.R5). There is little variation in the ink color and weight for these content notes (with the exception of one faded note for chapter 29, see LD.XVIII.R18). As the novel neared completion, Dickens was focused on preparation for the end, using these chapter notes to record what he had completed in order to prepare for the final double number. The language of these chapter notes includes long descriptive phrases (e.g. LD.XVIII.R2 and LD.XVIII.R7) and four references to a &ldquo;scene,&rdquo; as if Dickens is recalling a distinct sequence of action involving a place or combination of characters or indicating how one scene functions as a &ldquo;companion&rdquo; to another in the future. The only two imperative phrases act not as instructions but to describe the action of the narrative (e.g. &ldquo;Prepare finally, for the last scene at the old house&rdquo;).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Sucksmith estimates that the greater part of this number was written during March 1857. On March 4 Dickens had written to William Howitt: &ldquo;I am very hard at work finishing a long story&rdquo; (Letters 8.295). By April 3, he was telling Hans Christian Anderson: &ldquo;Little Dorrit at present engages me closely. I hope to finish her story by about the end of this month&rdquo; (8.307).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1344,29,1239,117"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1343.8042,29.46853h619.35664v0h619.35664v58.69231v58.69231h-619.35664h-619.35664v-58.69231z\"  id=\"rectangle_4a4c50ca-dd5d-458f-acfa-421eef40bcc4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:03:52.950Z",
+    "@id": "adbd2642-491e-48fa-abeb-59d2cafc46f6.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
