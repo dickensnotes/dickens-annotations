@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems1.R8</em></p>\n<p dir=\"ltr\"><strong>to his youngest [Niece nearest Daughter,&ndash;] female relative, daughter or Niece.</strong></p>\n<p><span id=\"docs-internal-guid-b8037276-7fff-db49-c9be-b117b6b2441c\"><br />Dickens struggles to identify just how Little Dorrit can be the rightful recipient of the Clennam legacy. He creates what Garrett Stewart calls a &ldquo;byzantine zigzag of descent&rdquo; (519) between Clennam&rsquo;s mother and Little Dorrit. As Brattin notes, &ldquo;Dickens obviously had great difficulty setting up the will so that it would be Frederick&rsquo;s youngest niece, and not Frederick himself, or Frederick&rsquo;s daughter &ndash; in fact, Frederick has no daughter, but of course Gilbert Clennam wouldn&rsquo;t have known that &ndash; who is to receive the legacy&rdquo; (113). In the manuscript of this chapter, the sentence that works out the terms of this legacy (&ldquo;A thousand guineas to the youngest daughter of her patron, or (if he had none) his brother&rsquo;s youngest daughter on her coming of age&rdquo; [757]) is produced only after numerous erasures, revisions, and interlineations. </span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1418,715,1139,263"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2171.81818,714.51705l385.45455,10v173.63636l-640.90909,-18.18182l0,97.27273l-498.18182,-30v-169.09091l752.72727,15.45455z\"  id=\"rough_path_70897656-c8d9-4c63-832f-f73cb7897188\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:53:38.138Z",
+    "@id": "a3380f3b-edb4-4378-9986-c87a140f36d3.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
