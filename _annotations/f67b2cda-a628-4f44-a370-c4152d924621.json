@@ -4,16 +4,14 @@ order: 2
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "f67b2cda-a628-4f44-a370-c4152d924621.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.L1</em></p>\n<p dir=\"ltr\"><strong>Mems: To be done</strong></p>\n<p><span id=\"docs-internal-guid-9966f9f0-7fff-de77-2fec-44f4f4c2b00f\">&nbsp;</span></p>\n<p dir=\"ltr\">In an unusual move, Dickens titles the left side of the page with the specific heading &ldquo;To be done.&rdquo; In his Working Notes for Dombey and Son, Dickens sometimes titled the left page &ldquo;Mems&rdquo; or &ldquo;General Mems,&rdquo; abandoning the practice except for three instances in the Bleak House Notes (III, VII, IX) and an instance in the Hard Times Notes specific to &ldquo;quantity&rdquo; calculations (HT.Mems.L2). Here, though, he explicitly frames the following list as a catalog of items for completion. Despite having sketched out his retrospective and prospective Mems on the previous two pages, he still needs to account for a range of characters.</p>"
-        }
+    "oa:annotatedAt": "2023-11-01T16:23:02.249Z",
+    "oa:annotatedBy": [
+        "annamgibson"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 2
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M332.35897,35.17949h216.61772v0h216.61772v27.80653v27.80653h-216.61772h-216.61772v-27.80653z\"  id=\"rectangle_c593a0b3-ba5e-4bd9-802f-6de5c0c24c0e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M332.35897,35.17949h216.61772v0h216.61772v27.80653v27.80653h-216.61772h-216.61772v-27.80653z\"  id=\"rectangle_c593a0b3-ba5e-4bd9-802f-6de5c0c24c0e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.98601\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 2
             }
         }
     ],
-    "oa:annotatedAt": "2023-11-01T16:23:02.249Z",
-    "@id": "f67b2cda-a628-4f44-a370-c4152d924621.json",
-    "oa:annotatedBy": [
-        "annamgibson"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.L1</em></p>\n<p dir=\"ltr\"><strong>Mems: To be done</strong></p>\n<p><span id=\"docs-internal-guid-9966f9f0-7fff-de77-2fec-44f4f4c2b00f\">&nbsp;</span></p>\n<p dir=\"ltr\">In an unusual move, Dickens titles the left side of the page with the specific heading &ldquo;To be done.&rdquo; In his Working Notes for <em>Dombey and Son</em>, Dickens sometimes titled the left page &ldquo;Mems&rdquo; or &ldquo;General Mems,&rdquo; abandoning the practice except for three instances in the <em>Bleak House</em> Notes (III, VII, IX) and an instance in the <em>Hard Times</em> Notes specific to &ldquo;quantity&rdquo; calculations (HT.Mems.L2). Here, though, he explicitly frames the following list as a catalog of items for completion. Despite having sketched out his retrospective and prospective Mems on the previous two pages, he still needs to account for a range of characters.</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-11-01T16:28:46.884Z"
 }
