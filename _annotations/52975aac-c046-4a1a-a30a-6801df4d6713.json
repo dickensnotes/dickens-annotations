@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R1</em></p>\n<p dir=\"ltr\"><strong>Chapter XXX</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">An examination of the manuscript for this chapter demonstrates just how difficult Dickens found it to carefully lay out Mrs. Clennam&rsquo;s story as he wrote, despite his careful preparation in the &ldquo;Mems for working the story round.&rdquo; Three sections in the manuscript are written on slips pasted over a part of the manuscript page; there is writing underneath these slips that cannot be read.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The first of these pasted slips, beginning &ldquo;Under this ferocious banter,&rdquo; pertains to the revelation that Mrs. Clennam is &ldquo;Not Arthur&rsquo;s Mother!&rdquo; and to her insistence that she tell her story herself (LD 752). The second, beginning &ldquo;I ask, what was the penitence,&rdquo; includes Mrs. Clennam&rsquo;s account of her visit to Arthur&rsquo;s mother demanding she relinquish her child (755). The third, beginning &ldquo;That Frederick Dorrit was the beginning of it all,&rdquo; describes how Mr. Clennam met Arthur&rsquo;s mother (757). These three passages deal with specific details of the Clennam story and were presumably difficult for Dickens to write; he likely used these slips to replace passages with heavy deletions and revisions that he was no longer able to edit legibly. An additional section, comprising the conversation between Mr. Flintwinch and Cavalletto (from &ldquo;At whom&hellip; to consequentementally&rdquo; [744]) is added on the verso of the third manuscript page.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">There are also significant deletions to parts of this long chapter in the proofs, the most significant of which include interactions between Rigaud and Flintwinch. For more on Dickens&rsquo;s erasures and manuscript revisions for this chapter, see Brattin.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1719,210,405,77"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1719.30536,210.00466h202.6317v0h202.6317v38.29604v38.29604h-202.6317h-202.6317v-38.29604z\"  id=\"rectangle_07f73734-3064-47e2-aa28-7b27105750ac\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:29:14.172Z",
+    "@id": "52975aac-c046-4a1a-a30a-6801df4d6713.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
