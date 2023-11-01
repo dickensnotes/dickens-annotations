@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R6</em></p>\n<p dir=\"ltr\"><strong>Drooping Downward</strong></p>\n<p><span id=\"docs-internal-guid-991a5335-7fff-595b-f86c-430208545726\"><br />This note picks up language from the left-hand notes for the previous installment, No. XVII: &ldquo;Clennam going downward?&rdquo; (LD.XVII.L4). The chapter notes for this number will repeat the refrain below: &ldquo;Ever downward, always downward&rdquo; (LD.XVIII.R14). Dickens echoes this language in descriptions of Arthur&rsquo;s spirit in the opening of the <em>next</em> chapter (&ldquo;the weight under which he bent was hearing him down&rdquo; &ldquo;down in the despondency of a low, slow fever&rdquo; [LD 733-734]). As it applies to <em>this</em> chapter, the note summarizes Clennam&rsquo;s despondency, especially as it is described in the opening paragraphs: &ldquo;Anybody might see that the shadow of the wall was dark upon him&rdquo; (715).</span></p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1378,1011,324,67"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1385.71708,1010.51446l316.63081,33.72399l-8.431,32.78721l-315.69404,-34.66077z\"  id=\"rough_path_6212ac72-b1d5-4645-91d7-02e48e7d4530\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:16:26.297Z",
+    "@id": "a4fdfc70-5a52-4ac7-adfa-0c7a8b50e54a.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
