@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.R14</em></p>\n<p dir=\"ltr\"><strong>He died abroad, and Rigaud got the box.</strong></p>\n<p><span id=\"docs-internal-guid-f45d09f1-7fff-39fe-c9ce-c92d4697e61f\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens does not specify in his prospective memoranda or in his chapter notes precisely how Rigaud &ldquo;got the box.&rdquo; Rigaud will describe his encounter with Ephraim Flintwinch in Antwerp without much detail, implying theft and possible murder: &ldquo;[W]herewith his cognac and tobacco, he had twelve sleeps a day and one fit, until he had a fit too much, and ascended to the skies. Ha, ha, ha! What does it matter how I took possession of the papers in his iron box? Perhaps he confided it to my hands for you, perhaps it was locked and my curiosity was piqued, perhaps I suppressed it. Ha, ha, ha! What does it matter, so that I have it safe?&rdquo; (LD 759).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1420,1644,923,83"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1419.75275,1644.01132l922.72589,38.40788l-2.81033,44.96532l-919.91556,-33.72399z\"  id=\"rough_path_a47455c2-3f92-4658-aeb6-fd9aa76d852a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T02:28:17.741Z",
+    "@id": "6d0b6ada-955d-43bc-92f3-5f9403f567aa.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
