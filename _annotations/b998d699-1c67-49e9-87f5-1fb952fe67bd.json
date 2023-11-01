@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 10
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.R4</em></p>\n<p dir=\"ltr\"><strong>And brooding reflections [...]</strong></p>\n<p><span id=\"docs-internal-guid-cae07231-7fff-61a0-b366-3b1aaf4e2e46\">&nbsp;</span></p>\n<p dir=\"ltr\">Clennam is described as &ldquo;brooding over the present&rdquo; at the close of the previous number (LD 698) and as &ldquo;Brooding all day&rdquo; at the beginning of chapter 29 (733). This chapter does not use the word, though it does detail Clennam&rsquo;s reflections and culminates with his repetition of &ldquo;Little Dorrit, Little Dorrit. Again, for hours. Always Little Dorrit!&rdquo; (714).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1364,734,1323,90"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2064.82647,734.43578l622.08,24.8832v58.81484l-789.47607,-31.66953l-4.52422,38.45585l-529.33353,-22.62109v-54.29062l687.68116,33.93164z\"  id=\"rough_path_f48577ad-8393-4876-9255-bcd0dcee85e4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:14:20.044Z",
+    "@id": "b998d699-1c67-49e9-87f5-1fb952fe67bd.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
