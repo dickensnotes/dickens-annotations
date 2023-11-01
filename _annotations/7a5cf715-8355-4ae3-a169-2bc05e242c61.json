@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems1.L4</em></p>\n<p dir=\"ltr\"><strong>Also, how that [...]&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-90260a37-7fff-3eaf-0f89-ca666c10742e\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens has copied lines of Arthur&rsquo;s conversation with his mother in No. II, chapter 5 word for word here, which appear on page 35 of the published serial part as he notes (LD 46). The paragraph from which he quotes ends with &ldquo;You will not be offended by my recalling this, after twenty years?&rdquo;, by which Dickens establishes Clennam&rsquo;s age with a reminder in this note.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=10,713,1322,364"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M541.14219,713.17016l790.20979,30.30303v333.33333l-1321.67832,-25.64103l2.331,-296.0373l519.81352,18.64802z\"  id=\"rough_path_01227dca-fc8e-405d-b778-3513b7ca5b8c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:37:20.244Z",
+    "@id": "7a5cf715-8355-4ae3-a169-2bc05e242c61.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
