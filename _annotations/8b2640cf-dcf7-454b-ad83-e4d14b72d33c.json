@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 22
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R8</em></p>\n<p dir=\"ltr\"><strong>&ldquo;Know the packet yourself [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This quote does not clearly correspond to Mrs. Clennam&rsquo;s words in this chapter. While she does request that Little Dorrit read the packet and that she keep its contents from Arthur, her request is far more measured than the the wording of this note suggests: &ldquo;The great petition that I make to you (there is another which grows out of it), the great supplication that I address to your merciful and gentle heart, is, that you will not disclose this to Arthur until I am dead&rdquo; (LD 768). The second part of her petition reflects the final phrase of the note: &ldquo;Will you return with me and try to prevail with him [Rigaud]? Will you come and help me with him?&rdquo; (771).&nbsp;</p>\n<p>&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1437,665,1214,98"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1437.13934,664.53454l1212.71475,53.95839l1.34896,29.67711l-713.59967,-25.63023l-9.44272,40.46879l-473.48485,-22.93231z\"  id=\"rough_path_1952d457-0020-4f4b-a234-06062f4c4ac3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:33:37.612Z",
+    "@id": "8b2640cf-dcf7-454b-ad83-e4d14b72d33c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
