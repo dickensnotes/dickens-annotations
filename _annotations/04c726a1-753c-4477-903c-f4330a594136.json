@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 25
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R11</em></p>\n<p dir=\"ltr\"><strong>Take up characters to be disposed of</strong></p>\n<p><span id=\"docs-internal-guid-99af3387-7fff-e25e-505b-474b8794135b\">&nbsp;</span></p>\n<p dir=\"ltr\">This chapter will &ldquo;take up&rdquo; only two characters &ldquo;to be disposed of&rdquo;: Pancks and Casby, both of whom are mentioned in the left-hand list. It will mention Rugg and the Plornishes in passing, though neither are featured in the chapter.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1356,940,635,86"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1358.89968,939.72231l632.66209,47.21359l-2.69792,39.11983l-632.66209,-43.16671z\"  id=\"rough_path_411707a5-3f5d-4afd-af96-9e9a3f32a3b5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:35:18.385Z",
+    "@id": "04c726a1-753c-4477-903c-f4330a594136.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
