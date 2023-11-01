@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.L11</em></p>\n<p dir=\"ltr\"><strong>Fanny and her husband</strong></p>\n<p><span id=\"docs-internal-guid-7707cc12-7fff-59f6-8ad1-3b5a7e224f7b\">&nbsp;</span></p>\n<p dir=\"ltr\">Fanny and her husband are briefly taken up in the list of characters &ldquo;pressing claims upon&rdquo; Little Dorrit at the beginning of chapter 33 (LD 780-81). Little Dorrit mentions her briefly in the final chapter as having &ldquo;lost everything&rdquo; but her husband&rsquo;s income, her strategy for gradually revealing to Clennam that she, too, has no fortune remaining (791). Dickens does not make this a question; he responds with what appears to be a check mark rather than a written &ldquo;yes.&rdquo;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=144,1196,559,52"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M143.54779,1247.3007h279.55478v0h279.55478v-25.80653v-25.80653h-279.55478h-279.55478v25.80653z\"  id=\"rectangle_00f8f7c7-0ae3-495b-ad1f-4f37f7341e5e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:26:52.693Z",
+    "@id": "9480e55a-d781-45fc-a8b2-bfb94005c350.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
