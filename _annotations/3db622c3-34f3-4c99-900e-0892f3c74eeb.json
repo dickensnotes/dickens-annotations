@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R4</em></p>\n<p dir=\"ltr\"><strong>Affery&rsquo;s dreams [...]</strong></p>\n<p><span id=\"docs-internal-guid-2dc3ddb2-7fff-7e16-70bf-80f5b222233a\">&nbsp;</span></p>\n<p dir=\"ltr\">The &ldquo;Mems for working the story round&rdquo; established the device of connecting the revelations in this chapter to Affery&rsquo;s dreams (see LD.Mems1). However, since Arthur cannot be present to ask Affery to fulfill her earlier promise, Dickens &ldquo;has to&rdquo; make Pancks into Arthur&rsquo;s &ldquo;deputy&rdquo;: &ldquo;&lsquo;[H]e is ill and in prison&ndash;ill and in prison, poor fellow&ndash;if he was here,&rsquo; said Mr. Pancks, taking one step aside towards the window-seat, and laying his right hand upon the stocking; &lsquo;he would say, &ldquo;Affery, tell your dreams&rdquo;&rsquo;&rdquo; (LD 744-45). Dickens shortens this passage in proof, removing a section about Pancks&rsquo;s &ldquo;emphatic&rdquo; manner and his &ldquo;intimation of having something curious in reserve.&rdquo;&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2321,478,371,113"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2340.94233,556.61776l-20.2344,-78.23966l370.96391,5.39584l-2.69792,107.91677z\"  id=\"rough_path_4499fb32-218d-4191-83fd-a38357394706\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:31:30.189Z",
+    "@id": "3db622c3-34f3-4c99-900e-0892f3c74eeb.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
