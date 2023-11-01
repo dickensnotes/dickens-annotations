@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems2.L1</em></p>\n<p dir=\"ltr\"><strong>Retrospective.</strong></p>\n<p><span id=\"docs-internal-guid-76afe810-7fff-f1c6-925c-beedb9919acb\">&nbsp;</span></p>\n<p dir=\"ltr\">See the annotation to LD.Mems1 for Dickens&rsquo;s use of the left side of these mems for retrospective summary.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=350,101,316,61"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M351.80462,100.58341l157.23159,4.41994v0l157.23159,4.41994l-0.73551,26.16449l-0.73551,26.16449l-157.23159,-4.41994l-157.23159,-4.41994l0.73551,-26.16449z\"  id=\"rectangle_74aad4bb-e8d6-4b50-80d9-f6b782d47449\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:57:03.661Z",
+    "@id": "f6c1d086-3648-4d0b-88f2-71aa5c2bbbf7.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
