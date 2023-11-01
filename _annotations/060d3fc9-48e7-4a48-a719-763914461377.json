@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.Mems1.R6</em></p>\n<p dir=\"ltr\"><strong>a legacy of [a tho] two thousand guineas (?)</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The question mark and hesitation about the exact number indicates Dickens&rsquo;s uncertainty about the amount of the legacy. The novel will lay out the terms with more specificity, in Rigaud&rsquo;s words: &ldquo;One thousand guineas to the little beauty you slowly hunted to death. One thousand guineas to the youngest daughter her patron might have at fifty, or (if he had none) brother&rsquo;s youngest daughter, on her coming of age, &lsquo;as the remembrance his disinterestedness may like best, of his protection of a friendless young orphan girl.&rsquo; Two thousand guineas. What! You will never come to the money?&rdquo; (LD 757). This passage in the manuscript is heavily revised and interlineated, suggesting that Dickens continued to struggle laying out the terms of the codicil as he wrote the chapter.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWNMems1.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1694,521,987,81"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1693.63636,570.90909l987.27273,30.90909l-0.90909,-52.72727l-984.54545,-28.18182z\"  id=\"rough_path_f6e08330-8a94-48a8-b758-0531c8cab355\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:50:18.705Z",
+    "@id": "060d3fc9-48e7-4a48-a719-763914461377.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
