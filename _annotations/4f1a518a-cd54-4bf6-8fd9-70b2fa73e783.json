@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XVIII.L1</em></p>\n<p dir=\"ltr\"><strong>Clennam in the Marshalsea [...]</strong></p>\n<p><span id=\"docs-internal-guid-8b5cac6e-7fff-fae1-9cb2-454f5fcda486\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens prepared for this scene as early as the summer of 1856 as he was working on No. IX. A <em>Memoranda</em> book entry written earlier than August 1856 refers to the scene: &ldquo;Arthur Clennam falling into difficulty and himself imprisoned in the Marshalsea. Then Little Dorrit, out of all her wealth and changed station, comes back in her old dress, and devotes herself in the old way&rdquo; (12; see LD.IX.R16 for more on the dating of this book of <em>Memoranda</em> entry). Dickens also made explicit reference to this scene in the Working Note for No. 9: &ldquo;Prepare for the time to come&ndash;in that room, long afterwards.&rdquo; He has already established Clennam in &ldquo;the old room&rdquo; at the end of the previous number.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN18.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=23,119,1235,281"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1257.51564,118.64582h-617.30982v0h-617.30982v140.49673v140.49673h617.30982h617.30982v-140.49673z\"  id=\"rectangle_6906329d-7784-45af-97e2-364c4a78aa29\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T01:06:47.223Z",
+    "@id": "4f1a518a-cd54-4bf6-8fd9-70b2fa73e783.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
