@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json"
+order: 24
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.XIX-XX.R10</em></p>\n<p dir=\"ltr\"><strong>Back &ndash; House Falls at last- [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The &ldquo;at last&rdquo; in this note indicates just how long Dickens had been planning for this catastrophe, which he mentions in the Notes as early as No. V: &ldquo;Begin (with a view to Rigaud catastrophe) the mysterious sounds in the old house&rdquo; (LD.V.R3), and which he repeats in the Notes for No. XVII (LD.XVII.R3).</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This level of plot preparation explains Dickens&rsquo;s anger at a July article in the <em>Edinburgh Review</em> that accused him of basing the collapse of Mrs. Clennam&rsquo;s house on recent news about the collapse of three houses in Tottenham Court Road (127). In his defense, Dickens wrote his own article in <em>Household Words</em> (&ldquo;Curious Misprint in the Edinburgh Review&rdquo;), insisting that the chapter was already &ldquo;written, was engraven on steel, was printed, and had passed through the hands of the compositors, readers of the press, and pressmen, and was in type and in proof&hellip; before the accident in Tottenham Court Road occurred&rdquo; (&ldquo;Curious Misprint&rdquo; 384). Although Dickens was exaggerating the timeline here, he had in fact composed the number before the accident, which occurred on May 9, the very day Dickens named to Wilkie Collins as that on which he had written &ldquo;the two little words of three letters each&rdquo; and &ldquo;finished&rdquo; the novel (Letters 8.322). The final double number was in print by May 30. For more on Dickens&rsquo;s response to this review, see Critical Introduction.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN19.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1349,766,554,90"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1366.99344,765.70651l-17.53648,90.3803l318.35449,-8.09376l105.21886,-41.81775l130.84909,-1.34896l-5.39584,-37.77087z\"  id=\"rough_path_3a31cbc0-2f7c-4bed-93d1-f6c56795376a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-01T16:34:48.220Z",
+    "@id": "daa7979d-be0d-4900-9e4b-58ccd17737c2.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
