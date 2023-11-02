@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 23
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R15</em></p>\n<p dir=\"ltr\"><strong>Home</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">In the manuscript, this title is squeezed into the space between the chapter heading and the text, suggesting it was added after Dickens began composing the chapter. This suggests that he either left a space for it in the Note, or that he wrote these chapter notes after beginning composition and selecting a title.</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This chapter uses the idea of &ldquo;home&rdquo; to continue the thematic focus on imprisonment, as Clennam imagines people &ldquo;condemned&rdquo; to remain in their own houses, all amusements &ldquo;bolted and barred&rdquo; to them on a Sunday, and likens the &ldquo;dull houses&rdquo; to &ldquo;places of imprisonment&rdquo; (LD 31)</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1770,1589,188,62"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1769.52292,1589.06449h94.24009v0h94.24009v31.10878v31.10878h-94.24009h-94.24009v-31.10878z\"  id=\"rectangle_e3ee6d75-e316-407c-87c7-f19a668ae1a2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:57:27.998Z",
+    "@id": "56e5dc38-b1c9-4467-9e0a-c224d9c89231.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
