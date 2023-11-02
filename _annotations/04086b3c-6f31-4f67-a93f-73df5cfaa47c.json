@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 18
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R10</em></p>\n<p dir=\"ltr\"><strong>Arthur Clennam [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Arthur&rsquo;s introduction to the story in this chapter is both immediate and delayed. He engages in dialog with Mr. Meagles from the first page, but he remains unidentified until about a third of the way through the chapter, after we have learned that he is &ldquo;an Englishman, who has been more than twenty years in China&rdquo; (LD 18) and that his feels devoid of &ldquo;[w]ill, purpose, [and] hope&rdquo; due to his upbringing (20).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens evidently struggled to decide how to narrate Clennam&rsquo;s early life. In the manuscript, he changed his mind about his first attempt at Arthur&rsquo;s story, pasting a half-sheet over the bottom of one fully-composed manuscript page. But at the proof stage he cut much of this material, shortening Arthur&rsquo;s story by erasing portions devoted to his misery in childhood, the separation between his mother and father, and his move to China. Presumably, Dickens was concerned that this section would give away too much too early about Mrs. Clennam and her husband. He decides, instead, on a more gradual disclosure of Arthur&rsquo;s background when the reader meets Mrs. Clennam (see LD.II.R3).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1416,1022,1054,93"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1417.89751,1022.16561l526.5022,10.14853v0l526.5022,10.14853l-0.70044,36.3387l-0.70044,36.3387l-526.5022,-10.14853l-526.5022,-10.14853l0.70044,-36.3387z\"  id=\"rectangle_173dde26-2a14-4762-8f27-cbe2f43a4995\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:55:24.376Z",
+    "@id": "04086b3c-6f31-4f67-a93f-73df5cfaa47c.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
