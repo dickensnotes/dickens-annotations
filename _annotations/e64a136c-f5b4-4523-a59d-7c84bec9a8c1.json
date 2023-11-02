@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.L5</em></p>\n<p dir=\"ltr\"><strong>Family and two daughters?</strong></p>\n<p><span id=\"docs-internal-guid-5ef6c90c-7fff-2a20-b014-c039d8ad2116\">&nbsp;</span></p>\n<p dir=\"ltr\">This first vague reference may be to the Dorrits. Although Dickens rejects their inclusion in No. I, Little Dorrit does appear very briefly in this number when she is identified as the seamstress in Mrs. Clennam&rsquo;s room. The reference to a &ldquo;working jeweller&rdquo; does not reappear in the Notes or the novel. The underlining of \"his\" suggests that perhaps Dickens was testing out ideas for the family that would become the Dorrits in the next number.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=245,697,962,219"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M245.4359,697.18415h481.18648v0h481.18648v109.39161v109.39161h-481.18648h-481.18648v-109.39161z\"  id=\"rectangle_089db53b-eae8-4715-885f-1ccfe3acce7b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:45:29.901Z",
+    "@id": "e64a136c-f5b4-4523-a59d-7c84bec9a8c1.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
