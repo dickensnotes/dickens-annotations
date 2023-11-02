@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 22
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R14</em></p>\n<p dir=\"ltr\"><strong>Travellers disperse [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This final note, which picks up the &ldquo;intention&rdquo; Dickens expressed on the left (LD.I.L6), is first echoed in Mr. Meagles speech at the assembled breakfast about how the company is &ldquo;now about to disperse&rdquo; (LD 23). It finds its full representation in the final paragraph of the chapter, in which the &ldquo;caravan of the morning, all dispersed, went their appointed ways. And thus ever, by day and ight, under the sun and under the stars, climbing the dusty hills and toiling along the weary plains, journeying by land and journeying by sea, coming and going so strangely, to meet and to act and react on one another, move all we restless travellers through the pilgrimage of life&rdquo; (LD 26).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This is the first of many times when the final chapter note in the Working Notes for this novel corresponds directly to the final paragraph or closing strategy of a chapter.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1623,1393,1015,80"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1622.61818,1395.99211l401.89091,-2.61818l612.65455,24.87273l-2.61818,54.98182l-612.65455,-30.10909l-399.27273,3.92727z\"  id=\"rough_path_dd48c24f-6f70-4734-baf3-affedc03cb73\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:57:13.023Z",
+    "@id": "3cc14475-c81e-411c-9da6-ea902b1126bc.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
