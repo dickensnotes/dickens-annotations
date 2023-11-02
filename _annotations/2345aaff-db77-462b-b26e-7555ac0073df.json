@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 17
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R9</em></p>\n<p dir=\"ltr\"><strong>Bring in Father [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens&rsquo;s &ldquo;brings in&rdquo; Mr. Meagles by beginning the chapter with a conversation between him and Arthur Clennam in which both speakers are, at first, unnamed, &ldquo;brought in&rdquo; only by way of their conversation. Dickens&rsquo;s original intention to give Minnie Meagles the nickname &ldquo;Baby&rdquo; remained in the manuscript. He would correct this to &ldquo;Pet&rdquo; in the proofs throughout this chapter. Only one &ldquo;Baby&rdquo; remains in the novel: towards the end of the chapter Tattycoram exclaims &ldquo;it&rsquo;s she that&rsquo;s always petted and called Baby! I detest the name. I hate her&rdquo; (LD 25). Whether this was an oversight or an intentional remainder of the original name is unclear.&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Meagles was one of the names Dickens listed in his Memoranda book and checked off as used in this novel (3v).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1392,942,865,58"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1392.22655,941.98012h432.34545v0h432.34545v29.14545v29.14545h-432.34545h-432.34545v-29.14545z\"  id=\"rectangle_fdbc7f18-7669-499c-a285-2920e8acfb80\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:53:19.010Z",
+    "@id": "2345aaff-db77-462b-b26e-7555ac0073df.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
