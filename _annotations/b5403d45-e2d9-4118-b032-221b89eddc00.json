@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 27
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R19</em></p>\n<p dir=\"ltr\"><strong>Father&rsquo;s watch</strong></p>\n<p><span id=\"docs-internal-guid-8c4410ce-7fff-11af-b5cb-b299add03b36\">&nbsp;</span></p>\n<p dir=\"ltr\">We first see the watch sitting on the table beside Mrs. Clennam: &ldquo;an old-fashioned gold watch in a heavy double case. Upon this last object her son&rsquo;s eyes and her own now rested together&rdquo; (LD 35). We learn that Clennam sent it to his mother in a packet upon his father&rsquo;s death : &ldquo;I never knew my father to show so much anxiety on any subject, as that his watch should be sent straight to you.&rdquo; &ldquo;I keep it here in remembrance of your father&rdquo; (35).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2280,1782,314,66"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2281.3543,1782.48339l156.32865,4.72875v0l156.32865,4.72875l-0.85163,28.15412l-0.85163,28.15412l-156.32865,-4.72875l-156.32865,-4.72875l0.85163,-28.15412z\"  id=\"rectangle_80e906ea-86d9-44fb-9c37-c598548dea60\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:58:52.566Z",
+    "@id": "b5403d45-e2d9-4118-b032-221b89eddc00.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
