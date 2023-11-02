@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 13
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R5</em></p>\n<p dir=\"ltr\"><strong>Signor John Baptist Cavaletto Cavallette&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-b937ca6a-7fff-12f3-3cec-641c04145f7f\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens decides on the former of these names (with a double L), first introduced by the jailor: &ldquo;What do I know, John Baptist Cavalletto?&rdquo; (LD 7). The two men who are introduced in this note are intertwined spatially on the page, the second note about Cavalletto sandwiching the introduction of Rigaud spatially, as if the two men must be introduced as a pair. Notably, Dickens does not erase the second version of the character&rsquo;s name here, as if he has not yet pinned down the exact spelling and is still testing out ideas.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2066,598,463,130"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2065.79018,619.32557l302.4,-20.94545l17.01818,27.49091l98.18182,-9.16364l45.81818,62.83636l-56.29091,43.2l-201.6,5.23636l-49.74545,-62.83636l-147.92727,-9.16364z\"  id=\"rough_path_0fc8315f-4a40-4c09-a455-7127894b4773\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:50:32.571Z",
+    "@id": "f12e848a-e0ad-4327-a6bc-965269a5b655.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
