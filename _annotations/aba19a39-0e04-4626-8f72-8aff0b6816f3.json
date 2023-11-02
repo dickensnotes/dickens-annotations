@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R6</em></p>\n<p dir=\"ltr\"><strong>Monsieur [Rig] Rigaud [...]&nbsp;</strong></p>\n<p><span id=\"docs-internal-guid-ad5e4028-7fff-ba4e-505b-0f8874cd8ccf\">&nbsp;</span></p>\n<p dir=\"ltr\">The importance of Rigauld&rsquo;s introduction in this chapter is indicated by Dickens&rsquo;s emphasis. Rigaud&rsquo;s characteristic facial expression, significant enough to be mentioned in the notes, appears three times in the first chapter, first elaborated in reverse of the note, as follows: &ldquo;When Monsieur Rigaud laughed, a change took place in his face, that was more remarkable than prepossessing. His moustache went up under his nose, and his nose came down over his moustache, in a very sinister and cruel manner&rdquo; (7). &hellip; &ldquo;his moustache went up, and his nose came down&rdquo; (8). It will become a leitmotif for the character throughout the novel, helping the reader to identify him even as his name changes.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1381,543,1194,101"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1820.99018,644.1983l-439.85455,-19.63636l5.23636,-39.27273l285.38182,3.92727l9.16364,-40.58182l315.49091,-5.23636l578.61818,14.4l-2.61818,45.81818l-202.90909,-6.54545l-229.09091,1.30909l-315.49091,14.4z\"  id=\"rough_path_4033627d-b913-4fdd-854c-7d7d74a38a98\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:51:08.892Z",
+    "@id": "aba19a39-0e04-4626-8f72-8aff0b6816f3.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
