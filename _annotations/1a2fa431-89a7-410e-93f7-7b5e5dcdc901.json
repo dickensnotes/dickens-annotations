@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 28
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R20</em></p>\n<p dir=\"ltr\"><strong>Matthew Casby [...]&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">Dickens&rsquo;s <em>Memoranda</em> book includes &ldquo;Casby-beach&rdquo; (checked) on his third page. Dickens will later use &ldquo;Casby&rdquo; as the name for Flora&rsquo;s father (see No. IV). In the manuscript, we see Dickens testing out a similar series of names, beginning with Matthew and what might be Casbeach before settling on Jeremiah Flintwinch. The parallel testing out of names in the Working Notes and manuscript suggests that Dickens may have used both contemporaneously, though the appearance of Jeremiah in the manuscript but not in the Notes may suggest that the manuscript was a later testing ground. Unlike his indecision about Affery&rsquo;s name (which is amended from Jessie for the first few uses in the manuscript), Dickens appears to settle on Jeremiah after his first use of the name, since it appears unedited in the manuscript from that point forward.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1443,1832,437,239"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1449.0676,1863.01476h190.36519l-1.9425,-31.08003h143.74514l-7.77001,52.44755l23.31002,34.96503l54.39005,44.67754l17.48252,23.31002l11.65501,67.98757l-25.25253,11.65501l-194.25019,3.885l-17.48252,-155.40016l-104.8951,-1.9425l-75.75758,-5.82751l-19.42502,-7.77001z\"  id=\"rough_path_044985e7-0c17-480b-b297-0650e3e58cd4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:59:47.150Z",
+    "@id": "1a2fa431-89a7-410e-93f7-7b5e5dcdc901.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
