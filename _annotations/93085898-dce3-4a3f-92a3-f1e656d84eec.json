@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.L2&nbsp;</em></p>\n<p dir=\"ltr\"><strong>Waiting Room? No</strong><br /><strong>Office? No</strong></p>\n<p><span id=\"docs-internal-guid-6ef02d2a-7fff-8921-0734-61436069de2e\">&nbsp;</span></p>\n<p dir=\"ltr\">Paul Herring suggests that here we see Dickens rejecting the possibility of beginning with the Circumlocution Office (24), though there is of course a possibility that he was, at least briefly, imagining a different administrative setting for the novel&rsquo;s opening.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=262,38,543,163"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M261.75291,37.51049h271.39627v0h271.39627v81.41958v81.41958h-271.39627h-271.39627v-81.41958z\"  id=\"rectangle_673cefce-cbf9-49e1-aa65-328a81cbb922\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:42:01.915Z",
+    "@id": "93085898-dce3-4a3f-92a3-f1e656d84eec.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
