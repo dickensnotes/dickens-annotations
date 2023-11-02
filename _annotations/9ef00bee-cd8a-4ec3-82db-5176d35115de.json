@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 24
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R16</em></p>\n<p dir=\"ltr\"><strong>Dismal London Sunday [...]</strong></p>\n<p><span id=\"docs-internal-guid-cfba3dba-7fff-2c7a-c608-11dbe0bc680b\">&nbsp;</span></p>\n<p dir=\"ltr\">The opening sentence of the chapter echoes this chapter note: &ldquo;It was a Sunday evening in London, gloomy, close and stale&rdquo; (LD 26). The dreariness is set into relief by the lamplight &ldquo;suffered to introduce any show of brightness into such a dismal scene&rdquo; (31). The opening of this chapter is a timely one, with its references to the &ldquo;dire despondency&rdquo; and &ldquo;monotony&rdquo; of Sundays, when &ldquo;[e]verything was bolted and barred that could possibly furnish relief to an overworked people&rdquo; (29). As Dickens was writing this number, a series of riots took place in Hyde Park to protest Lord Robert Grosvenor&rsquo;s Sunday Trading Bill, which would restrict Sunday trading in ways that disproportionately impacted working people who were often paid on a Saturday afternoon. In a letter to Burdett-Coutts on June 27, three days after several thousand people had gathered in Hyde Park to protest the bill, Dickens makes explicit reference to Grosvenor&rsquo;s bill and laments &ldquo;the extraordinary ignorance on the part of those who make the laws&rdquo; (Letters 7.659).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1395,1686,1049,64"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1394.62005,1686.18959h524.50427v0h524.50427v32.08003v32.08003h-524.50427h-524.50427v-32.08003z\"  id=\"rectangle_52b3a20f-f052-4547-a435-e16746d8dce2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:57:53.316Z",
+    "@id": "9ef00bee-cd8a-4ec3-82db-5176d35115de.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
