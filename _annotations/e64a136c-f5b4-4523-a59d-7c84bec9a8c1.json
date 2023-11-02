@@ -13,6 +13,7 @@ order: 6
     "oa:annotatedBy": [
         "annamgibson"
     ],
+    "oa:serializedAt": "2023-11-02T00:54:25.478Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -37,9 +38,8 @@ order: 6
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p dir=\"ltr\"><em>LD.I.L5</em></p>\n<p dir=\"ltr\"><strong>Family and two daughters?</strong></p>\n<p><span id=\"docs-internal-guid-5ef6c90c-7fff-2a20-b014-c039d8ad2116\">&nbsp;</span></p>\n<p dir=\"ltr\">This first vague reference may be to the Dorrits. Although Dickens rejects their inclusion in No. I, Little Dorrit does appear very briefly in this number when she is identified as the seamstress in Mrs. Clennam&rsquo;s room. The reference to a &ldquo;working jeweller&rdquo; does not reappear in the Notes or the novel. In these two notes, Dickens was perhaps testing out ideas for the family that would become the Dorrits in the next number, although he may have drawn upon these notes as inspiration for the Meagles family, too.</p>",
+            "chars": "<p dir=\"ltr\"><em>LD.I.L5</em></p>\n<p dir=\"ltr\"><strong>Family and two daughters? [...]</strong></p>\n<p><span id=\"docs-internal-guid-5ef6c90c-7fff-2a20-b014-c039d8ad2116\">&nbsp;</span></p>\n<p dir=\"ltr\">This first vague reference may be to the Dorrits. Although Dickens rejects their inclusion in No. I, Little Dorrit does appear very briefly in this number when she is identified as the seamstress in Mrs. Clennam&rsquo;s room. The reference to a &ldquo;working jeweller&rdquo; does not reappear in the Notes or the novel. In these two notes, Dickens was perhaps testing out ideas for the family that would become the Dorrits in the next number, although he may have drawn upon these notes as inspiration for the Meagles family, too.</p>",
             "format": "text/html"
         }
-    ],
-    "oa:serializedAt": "2023-11-02T00:54:05.135Z"
+    ]
 }
