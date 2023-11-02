@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 16
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R8</em></p>\n<p dir=\"ltr\"><strong>[Baby] [Practical People.] Quarantine.</strong></p>\n<p><span id=\"docs-internal-guid-27bc0520-7fff-520d-ffb5-04d16aefdd6c\">&nbsp;</span></p>\n<p dir=\"ltr\">Dickens evidently struggled to title this chapter, beginning with &ldquo;[Baby.]&rdquo; then &ldquo;[Practical People]&rdquo; then &ldquo;Quarantine.&rdquo; The final title will be &ldquo;Fellow Travellers.&rdquo; In the manuscript he has similar erasures: &ldquo;[Baby]&rdquo; &ldquo;[Practical People]&rdquo; &ldquo;[Quarantine]&rdquo; &ldquo;[Quarantine]&rdquo; &ldquo;Fellow Travellers,&rdquo; the latter of which may have been written at a later time, since the ink appears lighter than that of the following content. Herring notes the &ldquo;gradual reduction in the role the family was to play&rdquo; in the successive title ideas (25). It is unclear just when Dickens made the final decision to title the chapter &ldquo;Fellow Travellers.&rdquo; Quarantine as the title corresponds to the mention of Quarantine in the left-hand mems (LD.I.L4), but the final decision to title the chapter &ldquo;Fellow Travellers&rdquo; seems more of a piece with the thematic memorandum added on the left (LD.I.L6), which may suggest that this title was part of Dickens&rsquo;s intent to try a &ldquo;new means of interest&rdquo; at a point after he had started to compose this number. Whereas Dickens often returns to the Notes to add a title (see, for instance, chapters 12, LD.IV.R2; 14, LD.IV.13; 16, LD.V.R6; and 19, LD.VI.R1), he does not do so here. While this discrepancy in titling suggests Dickens&rsquo;s proactive use of the Notes, the fact that the manuscript and the Notes share similar titling erasures suggests that he was making active use of the Notes as he worked on this chapter.&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1490,836,871,91"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1490.40836,835.94375h435.61818v0h435.61818v45.50909v45.50909h-435.61818h-435.61818v-45.50909z\"  id=\"rectangle_d6e656dd-7bd7-4fc3-af39-1b8623271e5b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:52:58.167Z",
+    "@id": "971170a8-a993-4fed-b07f-4b22758ee225.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
