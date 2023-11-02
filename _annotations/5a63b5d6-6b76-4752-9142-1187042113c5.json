@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 20
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R12</em></p>\n<p dir=\"ltr\"><strong>Miss Wade</strong></p>\n<p><span id=\"docs-internal-guid-a29c3281-7fff-ea8f-0b10-5fd77e786d3a\">&nbsp;</span></p>\n<p dir=\"ltr\">Miss Wade is introduced to the novel as &ldquo;a handsome young Englishwoman, travelling quite alone, who had a proud observant face, and had either withdrawn herself from the rest or been avoided by the rest&rdquo; (LD 22). In her first conversation with Mr. Meagles, she establishes her implacability and bitterness against constraint: &ldquo;If I had been shut up in any place to pine and suffer, I should always hate that place and wish to burn it down, or raze it to the ground&rdquo; (22). Dickens imagines her face telling its own tale: &ldquo;I am self-contained and self-reliant; your opinion is nothing to me; I have no interest in you, care nothing for you, and see and hear you with indifference&rdquo; (23).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1458,1204,244,74"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1458.29091,1204.17393h122.09091v0h122.09091v37v37h-122.09091h-122.09091v-37z\"  id=\"rectangle_2da32835-0e01-4fd7-909c-a1f518dbc68a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:56:27.000Z",
+    "@id": "5a63b5d6-6b76-4752-9142-1187042113c5.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
