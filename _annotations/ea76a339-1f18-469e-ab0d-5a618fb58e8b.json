@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.L4</em></p>\n<p dir=\"ltr\"><strong>Prison? Yes</strong><br /><strong>Quarantine? Yes</strong></p>\n<p><span id=\"docs-internal-guid-fadacc92-7fff-afdc-3acc-dd864622f2a4\">&nbsp;</span></p>\n<p dir=\"ltr\">The Marseilles quarantine in which we find the Meagles and Arthur Clennam is paired with the prison in chapter 1, establishing the theme of imprisonment from the novel&rsquo;s opening. The prison has its &ldquo;taint on everything&rdquo;: &ldquo;The imprisoned air, the imprisoned light, the imprisoned damps, the imprisoned men, were all deteriorated by confinement&rdquo; (LD 2). Chapter 2 will suggest that the tainting air of imprisonment continues. Mr. Meagles bemoans the imprisonment of quarantine: &ldquo;I am like a sane man shut up in a madhouse; I can&rsquo;t stand the suspicion of the thing&rdquo; (15). Just as the prisoners are described as &ldquo;birds&rdquo; by the jailor (6), Mr. Meagles describes the English travelers in quarantine as &ldquo;jail-birds&rdquo; about to &ldquo;take wing for our different destinations&rdquo; (16). &ldquo;I dare say a prisoner begins to relent towards his prison, after he is let out,&rdquo; reflects Mr. Meagles as he leaves the quarantine (21).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=322,424,676,237"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M322.35897,424.45688h337.82984v0h337.82984v118.71562v118.71562h-337.82984h-337.82984v-118.71562z\"  id=\"rectangle_2d8fe9f5-bd2e-4111-8d2f-0d85f4136b35\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:43:09.610Z",
+    "@id": "ea76a339-1f18-469e-ab0d-5a618fb58e8b.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
