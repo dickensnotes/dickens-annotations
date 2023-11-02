@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 30
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R22</em></p>\n<p dir=\"ltr\"><strong>Old Sweetheart available</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The &ldquo;Old Sweetheart&rdquo; is Flora Pancks, whom Dickens will introduce in No. IV as a fictionalized version of his own experience with his former sweetheart, Maria Beadnell (now Mrs. Henry Winter) (for more on Dickens and Maria Beadnell, see LD.IV.L5 and Critical Introduction).</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">It is in this chapter that we first learn of Little Dorrit, though only in passing as a &ldquo;girl&hellip; almost hidden in the dark corner&rdquo; in Mrs. Clennam&rsquo;s room. Little Dorrit is not mentioned in the Notes for this number. It is in the same breath that Affery mentions Little Dorrit&rsquo;s name that she also mentions this &ldquo;old sweetheart&rdquo;: &ldquo;Oh! She? Little Dorrit? <em>She&rsquo;s</em> nothing; she&rsquo;s a wim of&ndash;hers.&rdquo; It was a peculiarity of Affery Flintwinch that she never spoke of Mrs. Clennam by name. &ldquo;But there&rsquo;s another sort of girls than that about. Have you forgot your own sweetheart? Long and long ago, I&rsquo;ll be bound&rdquo;... &ldquo;Here&rsquo;s news for you, then. She&rsquo;s well to do now, and a widow. And if you like to have her, why you can&rdquo; (LD 40). The mention of &ldquo;Little Dorrit&rdquo; here was added in proof, first as &ldquo;Dorrit&rdquo; and then, later, as &ldquo;Little Dorrit&rdquo;; it does not appear in the manuscript.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2129,1995,515,53"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2128.88578,1995.0474h257.41026v0h257.41026v26.25253v26.25253h-257.41026h-257.41026v-26.25253z\"  id=\"rectangle_b7b5d053-04be-4fac-b4a5-72a19bd6029f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T01:01:16.619Z",
+    "@id": "ae6190e6-5b0d-47ce-9a66-bb6d021a3006.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
