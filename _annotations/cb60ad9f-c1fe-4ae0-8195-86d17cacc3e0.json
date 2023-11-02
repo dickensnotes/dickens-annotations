@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 15
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R7</em></p>\n<p dir=\"ltr\"><strong>Jailer&rsquo;s child [...]</strong></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">The child&rsquo;s innocence is emphasized multiple times in this chapter, and her willingness to engage with Jon Baptist but her fear of Rigaud signals the differences between their characters. This verse is part of the &ldquo;child&rsquo;s game&rdquo; she plays with Cavaletto, singing the song to him as she leaves and expecting his response. The song was a popular French children&rsquo;s tune. In the novel, Dickens chooses to write the verse in English rather than the (slightly inaccurate) French he has in his notes:</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">&ldquo;Who passes by this road so late?</p>\n<p dir=\"ltr\">Compagnon de la Majolaine!</p>\n<p dir=\"ltr\">Who passes by this road so late?</p>\n<p dir=\"ltr\">Always gay!&rdquo; (8)</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">This is the first of many times we see an uncomfortable juxtaposition between childish play and the darkness of imprisonment. See Mark Hennelly for more on the significance of Dickens&rsquo;s use of this song and the &ldquo;perverse play world&rdquo; of the novel it indicates (190). Using the Working Notes as his evidence, Hennelly argues that Dickens &ldquo;did intend the song and game as a kind of narrative &lsquo;tag&rsquo; or &lsquo;refrain,&rsquo; a coda teasing the reader as much with its unsung as with its sung relevance&rdquo; (198).&nbsp;</p>\n<p>&nbsp;</p>\n<p dir=\"ltr\">That Dickens includes a significant portion of the song&rsquo;s lyric in this note indicates its centrality to the narrative. The song will reappear three times in Book II. It will be the means by which Cavalletto will identify Rigaud/Blandois when he overhears Arthur singing the song to himself in No. XVI, having heard it from Rigaud himself in No. XIII (see LD.XVI.R16). Rigaud will sing it for the final time in No. XVIII, using it to demonstrate his continued power over Cavalletto (LD.XVIII.R11).</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1373,651,546,122"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1373.28109,653.36194l248.72727,-2.61818l9.16364,44.50909l285.38182,-22.25455l2.61818,62.83636l-449.01818,36.65455z\"  id=\"rough_path_30e59066-5e09-43b9-aead-336e538e3336\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:52:15.529Z",
+    "@id": "cb60ad9f-c1fe-4ae0-8195-86d17cacc3e0.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
