@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 9
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R1</em></p>\n<p dir=\"ltr\"><strong>Sun and Shadow</strong></p>\n<p><span id=\"docs-internal-guid-28731423-7fff-65a0-115b-ea89e8b4fb13\">&nbsp;</span></p>\n<p dir=\"ltr\">On the verso of the first manuscript page for the added chapter IV, which Dickens most likely wrote at some point between Numbers II and III, he appears to begin the opening chapter of the novel again, but immediately decides against it. This quickly aborted rewrite has &ldquo;Chapter I. Mist&rdquo; and begins with what appears (under a deletion) to read &ldquo;Thirty years ago,&rdquo; the same phrase Dickens used originally to begin the novel. There is, of course, a possibility that Dickens wrote this aborted opening earlier and merely used the back of a discarded page to begin writing chapter IV.</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1447,308,443,59"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1446.6014,308.48951h221.27972v0h221.27972v29.32168v29.32168h-221.27972h-221.27972v-29.32168z\"  id=\"rectangle_0e53ec8b-17b6-4243-a490-83606776d9a0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:47:16.680Z",
+    "@id": "ce05f868-2b1a-47a9-a83e-51274d3e29ec.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
