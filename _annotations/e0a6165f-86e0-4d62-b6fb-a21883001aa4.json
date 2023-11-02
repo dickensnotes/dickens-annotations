@@ -1,0 +1,44 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json"
+order: 19
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p dir=\"ltr\"><em>LD.I.R11</em></p>\n<p dir=\"ltr\"><strong>&ldquo;Practical people&rdquo; [...]</strong></p>\n<p><span id=\"docs-internal-guid-a41fa513-7fff-38a3-3188-6fe012e5a4f9\">&nbsp;</span></p>\n<p dir=\"ltr\">The ironic phrase &ldquo;practical people&rdquo; is repeated six times in this chapter. As &ldquo;practical people,&rdquo; the Meagles are set in stark contrast to Clennam&rsquo;s own &ldquo;hard father and mother&rdquo; as he describes them in this chapter, whose harsh economic practicality stifles all affection (LD 20).&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/littledorrittranscription/LDWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1501,1124,1111,190"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1500.87273,1123.7012l460.8,1.30909l650.61818,23.56364l-3.92727,164.94545l-651.92727,-14.4l-9.16364,-111.27273l-446.4,-1.30909z\"  id=\"rough_path_d058700d-15db-4a09-aa90-f6c6d030f5d4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/littledorrittranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2023-11-02T00:56:14.340Z",
+    "@id": "e0a6165f-86e0-4d62-b6fb-a21883001aa4.json",
+    "oa:annotatedBy": [
+        "annamgibson"
+    ]
+}
