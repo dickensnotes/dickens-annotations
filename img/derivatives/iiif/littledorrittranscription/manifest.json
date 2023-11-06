@@ -6,13 +6,26 @@ layout: none
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/littledorrittranscription/manifest.json",
   "@type": "sc:Manifest",
   "label": "Little Dorrit Transcription",
+  "viewingDirection": "left-to-right",
+  "rights": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "© Digital Dickens Notes Project (DDNP) 2023<br>Editorial annotations by Anna Gibson.<br>Editorial content, including annotations, is licensed under a Creative Commons CC BY-NC-SA 4.0 License.<br>The Little Dorrit Working Notes are part of the novel manuscript, which is held by the Victoria and Albert Museum's National Art Library. "
+      ]
+    }
+  },
   "metadata": [
     {
-      "label": "rights",
-      "value": "https&#58;//creativecommons.org/licenses/by-nc-sa/4.0/"
+      "label": { "en": [ "MLA Citation: " ] },
+      "value": { "en": [ "Dickens, Charles. '<i>Bleak House</i> Working Notes,' transcribed and edited by Anna Gibson and Frankie Goodenough. <i>Digital Dickens Notes Project.</i> Anna Gibson and Adam Grener, dirs. 2023. Web. http://dickensnotes.com/notes/bleak-house/mirador/<br>Editorial annotations are written by Adam Grener and can be cited by annotation number (e.g. LD.IV.R2)." ] }
     }
   ],
-  "viewingDirection": "left-to-right",
   "sequences": [
     {
       "@type": "sc:Sequence",
