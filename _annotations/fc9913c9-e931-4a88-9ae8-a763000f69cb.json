@@ -13,7 +13,7 @@ order: 8
     "oa:annotatedBy": [
         "Adam Grener"
     ],
-    "oa:serializedAt": "2022-10-10T21:42:32.036Z",
+    "oa:serializedAt": "2023-12-12T22:24:48.030Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -26,7 +26,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1568.93918,1527.59969h363.39415v0h363.39415v58.92918v58.92918h-363.39415h-363.39415v-58.92918z\"  id=\"rectangle_30ce1a23-38ef-4d13-b9d3-b8ad541e5479\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1568.93918,1527.59969h363.39415v0h363.39415v58.92918v58.92918h-363.39415h-363.39415v-58.92918z\"  id=\"rectangle_30ce1a23-38ef-4d13-b9d3-b8ad541e5479\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1.35727\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -38,7 +38,7 @@ order: 8
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.I.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Telescopic Philanthropy</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This chapter is first given a much longer title in the manuscript, which has been deleted and replaced with \"Telescopic Philanthropy.\" That original title cannot be read beneath Dickens's blots, but the first word does still appear to be \"Telescopic.\"</span></p>\n<p>&nbsp;</p>",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.I.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Telescopic Philanthropy<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This chapter is first given a much longer title in the manuscript, which has been deleted and replaced with \"Telescopic Philanthropy.\" That original title cannot be read beneath Dickens's blots, but the first word does still appear to be \"Telescopic.\"</span></p>\n<p>&nbsp;</p>",
             "format": "text/html"
         }
     ]
