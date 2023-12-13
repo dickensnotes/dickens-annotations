@@ -4,16 +4,14 @@ order: 6
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "b50c8d0e-c25a-4094-afc5-d5c3d6bd5d5d.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XII.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Close with that</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">At proof stage, Dickens removed some more explicit commentary from Esther on Richard's \"driving away\" with Vholes: \"We were both surprised, on our rising to accompany Richard to the little inn, that he rather objected to our going. &lsquo;Why the fact is,&rsquo; he at length explained, with a hearty burst of laughter,&ndash;&lsquo;it&rsquo;s very ridiculous, but since it must come out,&ndash;there&rsquo;s nothing kept here; there was nothing to be got, but a morning-coach that happens to be waiting to be taken back; and I am going to drive Mr. Vholes over in that.&rsquo; Ada turned pale, and was quite shocked. I must say that I too felt uncomfortable, and was not relieved by the great applicability of the carriage to Mr. Vholes.\" </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-12T23:17:14.993Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 6
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2304.28597,1401.42355h141.04971v0h141.04971v29.12243v29.12243h-141.04971h-141.04971v-29.12243z\"  id=\"rectangle_6b5ed258-1418-45d0-bcba-51e2b7e96adf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2304.28597,1401.42355h141.04971v0h141.04971v29.12243v29.12243h-141.04971h-141.04971v-29.12243z\"  id=\"rectangle_6b5ed258-1418-45d0-bcba-51e2b7e96adf\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 6
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T23:17:14.993Z",
-    "@id": "b50c8d0e-c25a-4094-afc5-d5c3d6bd5d5d.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XII.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Close with that<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">At proof stage, Dickens removed some more explicit commentary from Esther on Richard's \"driving away\" with Vholes: \"We were both surprised, on our rising to accompany Richard to the little inn, that he rather objected to our going. &lsquo;Why the fact is,&rsquo; he at length explained, with a hearty burst of laughter,&ndash;&lsquo;it&rsquo;s very ridiculous, but since it must come out,&ndash;there&rsquo;s nothing kept here; there was nothing to be got, but a morning-coach that happens to be waiting to be taken back; and I am going to drive Mr. Vholes over in that.&rsquo; Ada turned pale, and was quite shocked. I must say that I too felt uncomfortable, and was not relieved by the great applicability of the carriage to Mr. Vholes.\" </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:49:22.519Z"
 }
