@@ -4,16 +4,14 @@ order: 9
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "7cf3e287-8c69-45b9-b600-930475668b92.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIX-XX.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mrs Woodcourt and Allan. Prepare the way.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In addition to Esther's engagement to Jarndyce, the other barrier to her eventual union with Woodcourt is his mother's class pretensions that prejudice her against Esther. At the start of the chapter, Esther's discloses that Mrs Woodcourt has come to stay with them \"on my guardian's invitation\" (BH 916); this, as we learn in chapter 64, is part of Jarndyce's direct effort to take Mrs Woodcourt \"into a separate confidence\" (BH 965) and provide her an opportunity to observe Esther and Allan together. In chapter 60, Jarndyce's discussion of Mrs Woodcourt with Esther precipitates one of her characteristic evasions of her inner feelings: \"I had nothing to say against [Mrs Woodcourt coming to stay]. I could not have suggested a better arrangement; but I was not quite easy in my mind. Esther, Esther, why not? Esther, think!\" (BH 919).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-13T00:36:31.266Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 9
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1371.37046,254.58907l283.55284,9.42786v0l283.55284,9.42786l-0.96192,28.93087l-0.96192,28.93087l-283.55284,-9.42786l-283.55284,-9.42786l0.96192,-28.93087z\"  id=\"rectangle_309600ae-b0fc-4672-8e23-c6702d08b825\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1371.37046,254.58907l283.55284,9.42786v0l283.55284,9.42786l-0.96192,28.93087l-0.96192,28.93087l-283.55284,-9.42786l-283.55284,-9.42786l0.96192,-28.93087z\"  id=\"rectangle_309600ae-b0fc-4672-8e23-c6702d08b825\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 9
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-13T00:36:31.266Z",
-    "@id": "7cf3e287-8c69-45b9-b600-930475668b92.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIX-XX.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mrs Woodcourt and Allan. Prepare the way.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In addition to Esther's engagement to Jarndyce, the other barrier to her eventual union with Woodcourt is his mother's class pretensions that prejudice her against Esther. At the start of the chapter, Esther's discloses that Mrs Woodcourt has come to stay with them \"on my guardian's invitation\" (BH 916); this, as we learn in chapter 64, is part of Jarndyce's direct effort to take Mrs Woodcourt \"into a separate confidence\" (BH 965) and provide her an opportunity to observe Esther and Allan together. In chapter 60, Jarndyce's discussion of Mrs Woodcourt with Esther precipitates one of her characteristic evasions of her inner feelings: \"I had nothing to say against [Mrs Woodcourt coming to stay]. I could not have suggested a better arrangement; but I was not quite easy in my mind. Esther, Esther, why not? Esther, think!\" (BH 919).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:58:18.257Z"
 }
