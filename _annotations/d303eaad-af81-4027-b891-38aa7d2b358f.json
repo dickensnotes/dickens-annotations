@@ -4,16 +4,14 @@ order: 7
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "d303eaad-af81-4027-b891-38aa7d2b358f.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.V.L6&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;I have forgotten to mention again [...]&rdquo;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The placement of these two memoranda at the bottom of the working note, along with their actual content, suggests that they might have been recorded during or after composition (rather than preceding composition of chapter 14). This final note refers to the conclusion of chapter 14, where Esther&ndash;in a tellingly evasive manner&ndash;discloses her growing acquaintance with Woodcourt. Given his careful handling of the disclosure of Esther's romantic entanglement with Woodcourt over the course of the novel, this note is significant in the way that it captures the texture of her evasiveness. The text is slightly different in the manuscript and final text: \"I have forgotten to mention&ndash;at least I have not mentioned&ndash;\" (BH 237). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-10T22:01:19.097Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 7
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M36.61964,1921.65643h623.8007v0h623.8007v77.97537v77.97537h-623.8007h-623.8007v-77.97537z\"  id=\"rectangle_9b4242b5-816d-4550-8306-8503ee7f4d00\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M36.61964,1921.65643h623.8007v0h623.8007v77.97537v77.97537h-623.8007h-623.8007v-77.97537z\"  id=\"rectangle_9b4242b5-816d-4550-8306-8503ee7f4d00\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 7
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-10T22:01:19.097Z",
-    "@id": "d303eaad-af81-4027-b891-38aa7d2b358f.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.V.L6&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;I have forgotten to mention again [...]&rdquo;<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The placement of these two memoranda at the bottom of the working note, along with their actual content, suggests that they might have been recorded during or after composition (rather than preceding composition of chapter 14). This final note refers to the conclusion of chapter 14, where Esther&ndash;in a tellingly evasive manner&ndash;discloses her growing acquaintance with Woodcourt. Given his careful handling of the disclosure of Esther's romantic entanglement with Woodcourt over the course of the novel, this note is significant in the way that it captures the texture of her evasiveness. The text is slightly different in the manuscript and final text: \"I have forgotten to mention&ndash;at least I have not mentioned&ndash;\" (BH 237). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T02:21:31.940Z"
 }
