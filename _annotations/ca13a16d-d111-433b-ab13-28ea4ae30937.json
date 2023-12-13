@@ -4,16 +4,14 @@ order: 11
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "ca13a16d-d111-433b-ab13-28ea4ae30937.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVI.R8</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Disconsolate coaches</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although Dickens toys with the wording of this phrase in the manuscript (writing \"carriages\" before deleting it and adding the adjective \"inconsolable\"), in the final text the carriages at Tulkinghorn's funeral are described as \"inconsolable\": \"A great crowd assembles in Lincoln's Inn Fields on the day of the funeral. Sir Leicester Dedlock attends the ceremony in person; strictly speaking, there are only three other human followers, that is to say, Lord Doodle, William Buffy, and the debilitated cousin (thrown in as a make-weight), but the amount of inconsolable carriages is immense. The peerage contributes more four-wheeled affliction than has ever been seen in that neighbourhood. Such is the assemblage of armorial bearings on coach panels that the Herald's College might be supposed to have lost its father and mother at a blow.\" (BH 804). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-13T00:09:15.833Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 11
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2043.75135,1927.30799l243.60568,-18.80669v0l243.60568,-18.80669l2.3447,30.3712l2.3447,30.3712l-243.60568,18.80669l-243.60568,18.80669l-2.3447,-30.3712z\"  id=\"rectangle_6835be56-51be-44c1-838f-d016aba19ee1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2043.75135,1927.30799l243.60568,-18.80669v0l243.60568,-18.80669l2.3447,30.3712l2.3447,30.3712l-243.60568,18.80669l-243.60568,18.80669l-2.3447,-30.3712z\"  id=\"rectangle_6835be56-51be-44c1-838f-d016aba19ee1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 11
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-13T00:09:15.833Z",
-    "@id": "ca13a16d-d111-433b-ab13-28ea4ae30937.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVI.R8</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Disconsolate coaches<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although Dickens toys with the wording of this phrase in the manuscript (writing \"carriages\" before deleting it and adding the adjective \"inconsolable\"), in the final text the carriages at Tulkinghorn's funeral are described as \"inconsolable\": \"A great crowd assembles in Lincoln's Inn Fields on the day of the funeral. Sir Leicester Dedlock attends the ceremony in person; strictly speaking, there are only three other human followers, that is to say, Lord Doodle, William Buffy, and the debilitated cousin (thrown in as a make-weight), but the amount of inconsolable carriages is immense. The peerage contributes more four-wheeled affliction than has ever been seen in that neighbourhood. Such is the assemblage of armorial bearings on coach panels that the Herald's College might be supposed to have lost its father and mother at a blow.\" (BH 804). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:54:52.696Z"
 }
