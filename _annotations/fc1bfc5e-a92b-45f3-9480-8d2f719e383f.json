@@ -4,16 +4,14 @@ order: 3
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "fc1bfc5e-a92b-45f3-9480-8d2f719e383f.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XII.R1&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Interview with her mother</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Esther's meeting with her mother is one of the more heavily revised and reworked sections in the entire manuscript of </span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bleak House</span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. At proof stage, Dickens continued to make changes, including a small but significant change to the close of their interview. In the published text, Esther describes their parting by saying, \"We held one another for a little space yet, but she was so firm that she took my hands away, and put them back against my breast, and with a last kiss as she held them there, released them, and went from me into the wood\" (BH 582). The sentence was originally written as \"We embraced one another [...]\" before Dickens changed \"embraced\" to \"held\" in the corrected proofs.</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-12T23:15:18.765Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1473.98848,555.89922l295.64795,-6.66539v0l295.64795,-6.66539l0.69443,30.80195l0.69443,30.80195l-295.64795,6.66539l-295.64795,6.66539l-0.69443,-30.80195z\"  id=\"rectangle_b7aa0dd1-e08c-41cd-9224-2c8bf3aeb8b8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1473.98848,555.89922l295.64795,-6.66539v0l295.64795,-6.66539l0.69443,30.80195l0.69443,30.80195l-295.64795,6.66539l-295.64795,6.66539l-0.69443,-30.80195z\"  id=\"rectangle_b7aa0dd1-e08c-41cd-9224-2c8bf3aeb8b8\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 3
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T23:15:18.765Z",
-    "@id": "fc1bfc5e-a92b-45f3-9480-8d2f719e383f.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XII.R1&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Interview with her mother<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Esther's meeting with her mother is one of the more heavily revised and reworked sections in the entire manuscript of </span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bleak House</span><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. At proof stage, Dickens continued to make changes, including a small but significant change to the close of their interview. In the published text, Esther describes their parting by saying, \"We held one another for a little space yet, but she was so firm that she took my hands away, and put them back against my breast, and with a last kiss as she held them there, released them, and went from me into the wood\" (BH 582). The sentence was originally written as \"We embraced one another [...]\" before Dickens changed \"embraced\" to \"held\" in the corrected proofs.</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:48:38.698Z"
 }
