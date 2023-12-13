@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "3420959e-4e48-4ebd-858b-a4a36bebde0d.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVIII.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Journey through the snow.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On the 29th of June, prior to or in the early stages of composing No. XVIII, Dickens wrote to Hablot K. Browne to \"send the subjects for the next No.\" (Letters 7.107). Dickens also requested that these two sketches, \"The Night\" and \"The Morning,\" be sent to him in Boulogne \"by post\" to review. By the 6th of July, Dickens had evidently reviewed the sketches and approved of them, writing playfully to Browne: \"Mon cher Brune. If I express myself, not altogether in the perfect English of your country, pardon me for tout-ce que je fais. J'ai si longtemps demeur&eacute;&ndash;on the Continent&ndash;que j'ais presqu'oubli&eacute; my native tongue. My friend, il me parait&ndash;that the esquisses seront--admirable&ndash;when they shall be finished according to your so wondrous power of art. I them return&ndash;ci-enclos. Yet I am enchanted of the hope you give me&ndash;de vous re&ccedil;evoir chez moi &agrave; Boulogne!\" (Letters 7.111)</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-13T00:23:11.942Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1380.08566,509.68345l258.41101,-12.74003v0l258.41101,-12.74003l1.55493,31.53922l1.55493,31.53922l-258.41101,12.74003l-258.41101,12.74003l-1.55493,-31.53922z\"  id=\"rectangle_157fdcb6-ce55-4140-be45-7b9bfd81b1e6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1380.08566,509.68345l258.41101,-12.74003v0l258.41101,-12.74003l1.55493,31.53922l1.55493,31.53922l-258.41101,12.74003l-258.41101,12.74003l-1.55493,-31.53922z\"  id=\"rectangle_157fdcb6-ce55-4140-be45-7b9bfd81b1e6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-13T00:23:11.942Z",
-    "@id": "3420959e-4e48-4ebd-858b-a4a36bebde0d.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVIII.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Journey through the snow.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On the 29th of June, prior to or in the early stages of composing No. XVIII, Dickens wrote to Hablot K. Browne to \"send the subjects for the next No.\" (Letters 7.107). Dickens also requested that these two sketches, \"The Night\" and \"The Morning,\" be sent to him in Boulogne \"by post\" to review. By the 6th of July, Dickens had evidently reviewed the sketches and approved of them, writing playfully to Browne: \"Mon cher Brune. If I express myself, not altogether in the perfect English of your country, pardon me for tout-ce que je fais. J'ai si longtemps demeur&eacute;&ndash;on the Continent&ndash;que j'ais presqu'oubli&eacute; my native tongue. My friend, il me parait&ndash;that the esquisses seront--admirable&ndash;when they shall be finished according to your so wondrous power of art. I them return&ndash;ci-enclos. Yet I am enchanted of the hope you give me&ndash;de vous re&ccedil;evoir chez moi &agrave; Boulogne!\" (Letters 7.111)</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:56:23.258Z"
 }
