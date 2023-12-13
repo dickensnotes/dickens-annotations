@@ -13,6 +13,7 @@ order: 6
     "oa:annotatedBy": [
         "Adam Grener"
     ],
+    "oa:serializedAt": "2023-12-13T23:47:42.663Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -25,7 +26,7 @@ order: 6
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1386.63017,1150.46869l330.85551,-20.95171v0l330.85551,-20.95171l2.29139,36.18415l2.29139,36.18415l-330.85551,20.95171l-330.85551,20.95171l-2.29139,-36.18415z\"  id=\"rectangle_ee9f2d98-4ade-4b26-ad03-0ca56cf41dbf\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1386.63017,1150.46869l330.85551,-20.95171v0l330.85551,-20.95171l2.29139,36.18415l2.29139,36.18415l-330.85551,20.95171l-330.85551,20.95171l-2.29139,-36.18415z\"  id=\"rectangle_ee9f2d98-4ade-4b26-ad03-0ca56cf41dbf\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -37,9 +38,8 @@ order: 6
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XI.R4&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr George sees his mother.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As with many aspects of the Rouncewell family, the Working Notes show Dickens's clear conception and careful planning of the gradual disclosure of George's reunion with his family. </span></p>\n<p>&nbsp;</p>",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XI.R4&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr George sees his mother.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As with many aspects of the Rouncewell family, the Working Notes show Dickens's clear conception and careful planning of the gradual disclosure of George's reunion with his family. </span></p>\n<p>&nbsp;</p>",
             "format": "text/html"
         }
-    ],
-    "oa:serializedAt": "2022-10-26T00:57:16.040Z"
+    ]
 }
