@@ -13,7 +13,7 @@ order: 4
     "oa:annotatedBy": [
         "Adam Grener"
     ],
-    "oa:serializedAt": "2022-10-25T22:50:07.778Z",
+    "oa:serializedAt": "2023-12-13T02:21:02.104Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -26,7 +26,7 @@ order: 4
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M849.23978,754.52201l222.40662,-22.36995v0l222.40662,-22.36995l3.04138,30.23803l3.04138,30.23803l-222.40662,22.36995l-222.40662,22.36995l-3.04138,-30.23803z\"  id=\"rectangle_dabaff0d-b98a-4dd3-b4bb-474f9810ff86\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M849.23978,754.52201l222.40662,-22.36995v0l222.40662,-22.36995l3.04138,30.23803l3.04138,30.23803l-222.40662,22.36995l-222.40662,22.36995l-3.04138,-30.23803z\"  id=\"rectangle_dabaff0d-b98a-4dd3-b4bb-474f9810ff86\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -38,7 +38,7 @@ order: 4
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.V.L3&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Allan Woodcourt.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Woodcourt first appears in the previous monthly number, first when he attends the discovery of Nemo's body; he is then mentioned at the very end of chapter 13 as a \"gentleman of a dark complexion&ndash;a young surgeon\" (BH 214) as Esther and the others dine at the Badgers's. However, he is not named in either appearance. Although Dickens contemplates various names in the Working Note here, only his surname is provided in No. V.</span></p>\n<p>&nbsp;</p>",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.V.L3&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Allan Woodcourt.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Woodcourt first appears in the previous monthly number, first when he attends the discovery of Nemo's body; he is then mentioned at the very end of chapter 13 as a \"gentleman of a dark complexion&ndash;a young surgeon\" (BH 214) as Esther and the others dine at the Badgers's. However, he is not named in either appearance. Although Dickens contemplates various names in the Working Note here, only his surname is provided in No. V.</span></p>\n<p>&nbsp;</p>",
             "format": "text/html"
         }
     ]
