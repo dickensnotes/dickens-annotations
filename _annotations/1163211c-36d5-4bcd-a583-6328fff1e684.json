@@ -13,6 +13,7 @@ order: 9
     "oa:annotatedBy": [
         "Adam Grener"
     ],
+    "oa:serializedAt": "2023-12-13T23:50:44.733Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -25,7 +26,7 @@ order: 9
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1434.98785,730.10956l576.67784,1.46402v0l576.67784,1.46402l-0.18207,71.71904l-0.18207,71.71904l-576.67784,-1.46402l-576.67784,-1.46402l0.18207,-71.71904z\"  id=\"rectangle_a9823dc8-8635-4026-a8b8-3d561b5ec755\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1434.98785,730.10956l576.67784,1.46402v0l576.67784,1.46402l-0.18207,71.71904l-0.18207,71.71904l-576.67784,-1.46402l-576.67784,-1.46402l0.18207,-71.71904z\"  id=\"rectangle_a9823dc8-8635-4026-a8b8-3d561b5ec755\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -37,9 +38,8 @@ order: 9
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIII.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Guppy and Tony &ndash; Court [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The physical setting of the chapter in \"Symond's Inn\" enables Dickens to transition from Vholes's meeting with Richard to Guppy and Tony's observation of the Smallweeds \"rummaging and searching, digging, delving, and diving among\" (BH 633) the inventory of Krook's shop. This transition between character groups is accomplished through Jobling's observation and comparison of Richard's \"smouldering combustion\" (BH 631) to Krook's Spontaneous Combustion in No. X. The appearance of Tulkinghorn at the end of the chapter also sets up the parallel between Richard's growing resentment towards Jarndyce and the \"grim shadow\" that descends on Tulkinghorn through the rest of the number, first through his meeting with Lady Dedlock and then with Hortense.</span></p>\n<p>&nbsp;</p>",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIII.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Guppy and Tony &ndash; Court [...]<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The physical setting of the chapter in \"Symond's Inn\" enables Dickens to transition from Vholes's meeting with Richard to Guppy and Tony's observation of the Smallweeds \"rummaging and searching, digging, delving, and diving among\" (BH 633) the inventory of Krook's shop. This transition between character groups is accomplished through Jobling's observation and comparison of Richard's \"smouldering combustion\" (BH 631) to Krook's Spontaneous Combustion in No. X. The appearance of Tulkinghorn at the end of the chapter also sets up the parallel between Richard's growing resentment towards Jarndyce and the \"grim shadow\" that descends on Tulkinghorn through the rest of the number, first through his meeting with Lady Dedlock and then with Hortense.</span></p>\n<p>&nbsp;</p>",
             "format": "text/html"
         }
-    ],
-    "oa:serializedAt": "2022-10-26T01:17:14.845Z"
+    ]
 }
