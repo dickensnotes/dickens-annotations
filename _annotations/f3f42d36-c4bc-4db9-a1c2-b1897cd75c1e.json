@@ -4,16 +4,14 @@ order: 3
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "f3f42d36-c4bc-4db9-a1c2-b1897cd75c1e.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XV.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Snagsbys? Mr Slightly</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As he decides on whether to include the death of Jo in this number, Dickens also considers the various characters most closely associated with Jo&ndash;here, that is both the Snagsbys and the Chadbands (along with Allan Woodcourt above). Mr Snagsby is present alongside Woodcourt, George Rouncewell, and Phil Squod at Jo's death, and is the recipient of \"Jo's will.&rdquo; The modifier \"slightly\" might refer to the fairly passive role he plays in the chapter.</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-12T23:49:59.215Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M177.07869,1263.64299h349.65643v0h349.65643v65.49136v65.49136h-349.65643h-349.65643v-65.49136z\"  id=\"rectangle_ca8f8fae-ec08-4689-b986-d7e2566c21f2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M177.07869,1263.64299h349.65643v0h349.65643v65.49136v65.49136h-349.65643h-349.65643v-65.49136z\"  id=\"rectangle_ca8f8fae-ec08-4689-b986-d7e2566c21f2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 3
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T23:49:59.215Z",
-    "@id": "f3f42d36-c4bc-4db9-a1c2-b1897cd75c1e.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XV.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Snagsbys? Mr Slightly<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As he decides on whether to include the death of Jo in this number, Dickens also considers the various characters most closely associated with Jo&ndash;here, that is both the Snagsbys and the Chadbands (along with Allan Woodcourt above). Mr Snagsby is present alongside Woodcourt, George Rouncewell, and Phil Squod at Jo's death, and is the recipient of \"Jo's will.&rdquo; The modifier \"slightly\" might refer to the fairly passive role he plays in the chapter.</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:53:17.106Z"
 }
