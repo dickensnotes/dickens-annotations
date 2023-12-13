@@ -26,7 +26,7 @@ order: 6
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1386.63017,1150.46869l330.85551,-20.95171v0l330.85551,-20.95171l2.29139,36.18415l2.29139,36.18415l-330.85551,20.95171l-330.85551,20.95171l-2.29139,-36.18415z\"  id=\"rectangle_ee9f2d98-4ade-4b26-ad03-0ca56cf41dbf\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1386.63017,1150.46869l330.85551,-20.95171v0l330.85551,-20.95171l2.29139,36.18415l2.29139,36.18415l-330.85551,20.95171l-330.85551,20.95171l-2.29139,-36.18415z\"  id=\"rectangle_ee9f2d98-4ade-4b26-ad03-0ca56cf41dbf\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
