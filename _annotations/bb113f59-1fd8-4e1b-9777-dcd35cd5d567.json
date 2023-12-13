@@ -4,16 +4,14 @@ order: 10
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "bb113f59-1fd8-4e1b-9777-dcd35cd5d567.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIV.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Boythorn and Miss Barbary.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This chapter is the first time that Boythorn's engagement to Miss Barbary (Lady Dedlock's sister and Esther's aunt) is made explicit, as Jarndyce explains to Esther: \"'Then, Esther, when you spoke to me long ago of Boythorn, and when I told you that he was all but married once, and that the lady did not die, but died to him, and that that time had had its influence on his later life&ndash;did you know it all, and know who the lady was?' 'No, guardian,' I returned, fearful of the light that dimly broke upon me. 'Nor do I know yet.' 'Lady Dedlock's sister'\" (BH 685). Although it is impossible to tell whether Dickens planned this connection from the outset of the novel or whether he happened upon it as a means of tightening the plot, the former seems much more likely in this instance. After Esther first learns of Boythorn's broken engagement from Jarndyce in chapter 9, she dreams of her aunt: \"I was interested [in Boythorn's story], but not curious. I thought a little while about this old love story in the night, when I was awakened by Mr Boythorn's lusty snoring; and I tried to do that very difficult thing&ndash;imagine old people young again, and invested with the graces of youth. But I fell asleep before I had succeeded, and dreamed of the days when I lived in my godmother's house. I am not sufficiently acquainted with such subjects, to know whether it is at all remarkable that I almost always dreamed of that period of my life\" (BH 147).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-12T23:39:20.515Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 10
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1326.10319,870.55094l179.65491,-13.24749v0l179.65491,-13.24749l4.1904,56.8278l4.1904,56.8278l-179.65491,13.24749l-179.65491,13.24749l-4.1904,-56.8278z\"  id=\"rectangle_32f0249f-e124-4eb7-992c-5c39fda661ee\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1326.10319,870.55094l179.65491,-13.24749v0l179.65491,-13.24749l4.1904,56.8278l4.1904,56.8278l-179.65491,13.24749l-179.65491,13.24749l-4.1904,-56.8278z\"  id=\"rectangle_32f0249f-e124-4eb7-992c-5c39fda661ee\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 10
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T23:39:20.515Z",
-    "@id": "bb113f59-1fd8-4e1b-9777-dcd35cd5d567.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIV.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Boythorn and Miss Barbary.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This chapter is the first time that Boythorn's engagement to Miss Barbary (Lady Dedlock's sister and Esther's aunt) is made explicit, as Jarndyce explains to Esther: \"'Then, Esther, when you spoke to me long ago of Boythorn, and when I told you that he was all but married once, and that the lady did not die, but died to him, and that that time had had its influence on his later life&ndash;did you know it all, and know who the lady was?' 'No, guardian,' I returned, fearful of the light that dimly broke upon me. 'Nor do I know yet.' 'Lady Dedlock's sister'\" (BH 685). Although it is impossible to tell whether Dickens planned this connection from the outset of the novel or whether he happened upon it as a means of tightening the plot, the former seems much more likely in this instance. After Esther first learns of Boythorn's broken engagement from Jarndyce in chapter 9, she dreams of her aunt: \"I was interested [in Boythorn's story], but not curious. I thought a little while about this old love story in the night, when I was awakened by Mr Boythorn's lusty snoring; and I tried to do that very difficult thing&ndash;imagine old people young again, and invested with the graces of youth. But I fell asleep before I had succeeded, and dreamed of the days when I lived in my godmother's house. I am not sufficiently acquainted with such subjects, to know whether it is at all remarkable that I almost always dreamed of that period of my life\" (BH 147).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:52:29.931Z"
 }
