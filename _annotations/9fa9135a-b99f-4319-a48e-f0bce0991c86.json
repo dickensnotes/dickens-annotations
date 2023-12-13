@@ -4,16 +4,14 @@ order: 3
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "9fa9135a-b99f-4319-a48e-f0bce0991c86.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVII.L2</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">And Weevle?</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although Weevle (aka Jobling) does not appear in No. XVII, he is mentioned in both chapters 54 and 55. In chapter 54, Mrs Snagsby mentions him as among those conspiring with her husband and \"plott[ing] against [her] peace\": \"There is Mr Weevle, friend of Mr Guppy, who lived mysteriously up a court, owing to the like coherent causes\" (BH 827). In following chapter, Guppy mentions him in his interview with Lady Dedlock in connection with her letters to Hawdon: \"However, what with the exertion of my humble abilities, and what with the help of a mutual friend by the name of Mr Tony Weevle (who is of a high aristocratic turn, and has your Ladyship's portrait always hanging up in his room), I have now reasons for an apprehension, as to which I come to put your Ladyship upon your guard\" (BH 853). While Weevle has been closely associated with the retrieval of these letters since taking up residence at Krook's following the death of Hawdon (Nemo) under the assumed name Jobling, his physical presence at Guppy's interview seems both narratively cumbersome and also something Lady Dedlock would not tolerate.</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-13T00:14:25.452Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M45.44583,192.8668h189.93608v0h189.93608v53.52931v53.52931h-189.93608h-189.93608v-53.52931z\"  id=\"rectangle_403a5865-94fb-415a-991e-42c5f17aa965\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M45.44583,192.8668h189.93608v0h189.93608v53.52931v53.52931h-189.93608h-189.93608v-53.52931z\"  id=\"rectangle_403a5865-94fb-415a-991e-42c5f17aa965\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 3
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-13T00:14:25.452Z",
-    "@id": "9fa9135a-b99f-4319-a48e-f0bce0991c86.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVII.L2</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">And Weevle?<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Although Weevle (aka Jobling) does not appear in No. XVII, he is mentioned in both chapters 54 and 55. In chapter 54, Mrs Snagsby mentions him as among those conspiring with her husband and \"plott[ing] against [her] peace\": \"There is Mr Weevle, friend of Mr Guppy, who lived mysteriously up a court, owing to the like coherent causes\" (BH 827). In following chapter, Guppy mentions him in his interview with Lady Dedlock in connection with her letters to Hawdon: \"However, what with the exertion of my humble abilities, and what with the help of a mutual friend by the name of Mr Tony Weevle (who is of a high aristocratic turn, and has your Ladyship's portrait always hanging up in his room), I have now reasons for an apprehension, as to which I come to put your Ladyship upon your guard\" (BH 853). While Weevle has been closely associated with the retrieval of these letters since taking up residence at Krook's following the death of Hawdon (Nemo) under the assumed name Jobling, his physical presence at Guppy's interview seems both narratively cumbersome and also something Lady Dedlock would not tolerate.</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:55:05.157Z"
 }
