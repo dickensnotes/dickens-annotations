@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "d1d84007-0644-4692-84c6-628627a8a281.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XV.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Making things pleasant</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These notes refer to Bucket's explanation of his actions following his arrest of George after departing the Bagnets and the celebration of Mrs Bagnet's birthday: \"&lsquo;Now, George,&rsquo; continues Mr. Bucket, putting his hat upon the table with an air of business rather in the upholstery way than otherwise, &lsquo;my wish is, as it has been all the evening, to make things pleasant. I tell you plainly there's a reward out, of a hundred guineas, offered by Sir Leicester Dedlock, Baronet. You and me have always been pleasant together; but I have got a duty to discharge; and if that hundred guineas is to be made, it may as well be made by me as any other man. On all of which accounts, I should hope it was clear to you that I must have you, and that I'm damned if I don't have you. Am I to call in any assistance, or is the trick done?&rsquo;\" (BH 766).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-12T23:52:28.017Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1379.72318,1851.67882h252.91939v0h252.91939v40.18746v40.18746h-252.91939h-252.91939v-40.18746z\"  id=\"rectangle_a6bd53c0-7a26-4f49-afe7-6fd69f0553aa\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1379.72318,1851.67882h252.91939v0h252.91939v40.18746v40.18746h-252.91939h-252.91939v-40.18746z\"  id=\"rectangle_a6bd53c0-7a26-4f49-afe7-6fd69f0553aa\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T23:52:28.017Z",
-    "@id": "d1d84007-0644-4692-84c6-628627a8a281.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XV.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Making things pleasant<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These notes refer to Bucket's explanation of his actions following his arrest of George after departing the Bagnets and the celebration of Mrs Bagnet's birthday: \"&lsquo;Now, George,&rsquo; continues Mr. Bucket, putting his hat upon the table with an air of business rather in the upholstery way than otherwise, &lsquo;my wish is, as it has been all the evening, to make things pleasant. I tell you plainly there's a reward out, of a hundred guineas, offered by Sir Leicester Dedlock, Baronet. You and me have always been pleasant together; but I have got a duty to discharge; and if that hundred guineas is to be made, it may as well be made by me as any other man. On all of which accounts, I should hope it was clear to you that I must have you, and that I'm damned if I don't have you. Am I to call in any assistance, or is the trick done?&rsquo;\" (BH 766).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:53:49.879Z"
 }
