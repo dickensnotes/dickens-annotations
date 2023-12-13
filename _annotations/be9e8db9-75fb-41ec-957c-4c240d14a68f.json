@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "be9e8db9-75fb-41ec-957c-4c240d14a68f.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIX-XX.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Jellybys and Turveydrop&rsquo;s &ndash; Deportment.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Esther returns at some length to Caddy in the final chapter, including a brief and striking mention of Caddy's \"deaf and dumb\" \"poor little girl\" (BH 987). Only brief mention is made of Mr Turveydrop and his Deportment, but he is also linked to the Jellybys through his patronage of Peepy: \"As if I were never to have done with Caddy, I am reminded here of Peepy and old Mr. Turveydrop. Peepy is in the Custom House, and doing extremely well. Old Mr. Turveydrop, very apoplectic, still exhibits his deportment about town, still enjoys himself in the old manner, is still believed in in the old way. He is constant in his patronage of Peepy and is understood to have bequeathed him a favourite French clock in his dressing-room&mdash;which is not his property.\"</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-13T00:34:11.904Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M76.22592,1458.95978l478.42532,14.30581v0l478.42532,14.30581l-1.71649,57.40428l-1.71649,57.40428l-478.42532,-14.30581l-478.42532,-14.30581l1.71649,-57.40428z\"  id=\"rectangle_32624e67-5c7d-4d05-91ba-3f1c41882682\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M76.22592,1458.95978l478.42532,14.30581v0l478.42532,14.30581l-1.71649,57.40428l-1.71649,57.40428l-478.42532,-14.30581l-478.42532,-14.30581l1.71649,-57.40428z\"  id=\"rectangle_32624e67-5c7d-4d05-91ba-3f1c41882682\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-13T00:34:11.904Z",
-    "@id": "be9e8db9-75fb-41ec-957c-4c240d14a68f.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIX-XX.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Jellybys and Turveydrop&rsquo;s &ndash; Deportment.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Esther returns at some length to Caddy in the final chapter, including a brief and striking mention of Caddy's \"deaf and dumb\" \"poor little girl\" (BH 987). Only brief mention is made of Mr Turveydrop and his Deportment, but he is also linked to the Jellybys through his patronage of Peepy: \"As if I were never to have done with Caddy, I am reminded here of Peepy and old Mr. Turveydrop. Peepy is in the Custom House, and doing extremely well. Old Mr. Turveydrop, very apoplectic, still exhibits his deportment about town, still enjoys himself in the old manner, is still believed in in the old way. He is constant in his patronage of Peepy and is understood to have bequeathed him a favourite French clock in his dressing-room&mdash;which is not his property.\"</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:57:44.268Z"
 }
