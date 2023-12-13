@@ -4,16 +4,14 @@ order: 12
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "857fc982-013d-425c-bebe-622cd037dcc0.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIII.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">London bird.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens invokes the image of a bird at the very outset of the novel to trace the movement between spaces. After the opening of the novel in London in the first chapter, the second chapter moves to a description of Chesney Wold: \"It is but a glimpse of the world of fashion that we want on this same miry afternoon. It is not so unlike the Court of Chancery, but that we may pass from the one scene to the other, as the crow flies\" (BH 20). Here, the same image is invoked and applied to Tulkinghorn himself and his movement between Lincolnshire and London: \"Like a dingy London bird among the birds at roost in these pleasant fields, where the sheep are all made into parchment, the goats into wigs, and the pasture into chaff, the lawyer, smoke-dried and faded, dwelling among mankind but not consorting with them, aged without experience of genial youth, and so long used to make his cramped nest in holes and corners of human nature that he has forgotten its broader and better range, comes sauntering home. In the oven made by the hot pavements and hot buildings, he has baked himself dryer than usual; and he has in his thirsty mind his mellowed port-wine half a century old\" (BH 661).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-12T23:28:18.883Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 12
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2417.53075,1922.32709l128.41328,5.11862v0l128.41328,5.11862l-2.03016,50.93175l-2.03016,50.93175l-128.41328,-5.11862l-128.41328,-5.11862l2.03016,-50.93175z\"  id=\"rectangle_fba04d51-c2a7-44c6-891c-690c4501fd46\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2417.53075,1922.32709l128.41328,5.11862v0l128.41328,5.11862l-2.03016,50.93175l-2.03016,50.93175l-128.41328,-5.11862l-128.41328,-5.11862l2.03016,-50.93175z\"  id=\"rectangle_fba04d51-c2a7-44c6-891c-690c4501fd46\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 12
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T23:28:18.883Z",
-    "@id": "857fc982-013d-425c-bebe-622cd037dcc0.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIII.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">London bird.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens invokes the image of a bird at the very outset of the novel to trace the movement between spaces. After the opening of the novel in London in the first chapter, the second chapter moves to a description of Chesney Wold: \"It is but a glimpse of the world of fashion that we want on this same miry afternoon. It is not so unlike the Court of Chancery, but that we may pass from the one scene to the other, as the crow flies\" (BH 20). Here, the same image is invoked and applied to Tulkinghorn himself and his movement between Lincolnshire and London: \"Like a dingy London bird among the birds at roost in these pleasant fields, where the sheep are all made into parchment, the goats into wigs, and the pasture into chaff, the lawyer, smoke-dried and faded, dwelling among mankind but not consorting with them, aged without experience of genial youth, and so long used to make his cramped nest in holes and corners of human nature that he has forgotten its broader and better range, comes sauntering home. In the oven made by the hot pavements and hot buildings, he has baked himself dryer than usual; and he has in his thirsty mind his mellowed port-wine half a century old\" (BH 661).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:51:02.090Z"
 }
