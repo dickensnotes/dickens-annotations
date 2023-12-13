@@ -4,16 +4,14 @@ order: 9
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "86ba8974-1150-443c-b309-ef0b29f4c4c6.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.IX.R5&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a threatening, murdering, dangerous fellow</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This phrase, uttered by Tulkinghorn, is used to describe Gridley, not George, but becomes associated with George by chance and subsequently fuels suspicions around George following Tulkinghorn's murder. When George returns to Tulkinghorn's chambers following his consultation with the Bagnets, Tulkinghorn recalls the link between&nbsp; George and the now-deceased Gridley, telling George: \"'I don't like your associates. You should not have seen the inside of my door this morning, if I had thought of your being that man [who sheltered Gridley]. Gridley? A threatening, murderous, dangerous fellow'\" (BH 445). As George departs, however, \"a clerk coming up the stairs has heard the last words of all, and evidently applies them to him. 'A pretty character to bear,' the trooper growls with a hasty oath, as he strides down-stairs. 'A threatening, murderous, dangerous fellow!' and looking up, he sees the clerk looking down at him, and marking him as he passes a lamp.\"</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-12T02:33:22.620Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 9
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1348.15896,1348.01837l400.98298,-9.82992v0l400.98298,-9.82992l0.71922,29.3386l0.71922,29.3386l-400.98298,9.82992l-400.98298,9.82992l-0.71922,-29.3386z\"  id=\"rectangle_13212c00-6df5-419e-a5fc-656e8920f98e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1348.15896,1348.01837l400.98298,-9.82992v0l400.98298,-9.82992l0.71922,29.3386l0.71922,29.3386l-400.98298,9.82992l-400.98298,9.82992l-0.71922,-29.3386z\"  id=\"rectangle_13212c00-6df5-419e-a5fc-656e8920f98e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 9
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T02:33:22.620Z",
-    "@id": "86ba8974-1150-443c-b309-ef0b29f4c4c6.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.IX.R5&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a threatening, murdering, dangerous fellow<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This phrase, uttered by Tulkinghorn, is used to describe Gridley, not George, but becomes associated with George by chance and subsequently fuels suspicions around George following Tulkinghorn's murder. When George returns to Tulkinghorn's chambers following his consultation with the Bagnets, Tulkinghorn recalls the link between&nbsp; George and the now-deceased Gridley, telling George: \"'I don't like your associates. You should not have seen the inside of my door this morning, if I had thought of your being that man [who sheltered Gridley]. Gridley? A threatening, murderous, dangerous fellow'\" (BH 445). As George departs, however, \"a clerk coming up the stairs has heard the last words of all, and evidently applies them to him. 'A pretty character to bear,' the trooper growls with a hasty oath, as he strides down-stairs. 'A threatening, murderous, dangerous fellow!' and looking up, he sees the clerk looking down at him, and marking him as he passes a lamp.\"</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T02:29:19.830Z"
 }
