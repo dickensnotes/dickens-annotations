@@ -4,16 +4,14 @@ order: 4
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "b70439c1-9566-4ad5-b834-09e140225a0e.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIII.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Wind up with Esther&rsquo;s Narrative?</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens is not only unable to return to Esther's Narrative in this number, but also stretches the number beyond the typical structure of three chapters to include a fourth chapter that depicts Tulkinghorn's return to London and his confrontation with Hortense. The monthly number begins with Esther's Narrative, and this title for chapter 43 follows the pattern where Dickens uses this generic chapter title to indicate a shift back to Esther's first-person narration to open a monthly number (this also happens in Nos. VI, VIII, X, XVI, XVIII).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-12T23:23:23.789Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 4
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M123.43156,1194.36151l436.29262,-12.85094v0l436.29262,-12.85094l1.30794,44.40486l1.30794,44.40486l-436.29262,12.85094l-436.29262,12.85094l-1.30794,-44.40486z\"  id=\"rectangle_ab4f52fb-4e62-4177-9286-ad872dca8c7a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M123.43156,1194.36151l436.29262,-12.85094v0l436.29262,-12.85094l1.30794,44.40486l1.30794,44.40486l-436.29262,12.85094l-436.29262,12.85094l-1.30794,-44.40486z\"  id=\"rectangle_ab4f52fb-4e62-4177-9286-ad872dca8c7a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 4
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T23:23:23.789Z",
-    "@id": "b70439c1-9566-4ad5-b834-09e140225a0e.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XIII.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Wind up with Esther&rsquo;s Narrative?<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens is not only unable to return to Esther's Narrative in this number, but also stretches the number beyond the typical structure of three chapters to include a fourth chapter that depicts Tulkinghorn's return to London and his confrontation with Hortense. The monthly number begins with Esther's Narrative, and this title for chapter 43 follows the pattern where Dickens uses this generic chapter title to indicate a shift back to Esther's first-person narration to open a monthly number (this also happens in Nos. VI, VIII, X, XVI, XVIII).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:50:02.817Z"
 }
