@@ -4,16 +4,14 @@ order: 1
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "133358a3-ea0a-4420-bdfa-6482796559f2.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVII</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-103549a6-7fff-7766-7754-22abadbedc36\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Dickens had planned to retreat to Boulogne in early June to complete the final numbers of </span><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Bleak House</span><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">. In early May, he declined several engagements, citing the oppressiveness of London in the summer months. To John de Gex on the 9th of May, for example, Dickens wrote: \"My attention is so fully occupied just now, that I am going to retreat for some months, early in June, to work in peace and quiet&mdash;an absolute impossibility in London at this time of the year when all the nations of the earth bring letters of introduction and Britannia is for ever asking her children out to all manner of social endurances&rdquo; (Letters 7.82). In early June, though, Dickens was ill in bed for nearly a week, delaying his departure and his composition of No. XVII. On the 11th of June he wrote to Lady Eastlake from Folkestone: \"I have been ill and in great pain&ndash;six days in bed, for the first time in my life [...] Since Monday last, I have been shaving a man every morning&ndash;a stranger to me&ndash;with big gaunt eyes and a hollow cheek&ndash;whose appearance was rather irksome and oppressive\" (Letters 7.95). The Dickenses had a \"delightful passage\" on Sunday the 12th (Letters 7.98), with Dickens feeling \"immensely better\" and \"bracing [him]self up for the great attempt of Tuesday morning\" to begin writing the installment (Letters 7.96). His work appears to have progressed smoothly from there, as Dickens sent the \"lettering for the plates\" to Bradbury &amp; Evans prior to beginning writing. On the 18th he reported to W.H. Wills: \"Thank God I have done half the No. with great ease, and hope to finish on Thursday or Friday next. O how thankful I feel to be able to have done it, and what a relief to get the No. out!\" (Letters 7.99). He appears to have indeed finished on Thursday the 23rd, writing playfully to Frank Stone at \"the earliest opportunity after finishing my Number\" to say that \"any person of undoubted pluck in want of a customer, may hear of me at the bar of Bleak House, where my money is down\" (Letters 7.100). </span></span></p>"
-        }
+    "oa:annotatedAt": "2022-10-13T00:10:41.843Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 1
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1305.67754,34.27639h694.28215v0h694.28215v93.70633v93.70633h-694.28215h-694.28215v-93.70633z\"  id=\"rectangle_0bb26458-ad9e-4bb1-af01-8b9c5c4a9fa3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1305.67754,34.27639h694.28215v0h694.28215v93.70633v93.70633h-694.28215h-694.28215v-93.70633z\"  id=\"rectangle_0bb26458-ad9e-4bb1-af01-8b9c5c4a9fa3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 1
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-13T00:10:41.843Z",
-    "@id": "133358a3-ea0a-4420-bdfa-6482796559f2.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.XVII<br /><br /></span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-103549a6-7fff-7766-7754-22abadbedc36\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Dickens had planned to retreat to Boulogne in early June to complete the final numbers of </span><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Bleak House</span><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">. In early May, he declined several engagements, citing the oppressiveness of London in the summer months. To John de Gex on the 9th of May, for example, Dickens wrote: \"My attention is so fully occupied just now, that I am going to retreat for some months, early in June, to work in peace and quiet&mdash;an absolute impossibility in London at this time of the year when all the nations of the earth bring letters of introduction and Britannia is for ever asking her children out to all manner of social endurances&rdquo; (Letters 7.82). In early June, though, Dickens was ill in bed for nearly a week, delaying his departure and his composition of No. XVII. On the 11th of June he wrote to Lady Eastlake from Folkestone: \"I have been ill and in great pain&ndash;six days in bed, for the first time in my life [...] Since Monday last, I have been shaving a man every morning&ndash;a stranger to me&ndash;with big gaunt eyes and a hollow cheek&ndash;whose appearance was rather irksome and oppressive\" (Letters 7.95). The Dickenses had a \"delightful passage\" on Sunday the 12th (Letters 7.98), with Dickens feeling \"immensely better\" and \"bracing [him]self up for the great attempt of Tuesday morning\" to begin writing the installment (Letters 7.96). His work appears to have progressed smoothly from there, as Dickens sent the \"lettering for the plates\" to Bradbury &amp; Evans prior to beginning writing. On the 18th he reported to W.H. Wills: \"Thank God I have done half the No. with great ease, and hope to finish on Thursday or Friday next. O how thankful I feel to be able to have done it, and what a relief to get the No. out!\" (Letters 7.99). He appears to have indeed finished on Thursday the 23rd, writing playfully to Frank Stone at \"the earliest opportunity after finishing my Number\" to say that \"any person of undoubted pluck in want of a customer, may hear of me at the bar of Bleak House, where my money is down\" (Letters 7.100). </span></span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T23:55:21.010Z"
 }
