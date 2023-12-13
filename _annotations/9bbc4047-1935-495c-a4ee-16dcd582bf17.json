@@ -4,16 +4,14 @@ order: 7
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "9bbc4047-1935-495c-a4ee-16dcd582bf17.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.IX.R3&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Strong box.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The boxes in Tulkinghorn's chambers are mentioned when his quarters in town are first described in chapter 10: \"Here, among his many boxes labelled with transcendant names, lives Mr. Tulkinghorn, when not speechlessly at home in country-houses where the great ones of the earth are bored to death. Here he is today, quiet at his table. An oyster of the old school whom nobody can open\" (BH 158). At the outset of chapter 27, Mr Smallweed makes particular note of the strong box to George as he speculates that Tulkinghorn is &ldquo;worth a mint of money&rdquo; and also &ldquo;knows a thing or two\" (BH 432). However, no further mention of Tulkinghorn's strong box (or boxes in general) is made in the remainder of the novel. This note could suggest that Dickens perhaps imagined later using the strong box in relation to the Tulkinghorn's collection of evidence. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2022-10-12T02:31:40.742Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 7
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1875.63116,1099.50221h125.56014v0h125.56014v41.58701v41.58701h-125.56014h-125.56014v-41.58701z\"  id=\"rectangle_a34d21dd-02e2-4163-99c0-2e12e1793c67\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1875.63116,1099.50221h125.56014v0h125.56014v41.58701v41.58701h-125.56014h-125.56014v-41.58701z\"  id=\"rectangle_a34d21dd-02e2-4163-99c0-2e12e1793c67\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 7
             }
         }
     ],
-    "oa:annotatedAt": "2022-10-12T02:31:40.742Z",
-    "@id": "9bbc4047-1935-495c-a4ee-16dcd582bf17.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BH.IX.R3&nbsp;</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Strong box.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The boxes in Tulkinghorn's chambers are mentioned when his quarters in town are first described in chapter 10: \"Here, among his many boxes labelled with transcendant names, lives Mr. Tulkinghorn, when not speechlessly at home in country-houses where the great ones of the earth are bored to death. Here he is today, quiet at his table. An oyster of the old school whom nobody can open\" (BH 158). At the outset of chapter 27, Mr Smallweed makes particular note of the strong box to George as he speculates that Tulkinghorn is &ldquo;worth a mint of money&rdquo; and also &ldquo;knows a thing or two\" (BH 432). However, no further mention of Tulkinghorn's strong box (or boxes in general) is made in the remainder of the novel. This note could suggest that Dickens perhaps imagined later using the strong box in relation to the Tulkinghorn's collection of evidence. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-13T02:29:09.417Z"
 }
