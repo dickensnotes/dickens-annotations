@@ -4,16 +4,14 @@ order: 3
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "44b3c874-11df-4774-9905-a4b4bb1a71dc.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VI.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Loving a grown woman, much too old.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In the corrected proofs, Dickens deleted a passage that explicitly compares the age disparity between David and Miss Larkins with that of the Strongs. Perhaps he felt that the association of David's \"undisciplined heart\" with Annie's youthful infatuation with Jack Maldon would have been too premature and heavy-handed at this stage of the novel: \"Say I am seventeen, and say that seventeen is too young for the eldest Miss Larkins, what of that? [It would be nothing to the inequality of such a match as Doctor Strong's, for instance.] Besides, I shall be one-and-twenty in no time almost\" (Clarendon 230.n4). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-20T22:15:28.228Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M85.01619,1913.15904l467.33385,-55.06359v0l467.33385,-55.06359l5.85965,49.73183l5.85965,49.73183l-467.33385,55.06359l-467.33385,55.06359l-5.85965,-49.73183z\"  id=\"rectangle_3f6a3164-b249-4cde-b415-91d95d025313\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M85.01619,1913.15904l467.33385,-55.06359v0l467.33385,-55.06359l5.85965,49.73183l5.85965,49.73183l-467.33385,55.06359l-467.33385,55.06359l-5.85965,-49.73183z\"  id=\"rectangle_3f6a3164-b249-4cde-b415-91d95d025313\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 3
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-20T22:15:28.228Z",
-    "@id": "44b3c874-11df-4774-9905-a4b4bb1a71dc.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VI.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Loving a grown woman, much too old.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In the corrected proofs, Dickens deleted a passage that explicitly compares the age disparity between David and Miss Larkins with that of the Strongs. Perhaps he felt that the association of David's \"undisciplined heart\" with Annie's youthful infatuation with Jack Maldon would have been too premature and heavy-handed at this stage of the novel: \"Say I am seventeen, and say that seventeen is too young for the eldest Miss Larkins, what of that? [It would be nothing to the inequality of such a match as Doctor Strong's, for instance.] Besides, I shall be one-and-twenty in no time almost\" (Clarendon 230.n4). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:42:32.606Z"
 }
