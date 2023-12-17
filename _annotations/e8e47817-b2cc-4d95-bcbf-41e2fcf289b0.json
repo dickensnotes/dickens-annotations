@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "e8e47817-b2cc-4d95-bcbf-41e2fcf289b0.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.V.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">His one motive.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr. Wickfield's \"one motive,\" as David recognizes in the chapter, is his daughter and \"little housekeeper\" Agnes (DC 232). Wickfield's obsession with motives was a characteristic Dickens had in mind several months prior to beginning the novel. \"What should you think of this notion for a character?\" he asked Forster in a letter in January 1849, going on to mimic that character's voice: \"'Yes, that is very true: but now, <em>What's his motive?</em>' I fancy I could make something like it into a kind of amusing and more innocent Pecksniff\" (Letters 5.483, emphasis original). Though Wickfield's \"diseased theory\" (DC 623) is quite distinct from the hypocrisy of <em>Martin Chuzzlewit</em>'s charlatan architect Pecksniff, his reduction of individuals to single motives proves itself far from harmless. Later in the novel, he recognizes that the \"narrow construction\" has become a \"besetting sin,\" and blinded him to the true nature of the feelings of others, including his friend Dr. Strong and the dissembling Uriah Heep (DC 622). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:54:32.072Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1800.8362,2013.90185h179.45762v0h179.45762v33.34544v33.34544h-179.45762h-179.45762v-33.34544z\"  id=\"rectangle_8ca34aa3-cb47-4ed2-9c91-b4e6b135f96c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1800.8362,2013.90185h179.45762v0h179.45762v33.34544v33.34544h-179.45762h-179.45762v-33.34544z\"  id=\"rectangle_8ca34aa3-cb47-4ed2-9c91-b4e6b135f96c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:54:32.072Z",
-    "@id": "e8e47817-b2cc-4d95-bcbf-41e2fcf289b0.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.V.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">His one motive.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr. Wickfield's \"one motive,\" as David recognizes in the chapter, is his daughter and \"little housekeeper\" Agnes (DC 232). Wickfield's obsession with motives was a characteristic Dickens had in mind several months prior to beginning the novel. \"What should you think of this notion for a character?\" he asked Forster in a letter in January 1849, going on to mimic that character's voice: \"'Yes, that is very true: but now, <em>What's his motive?</em>' I fancy I could make something like it into a kind of amusing and more innocent Pecksniff\" (Letters 5.483, emphasis original). Though Wickfield's \"diseased theory\" (DC 623) is quite distinct from the hypocrisy of <em>Martin Chuzzlewit</em>'s charlatan architect Pecksniff, his reduction of individuals to single motives proves itself far from harmless. Later in the novel, he recognizes that the \"narrow construction\" has become a \"besetting sin,\" and blinded him to the true nature of the feelings of others, including his friend Dr. Strong and the dissembling Uriah Heep (DC 622). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:42:13.348Z"
 }
