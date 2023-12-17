@@ -4,16 +4,14 @@ order: 4
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "a4ff21be-e968-44a5-b1b4-53061b2811b4.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIII.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Miss Murdstone Mr Murdstone qy.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Though Miss Murdstone importantly acts as Mr. Spenlow's informant in chapter 38, Dickens chose not to follow through on the opportunity he provided himself in the previous month to bring Mr. Murdstone back into the narrative. Their joint inclusion and deferral on the Working Note suggests that Dickens considered giving a more significant role to the Murdstones as a pair. This may have involved an additional subplot dealing with Mr. Murdstone&rsquo;s second marriage, but it is impossible to be sure.&nbsp;&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Working Notes for the latter part of the novel show Dickens's sustained uncertainty about the inclusion of the Murdstones. Here, their joint appearance is postponed and, though they do not appear among the memoranda for the following month, they are repeatedly considered and deferred in the Working Notes for Nos. XV, XVI, XVII, and XVIII. In the final double number Dickens finally worked them back into the story, but only obliquely: the details of Murdstone's remarriage are reported to David by Mr. Chillip, and the parallel between Murdstone&rsquo;s &ldquo;firmness&rdquo; with David&rsquo;s mother (DC 60) and David&rsquo;s later efforts to &ldquo;form Dora&rsquo;s mind&rdquo; (700) remain implicit (see <em>DC.XIX-XX.L6</em>). </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-21T22:00:49.499Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 4
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M158.43765,1221.60732l287.60642,4.86384v0l287.60642,4.86384l-1.60112,94.67671l-1.60112,94.67671l-287.60642,-4.86384l-287.60642,-4.86384l1.60112,-94.67671z\"  id=\"rectangle_9ffa89c8-0cb9-440c-85bd-ef49aca0da7e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M158.43765,1221.60732l287.60642,4.86384v0l287.60642,4.86384l-1.60112,94.67671l-1.60112,94.67671l-287.60642,-4.86384l-287.60642,-4.86384l1.60112,-94.67671z\"  id=\"rectangle_9ffa89c8-0cb9-440c-85bd-ef49aca0da7e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 4
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T22:00:49.499Z",
-    "@id": "a4ff21be-e968-44a5-b1b4-53061b2811b4.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIII.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Miss Murdstone Mr Murdstone qy.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Though Miss Murdstone importantly acts as Mr. Spenlow's informant in chapter 38, Dickens chose not to follow through on the opportunity he provided himself in the previous month to bring Mr. Murdstone back into the narrative. Their joint inclusion and deferral on the Working Note suggests that Dickens considered giving a more significant role to the Murdstones as a pair. This may have involved an additional subplot dealing with Mr. Murdstone&rsquo;s second marriage, but it is impossible to be sure.&nbsp;&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Working Notes for the latter part of the novel show Dickens's sustained uncertainty about the inclusion of the Murdstones. Here, their joint appearance is postponed and, though they do not appear among the memoranda for the following month, they are repeatedly considered and deferred in the Working Notes for Nos. XV, XVI, XVII, and XVIII. In the final double number Dickens finally worked them back into the story, but only obliquely: the details of Murdstone's remarriage are reported to David by Mr. Chillip, and the parallel between Murdstone&rsquo;s &ldquo;firmness&rdquo; with David&rsquo;s mother (DC 60) and David&rsquo;s later efforts to &ldquo;form Dora&rsquo;s mind&rdquo; (700) remain implicit (see <em>DC.XIX-XX.L6</em>). </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:50:08.460Z"
 }
