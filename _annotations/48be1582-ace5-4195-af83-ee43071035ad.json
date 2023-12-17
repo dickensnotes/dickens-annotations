@@ -4,16 +4,14 @@ order: 3
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "48be1582-ace5-4195-af83-ee43071035ad.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VII.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The two partners? No</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The as-yet-unnamed \"two partners\" do not appear in this number (see <em>DC.VIII.L1</em>). Although the matter of David's profession is introduced at the beginning of the installment, his employment with Spenlow and Jorkins was only decided on as, or shortly after, Dickens began writing No. VIII. This deferral makes sense in relation to the rhythm of the narrative at this point. Its omission allows for the advancement of the Yarmouth subplot, and for the meeting of Steerforth and Emily in chapter 21&mdash;an episode Dickens had carefully prepared for much earlier in the novel (see <em>DC.III.R2</em>).</span><span id=\"docs-internal-guid-f1bd75ef-7fff-0713-ea14-39a87eb3f313\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The deferral of Spenlow and Jorkins may also have been related to Dickens&rsquo;s uncertainty about David&rsquo;s career, which was not decided until Dickens was midway through No. VIII. On November 17th, during the composition of that installment, he wrote to Forster that he had decided against David&rsquo;s being apprenticed as a banker or a special pleader. &ldquo;Banking business impracticable,\" he wrote, \"on account of the confinement: which would stop the story, I foresee. I have taken, for the present at all events, the proctor\" (Letters 5.650).&nbsp;</span></p>"
-        }
+    "oa:annotatedAt": "2023-02-20T22:23:37.584Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M145.04827,815.02833l320.86075,-5.64875v0l320.86075,-5.64875l0.82358,46.78124l0.82358,46.78124l-320.86075,5.64875l-320.86075,5.64875l-0.82358,-46.78124z\"  id=\"rectangle_b48a2cfe-9616-47a3-bd5f-edd8afd7e85a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M145.04827,815.02833l320.86075,-5.64875v0l320.86075,-5.64875l0.82358,46.78124l0.82358,46.78124l-320.86075,5.64875l-320.86075,5.64875l-0.82358,-46.78124z\"  id=\"rectangle_b48a2cfe-9616-47a3-bd5f-edd8afd7e85a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 3
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-20T22:23:37.584Z",
-    "@id": "48be1582-ace5-4195-af83-ee43071035ad.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VII.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The two partners? No<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The as-yet-unnamed \"two partners\" do not appear in this number (see <em>DC.VIII.L1</em>). Although the matter of David's profession is introduced at the beginning of the installment, his employment with Spenlow and Jorkins was only decided on as, or shortly after, Dickens began writing No. VIII. This deferral makes sense in relation to the rhythm of the narrative at this point. Its omission allows for the advancement of the Yarmouth subplot, and for the meeting of Steerforth and Emily in chapter 21&mdash;an episode Dickens had carefully prepared for much earlier in the novel (see <em>DC.III.R2</em>).</span><span id=\"docs-internal-guid-f1bd75ef-7fff-0713-ea14-39a87eb3f313\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The deferral of Spenlow and Jorkins may also have been related to Dickens&rsquo;s uncertainty about David&rsquo;s career, which was not decided until Dickens was midway through No. VIII. On November 17th, during the composition of that installment, he wrote to Forster that he had decided against David&rsquo;s being apprenticed as a banker or a special pleader. &ldquo;Banking business impracticable,\" he wrote, \"on account of the confinement: which would stop the story, I foresee. I have taken, for the present at all events, the proctor\" (Letters 5.650).&nbsp;</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:43:14.550Z"
 }
