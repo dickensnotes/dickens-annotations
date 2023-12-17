@@ -4,16 +4,14 @@ order: 6
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "90d3d3fc-91f3-49f7-86bd-cb360d534633.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.III.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Peggotty&rsquo;s narrative</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Though the novel is presented as David's \"Personal History,\" it is, significantly, punctuated with alternative narratives supplied by other characters, a feature which not only appends and qualifies the accuracy of David's autobiographical narrative, but also foregrounds the artificiality and subjectivity of narrative itself. Though David often claims to be an indiscriminate narrator (\"I remark this, because I remark everything that happens, not because I care about myself\" [DC 141]), the presence of these alternative narratives reminds the reader of the degree to which emotion influences recollection throughout the novel. The Working Notes draw attention to Dickens's careful management of these alternative narratives: here, with \"Peggotty's narrative\", but also in later numbers, which deal with \"Mr Dick's history\" (DC_WN_05); Traddles&rsquo;s \"story\" (DC_WN_09); \"Miss Mills's Journal\" (DC_WN_13); \"Uriah and his mother. Why 'Umble'\" (DC_WN_13); and \"Mr Peggotty's narrative\" (DC_WN_17). Often, these storytelling passages are placed at the end of an installment, the crucial climactic moment of the serial number. \"Peggotty's narrative\" is the first of these. It illustrates the artificiality of storytelling (Peggotty tells the story of Clara Copperfield&rsquo;s death in such a way as will bring comfort to David and to herself), but also presents a more mature interpretation of Clara's character to stand alongside David's \"childish incidental whimsicalities.\" Furthermore, by recasting Clara as a sacrificial figure, Peggotty's account of her death offers an important parallel to the death of David's \"child-wife\" Dora in No. XVII. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:35:34.354Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 6
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1615.86255,1965.51538l249.69076,-33.70999v0l249.69076,-33.70999l6.55058,48.52029l6.55058,48.52029l-249.69076,33.70999l-249.69076,33.70999l-6.55058,-48.52029z\"  id=\"rectangle_31850597-ae05-4c0d-ad87-66dacb89fb37\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1615.86255,1965.51538l249.69076,-33.70999v0l249.69076,-33.70999l6.55058,48.52029l6.55058,48.52029l-249.69076,33.70999l-249.69076,33.70999l-6.55058,-48.52029z\"  id=\"rectangle_31850597-ae05-4c0d-ad87-66dacb89fb37\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 6
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:35:34.354Z",
-    "@id": "90d3d3fc-91f3-49f7-86bd-cb360d534633.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.III.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Peggotty&rsquo;s narrative<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Though the novel is presented as David's \"Personal History,\" it is, significantly, punctuated with alternative narratives supplied by other characters, a feature which not only appends and qualifies the accuracy of David's autobiographical narrative, but also foregrounds the artificiality and subjectivity of narrative itself. Though David often claims to be an indiscriminate narrator (\"I remark this, because I remark everything that happens, not because I care about myself\" [DC 141]), the presence of these alternative narratives reminds the reader of the degree to which emotion influences recollection throughout the novel. The Working Notes draw attention to Dickens's careful management of these alternative narratives: here, with \"Peggotty's narrative\", but also in later numbers, which deal with \"Mr Dick's history\" (DC_WN_05); Traddles&rsquo;s \"story\" (DC_WN_09); \"Miss Mills's Journal\" (DC_WN_13); \"Uriah and his mother. Why 'Umble'\" (DC_WN_13); and \"Mr Peggotty's narrative\" (DC_WN_17). Often, these storytelling passages are placed at the end of an installment, the crucial climactic moment of the serial number. \"Peggotty's narrative\" is the first of these. It illustrates the artificiality of storytelling (Peggotty tells the story of Clara Copperfield&rsquo;s death in such a way as will bring comfort to David and to herself), but also presents a more mature interpretation of Clara's character to stand alongside David's \"childish incidental whimsicalities.\" Furthermore, by recasting Clara as a sacrificial figure, Peggotty's account of her death offers an important parallel to the death of David's \"child-wife\" Dora in No. XVII. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:40:22.384Z"
 }
