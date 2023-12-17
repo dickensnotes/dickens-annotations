@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "09f45e9a-62e3-4da9-bb08-46bdf815bee9.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.IV.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr and Mrs Micawber </span></strong><span style=\"background-color: transparent; font-family: Calibri, sans-serif; font-size: 11pt; font-weight: bold; white-space: pre-wrap;\">&ndash;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The discrepancy between Mr. Micawber's name as it appears on the Working Note and in the manuscript is curious. Though \"Micawber\" appears clearly on the Working Note, the manuscript has Mr. Micawber first as \"Cawby,\" then \"Micawby,\" and finally \"Micawber\" (Clarendon 134.n5). This would indicate that this note was written after the number, except that it is written in black ink; by the eleventh chapter, Dickens was exclusively writing in blue ink. One explanation, perhaps, is that Dickens had already chosen the name Micawber prior to composition of the number, had second thoughts while writing the chapter, but decided to revert to his original idea. Alternatively, it's possible that Micawber's going by \"Cawby\" or &ldquo;Micawby&rdquo; with Quinion might have been an initial gesture toward his later assumption of an alias to evade creditors (as in Nos. XI and XII). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:44:47.662Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1540.30066,1271.71715l300.3314,-20.41081v0l300.3314,-20.41081l2.57869,37.94367l2.57869,37.94367l-300.3314,20.41081l-300.3314,20.41081l-2.57869,-37.94367z\"  id=\"rectangle_06a09043-4d29-4158-8e96-6803462f9591\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1540.30066,1271.71715l300.3314,-20.41081v0l300.3314,-20.41081l2.57869,37.94367l2.57869,37.94367l-300.3314,20.41081l-300.3314,20.41081l-2.57869,-37.94367z\"  id=\"rectangle_06a09043-4d29-4158-8e96-6803462f9591\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:44:47.662Z",
-    "@id": "09f45e9a-62e3-4da9-bb08-46bdf815bee9.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.IV.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr and Mrs Micawber </span></strong><span style=\"background-color: transparent; font-family: Calibri, sans-serif; font-size: 11pt; font-weight: bold; white-space: pre-wrap;\">&ndash;<br /><br /></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The discrepancy between Mr. Micawber's name as it appears on the Working Note and in the manuscript is curious. Though \"Micawber\" appears clearly on the Working Note, the manuscript has Mr. Micawber first as \"Cawby,\" then \"Micawby,\" and finally \"Micawber\" (Clarendon 134.n5). This would indicate that this note was written after the number, except that it is written in black ink; by the eleventh chapter, Dickens was exclusively writing in blue ink. One explanation, perhaps, is that Dickens had already chosen the name Micawber prior to composition of the number, had second thoughts while writing the chapter, but decided to revert to his original idea. Alternatively, it's possible that Micawber's going by \"Cawby\" or &ldquo;Micawby&rdquo; with Quinion might have been an initial gesture toward his later assumption of an alias to evade creditors (as in Nos. XI and XII). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:41:12.173Z"
 }
