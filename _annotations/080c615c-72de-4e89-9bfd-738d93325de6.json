@@ -4,16 +4,14 @@ order: 7
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "080c615c-72de-4e89-9bfd-738d93325de6.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.V.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Trotwood Copperfield</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Several critics have interrogated the significance of the many names given to David and other characters throughout the novel, attending to frequent moments of naming and renaming (notably Lettis, Bottum, Reed, and Hawes). This entry refers to David's acceptance of the new name, \"Trotwood Copperfield,&rdquo; given to him by his aunt and written onto his new clothing in \"indelible marking ink\" (DC 225). David is eager to shed his old name: &ldquo;Thus I began my new life, in a new name, with everything new about me.\" David presents this rechristening as an important turning point in his youth, using it to organize his narrative by periodizing his life into a time before and after it: \"The two things clearest in my mind were, that a remoteness had come upon the old Blunderstone life&mdash;which seemed to lie in the haze of an immeasurable distance; and that a curtain had for ever fallen on my life at Murdstone and Grinby&rsquo;s [...] it was, and ceased to be; and that I have written, and there I leave it\" (DC 225-26).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:53:33.313Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 7
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1697.42126,1411.78963l205.05854,-4.63403v0l205.05854,-4.63403l0.85416,37.79723l0.85416,37.79723l-205.05854,4.63403l-205.05854,4.63403l-0.85416,-37.79723z\"  id=\"rectangle_cfd9eb37-dd19-4d81-92f1-94c750f07c09\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1697.42126,1411.78963l205.05854,-4.63403v0l205.05854,-4.63403l0.85416,37.79723l0.85416,37.79723l-205.05854,4.63403l-205.05854,4.63403l-0.85416,-37.79723z\"  id=\"rectangle_cfd9eb37-dd19-4d81-92f1-94c750f07c09\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 7
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:53:33.313Z",
-    "@id": "080c615c-72de-4e89-9bfd-738d93325de6.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.V.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Trotwood Copperfield<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Several critics have interrogated the significance of the many names given to David and other characters throughout the novel, attending to frequent moments of naming and renaming (notably Lettis, Bottum, Reed, and Hawes). This entry refers to David's acceptance of the new name, \"Trotwood Copperfield,&rdquo; given to him by his aunt and written onto his new clothing in \"indelible marking ink\" (DC 225). David is eager to shed his old name: &ldquo;Thus I began my new life, in a new name, with everything new about me.\" David presents this rechristening as an important turning point in his youth, using it to organize his narrative by periodizing his life into a time before and after it: \"The two things clearest in my mind were, that a remoteness had come upon the old Blunderstone life&mdash;which seemed to lie in the haze of an immeasurable distance; and that a curtain had for ever fallen on my life at Murdstone and Grinby&rsquo;s [...] it was, and ceased to be; and that I have written, and there I leave it\" (DC 225-26).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:42:01.573Z"
 }
