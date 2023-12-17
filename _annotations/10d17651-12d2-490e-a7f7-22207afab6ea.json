@@ -4,16 +4,14 @@ order: 7
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "10d17651-12d2-490e-a7f7-22207afab6ea.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VI.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr Micawber makes Uriah&rsquo;s acquaintance.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As well as representing David's \"progress\" in Canterbury, this transitional number does significant work to &ldquo;pave the way&rdquo; for several important developments in future installments. Chapter 16 introduces the Strongs' marital difficulties and, in its last sentence, explicitly anticipates the development of their subplot later in the novel. Chapter 17, meanwhile, brings together Uriah Heep and Mr. Micawber, in preparation for Micawber's employment by, and eventual \"explosion\" of, Uriah in No. XVII. Additionally, the chapter sets up the harassment of the \"man who frightens [David's] Aunt.\" This narrative thread is only fully resolved in No. XVIII, with the death of Betsey's husband. Regardless of the level of detail at which Dickens had planned these subplots, their record on this early Working Note provides evidence for the significant forethought and care that came to define his serial practice. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-20T22:19:33.130Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 7
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1990.20293,1302.01264l338.90152,-4.12956v0l338.90152,-4.12956l0.32475,26.6513l0.32475,26.6513l-338.90152,4.12956l-338.90152,4.12956l-0.32475,-26.6513z\"  id=\"rectangle_118cb151-82db-4188-879e-eed955de7f0a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1990.20293,1302.01264l338.90152,-4.12956v0l338.90152,-4.12956l0.32475,26.6513l0.32475,26.6513l-338.90152,4.12956l-338.90152,4.12956l-0.32475,-26.6513z\"  id=\"rectangle_118cb151-82db-4188-879e-eed955de7f0a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 7
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-20T22:19:33.130Z",
-    "@id": "10d17651-12d2-490e-a7f7-22207afab6ea.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VI.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr Micawber makes Uriah&rsquo;s acquaintance.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As well as representing David's \"progress\" in Canterbury, this transitional number does significant work to &ldquo;pave the way&rdquo; for several important developments in future installments. Chapter 16 introduces the Strongs' marital difficulties and, in its last sentence, explicitly anticipates the development of their subplot later in the novel. Chapter 17, meanwhile, brings together Uriah Heep and Mr. Micawber, in preparation for Micawber's employment by, and eventual \"explosion\" of, Uriah in No. XVII. Additionally, the chapter sets up the harassment of the \"man who frightens [David's] Aunt.\" This narrative thread is only fully resolved in No. XVIII, with the death of Betsey's husband. Regardless of the level of detail at which Dickens had planned these subplots, their record on this early Working Note provides evidence for the significant forethought and care that came to define his serial practice. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:42:54.869Z"
 }
