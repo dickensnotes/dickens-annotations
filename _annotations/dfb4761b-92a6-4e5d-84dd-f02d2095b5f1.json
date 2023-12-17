@@ -4,16 +4,14 @@ order: 6
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "dfb4761b-92a6-4e5d-84dd-f02d2095b5f1.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.X.L6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mrs Gummidge</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Judging by the inclusion of Mrs. Gummidge on both sides of the Working Note, Dickens felt her speech to Mr Peggotty was crucial to the number's conclusion. By urging him to seek refuge in his memories of Ham and Emily's childhood, and reminding him of the kindness he showed all three of them by inviting them into his home, her speech suggests the possibility that she might be eventually reincorporated into the Peggotty household:&nbsp; &ldquo;Seek her in a litle while, my lone lorn Dan&rsquo;l, and that&rsquo;ll be but right [...] you know the promise, Dan&rsquo;l, &lsquo;As you have done it unto one of the least of these, you have done it unto me&rsquo;; and that can never fail under this roof, that&rsquo;s been our shelter for so many, many year!&rdquo; (DC 461). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-21T19:36:12.569Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 6
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M352.09972,1991.88156l267.97531,-19.53536v0l267.97531,-19.53536l3.94091,54.05922l3.94091,54.05922l-267.97531,19.53536l-267.97531,19.53536l-3.94091,-54.05922z\"  id=\"rectangle_c58aae37-1b36-4f0b-850d-461890f41ac9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M352.09972,1991.88156l267.97531,-19.53536v0l267.97531,-19.53536l3.94091,54.05922l3.94091,54.05922l-267.97531,19.53536l-267.97531,19.53536l-3.94091,-54.05922z\"  id=\"rectangle_c58aae37-1b36-4f0b-850d-461890f41ac9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 6
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T19:36:12.569Z",
-    "@id": "dfb4761b-92a6-4e5d-84dd-f02d2095b5f1.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.X.L6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mrs Gummidge<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Judging by the inclusion of Mrs. Gummidge on both sides of the Working Note, Dickens felt her speech to Mr Peggotty was crucial to the number's conclusion. By urging him to seek refuge in his memories of Ham and Emily's childhood, and reminding him of the kindness he showed all three of them by inviting them into his home, her speech suggests the possibility that she might be eventually reincorporated into the Peggotty household:&nbsp; &ldquo;Seek her in a litle while, my lone lorn Dan&rsquo;l, and that&rsquo;ll be but right [...] you know the promise, Dan&rsquo;l, &lsquo;As you have done it unto one of the least of these, you have done it unto me&rsquo;; and that can never fail under this roof, that&rsquo;s been our shelter for so many, many year!&rdquo; (DC 461). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:46:41.899Z"
 }
