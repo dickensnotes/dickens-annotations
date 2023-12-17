@@ -4,16 +4,14 @@ order: 4
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "8c920511-57ff-453c-b5a3-3e3c66df3b34.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.IV.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chapter X.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As Nina Burgis (lix) has noted, Dickens first used the blue ink when he arrived at the Albion Hotel in Broadstairs, where the family stayed for several days before moving to the Isle of Wight until mid-October. In the manuscript, the switch to blue ink occurs partway through chapter 10, just prior to the paragraph beginning \"I was not actively ill-used\" (DC 160). Note the correspondence to the entries for chapter 10 on the Working Note: the change in inks takes place after the \"marriage ride\" with Peggotty and Barkis, but before the full details of David's \"neglect\" are related. This also suggests that the other notes in black ink below were almost certainly made prior to the composition of their corresponding chapters, while the details added to chapter 10 in blue were made during or after the chapter's composition.&nbsp;</span><span id=\"docs-internal-guid-ab99e24e-7fff-2a9f-e4c1-d3787dec9e24\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A comparison of a 'proactive' note like this (where Dickens writes the majority of notes before composing the number) with his 'retroactive' memoranda highlights the variability and dynamism of Dickens's compositional process. It might be useful to consider how the autobiographical imperative, particularly strong in this installment, might have complicated Dickens's already-complex set of compositional practices (see Critical Introduction for more). </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:40:54.398Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 4
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1662.53155,202.55704h207.34162v0h207.34162v64.57553v64.57553h-207.34162h-207.34162v-64.57553z\"  id=\"rectangle_c3ab42a8-ec4e-47f2-bbe0-ebdf2db39b4b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1662.53155,202.55704h207.34162v0h207.34162v64.57553v64.57553h-207.34162h-207.34162v-64.57553z\"  id=\"rectangle_c3ab42a8-ec4e-47f2-bbe0-ebdf2db39b4b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 4
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:40:54.398Z",
-    "@id": "8c920511-57ff-453c-b5a3-3e3c66df3b34.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.IV.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chapter X.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As Nina Burgis (lix) has noted, Dickens first used the blue ink when he arrived at the Albion Hotel in Broadstairs, where the family stayed for several days before moving to the Isle of Wight until mid-October. In the manuscript, the switch to blue ink occurs partway through chapter 10, just prior to the paragraph beginning \"I was not actively ill-used\" (DC 160). Note the correspondence to the entries for chapter 10 on the Working Note: the change in inks takes place after the \"marriage ride\" with Peggotty and Barkis, but before the full details of David's \"neglect\" are related. This also suggests that the other notes in black ink below were almost certainly made prior to the composition of their corresponding chapters, while the details added to chapter 10 in blue were made during or after the chapter's composition.&nbsp;</span><span id=\"docs-internal-guid-ab99e24e-7fff-2a9f-e4c1-d3787dec9e24\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A comparison of a 'proactive' note like this (where Dickens writes the majority of notes before composing the number) with his 'retroactive' memoranda highlights the variability and dynamism of Dickens's compositional process. It might be useful to consider how the autobiographical imperative, particularly strong in this installment, might have complicated Dickens's already-complex set of compositional practices (see Critical Introduction for more). </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:40:53.733Z"
 }
