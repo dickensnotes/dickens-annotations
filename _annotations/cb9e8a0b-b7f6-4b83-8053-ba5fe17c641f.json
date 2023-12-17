@@ -4,16 +4,14 @@ order: 1
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "cb9e8a0b-b7f6-4b83-8053-ba5fe17c641f.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XI</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The right-hand side of the Working Note for No. XI, published March 1850, is unusually sparse compared to the other Notes for <em>Copperfield</em>.&nbsp; Its paucity may indicate Dickens&rsquo;s confidence with the shape of the installment, but it is nevertheless unusual that he did not return to record its main action after he had finished writing. This distinguishes the Note from several others to which Dickens clearly returned to retroactively provide a summary of the number.&nbsp;</span><span id=\"docs-internal-guid-cc887a93-7fff-b5f0-f114-2033ea7284fd\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The left-hand side of the Note is also unusual, containing a transcription of an exceptionally long passage from chapter 33. While this Note does demonstrate Dickens working in his characteristic question-answer mode, the questions and answers look very similar, and may have been written at the same time. </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-21T21:15:46.622Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 1
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1325.2635,20.5944h683.10516v0h683.10516v80.57775v80.57775h-683.10516h-683.10516v-80.57775z\"  id=\"rectangle_158c2e09-eb71-4980-94d0-3d50132b787f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1325.2635,20.5944h683.10516v0h683.10516v80.57775v80.57775h-683.10516h-683.10516v-80.57775z\"  id=\"rectangle_158c2e09-eb71-4980-94d0-3d50132b787f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 1
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T21:15:46.622Z",
-    "@id": "cb9e8a0b-b7f6-4b83-8053-ba5fe17c641f.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XI<br /><br /></span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The right-hand side of the Working Note for No. XI, published March 1850, is unusually sparse compared to the other Notes for <em>Copperfield</em>.&nbsp; Its paucity may indicate Dickens&rsquo;s confidence with the shape of the installment, but it is nevertheless unusual that he did not return to record its main action after he had finished writing. This distinguishes the Note from several others to which Dickens clearly returned to retroactively provide a summary of the number.&nbsp;</span><span id=\"docs-internal-guid-cc887a93-7fff-b5f0-f114-2033ea7284fd\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The left-hand side of the Note is also unusual, containing a transcription of an exceptionally long passage from chapter 33. While this Note does demonstrate Dickens working in his characteristic question-answer mode, the questions and answers look very similar, and may have been written at the same time. </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:47:55.209Z"
 }
