@@ -4,16 +4,14 @@ order: 1
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "f17b95f0-a95c-49b1-b302-833edf3bd0f9.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XII</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The headings for this Working Note are written in black ink, but the rest of the notes and the manuscript are in blue, excluding the heading of an aborted start to chapter 35. Apparently, Dickens headed up the Working Note and the abandoned manuscript page at the same time, before laying both aside and returning later in blue ink. This indicates that the chapter notes were made during or after the composition of the number. The chapter titles were also evidently added to manuscript and Working Note later since, in the manuscript, the titles \"Depression\" and \"Enthusiasm\" are squeezed in above the chapters, while \"A Little Cold Water\" looks to have been written before the chapter itself was composed.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">No. XII marks the beginning of a four-month period (from March to July, Nos. XII-XV) where Dickens primarily used a dark blue ink with a very consistent, homogeneous appearance across the Notes. There is little visible distinction between the ink or hand on either side of this Working Note, although the title and notes for chapter 37 do appear marginally less vivid than the chapter notes above, and so may have been written at a different time.</span></p>"
-        }
+    "oa:annotatedAt": "2023-02-21T21:27:46.209Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 1
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1311.05319,20.5944h693.05238v0h693.05238v93.36703v93.36703h-693.05238h-693.05238v-93.36703z\"  id=\"rectangle_993be6ab-5966-4b29-830b-d66632162b5d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1311.05319,20.5944h693.05238v0h693.05238v93.36703v93.36703h-693.05238h-693.05238v-93.36703z\"  id=\"rectangle_993be6ab-5966-4b29-830b-d66632162b5d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 1
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T21:27:46.209Z",
-    "@id": "f17b95f0-a95c-49b1-b302-833edf3bd0f9.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XII<br /><br /></span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The headings for this Working Note are written in black ink, but the rest of the notes and the manuscript are in blue, excluding the heading of an aborted start to chapter 35. Apparently, Dickens headed up the Working Note and the abandoned manuscript page at the same time, before laying both aside and returning later in blue ink. This indicates that the chapter notes were made during or after the composition of the number. The chapter titles were also evidently added to manuscript and Working Note later since, in the manuscript, the titles \"Depression\" and \"Enthusiasm\" are squeezed in above the chapters, while \"A Little Cold Water\" looks to have been written before the chapter itself was composed.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">No. XII marks the beginning of a four-month period (from March to July, Nos. XII-XV) where Dickens primarily used a dark blue ink with a very consistent, homogeneous appearance across the Notes. There is little visible distinction between the ink or hand on either side of this Working Note, although the title and notes for chapter 37 do appear marginally less vivid than the chapter notes above, and so may have been written at a different time.</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:48:51.111Z"
 }
