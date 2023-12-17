@@ -4,16 +4,14 @@ order: 3
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "1c6015b2-3f3a-42ec-b37c-94c2e8b3ab78.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.IV.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I become neglected [&hellip;]&nbsp;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As he had done in the previous month, Dickens used the Working Note for No. IV to experiment with chapter titles. He was apparently confident about the title for chapter 10 (which was written cleanly at the top of the manuscript seemingly before he began composing the chapter itself), but had more difficulty with chapters 11 and 12.&nbsp;</span><strong id=\"docs-internal-guid-7a4d9ee1-7fff-7101-e281-86b8f2f484cb\" style=\"font-weight: normal;\"></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">After Dickens decided on the title for chapter 11 (again, this appears to have been before he composed the chapter) he returned to the Working Note to alter the end of the title in blue ink (seemingly creating the smudge that appears in the process). Interestingly, he does not change the first part of the title from \"I go on with life\" to \"I begin life,\" as it appears in the published text and on the right-hand side of this Note. He also did not return to correct the title for chapter 12, which was altered from \"I make a resolution\" to \"Liking life on my own account no better, I form a great resolution.\"&nbsp;&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In light of the dynamic evolution of these chapter titles, it is also interesting how these formulations worked themselves into the content of those chapters. Compare, for example, this passage from the end of chapter ten, in which Mr. Murdstone addresses David, with these titles:&nbsp; \"'So, [said Mr Murdstone,] you are now going to London, David, with Mr Quinion, to begin the world on your own account.' 'In short, you are provided for,' observed his sister; 'and will please to do your duty'\" (DC 164). </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:40:07.328Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M63.10516,1558.83493h563.14149v0h563.14149v199.5341v199.5341h-563.14149h-563.14149v-199.5341z\"  id=\"rectangle_20bca2d5-bf6a-46ee-bd16-9efb6c4fc302\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M63.10516,1558.83493h563.14149v0h563.14149v199.5341v199.5341h-563.14149h-563.14149v-199.5341z\"  id=\"rectangle_20bca2d5-bf6a-46ee-bd16-9efb6c4fc302\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 3
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:40:07.328Z",
-    "@id": "1c6015b2-3f3a-42ec-b37c-94c2e8b3ab78.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.IV.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I become neglected [&hellip;]&nbsp;<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">As he had done in the previous month, Dickens used the Working Note for No. IV to experiment with chapter titles. He was apparently confident about the title for chapter 10 (which was written cleanly at the top of the manuscript seemingly before he began composing the chapter itself), but had more difficulty with chapters 11 and 12.&nbsp;</span><strong id=\"docs-internal-guid-7a4d9ee1-7fff-7101-e281-86b8f2f484cb\" style=\"font-weight: normal;\"></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">After Dickens decided on the title for chapter 11 (again, this appears to have been before he composed the chapter) he returned to the Working Note to alter the end of the title in blue ink (seemingly creating the smudge that appears in the process). Interestingly, he does not change the first part of the title from \"I go on with life\" to \"I begin life,\" as it appears in the published text and on the right-hand side of this Note. He also did not return to correct the title for chapter 12, which was altered from \"I make a resolution\" to \"Liking life on my own account no better, I form a great resolution.\"&nbsp;&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In light of the dynamic evolution of these chapter titles, it is also interesting how these formulations worked themselves into the content of those chapters. Compare, for example, this passage from the end of chapter ten, in which Mr. Murdstone addresses David, with these titles:&nbsp; \"'So, [said Mr Murdstone,] you are now going to London, David, with Mr Quinion, to begin the world on your own account.' 'In short, you are provided for,' observed his sister; 'and will please to do your duty'\" (DC 164). </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:40:42.290Z"
 }
