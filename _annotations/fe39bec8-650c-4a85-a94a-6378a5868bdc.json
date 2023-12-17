@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "fe39bec8-650c-4a85-a94a-6378a5868bdc.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VII.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Pave the way with Mr Wickfield</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Presumably, Dickens's note to \"Pave the way\" here refers to his preparation for Uriah Heep&rsquo;s increased influence over Wickfield&rsquo;s home and business. In the number this is illustrated most clearly by the deterioration of Mr. Wickfield's health and willpower. Significantly, Dickens removed a passage at proof stage that draws attention to Uriah&rsquo;s uncertain future in the business, and prepares for his imminent appointment&nbsp; to the level of partner in \"Wickfield and Heep&rdquo;: after commenting on how quickly Agnes and David seem to have grown up, Mr. Wickfield makes particular mention of \"Uriah's time being out within a week or two, and its seeming to have begun but yesterday\" (Clarendon 237.n1). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-20T22:26:51.071Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1638.33679,460.12901l276.44149,-25.43679v0l276.44149,-25.43679l3.05538,33.20517l3.05538,33.20517l-276.44149,25.43679l-276.44149,25.43679l-3.05538,-33.20517z\"  id=\"rectangle_16c01c83-d8de-46e9-b3ad-b2be8b7a50dc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1638.33679,460.12901l276.44149,-25.43679v0l276.44149,-25.43679l3.05538,33.20517l3.05538,33.20517l-276.44149,25.43679l-276.44149,25.43679l-3.05538,-33.20517z\"  id=\"rectangle_16c01c83-d8de-46e9-b3ad-b2be8b7a50dc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-20T22:26:51.071Z",
-    "@id": "fe39bec8-650c-4a85-a94a-6378a5868bdc.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VII.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Pave the way with Mr Wickfield<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Presumably, Dickens's note to \"Pave the way\" here refers to his preparation for Uriah Heep&rsquo;s increased influence over Wickfield&rsquo;s home and business. In the number this is illustrated most clearly by the deterioration of Mr. Wickfield's health and willpower. Significantly, Dickens removed a passage at proof stage that draws attention to Uriah&rsquo;s uncertain future in the business, and prepares for his imminent appointment&nbsp; to the level of partner in \"Wickfield and Heep&rdquo;: after commenting on how quickly Agnes and David seem to have grown up, Mr. Wickfield makes particular mention of \"Uriah's time being out within a week or two, and its seeming to have begun but yesterday\" (Clarendon 237.n1). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:43:51.796Z"
 }
