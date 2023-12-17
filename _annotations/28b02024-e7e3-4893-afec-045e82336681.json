@@ -4,16 +4,14 @@ order: 2
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "28b02024-e7e3-4893-afec-045e82336681.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIII.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Agnes and her father? Yes</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The left-hand page of this Working Note (which includes memoranda about Agnes and Mr. Wickfield, Mrs. Heep, and the death of Mr. Spenlow) clearly registers the installment&rsquo;s preoccupation with parental failure. The testamentary neglect of a self-proclaimed &ldquo;indulgent father&rdquo; (DC 561) in chapter 38 is placed alongside the &ldquo;weak indulgence&rdquo; (DC 584) of another in chapter 39, and Uriah&rsquo;s story of his childhood leads David to comment that Uriah&rsquo;s &ldquo;detestable cant of false humility might have originated out of the Heep family&rdquo; (DC 581).</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Evidently, Dickens took great care weaving this thread through the installment: he had prepared readers well early in the installment Miss Murdstone&rsquo;s observation of \"how little disposition there usually is\" among fathers \"to acknowledge the conscientious discharge of duty\" (DC 556). Furthermore, he took great care in heavily revising Mr. Wickfield&rsquo;s lengthy meditation on his failure in the manuscript (\"I have infected everything I touched. I have brought misery on what I dearly love...\" [DC 584]). The number&rsquo;s attention to paternal incapacity pairs well with Dickens&rsquo;s intention in No. XV to &ldquo;shew the faults of mothers, and their consequences&rdquo; (DC_WN_15; see <em>DC.XV.R1</em>).</span></p>"
-        }
+    "oa:annotatedAt": "2023-02-21T21:55:42.773Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 2
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M118.87317,282.86297h409.2218v0h409.2218v66.80625v66.80625h-409.2218h-409.2218v-66.80625z\"  id=\"rectangle_f3844575-f766-4df9-a64d-12f0141c935c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M118.87317,282.86297h409.2218v0h409.2218v66.80625v66.80625h-409.2218h-409.2218v-66.80625z\"  id=\"rectangle_f3844575-f766-4df9-a64d-12f0141c935c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 2
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T21:55:42.773Z",
-    "@id": "28b02024-e7e3-4893-afec-045e82336681.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIII.L1<br /></span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>Agnes and her father? Yes</strong><br /><br /></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The left-hand page of this Working Note (which includes memoranda about Agnes and Mr. Wickfield, Mrs. Heep, and the death of Mr. Spenlow) clearly registers the installment&rsquo;s preoccupation with parental failure. The testamentary neglect of a self-proclaimed &ldquo;indulgent father&rdquo; (DC 561) in chapter 38 is placed alongside the &ldquo;weak indulgence&rdquo; (DC 584) of another in chapter 39, and Uriah&rsquo;s story of his childhood leads David to comment that Uriah&rsquo;s &ldquo;detestable cant of false humility might have originated out of the Heep family&rdquo; (DC 581).</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Evidently, Dickens took great care weaving this thread through the installment: he had prepared readers well early in the installment Miss Murdstone&rsquo;s observation of \"how little disposition there usually is\" among fathers \"to acknowledge the conscientious discharge of duty\" (DC 556). Furthermore, he took great care in heavily revising Mr. Wickfield&rsquo;s lengthy meditation on his failure in the manuscript (\"I have infected everything I touched. I have brought misery on what I dearly love...\" [DC 584]). The number&rsquo;s attention to paternal incapacity pairs well with Dickens&rsquo;s intention in No. XV to &ldquo;shew the faults of mothers, and their consequences&rdquo; (DC_WN_15; see <em>DC.XV.R1</em>).</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:49:51.417Z"
 }
