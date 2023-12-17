@@ -4,16 +4,14 @@ order: 2
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "a430ab45-ee43-4d89-a43b-7dfa90feeed1.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VIII.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">No. Spenlow &amp; Jorkins.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This entry about &ldquo;the Proctors&rdquo; is carried over from the prior numbers&rsquo; Working Notes. Dickens considers \"Aiguille,\" \"Tanguille,\" and \"Manguille\" (where the &ldquo;M&rdquo; is overwritten with a &ldquo;T&rdquo;) as potential names, before settling on &ldquo;Spenlow &amp; Jorkins.&rdquo; This decisive response appears to be written during or after the composition of the number, judging both from the appearance of the ink and the manuscript. In manuscript, &ldquo;Spenlow&rdquo; appears cleanly throughout, but his partner&rsquo;s name is &ldquo;Jorker&rdquo; for the first two mentions, and &ldquo;Jorkins&rdquo; thereafter. Dickens must have decided on the pairing of &ldquo;Spenlow &amp; Jorkins&rdquo; during composition, and returned to the Working Note to record his decision.&nbsp;</span><span id=\"docs-internal-guid-30720ca2-7fff-9a43-3045-c2eda6b45b17\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The entry, just below, that decides on Miss Mowcher&rsquo;s name, was also probably written sometime after the initial suggestion of &ldquo;Croodledey,&rdquo; &ldquo;Croodledy,&rdquo; and &ldquo;Croodlejum,&rdquo; but before the composition of the chapter in which she first appears since, despite the equivocations here on the Working Note, &ldquo;Mowcher&rdquo; is written cleanly throughout the manuscript.&nbsp;</span></p>"
-        }
+    "oa:annotatedAt": "2023-02-21T19:11:02.760Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 2
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M730.0905,231.55641h294.33971v0h294.33971v89.11345v89.11345h-294.33971h-294.33971v-89.11345z\"  id=\"rectangle_5366a908-4606-454d-8bc4-52dfbdf03323\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M730.0905,231.55641h294.33971v0h294.33971v89.11345v89.11345h-294.33971h-294.33971v-89.11345z\"  id=\"rectangle_5366a908-4606-454d-8bc4-52dfbdf03323\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 2
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T19:11:02.760Z",
-    "@id": "a430ab45-ee43-4d89-a43b-7dfa90feeed1.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VIII.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">No. Spenlow &amp; Jorkins.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This entry about &ldquo;the Proctors&rdquo; is carried over from the prior numbers&rsquo; Working Notes. Dickens considers \"Aiguille,\" \"Tanguille,\" and \"Manguille\" (where the &ldquo;M&rdquo; is overwritten with a &ldquo;T&rdquo;) as potential names, before settling on &ldquo;Spenlow &amp; Jorkins.&rdquo; This decisive response appears to be written during or after the composition of the number, judging both from the appearance of the ink and the manuscript. In manuscript, &ldquo;Spenlow&rdquo; appears cleanly throughout, but his partner&rsquo;s name is &ldquo;Jorker&rdquo; for the first two mentions, and &ldquo;Jorkins&rdquo; thereafter. Dickens must have decided on the pairing of &ldquo;Spenlow &amp; Jorkins&rdquo; during composition, and returned to the Working Note to record his decision.&nbsp;</span><span id=\"docs-internal-guid-30720ca2-7fff-9a43-3045-c2eda6b45b17\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The entry, just below, that decides on Miss Mowcher&rsquo;s name, was also probably written sometime after the initial suggestion of &ldquo;Croodledey,&rdquo; &ldquo;Croodledy,&rdquo; and &ldquo;Croodlejum,&rdquo; but before the composition of the chapter in which she first appears since, despite the equivocations here on the Working Note, &ldquo;Mowcher&rdquo; is written cleanly throughout the manuscript.&nbsp;</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:44:27.408Z"
 }
