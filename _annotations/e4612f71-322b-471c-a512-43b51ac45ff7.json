@@ -4,16 +4,14 @@ order: 10
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "e4612f71-322b-471c-a512-43b51ac45ff7.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIV.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Slap Uriah&rsquo;s face</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It is worth giving some attention to the entries on the Working Note that Dickens chose to underline. Sometimes, underlining signals the completion of a thought or the resolution of a query (particularly in the left-hand memoranda), but on the right-hand side of the Notes Dickens apparently underlined items that he thought were particularly crucial to the progress of the installment. Here, in chapter 42, Agnes and Dora's meeting gets a double-underline for the comparison it presents between David's two potential romantic partners (see <em>DC.XIV.L5</em>). David's slapping of Uriah is also emphasized&mdash;it illustrates an unprecedented escalation in hostilities. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-21T22:35:03.852Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 10
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1437.00059,1311.72614h182.87078v0h182.87078v36.79372v36.79372h-182.87078h-182.87078v-36.79372z\"  id=\"rectangle_72d08ceb-32a5-4214-9a15-011a57edbee7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1437.00059,1311.72614h182.87078v0h182.87078v36.79372v36.79372h-182.87078h-182.87078v-36.79372z\"  id=\"rectangle_72d08ceb-32a5-4214-9a15-011a57edbee7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 10
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T22:35:03.852Z",
-    "@id": "e4612f71-322b-471c-a512-43b51ac45ff7.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIV.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Slap Uriah&rsquo;s face<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It is worth giving some attention to the entries on the Working Note that Dickens chose to underline. Sometimes, underlining signals the completion of a thought or the resolution of a query (particularly in the left-hand memoranda), but on the right-hand side of the Notes Dickens apparently underlined items that he thought were particularly crucial to the progress of the installment. Here, in chapter 42, Agnes and Dora's meeting gets a double-underline for the comparison it presents between David's two potential romantic partners (see <em>DC.XIV.L5</em>). David's slapping of Uriah is also emphasized&mdash;it illustrates an unprecedented escalation in hostilities. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:53:11.300Z"
 }
