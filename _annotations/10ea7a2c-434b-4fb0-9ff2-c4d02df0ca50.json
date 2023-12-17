@@ -4,16 +4,14 @@ order: 2
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "10ea7a2c-434b-4fb0-9ff2-c4d02df0ca50.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.IV.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">what I know so well</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">One of the most striking Working Notes for <em>Copperfield</em>, this left-hand page includes only a list of potential chapter titles and the suggestive memorandum, \"what I know so well.\" Indeed, the fourth installment contains more material directly drawn from Dickens's autobiographical fragment than any other (see <em>DC.IV.R5</em>). It appears that he drew so closely from his own experiences that he felt no need to document memoranda for the number in his usual fashion. He was especially pleased with the installment, particularly chapter 11, which deals with David's experience working at Murdstone &amp; Grinby's bottling factory and boarding with the Micawber family.&nbsp; \"I really think I have done it ingeniously,\" he wrote to Forster on July 10, \"and with a very complicated interweaving of truth and fiction\" (Letters 5.567). At this point he was professedly \"getting on like a house afire\" with the number, a claim supported by the manuscript itself, which shows uncharacteristically minimal reworking and revision. Evidently, Dickens knew precisely what he wanted to do in this number, and executed it without much trouble.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This is also the only Working Note for the novel where Dickens directly refers to himself with the personal pronoun &ldquo;I.&rdquo; In contrast to when he assumes the voice of the narrating David, the \"I\" in this case is clearly Dickens himself. It is worth noting that several passages from the chapter are taken nearly verbatim from Dickens&rsquo;s own private autobiographical writing, including David&rsquo;s testament to his painful situation: \"That I suffered in secret, and that I suffered exquisitely, no one ever knew but I. How much I suffered, it is, as I have said already, utterly beyond my power to tell\" (DC 172, Forster 1.25).</span></p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:39:00.075Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 2
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M49.72084,630.85532h250.84066v0h250.84066v62.34481v62.34481h-250.84066h-250.84066v-62.34481z\"  id=\"rectangle_675f304d-af37-4cb6-b060-caff78a0a1b2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M49.72084,630.85532h250.84066v0h250.84066v62.34481v62.34481h-250.84066h-250.84066v-62.34481z\"  id=\"rectangle_675f304d-af37-4cb6-b060-caff78a0a1b2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 2
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:39:00.075Z",
-    "@id": "10ea7a2c-434b-4fb0-9ff2-c4d02df0ca50.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.IV.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">what I know so well<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">One of the most striking Working Notes for <em>Copperfield</em>, this left-hand page includes only a list of potential chapter titles and the suggestive memorandum, \"what I know so well.\" Indeed, the fourth installment contains more material directly drawn from Dickens's autobiographical fragment than any other (see <em>DC.IV.R5</em>). It appears that he drew so closely from his own experiences that he felt no need to document memoranda for the number in his usual fashion. He was especially pleased with the installment, particularly chapter 11, which deals with David's experience working at Murdstone &amp; Grinby's bottling factory and boarding with the Micawber family.&nbsp; \"I really think I have done it ingeniously,\" he wrote to Forster on July 10, \"and with a very complicated interweaving of truth and fiction\" (Letters 5.567). At this point he was professedly \"getting on like a house afire\" with the number, a claim supported by the manuscript itself, which shows uncharacteristically minimal reworking and revision. Evidently, Dickens knew precisely what he wanted to do in this number, and executed it without much trouble.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This is also the only Working Note for the novel where Dickens directly refers to himself with the personal pronoun &ldquo;I.&rdquo; In contrast to when he assumes the voice of the narrating David, the \"I\" in this case is clearly Dickens himself. It is worth noting that several passages from the chapter are taken nearly verbatim from Dickens&rsquo;s own private autobiographical writing, including David&rsquo;s testament to his painful situation: \"That I suffered in secret, and that I suffered exquisitely, no one ever knew but I. How much I suffered, it is, as I have said already, utterly beyond my power to tell\" (DC 172, Forster 1.25).</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:40:36.271Z"
 }
