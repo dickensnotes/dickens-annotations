@@ -4,16 +4,14 @@ order: 3
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "9cf11970-f9ca-49c8-a361-60db345673bf.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.V.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Canterbury Sunshine</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens chose to bookend the installment with a set of images related to the &ldquo;Canterbury Sunshine.&rdquo; Toward the beginning of chapter 13, while passing through on his journey to Dover, David begins to connect \"a fanciful picture of [his] mother in her youth\" with \"the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers\" (DC 198). In the final sentences of chapter 15, after his adoption by Aunt Betsey and his incorporation into the Wickfield household, David reflects on his journey from London, taking \"another peep at the old houses, and the grey Cathedral,\" so that he \"might think of [his] coming through that old city on [his] journey\" (DC 235).&nbsp; The repetition of these images offers a stable point-of-reference against which David charts his own progress in the number, from \"houseless\" vagabond (DC 210) to \"Trotwood Copperfield\" (DC 225). Though it is by no means certain, it is possible that the inclusion of the &ldquo;Canterbury Sunshine&rdquo; on the Working Note may have facilitated the reappearance of these images, suggesting the part that the Working Notes played in Dickens&rsquo;s crafting of the individual serial number into an aesthetic whole. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:48:37.315Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M216.35753,314.83524l184.78061,-45.3476v0l184.78061,-45.3476l8.84116,36.02561l8.84116,36.02561l-184.78061,45.3476l-184.78061,45.3476l-8.84116,-36.02561z\"  id=\"rectangle_d26c8dfe-9d63-43fa-a008-f87af2fb56d4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M216.35753,314.83524l184.78061,-45.3476v0l184.78061,-45.3476l8.84116,36.02561l8.84116,36.02561l-184.78061,45.3476l-184.78061,45.3476l-8.84116,-36.02561z\"  id=\"rectangle_d26c8dfe-9d63-43fa-a008-f87af2fb56d4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 3
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:48:37.315Z",
-    "@id": "9cf11970-f9ca-49c8-a361-60db345673bf.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.V.L2<br /><br /></span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Canterbury Sunshine</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dickens chose to bookend the installment with a set of images related to the &ldquo;Canterbury Sunshine.&rdquo; Toward the beginning of chapter 13, while passing through on his journey to Dover, David begins to connect \"a fanciful picture of [his] mother in her youth\" with \"the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers\" (DC 198). In the final sentences of chapter 15, after his adoption by Aunt Betsey and his incorporation into the Wickfield household, David reflects on his journey from London, taking \"another peep at the old houses, and the grey Cathedral,\" so that he \"might think of [his] coming through that old city on [his] journey\" (DC 235).&nbsp; The repetition of these images offers a stable point-of-reference against which David charts his own progress in the number, from \"houseless\" vagabond (DC 210) to \"Trotwood Copperfield\" (DC 225). Though it is by no means certain, it is possible that the inclusion of the &ldquo;Canterbury Sunshine&rdquo; on the Working Note may have facilitated the reappearance of these images, suggesting the part that the Working Notes played in Dickens&rsquo;s crafting of the individual serial number into an aesthetic whole. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:41:24.879Z"
 }
