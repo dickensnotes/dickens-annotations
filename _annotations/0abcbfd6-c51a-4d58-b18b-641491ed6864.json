@@ -4,16 +4,14 @@ order: 6
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "0abcbfd6-c51a-4d58-b18b-641491ed6864.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.I.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Miss Betsey &ndash; Her old wrongs</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This entry about Aunt Betsey's &ldquo;old wrongs&rdquo; refers to her comments about the &ldquo;foolish confidences&rdquo; of her youth, and the blunders she hopes her namesake will avoid: \"there must be no mistakes in life with this Betsey Trotwood&rdquo; (DC 19). This passage from chapter 1 anticipates the much later revelation, made in No. XVI, that her abusive husband from an injudicious early marriage has returned to extort money from her. See DC_WN_06 for the first mention of &ldquo;the man who frightens [David's] Aunt.&rdquo;&nbsp;</span><span id=\"docs-internal-guid-d23f6bf9-7fff-891d-75ed-44eb1eed0b72\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Though it is unclear in what detail Dickens had planned the trajectory of this subplot at this early stage, the inclusion of Betsey&rsquo;s &ldquo;wrongs&rdquo; on the first Working Note suggests that he had already determined that imprudent romantic attachments would recur throughout the novel. The Working Note therefore indicates Dickens&rsquo;s preparation for the marriages of Clara Copperfield and Mr. Murdstone, Annie and Dr. Strong, and of Dora Spenlow and David himself. </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:12:59.086Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 6
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1435.10647,817.23714l291.47885,-85.47617v0l291.47885,-85.47617l9.54661,32.55452l9.54661,32.55452l-291.47885,85.47617l-291.47885,85.47617l-9.54661,-32.55452z\"  id=\"rectangle_2ad36a87-c0dd-4d10-9ea4-9d7a89db64db\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1435.10647,817.23714l291.47885,-85.47617v0l291.47885,-85.47617l9.54661,32.55452l9.54661,32.55452l-291.47885,85.47617l-291.47885,85.47617l-9.54661,-32.55452z\"  id=\"rectangle_2ad36a87-c0dd-4d10-9ea4-9d7a89db64db\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"26.8714\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 6
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:12:59.086Z",
-    "@id": "0abcbfd6-c51a-4d58-b18b-641491ed6864.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.I.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Miss Betsey &ndash; Her old wrongs<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This entry about Aunt Betsey's &ldquo;old wrongs&rdquo; refers to her comments about the &ldquo;foolish confidences&rdquo; of her youth, and the blunders she hopes her namesake will avoid: \"there must be no mistakes in life with this Betsey Trotwood&rdquo; (DC 19). This passage from chapter 1 anticipates the much later revelation, made in No. XVI, that her abusive husband from an injudicious early marriage has returned to extort money from her. See DC_WN_06 for the first mention of &ldquo;the man who frightens [David's] Aunt.&rdquo;&nbsp;</span><span id=\"docs-internal-guid-d23f6bf9-7fff-891d-75ed-44eb1eed0b72\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Though it is unclear in what detail Dickens had planned the trajectory of this subplot at this early stage, the inclusion of Betsey&rsquo;s &ldquo;wrongs&rdquo; on the first Working Note suggests that he had already determined that imprudent romantic attachments would recur throughout the novel. The Working Note therefore indicates Dickens&rsquo;s preparation for the marriages of Clara Copperfield and Mr. Murdstone, Annie and Dr. Strong, and of Dora Spenlow and David himself. </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:37:33.559Z"
 }
