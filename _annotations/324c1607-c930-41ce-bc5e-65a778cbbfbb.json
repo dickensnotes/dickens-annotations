@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "324c1607-c930-41ce-bc5e-65a778cbbfbb.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XII.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Express that, very delicately</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The delicacy with which Dickens handles Dora's incapacity and develops her contrast with Agnes is less apparent in the content of the number than in its structure. Aunt Betsey's doubts about Dora and David's suitability, expressed by her enigmatic proclamation, \"blind, blind, blind!\" (DC 509) are reiterated by the beggar at the chapter's conclusion, but not before Agnes proves her wisdom and practicality by recommending David's employment by Dr. Strong. The suggestions that Dora is \"not bred for a working life\" in chapter 35 are confirmed by her actions in chapter 37, but these are separated by the middle chapter's preoccupation with the Strongs, the Micawbers, and David's \"New State\" (see <em>DC.XII.R2</em>). Dickens's organization of these elements across the installment allows him to carry Dora's incapacity \"delicately\" through the number, and gesture toward Agnes's identity as the novel's \"real heroine\" (see <em>DC.V.L5</em>).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-21T21:36:28.203Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M151.69515,1519.51655h421.32333v0h421.32333v83.1786v83.1786h-421.32333h-421.32333v-83.1786z\"  id=\"rectangle_c9baaa96-567b-4e66-93d9-89b3d065f8ee\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M151.69515,1519.51655h421.32333v0h421.32333v83.1786v83.1786h-421.32333h-421.32333v-83.1786z\"  id=\"rectangle_c9baaa96-567b-4e66-93d9-89b3d065f8ee\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T21:36:28.203Z",
-    "@id": "324c1607-c930-41ce-bc5e-65a778cbbfbb.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XII.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Express that, very delicately<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The delicacy with which Dickens handles Dora's incapacity and develops her contrast with Agnes is less apparent in the content of the number than in its structure. Aunt Betsey's doubts about Dora and David's suitability, expressed by her enigmatic proclamation, \"blind, blind, blind!\" (DC 509) are reiterated by the beggar at the chapter's conclusion, but not before Agnes proves her wisdom and practicality by recommending David's employment by Dr. Strong. The suggestions that Dora is \"not bred for a working life\" in chapter 35 are confirmed by her actions in chapter 37, but these are separated by the middle chapter's preoccupation with the Strongs, the Micawbers, and David's \"New State\" (see <em>DC.XII.R2</em>). Dickens's organization of these elements across the installment allows him to carry Dora's incapacity \"delicately\" through the number, and gesture toward Agnes's identity as the novel's \"real heroine\" (see <em>DC.V.L5</em>).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:48:46.328Z"
 }
