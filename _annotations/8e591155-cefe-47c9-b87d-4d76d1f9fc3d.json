@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "8e591155-cefe-47c9-b87d-4d76d1f9fc3d.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.II.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The carrier &amp; Peggotty.&nbsp;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This entry was apparently written before Dickens decided on a name for the carrier Barkis, who first appears (but is not named) in chapter 2. Barkis's name appears to have been worked out initially in the manuscript, where Dickens first calls him &ldquo;Mr. Brooks,&rdquo; &ldquo;Tommy Traddles,&rdquo; and &ldquo;Mr. Barks,&rdquo; before settling on Barkis (Clarendon 55.n3). It is curious that Dickens would have considered the name \"Brooks\" for Barkis, since in chapter two Mr. Murdstone had already used that name to refer to David.</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:27:59.666Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1369.35788,1159.88326l240.39098,-55.93964v0l240.39098,-55.93964l6.71924,28.87476l6.71924,28.87476l-240.39098,55.93964l-240.39098,55.93964l-6.71924,-28.87476z\"  id=\"rectangle_b84f114b-ed86-4cbc-988b-9c414469f0a4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1369.35788,1159.88326l240.39098,-55.93964v0l240.39098,-55.93964l6.71924,28.87476l6.71924,28.87476l-240.39098,55.93964l-240.39098,55.93964l-6.71924,-28.87476z\"  id=\"rectangle_b84f114b-ed86-4cbc-988b-9c414469f0a4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:27:59.666Z",
-    "@id": "8e591155-cefe-47c9-b87d-4d76d1f9fc3d.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.II.R4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The carrier &amp; Peggotty.&nbsp;<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This entry was apparently written before Dickens decided on a name for the carrier Barkis, who first appears (but is not named) in chapter 2. Barkis's name appears to have been worked out initially in the manuscript, where Dickens first calls him &ldquo;Mr. Brooks,&rdquo; &ldquo;Tommy Traddles,&rdquo; and &ldquo;Mr. Barks,&rdquo; before settling on Barkis (Clarendon 55.n3). It is curious that Dickens would have considered the name \"Brooks\" for Barkis, since in chapter two Mr. Murdstone had already used that name to refer to David.</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:39:19.847Z"
 }
