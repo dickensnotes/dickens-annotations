@@ -4,16 +4,14 @@ order: 1
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "b5618001-e407-43c4-bdba-3957df375e61.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.V</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Following the switch from black ink to blue ink in the previous monthly installment, the Working Note and manuscript for No. V are entirely in blue ink. The content of this Working Note is fairly straightforward, with Dickens sketching out the number's subjects in broad strokes and generally noting major events and a new cast of Canterbury/Dover characters to be introduced. Separate layers of ink are discernible, although it is difficult to determine the order the notes were laid down with any confidence. The apparent correspondence of ink on the right-hand side with the left-hand side, however, does suggest a potential sequence. The chapter headings and title of chapter 13 look to be written first in a clean, dark blue, while the notes for the chapter, which are very thin and light, were written in later&mdash;seemingly at the same time as the second layer on the left-hand side&nbsp; (see <em>DC.V.L1</em>). The titles for chapters 14 and 15 were added later, possibly at different times, and the title for 15 appears to match the third layer of ink on the left. The notes for 14 were written at another time, probably at the same time as the fourth layer of ink on the left. The notes for chapter 15 match the ink used for the chapter title, and may have been written at the same time. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:46:51.004Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 1
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1327.92352,6.25366h676.90822v0h676.90822v90.22881v90.22881h-676.90822h-676.90822v-90.22881z\"  id=\"rectangle_c2b21743-c098-44c9-87f8-d1c272668126\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1327.92352,6.25366h676.90822v0h676.90822v90.22881v90.22881h-676.90822h-676.90822v-90.22881z\"  id=\"rectangle_c2b21743-c098-44c9-87f8-d1c272668126\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 1
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:46:51.004Z",
-    "@id": "b5618001-e407-43c4-bdba-3957df375e61.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.V<br /><br /></span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Following the switch from black ink to blue ink in the previous monthly installment, the Working Note and manuscript for No. V are entirely in blue ink. The content of this Working Note is fairly straightforward, with Dickens sketching out the number's subjects in broad strokes and generally noting major events and a new cast of Canterbury/Dover characters to be introduced. Separate layers of ink are discernible, although it is difficult to determine the order the notes were laid down with any confidence. The apparent correspondence of ink on the right-hand side with the left-hand side, however, does suggest a potential sequence. The chapter headings and title of chapter 13 look to be written first in a clean, dark blue, while the notes for the chapter, which are very thin and light, were written in later&mdash;seemingly at the same time as the second layer on the left-hand side&nbsp; (see <em>DC.V.L1</em>). The titles for chapters 14 and 15 were added later, possibly at different times, and the title for 15 appears to match the third layer of ink on the left. The notes for 14 were written at another time, probably at the same time as the fourth layer of ink on the left. The notes for chapter 15 match the ink used for the chapter title, and may have been written at the same time. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:41:54.491Z"
 }
