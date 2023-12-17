@@ -4,16 +4,14 @@ order: 10
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "a2de1218-c1fd-4682-8248-b14420663c2f.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.I.R6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chapter III</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It is interesting that Dickens does not make note here of the significant passage where David and Little Em'ly pick up shells on the beach. Em'ly's wish to \"be a lady\" (DC 47) hints at her future seduction by James Steerforth, and the setting and action of the scene foregrounds the motif of drowning that is sustained throughout the novel, culminating in the fatal \"Tempest\" of chapter 55 (No. XVIII):&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">\"She started from my side, and ran along a jagged timber which protruded from the place we stood upon, and overhung the deep water at some height, without the least defence. The incident is so impressed on my remembrance, that if I were a draughtsman I could draw its form here, I dare say, accurately as it was that day, and little Em&rsquo;ly springing forward to her destruction (as it appeared to me), with a look that I have never forgotten, directed far out to sea\" (DC 48).&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This prophetic passage (from \"You're quite a sailor, I suppose?\" to the end of the chapter) was inserted into the text at proof stage. Dickens underwrote the number, and furnished these paragraphs to make up the required length (Butt &amp; Tillotson 118-19). If these chapter memoranda were added to the Working Note prior to proof stage, Dickens did not take the trouble to return to the Note to record what had been inserted, despite its importance to the overall narrative. </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:18:26.686Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 10
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1701.9348,1492.14214l243.21539,-3.02351v0l243.21539,-3.02351l0.48108,38.69883l0.48108,38.69883l-243.21539,3.02351l-243.21539,3.02351l-0.48108,-38.69883z\"  id=\"rectangle_f6ba8fcf-eb6c-415a-a94f-690d29585b44\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1701.9348,1492.14214l243.21539,-3.02351v0l243.21539,-3.02351l0.48108,38.69883l0.48108,38.69883l-243.21539,3.02351l-243.21539,3.02351l-0.48108,-38.69883z\"  id=\"rectangle_f6ba8fcf-eb6c-415a-a94f-690d29585b44\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"26.8714\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 10
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:18:26.686Z",
-    "@id": "a2de1218-c1fd-4682-8248-b14420663c2f.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.I.R6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chapter III<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It is interesting that Dickens does not make note here of the significant passage where David and Little Em'ly pick up shells on the beach. Em'ly's wish to \"be a lady\" (DC 47) hints at her future seduction by James Steerforth, and the setting and action of the scene foregrounds the motif of drowning that is sustained throughout the novel, culminating in the fatal \"Tempest\" of chapter 55 (No. XVIII):&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">\"She started from my side, and ran along a jagged timber which protruded from the place we stood upon, and overhung the deep water at some height, without the least defence. The incident is so impressed on my remembrance, that if I were a draughtsman I could draw its form here, I dare say, accurately as it was that day, and little Em&rsquo;ly springing forward to her destruction (as it appeared to me), with a look that I have never forgotten, directed far out to sea\" (DC 48).&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This prophetic passage (from \"You're quite a sailor, I suppose?\" to the end of the chapter) was inserted into the text at proof stage. Dickens underwrote the number, and furnished these paragraphs to make up the required length (Butt &amp; Tillotson 118-19). If these chapter memoranda were added to the Working Note prior to proof stage, Dickens did not take the trouble to return to the Note to record what had been inserted, despite its importance to the overall narrative. </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:38:03.739Z"
 }
