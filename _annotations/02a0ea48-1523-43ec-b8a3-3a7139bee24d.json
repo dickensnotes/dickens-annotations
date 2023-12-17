@@ -4,16 +4,14 @@ order: 3
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "02a0ea48-1523-43ec-b8a3-3a7139bee24d.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.X.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">First chapter funny</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This memorandum, and the command below to &ldquo;divide [the] last chapter in two,&rdquo; explicitly show Dickens&rsquo;s attentiveness to the architecture of the individual serial number. While several memoranda across the </span><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Copperfield </span><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Working Notes indicate Dickens&rsquo;s intentions regarding the tone or effect of an installment, these intentions are seldom so clearly expressed.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This particular note deals with the transition of tone and subject from the first chapter of No. X to the last. While David's invitation to Traddles and the Micawbers at the end of the previous installment called for a dramatization of the promised dinner party at the start of No. X&mdash;a chapter that importantly prepares for Micawber's employment with Uriah via his \"throw[ing] down the gauntlet to society\" (DC 427)&mdash;Dickens recognized that the humor of this episode might interfere with the seriousness of its conclusion. The surprise appearance of Littimer in the middle of chapter 28 prepares for Steerforth&rsquo;s re-entry at the chapter&rsquo;s close, and so Dickens moves smoothly &ldquo;on to Em&rsquo;ly.&rdquo; Dickens ensured, in his delicate management of these elements, that the number would furnish opportunities for future installments (for Traddles and the Micawbers) while still maintaining unity of purpose on the level of the individual serial number. </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-21T19:34:51.958Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M96.56597,867.31166h274.26322v0h274.26322v50.07584v50.07584h-274.26322h-274.26322v-50.07584z\"  id=\"rectangle_3412f7cc-59cb-4b14-9dce-08ddf86fac87\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M96.56597,867.31166h274.26322v0h274.26322v50.07584v50.07584h-274.26322h-274.26322v-50.07584z\"  id=\"rectangle_3412f7cc-59cb-4b14-9dce-08ddf86fac87\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 3
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T19:34:51.958Z",
-    "@id": "02a0ea48-1523-43ec-b8a3-3a7139bee24d.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.X.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">First chapter funny<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This memorandum, and the command below to &ldquo;divide [the] last chapter in two,&rdquo; explicitly show Dickens&rsquo;s attentiveness to the architecture of the individual serial number. While several memoranda across the </span><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Copperfield </span><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Working Notes indicate Dickens&rsquo;s intentions regarding the tone or effect of an installment, these intentions are seldom so clearly expressed.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This particular note deals with the transition of tone and subject from the first chapter of No. X to the last. While David's invitation to Traddles and the Micawbers at the end of the previous installment called for a dramatization of the promised dinner party at the start of No. X&mdash;a chapter that importantly prepares for Micawber's employment with Uriah via his \"throw[ing] down the gauntlet to society\" (DC 427)&mdash;Dickens recognized that the humor of this episode might interfere with the seriousness of its conclusion. The surprise appearance of Littimer in the middle of chapter 28 prepares for Steerforth&rsquo;s re-entry at the chapter&rsquo;s close, and so Dickens moves smoothly &ldquo;on to Em&rsquo;ly.&rdquo; Dickens ensured, in his delicate management of these elements, that the number would furnish opportunities for future installments (for Traddles and the Micawbers) while still maintaining unity of purpose on the level of the individual serial number. </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:46:24.590Z"
 }
