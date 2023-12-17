@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "1e85e87a-1cd3-4ba6-a83d-44716943cf0c.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.X.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr Micawbers relieving himself by legal phraseology</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note relates to a passage that Dickens added at proof stage: \"I am not sure whether I have mentioned that, when Mr Micawber was in any particularly desperate crisis, he used a sort of legal phraseology which he seemed to think equivalent to winding up his affairs\" (Clarendon 366.n1). The inclusion of this line on the Working Note is not a certain indication that the notes were written retroactively, but it does strongly suggest that Dickens returned to add material to the Working Note at proof stage. The hand and ink is visibly uniform across the Note, suggesting that, whenever the entries were added, they were probably written all at once. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-21T21:04:24.995Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1724.15873,596.8083l407.74467,9.33088v0l407.74467,9.33088l-1.53312,66.99478l-1.53312,66.99478l-407.74467,-9.33088l-407.74467,-9.33088l1.53312,-66.99478z\"  id=\"rectangle_44bf6dea-33d0-4178-898b-0d55281883f8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1724.15873,596.8083l407.74467,9.33088v0l407.74467,9.33088l-1.53312,66.99478l-1.53312,66.99478l-407.74467,-9.33088l-407.74467,-9.33088l1.53312,-66.99478z\"  id=\"rectangle_44bf6dea-33d0-4178-898b-0d55281883f8\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T21:04:24.995Z",
-    "@id": "1e85e87a-1cd3-4ba6-a83d-44716943cf0c.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.X.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr Micawbers relieving himself by legal phraseology<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note relates to a passage that Dickens added at proof stage: \"I am not sure whether I have mentioned that, when Mr Micawber was in any particularly desperate crisis, he used a sort of legal phraseology which he seemed to think equivalent to winding up his affairs\" (Clarendon 366.n1). The inclusion of this line on the Working Note is not a certain indication that the notes were written retroactively, but it does strongly suggest that Dickens returned to add material to the Working Note at proof stage. The hand and ink is visibly uniform across the Note, suggesting that, whenever the entries were added, they were probably written all at once. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:46:52.403Z"
 }
