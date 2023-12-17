@@ -4,16 +4,14 @@ order: 7
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "9cb1b726-4813-4aa5-ba33-0a5f5d8d316f.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XI.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The used-up young friend [&hellip;]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Judging by the resemblance of these entries to the chapter headings above, and their loose correspondence to the text itself, they were probably added to the Note before Dickens composed chapter 33. In the published text these elements are worked through more fully: Miss Mills's former \"affections\" are not blighted but \"misplaced,\" while it is Dora and David's \"hopes and loves\" that are \"unblighted\" (DC 488). After David recalls that &ldquo;Miss Mills sang&mdash;about the slumbering echoes in the caverns of Memory,\" he continues: \"That sagacious Miss Mills, too; that amiable, though quite used up, recluse; that little patriarch of something less than twenty, who had done with the world, and mustn&rsquo;t on any account have the slumbering echoes in the caverns of Memory awakened; what a kind thing she did!\" (DC 491).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-21T21:25:23.917Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 7
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1675.37708,1155.65789l491.89791,-46.29451v0l491.89791,-46.29451l5.05849,53.74856l5.05849,53.74856l-491.89791,46.29451l-491.89791,46.29451l-5.05849,-53.74856z\"  id=\"rectangle_2308ecc7-9f66-4510-a5a7-7d6ea75e8e80\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1675.37708,1155.65789l491.89791,-46.29451v0l491.89791,-46.29451l5.05849,53.74856l5.05849,53.74856l-491.89791,46.29451l-491.89791,46.29451l-5.05849,-53.74856z\"  id=\"rectangle_2308ecc7-9f66-4510-a5a7-7d6ea75e8e80\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 7
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T21:25:23.917Z",
-    "@id": "9cb1b726-4813-4aa5-ba33-0a5f5d8d316f.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XI.R2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The used-up young friend [&hellip;]<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Judging by the resemblance of these entries to the chapter headings above, and their loose correspondence to the text itself, they were probably added to the Note before Dickens composed chapter 33. In the published text these elements are worked through more fully: Miss Mills's former \"affections\" are not blighted but \"misplaced,\" while it is Dora and David's \"hopes and loves\" that are \"unblighted\" (DC 488). After David recalls that &ldquo;Miss Mills sang&mdash;about the slumbering echoes in the caverns of Memory,\" he continues: \"That sagacious Miss Mills, too; that amiable, though quite used up, recluse; that little patriarch of something less than twenty, who had done with the world, and mustn&rsquo;t on any account have the slumbering echoes in the caverns of Memory awakened; what a kind thing she did!\" (DC 491).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:48:05.694Z"
 }
