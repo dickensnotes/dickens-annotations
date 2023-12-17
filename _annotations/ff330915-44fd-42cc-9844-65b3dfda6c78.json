@@ -4,16 +4,14 @@ order: 4
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "ff330915-44fd-42cc-9844-65b3dfda6c78.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.II.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[I attend church] [&hellip;]&nbsp;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Interestingly, these deleted memoranda pertain to the novel's first number, not the second, showing Dickens working through potential titles for the novel's first two illustrations. The first note appears to be an early version of the final title for the first plate, \"Our Pew at Church.\" The second has a deletion which Harry Stone reads as \"received,\" but is difficult to read beneath the blotted ink&mdash;it might, just as easily, read \"welcomed.\" The final title for the second illustration appears as it is written here: \"I am hospitably received by Mr Peggotty.\"&nbsp;</span><span id=\"docs-internal-guid-7e1d3742-7fff-eb21-3bd0-adb16097c098\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It is unusual that Dickens included notes for No. I on the Working Note for No. II, which may account for the deletion of these entries. It indicates that Dickens had begun planning the second number while still finalizing the details of the first, a conclusion supported by his professed \"virtuous resolutions to be beforehand\" with <em>Copperfield</em>'s serial installments (Letters 5.513). Indeed, a letter written to his publisher Frederick Evans on May 1 shows that he had already completed and sent off the first two chapters of No. II by the day that No. I was published (Letters 5.530). </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-19T02:24:26.731Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 4
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M127.79605,978.84767h306.60867v0h306.60867v157.15041v157.15041h-306.60867h-306.60867v-157.15041z\"  id=\"rectangle_c872d439-b07f-4845-88ba-e55ec50e7019\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M127.79605,978.84767h306.60867v0h306.60867v157.15041v157.15041h-306.60867h-306.60867v-157.15041z\"  id=\"rectangle_c872d439-b07f-4845-88ba-e55ec50e7019\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 4
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-19T02:24:26.731Z",
-    "@id": "ff330915-44fd-42cc-9844-65b3dfda6c78.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.II.L3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[I attend church] [&hellip;]&nbsp;<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Interestingly, these deleted memoranda pertain to the novel's first number, not the second, showing Dickens working through potential titles for the novel's first two illustrations. The first note appears to be an early version of the final title for the first plate, \"Our Pew at Church.\" The second has a deletion which Harry Stone reads as \"received,\" but is difficult to read beneath the blotted ink&mdash;it might, just as easily, read \"welcomed.\" The final title for the second illustration appears as it is written here: \"I am hospitably received by Mr Peggotty.\"&nbsp;</span><span id=\"docs-internal-guid-7e1d3742-7fff-eb21-3bd0-adb16097c098\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It is unusual that Dickens included notes for No. I on the Working Note for No. II, which may account for the deletion of these entries. It indicates that Dickens had begun planning the second number while still finalizing the details of the first, a conclusion supported by his professed \"virtuous resolutions to be beforehand\" with <em>Copperfield</em>'s serial installments (Letters 5.513). Indeed, a letter written to his publisher Frederick Evans on May 1 shows that he had already completed and sent off the first two chapters of No. II by the day that No. I was published (Letters 5.530). </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:38:38.328Z"
 }
