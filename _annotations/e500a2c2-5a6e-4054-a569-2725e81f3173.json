@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "e500a2c2-5a6e-4054-a569-2725e81f3173.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VII.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Lirrimer? Littimer.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">While \"Lirrimer?\" appears to be written at the same time as the responses in black ink above, \"Littimer\" looks to be added later, in a lighter ink. In the manuscript, Dickens first writes \"Lirrimer\" before correcting it to &ldquo;Littimer.&rdquo;&nbsp; This is only true of the first two instances, and all subsequent mentions of his name are cleanly written as \"Littimer.\"</span><span id=\"docs-internal-guid-42cc3a8e-7fff-bbea-7835-5a7e39a7eb75\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This appears to indicate that the second layer of notes on this left side (the yes/no responses and \"Lirrimer?\") precede the composition of chapter twenty-one (where Littimer first appears). This is unusual given that the manuscript for the chapter is in blue ink. It is possible that the entries were made at the same time as the sixteen lines of chapter nineteen that are also written in black ink (see DC.VII). In that case, it is likely that \"Littimer,\" and the notes for chapter twenty-one on R, were added to the Working Note after the composition of the chapter.</span></p>"
-        }
+    "oa:annotatedAt": "2023-02-20T22:24:55.516Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M132.94843,1087.28987h208.02312v0h208.02312v161.58803v161.58803h-208.02312h-208.02312v-161.58803z\"  id=\"rectangle_b57414cc-1619-4faf-89e3-1f7ae93eceb5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M132.94843,1087.28987h208.02312v0h208.02312v161.58803v161.58803h-208.02312h-208.02312v-161.58803z\"  id=\"rectangle_b57414cc-1619-4faf-89e3-1f7ae93eceb5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-20T22:24:55.516Z",
-    "@id": "e500a2c2-5a6e-4054-a569-2725e81f3173.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VII.L4</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Lirrimer? Littimer.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">While \"Lirrimer?\" appears to be written at the same time as the responses in black ink above, \"Littimer\" looks to be added later, in a lighter ink. In the manuscript, Dickens first writes \"Lirrimer\" before correcting it to &ldquo;Littimer.&rdquo;&nbsp; This is only true of the first two instances, and all subsequent mentions of his name are cleanly written as \"Littimer.\"</span><span id=\"docs-internal-guid-42cc3a8e-7fff-bbea-7835-5a7e39a7eb75\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This appears to indicate that the second layer of notes on this left side (the yes/no responses and \"Lirrimer?\") precede the composition of chapter twenty-one (where Littimer first appears). This is unusual given that the manuscript for the chapter is in blue ink. It is possible that the entries were made at the same time as the sixteen lines of chapter nineteen that are also written in black ink (see DC.VII). In that case, it is likely that \"Littimer,\" and the notes for chapter twenty-one on R, were added to the Working Note after the composition of the chapter.</span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:43:26.202Z"
 }
