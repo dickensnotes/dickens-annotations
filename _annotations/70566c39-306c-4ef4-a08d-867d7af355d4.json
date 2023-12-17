@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "70566c39-306c-4ef4-a08d-867d7af355d4.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VI.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A Retrospect.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chapter 18 is the first of four \"Retrospect\" chapters that punctuate the novel and conclude monthly installments (Nos. VI, XIV, XVII, and XX). These summary chapters, which are predominantly narrated in the present tense, foreground the sensory qualities of memory. While the tense shift works alongside a blending of voices (the young David and the narrator David) to occlude the diegetic form of the novel, the explicitness with which these chapters periodize David's life, and define each section of the novel, draw attention to David's efforts to shape his story. In these chapters, David takes memories from the past and applies them to interpret or represent a particular moment of transition (from childhood to adulthood, from bachelorhood to marriage, from marriage to widowhood, and from widowhood to remarriage and maturity).</span><span id=\"docs-internal-guid-8ab2c813-7fff-4f0b-10e6-27cfb3c2bf88\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This first retrospect is particularly significant for the emphasis it places on the workings of David&rsquo;s &ldquo;undisciplined heart,&rdquo; a trait that will be defined in relation to Annie Strong&rsquo;s in chapter 53, &ldquo;Another Retrospect&rdquo; (733). Although David&rsquo;s tendency to unregulated passion is established earlier in his childhood (with Little Em'ly and, in another sense, with Steerforth), this retrospect draws attention to it by illustrating his infatuations with Miss Shepherd and Miss Larkins. In this sense, the chapter brings the past to bear on the period of \"progress\" from youth to young adulthood while simultaneously prefiguring David's future infatuation with Dora. </span></p>"
-        }
+    "oa:annotatedAt": "2023-02-20T22:20:08.788Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1709.37667,1500.8362h190.61122v0h190.61122v50.07584v50.07584h-190.61122h-190.61122v-50.07584z\"  id=\"rectangle_547b6b7a-7a14-491b-9de0-8bc8ef65fa54\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1709.37667,1500.8362h190.61122v0h190.61122v50.07584v50.07584h-190.61122h-190.61122v-50.07584z\"  id=\"rectangle_547b6b7a-7a14-491b-9de0-8bc8ef65fa54\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-20T22:20:08.788Z",
-    "@id": "70566c39-306c-4ef4-a08d-867d7af355d4.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.VI.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A Retrospect.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chapter 18 is the first of four \"Retrospect\" chapters that punctuate the novel and conclude monthly installments (Nos. VI, XIV, XVII, and XX). These summary chapters, which are predominantly narrated in the present tense, foreground the sensory qualities of memory. While the tense shift works alongside a blending of voices (the young David and the narrator David) to occlude the diegetic form of the novel, the explicitness with which these chapters periodize David's life, and define each section of the novel, draw attention to David's efforts to shape his story. In these chapters, David takes memories from the past and applies them to interpret or represent a particular moment of transition (from childhood to adulthood, from bachelorhood to marriage, from marriage to widowhood, and from widowhood to remarriage and maturity).</span><span id=\"docs-internal-guid-8ab2c813-7fff-4f0b-10e6-27cfb3c2bf88\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This first retrospect is particularly significant for the emphasis it places on the workings of David&rsquo;s &ldquo;undisciplined heart,&rdquo; a trait that will be defined in relation to Annie Strong&rsquo;s in chapter 53, &ldquo;Another Retrospect&rdquo; (733). Although David&rsquo;s tendency to unregulated passion is established earlier in his childhood (with Little Em'ly and, in another sense, with Steerforth), this retrospect draws attention to it by illustrating his infatuations with Miss Shepherd and Miss Larkins. In this sense, the chapter brings the past to bear on the period of \"progress\" from youth to young adulthood while simultaneously prefiguring David's future infatuation with Dora. </span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:42:59.160Z"
 }
