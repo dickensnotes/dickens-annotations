@@ -4,16 +4,14 @@ order: 13
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "0ca59e51-d0d7-4a8f-92d2-a453999ed1fa.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVI.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Gray&rsquo;s Elegy.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note, \"Gray's Elegy,\" refers to the quotation from Thomas Gray&rsquo;s \"Elegy Written in a Country Churchyard\" (1750) that Micawber uses to conclude his &ldquo;pastoral note&rdquo; to David: \"Each in his narrow cell for ever laid, / The rude forefathers of the hamlet sleep\" (ll.15-6; DC 718). Jeremy Tambling (DC 972.n5) identifies further oblique references to Gray's \"Elegy\" in the concluding chapter of No. XVIII: compare Micawber's \"genial warmth\" (DC 811) to Gray's \"genial current of the soul\" (l.52), and the night, \"fallen darkly upon [David]\" (DC 819), with the experience of Gray's speaker at the end of the first stanza.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In a highly intertextual novel, this is the only time that Dickens specifically records an allusion, and its source, on a Working Note. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-22T02:35:13.717Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 13
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2152.05008,1445.14731l134.30608,-9.42489v0l134.30608,-9.42489l1.75006,24.93867l1.75006,24.93867l-134.30608,9.42489l-134.30608,9.42489l-1.75006,-24.93867z\"  id=\"rectangle_54215246-3080-45f5-9155-8cf56251a5bc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2152.05008,1445.14731l134.30608,-9.42489v0l134.30608,-9.42489l1.75006,24.93867l1.75006,24.93867l-134.30608,9.42489l-134.30608,9.42489l-1.75006,-24.93867z\"  id=\"rectangle_54215246-3080-45f5-9155-8cf56251a5bc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 13
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-22T02:35:13.717Z",
-    "@id": "0ca59e51-d0d7-4a8f-92d2-a453999ed1fa.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVI.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Gray&rsquo;s Elegy.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note, \"Gray's Elegy,\" refers to the quotation from Thomas Gray&rsquo;s \"Elegy Written in a Country Churchyard\" (1750) that Micawber uses to conclude his &ldquo;pastoral note&rdquo; to David: \"Each in his narrow cell for ever laid, / The rude forefathers of the hamlet sleep\" (ll.15-6; DC 718). Jeremy Tambling (DC 972.n5) identifies further oblique references to Gray's \"Elegy\" in the concluding chapter of No. XVIII: compare Micawber's \"genial warmth\" (DC 811) to Gray's \"genial current of the soul\" (l.52), and the night, \"fallen darkly upon [David]\" (DC 819), with the experience of Gray's speaker at the end of the first stanza.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In a highly intertextual novel, this is the only time that Dickens specifically records an allusion, and its source, on a Working Note. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:55:44.739Z"
 }
