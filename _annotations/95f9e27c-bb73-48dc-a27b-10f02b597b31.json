@@ -4,16 +4,14 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "95f9e27c-bb73-48dc-a27b-10f02b597b31.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XV.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Shew the faults of mothers, and their consequences</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This entry clearly relates to Dickens&rsquo;s illustration of Mrs. Markleham&rsquo;s carelessness, and its significance to the Strong subplot. Its phrasing, however, also gestures to the novel&rsquo;s broader interest in parental failure and the insufficiency of traditional family structures. With reference to this installment, the command to &ldquo;shew the faults of mothers&rdquo; can as easily be applied to Mrs. Steerforth, whose pride prevents her recognition of the gravity of her son&rsquo;s actions. It is worth remembering that, after Steerforth's death, Rosa lays the blame for his mistakes (and his fate) on his &ldquo;exacting, proud, punctilious, selfish&rdquo; mother: \"She has sown this. Let her moan for the harvest she reaps to-day!\" (DC 806-7).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-21T22:45:02.113Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1452.34135,1073.82692l454.9057,-30.54947v0l454.9057,-30.54947l1.95641,29.13254l1.95641,29.13254l-454.9057,30.54947l-454.9057,30.54947l-1.95641,-29.13254z\"  id=\"rectangle_44cc91c7-121b-4a7e-8943-ed11a991cb66\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1452.34135,1073.82692l454.9057,-30.54947v0l454.9057,-30.54947l1.95641,29.13254l1.95641,29.13254l-454.9057,30.54947l-454.9057,30.54947l-1.95641,-29.13254z\"  id=\"rectangle_44cc91c7-121b-4a7e-8943-ed11a991cb66\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-21T22:45:02.113Z",
-    "@id": "95f9e27c-bb73-48dc-a27b-10f02b597b31.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XV.R1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Shew the faults of mothers, and their consequences<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This entry clearly relates to Dickens&rsquo;s illustration of Mrs. Markleham&rsquo;s carelessness, and its significance to the Strong subplot. Its phrasing, however, also gestures to the novel&rsquo;s broader interest in parental failure and the insufficiency of traditional family structures. With reference to this installment, the command to &ldquo;shew the faults of mothers&rdquo; can as easily be applied to Mrs. Steerforth, whose pride prevents her recognition of the gravity of her son&rsquo;s actions. It is worth remembering that, after Steerforth's death, Rosa lays the blame for his mistakes (and his fate) on his &ldquo;exacting, proud, punctilious, selfish&rdquo; mother: \"She has sown this. Let her moan for the harvest she reaps to-day!\" (DC 806-7).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-17T22:53:53.944Z"
 }
