@@ -4,16 +4,14 @@ order: 10
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "cc14c33a-fca1-4d3a-9976-c2e4955ddd70.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVII.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Present little Dora&rsquo;s death, through Jip&rsquo;s Death.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-7c4e7291-7fff-9bb3-f18d-012e67d743c4\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Dickens's correspondence in August 1850 demonstrates the difficulty he had in writing the latter half of the installment, especially Dora&rsquo;s death. On August 13th, a Tuesday, he was \"feel[ing] the story to its minutest point\" and hoping for a \"splendid number\" (Letters 6.146), but by the weekend he was feeling \"rather low and penitent\" about his progress (6.151). He told his wife Kate he had worked \"nine hours at a stretch,\" building toward Dora's death, on both the 19th and 20th (6.152) and was, on the morning of the 21st, preparing \"for another splitting day\" (6.153). By the 23rd he had finally completed the number,&nbsp; although the effort had exhausted him. A week later, he was still struggling to work, this time on the current number of </span><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Household Words</span><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">, as he had \"been in a kind of prostrated condition, as to any power of thinking about anything, since [he] finished [his] last Copperfield\" (6.157). He seems to have been pleased, however, with the result of his labors, describing to Kate the moving effect the number had on Frank Stone and Georgina Hogarth when he read it aloud to them on the 25th (6.156). </span></span></p>"
-        }
+    "oa:annotatedAt": "2023-02-22T02:46:37.548Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 10
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1404.34766,1969.4929h450.87805v0h450.87805v29.32815v29.32815h-450.87805h-450.87805v-29.32815z\"  id=\"rectangle_b4897e73-36a8-40e0-8d4c-67c099b355bd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1404.34766,1969.4929h450.87805v0h450.87805v29.32815v29.32815h-450.87805h-450.87805v-29.32815z\"  id=\"rectangle_b4897e73-36a8-40e0-8d4c-67c099b355bd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 10
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-22T02:46:37.548Z",
-    "@id": "cc14c33a-fca1-4d3a-9976-c2e4955ddd70.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVII.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Present little Dora&rsquo;s death, through Jip&rsquo;s Death.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-7c4e7291-7fff-9bb3-f18d-012e67d743c4\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Dickens's correspondence in August 1850 demonstrates the difficulty he had in writing the latter half of the installment, especially Dora&rsquo;s death. On August 13th, a Tuesday, he was \"feel[ing] the story to its minutest point\" and hoping for a \"splendid number\" (Letters 6.146), but by the weekend he was feeling \"rather low and penitent\" about his progress (6.151). He told his wife Kate he had worked \"nine hours at a stretch,\" building toward Dora's death, on both the 19th and 20th (6.152) and was, on the morning of the 21st, preparing \"for another splitting day\" (6.153). By the 23rd he had finally completed the number,&nbsp; although the effort had exhausted him. A week later, he was still struggling to work, this time on the current number of </span><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Household Words</span><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">, as he had \"been in a kind of prostrated condition, as to any power of thinking about anything, since [he] finished [his] last Copperfield\" (6.157). He seems to have been pleased, however, with the result of his labors, describing to Kate the moving effect the number had on Frank Stone and Georgina Hogarth when he read it aloud to them on the 25th (6.156). </span></span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-18T00:02:37.359Z"
 }
