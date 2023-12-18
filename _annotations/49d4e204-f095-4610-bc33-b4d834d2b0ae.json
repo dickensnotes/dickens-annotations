@@ -4,16 +4,14 @@ order: 12
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "49d4e204-f095-4610-bc33-b4d834d2b0ae.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIX-XX.R6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mowcher</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-449e8eec-7fff-492b-7b84-66fa391c4d60\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">By having Littimer imprisoned alongside Uriah, Dickens accounted for his fate (&ldquo;transportation&rdquo;), illustrating the consequences of his role in Emily&rsquo;s seduction, but he also managed to at last vindicate Miss Mowcher at the request of her real-life model, Mrs. Hill (see </span><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">DC.VIII.R3 </span></em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">and </span><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">DC.X.L2</span></em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">). During his visit to the prison David learns that Miss Mowcher, \"like grim Death,\" apprehended Littimer at great cost to her own safety, was &ldquo;highly complimented by the Bench, and cheered right home to her lodgings&rdquo; (DC 861)&mdash;a satisfactory conclusion for a character who had, earlier in the novel, expressed deep hurt at her rejection by society (DC 468). </span></span></p>"
-        }
+    "oa:annotatedAt": "2023-02-22T04:07:17.446Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 12
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2358.10101,1478.34188h116.57887v0h116.57887v49.56255v49.56255h-116.57887h-116.57887v-49.56255z\"  id=\"rectangle_91684e01-6179-448d-a997-6239cd85a006\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2358.10101,1478.34188h116.57887v0h116.57887v49.56255v49.56255h-116.57887h-116.57887v-49.56255z\"  id=\"rectangle_91684e01-6179-448d-a997-6239cd85a006\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 12
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-22T04:07:17.446Z",
-    "@id": "49d4e204-f095-4610-bc33-b4d834d2b0ae.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIX-XX.R6</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mowcher<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-449e8eec-7fff-492b-7b84-66fa391c4d60\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">By having Littimer imprisoned alongside Uriah, Dickens accounted for his fate (&ldquo;transportation&rdquo;), illustrating the consequences of his role in Emily&rsquo;s seduction, but he also managed to at last vindicate Miss Mowcher at the request of her real-life model, Mrs. Hill (see </span><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">DC.VIII.R3 </span></em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">and </span><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">DC.X.L2</span></em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">). During his visit to the prison David learns that Miss Mowcher, \"like grim Death,\" apprehended Littimer at great cost to her own safety, was &ldquo;highly complimented by the Bench, and cheered right home to her lodgings&rdquo; (DC 861)&mdash;a satisfactory conclusion for a character who had, earlier in the novel, expressed deep hurt at her rejection by society (DC 468). </span></span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-18T00:05:50.349Z"
 }
