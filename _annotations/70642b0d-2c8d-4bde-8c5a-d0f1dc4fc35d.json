@@ -4,16 +4,14 @@ order: 9
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "70642b0d-2c8d-4bde-8c5a-d0f1dc4fc35d.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIX-XX.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Looking out of window [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Many of David's observations upon returning to Dover and Canterbury hinge upon his attention to continuity and change in his surroundings, a preoccupation that is registered in these entries for chapter 60. In a novel in which memory is so important, the final monthly installment fittingly reflects on the qualities of recollection. Indeed, the process of recollection is also important to the reader&rsquo;s encounter with the text: just as David explicitly looks to the past to interpret the present, so the serial reader had to think back as far as eighteen months prior to make sense of the final number, and the narrative as a whole. </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-22T04:05:06.459Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 9
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1674.41536,1064.48598l474.79982,-59.64681v0l474.79982,-59.64681l2.64677,21.0688l2.64677,21.0688l-474.79982,59.64681l-474.79982,59.64681l-2.64677,-21.0688z\"  id=\"rectangle_27dd9eb9-d4c5-495a-ace5-7721718afc33\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1674.41536,1064.48598l474.79982,-59.64681v0l474.79982,-59.64681l2.64677,21.0688l2.64677,21.0688l-474.79982,59.64681l-474.79982,59.64681l-2.64677,-21.0688z\"  id=\"rectangle_27dd9eb9-d4c5-495a-ace5-7721718afc33\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.54965\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 9
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-22T04:05:06.459Z",
-    "@id": "70642b0d-2c8d-4bde-8c5a-d0f1dc4fc35d.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIX-XX.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Looking out of window [...]<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Many of David's observations upon returning to Dover and Canterbury hinge upon his attention to continuity and change in his surroundings, a preoccupation that is registered in these entries for chapter 60. In a novel in which memory is so important, the final monthly installment fittingly reflects on the qualities of recollection. Indeed, the process of recollection is also important to the reader&rsquo;s encounter with the text: just as David explicitly looks to the past to interpret the present, so the serial reader had to think back as far as eighteen months prior to make sense of the final number, and the narrative as a whole. </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-18T00:05:33.179Z"
 }
