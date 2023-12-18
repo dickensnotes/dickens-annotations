@@ -4,16 +4,14 @@ order: 11
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "4c015169-51c1-47a9-a350-0b75fb34c619.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIX-XX.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Beef &amp; the Cocoa</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-9d7f5481-7fff-ac1e-b6cb-1112d86943a6\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Uriah and Littimer&rsquo;s complaints about the beef and cocoa, respectively, are one of the most explicit correspondences in Dickens&rsquo;s fictionalized account of the &ldquo;Separate System&rdquo; and the realities of Pentonville as described in &ldquo;Pet Prisoners&rdquo; (see </span><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><em>DC.XIX-XX.L2</em> </span><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">above). In his article, Dickens criticized the fact that each prisoner received twenty-eight ounces of meat for every eighteen received by workers at St. Pancras (98). Furthermore, the article comments that prisoners received &ldquo;five pints and a quarter of liquid cocoa weekly&rdquo; while those at the workhouse got none. </span></span></p>"
-        }
+    "oa:annotatedAt": "2023-02-22T04:06:32.985Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 11
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1377.88983,1416.76672l190.11741,-10.25787v0l190.11741,-10.25787l1.728,32.02639l1.728,32.02639l-190.11741,10.25787l-190.11741,10.25787l-1.728,-32.02639z\"  id=\"rectangle_393e396f-7d25-45dc-bd51-42bcd3cbecff\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1377.88983,1416.76672l190.11741,-10.25787v0l190.11741,-10.25787l1.728,32.02639l1.728,32.02639l-190.11741,10.25787l-190.11741,10.25787l-1.728,-32.02639z\"  id=\"rectangle_393e396f-7d25-45dc-bd51-42bcd3cbecff\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 11
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-22T04:06:32.985Z",
-    "@id": "4c015169-51c1-47a9-a350-0b75fb34c619.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIX-XX.R5</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Beef &amp; the Cocoa<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-9d7f5481-7fff-ac1e-b6cb-1112d86943a6\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Uriah and Littimer&rsquo;s complaints about the beef and cocoa, respectively, are one of the most explicit correspondences in Dickens&rsquo;s fictionalized account of the &ldquo;Separate System&rdquo; and the realities of Pentonville as described in &ldquo;Pet Prisoners&rdquo; (see </span><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><em>DC.XIX-XX.L2</em> </span><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">above). In his article, Dickens criticized the fact that each prisoner received twenty-eight ounces of meat for every eighteen received by workers at St. Pancras (98). Furthermore, the article comments that prisoners received &ldquo;five pints and a quarter of liquid cocoa weekly&rdquo; while those at the workhouse got none. </span></span></p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-18T00:05:38.444Z"
 }
