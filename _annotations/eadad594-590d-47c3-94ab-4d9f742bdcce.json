@@ -4,16 +4,14 @@ order: 2
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "eadad594-590d-47c3-94ab-4d9f742bdcce.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVIII.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Ham and Steerforth. [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On September 17th, in a letter to W. H. Wills, Dickens wrote that he had his \"most powerful effect in all the Story, on the Anvil\" (Letters 6.171). The metaphor is fitting: the Working Note shows Dickens hammering the chapter into shape, selectively reworking the various ideas that he had already contemplated and laid out several months earlier. The level of detail with which Dickens planned the storm scene in advance no doubt contributed to what he believed was an enormously successful chapter. \"There are some things in the next Copperfield,\" he wrote to Lavinia Watson on the 24th, \"that I think better than any that have gone before\" (6.179). Despite his proactivity, however, Dickens nevertheless found writing Ham and Steerforth's death particularly challenging. On the 15th, he told Forster that he had been \"tremendously hard at work these two days; eight hours at a stretch yesterday, and six hours and a half to-day, with the Ham and Steerforth chapter\"&mdash;it had \"utterly defeated\" him (6.169). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-22T03:46:32.943Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 2
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M13.63636,960.83916l1309.09091,18.88112l-4.1958,386.01399h-190.90909l2.0979,73.42657l-138.46154,16.78322l-14.68531,-96.5035l-960.83916,-31.46853l-4.1958,-365.03497v0l2.0979,8.39161\"  id=\"rough_path_c5b10c83-984a-481c-ae1a-cad606f26e2e\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M13.63636,960.83916l1309.09091,18.88112l-4.1958,386.01399h-190.90909l2.0979,73.42657l-138.46154,16.78322l-14.68531,-96.5035l-960.83916,-31.46853l-4.1958,-365.03497v0l2.0979,8.39161\"  id=\"rough_path_c5b10c83-984a-481c-ae1a-cad606f26e2e\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"9.42545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 2
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-22T03:46:32.943Z",
-    "@id": "eadad594-590d-47c3-94ab-4d9f742bdcce.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVIII.L1</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Ham and Steerforth. [...]<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On September 17th, in a letter to W. H. Wills, Dickens wrote that he had his \"most powerful effect in all the Story, on the Anvil\" (Letters 6.171). The metaphor is fitting: the Working Note shows Dickens hammering the chapter into shape, selectively reworking the various ideas that he had already contemplated and laid out several months earlier. The level of detail with which Dickens planned the storm scene in advance no doubt contributed to what he believed was an enormously successful chapter. \"There are some things in the next Copperfield,\" he wrote to Lavinia Watson on the 24th, \"that I think better than any that have gone before\" (6.179). Despite his proactivity, however, Dickens nevertheless found writing Ham and Steerforth's death particularly challenging. On the 15th, he told Forster that he had been \"tremendously hard at work these two days; eight hours at a stretch yesterday, and six hours and a half to-day, with the Ham and Steerforth chapter\"&mdash;it had \"utterly defeated\" him (6.169). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-18T00:03:22.332Z"
 }
