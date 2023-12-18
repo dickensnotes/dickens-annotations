@@ -4,16 +4,14 @@ order: 8
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "b4b9ed13-b5cb-4d77-b664-83b5988b2a5c.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVIII.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Wind &ndash; The Spray [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These entries for chapter 55 are exceptional in their detail, and each of the disjointed images are present in the published text, from the \"spray\" on David's lips, to his \"coming near the beach\" (DC 793); the \"flying stones and sand\" (DC 794); the \"bell\" ringing on the ship (DC 798); the prospect of the \"wreck\" (DC 799); and the part of the beach where \"some lighter fragments of the old boat, blown down, last night, had been scattered by the wind&rdquo; (DC 801). In a phrase that is strikingly similar to the entry on the Working Note, David describes how \"the sand, the sea-weed, and the flakes of foam were driving by\" (DC 796-97). It is unclear whether these chapter notes were made before or after the composition of the chapter in manuscript&mdash;given Dickens&rsquo;s evident inspiration by a storm he had &ldquo;seen at Broadstairs&rdquo; the night prior to writing the entries, either is possible.</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-22T03:53:12.859Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 8
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1429.75001,1269.09675l424.58702,-21.78344v0l424.58702,-21.78344l1.42627,27.7998l1.42627,27.7998l-424.58702,21.78344l-424.58702,21.78344l-1.42627,-27.7998z\"  id=\"rectangle_7f596db3-ae2d-4368-ab18-d05dd6db60ee\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1429.75001,1269.09675l424.58702,-21.78344v0l424.58702,-21.78344l1.42627,27.7998l1.42627,27.7998l-424.58702,21.78344l-424.58702,21.78344l-1.42627,-27.7998z\"  id=\"rectangle_7f596db3-ae2d-4368-ab18-d05dd6db60ee\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 8
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-22T03:53:12.859Z",
-    "@id": "b4b9ed13-b5cb-4d77-b664-83b5988b2a5c.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVIII.R3</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Wind &ndash; The Spray [...]<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These entries for chapter 55 are exceptional in their detail, and each of the disjointed images are present in the published text, from the \"spray\" on David's lips, to his \"coming near the beach\" (DC 793); the \"flying stones and sand\" (DC 794); the \"bell\" ringing on the ship (DC 798); the prospect of the \"wreck\" (DC 799); and the part of the beach where \"some lighter fragments of the old boat, blown down, last night, had been scattered by the wind&rdquo; (DC 801). In a phrase that is strikingly similar to the entry on the Working Note, David describes how \"the sand, the sea-weed, and the flakes of foam were driving by\" (DC 796-97). It is unclear whether these chapter notes were made before or after the composition of the chapter in manuscript&mdash;given Dickens&rsquo;s evident inspiration by a storm he had &ldquo;seen at Broadstairs&rdquo; the night prior to writing the entries, either is possible.</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-18T00:03:51.276Z"
 }
