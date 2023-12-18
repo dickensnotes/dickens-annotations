@@ -4,16 +4,14 @@ order: 14
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "76ab7ee9-85d4-427b-b147-04338fda432c.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIX-XX.R8</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Agnes </span><span style=\"background-color: transparent; font-family: Calibri, sans-serif; font-size: 11pt; white-space: pre-wrap;\">&ndash; </span><span style=\"background-color: transparent; font-family: Calibri, sans-serif; font-size: 11pt; white-space: pre-wrap;\">&ldquo;I have loved you all my life&rdquo; [...] </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These two lines are very similar to the corresponding passages in the published text. Agnes first tells David, \"I have loved you all my life!\" (DC 868); after their marriage, Dora's final request is \"[t]hat only I would occupy this vacant place&rdquo; (DC 871).</span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-22T04:08:33.139Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 14
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2078.0716,1618.49037l261.79947,-15.64487v0l261.79947,-15.64487l2.43204,40.69752l2.43204,40.69752l-261.79947,15.64487l-261.79947,15.64487l-2.43204,-40.69752z\"  id=\"rectangle_6b1311f8-f8c2-45bc-98a8-1b983a2260bd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2078.0716,1618.49037l261.79947,-15.64487v0l261.79947,-15.64487l2.43204,40.69752l2.43204,40.69752l-261.79947,15.64487l-261.79947,15.64487l-2.43204,-40.69752z\"  id=\"rectangle_6b1311f8-f8c2-45bc-98a8-1b983a2260bd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 14
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-22T04:08:33.139Z",
-    "@id": "76ab7ee9-85d4-427b-b147-04338fda432c.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XIX-XX.R8</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Agnes </span><span style=\"background-color: transparent; font-family: Calibri, sans-serif; font-size: 11pt; white-space: pre-wrap;\">&ndash; </span><span style=\"background-color: transparent; font-family: Calibri, sans-serif; font-size: 11pt; white-space: pre-wrap;\">&ldquo;I have loved you all my life&rdquo; [...] <br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">These two lines are very similar to the corresponding passages in the published text. Agnes first tells David, \"I have loved you all my life!\" (DC 868); after their marriage, Dora's final request is \"[t]hat only I would occupy this vacant place&rdquo; (DC 871).</span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-18T00:06:06.281Z"
 }
