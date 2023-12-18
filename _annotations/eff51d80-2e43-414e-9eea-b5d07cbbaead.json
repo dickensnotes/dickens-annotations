@@ -4,16 +4,14 @@ order: 3
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "eff51d80-2e43-414e-9eea-b5d07cbbaead.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVII.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;I want to speak to Agnes.&rdquo;</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dora repeats these words several times in chapter 53: \"I want to speak to Agnes. When you go downstairs, tell Agnes so, and send her up to me; and while I speak to her, let no one come&mdash;not even aunt. I want to speak to Agnes by herself. I want to speak to Agnes, quite alone\" (DC 773). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-22T02:41:23.749Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M524.45732,312.25675l-4.56101,54.73211l-449.25941,-11.40252l-4.56101,-47.8906l1199.54544,-2.2805l11.40252,-88.93968l-59.29312,-4.56101l2.2805,91.22019l2.2805,2.2805\"  id=\"rough_path_defc7fc4-236e-4cae-bd88-56c50f14170a\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M524.45732,312.25675l-4.56101,54.73211l-449.25941,-11.40252l-4.56101,-47.8906l1199.54544,-2.2805l11.40252,-88.93968l-59.29312,-4.56101l2.2805,91.22019l2.2805,2.2805\"  id=\"rough_path_defc7fc4-236e-4cae-bd88-56c50f14170a\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"11.63972\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 3
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-22T02:41:23.749Z",
-    "@id": "eff51d80-2e43-414e-9eea-b5d07cbbaead.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVII.L2</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;I want to speak to Agnes.&rdquo;<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dora repeats these words several times in chapter 53: \"I want to speak to Agnes. When you go downstairs, tell Agnes so, and send her up to me; and while I speak to her, let no one come&mdash;not even aunt. I want to speak to Agnes by herself. I want to speak to Agnes, quite alone\" (DC 773). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-18T00:01:53.798Z"
 }
