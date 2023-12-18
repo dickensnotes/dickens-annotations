@@ -4,16 +4,14 @@ order: 13
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "38d02e49-25f0-4dd2-9e81-8a4b89b11e2a.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVIII.R8</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;I loved him better than you ever did! [...]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">There is some evidence to suggest that these entries were written after the composition of the chapter. The first instance of the line in the manuscript and published text is slightly different to the Working Note (\"I loved him better than you ever loved him!\" [DC 806]) and written cleanly; the second instance, however, corresponds to the phrasing here, and is reworked from an earlier illegible line (\"I loved him better than you ever [xxxxxxxxxxxxxxxx] did!\" [DC 807]). This entry registers the repetition of the line, but uses the second, revised formulation rather than the first. Dickens&rsquo;s inclusion of the line here on the Working Note may have facilitated its reiteration in the novel&rsquo;s very last chapter, where Rosa \"quarrels with [Mrs. Steerforth]; now fiercely telling her, 'I loved him better than your ever did!'&mdash;now soothing her to sleep on her breast, like a sick child\" (DC 880). </span></p>\n<p>&nbsp;</p>"
-        }
+    "oa:annotatedAt": "2023-02-22T03:56:08.055Z",
+    "oa:annotatedBy": [
+        "Adam Grener"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 13
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1432.51748,1753.96048v121.40637l414.40041,9.71251l-1.61875,-64.75006l841.75084,3.2375l-3.2375,-63.13131z\"  id=\"rough_path_95a032bf-c0fb-473d-9e48-eebdaeab4e49\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1432.51748,1753.96048v121.40637l414.40041,9.71251l-1.61875,-64.75006l841.75084,3.2375l-3.2375,-63.13131z\"  id=\"rough_path_95a032bf-c0fb-473d-9e48-eebdaeab4e49\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.16628\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 13
             }
         }
     ],
-    "oa:annotatedAt": "2023-02-22T03:56:08.055Z",
-    "@id": "38d02e49-25f0-4dd2-9e81-8a4b89b11e2a.json",
-    "oa:annotatedBy": [
-        "Adam Grener"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.XVIII.R8</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;I loved him better than you ever did! [...]<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">There is some evidence to suggest that these entries were written after the composition of the chapter. The first instance of the line in the manuscript and published text is slightly different to the Working Note (\"I loved him better than you ever loved him!\" [DC 806]) and written cleanly; the second instance, however, corresponds to the phrasing here, and is reworked from an earlier illegible line (\"I loved him better than you ever [xxxxxxxxxxxxxxxx] did!\" [DC 807]). This entry registers the repetition of the line, but uses the second, revised formulation rather than the first. Dickens&rsquo;s inclusion of the line here on the Working Note may have facilitated its reiteration in the novel&rsquo;s very last chapter, where Rosa \"quarrels with [Mrs. Steerforth]; now fiercely telling her, 'I loved him better than your ever did!'&mdash;now soothing her to sleep on her breast, like a sick child\" (DC 880). </span></p>\n<p>&nbsp;</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2023-12-18T00:04:26.876Z"
 }
