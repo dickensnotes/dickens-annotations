@@ -1,0 +1,195 @@
+---
+added: 2024-01-16 18&#58;45&#58;27.518305
+thumbnail: https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN01/full/169,/0/default.jpg
+title: Edwin Drood Transcriptions
+user: Anna Gibson
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Edwin Drood Transcriptions",
+  "metadata": [
+    {
+      "label": "rights",
+      "value": "Digital Dickens Notes Project"
+    }
+  ],
+  "description": "Transcriptions of the Working Notes for Charles Dickens&apos;s The Mystery of Edwin Drood",
+  "viewingDirection": "left-to-right",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/edwindroodtranscriptions/EDWN01.json",
+          "@type": "sc:Canvas",
+          "label": "ED_WN_01",
+          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN01/full/169,/0/default.jpg",
+          "height": 2100,
+          "width": 2700,
+          "images": [
+            {
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN01/annotation/1.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN01/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2100,
+                "width": 2700,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN01",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/edwindroodtranscriptions/EDWN01.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/edwindroodtranscriptions/EDWN02.json",
+          "@type": "sc:Canvas",
+          "label": "ED_WN_02",
+          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN02/full/169,/0/default.jpg",
+          "height": 2100,
+          "width": 2700,
+          "images": [
+            {
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN02/annotation/2.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN02/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2100,
+                "width": 2700,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN02",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/edwindroodtranscriptions/EDWN02.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/edwindroodtranscriptions/EDWN03.json",
+          "@type": "sc:Canvas",
+          "label": "ED_WN_03",
+          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN03/full/169,/0/default.jpg",
+          "height": 2100,
+          "width": 2700,
+          "images": [
+            {
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN03/annotation/3.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN03/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2100,
+                "width": 2700,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN03",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/edwindroodtranscriptions/EDWN03.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/edwindroodtranscriptions/EDWN04.json",
+          "@type": "sc:Canvas",
+          "label": "ED_WN_04",
+          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN04/full/169,/0/default.jpg",
+          "height": 2100,
+          "width": 2700,
+          "images": [
+            {
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN04/annotation/4.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN04/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2100,
+                "width": 2700,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN04",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/edwindroodtranscriptions/EDWN04.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/edwindroodtranscriptions/EDWN05.json",
+          "@type": "sc:Canvas",
+          "label": "ED_WN_05",
+          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN05/full/169,/0/default.jpg",
+          "height": 2100,
+          "width": 2700,
+          "images": [
+            {
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN05/annotation/5.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN05/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2100,
+                "width": 2700,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN05",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/edwindroodtranscriptions/EDWN05.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/edwindroodtranscriptions/EDWN06.json",
+          "@type": "sc:Canvas",
+          "label": "ED_WN_06",
+          "thumbnail": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN06/full/169,/0/default.jpg",
+          "height": 2100,
+          "width": 2700,
+          "images": [
+            {
+              "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN06/annotation/6.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN06/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2100,
+                "width": 2700,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/edwindroodtranscriptions/EDWN06",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/edwindroodtranscriptions/EDWN06.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
