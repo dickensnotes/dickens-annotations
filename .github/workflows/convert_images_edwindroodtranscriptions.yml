@@ -1,0 +1,37 @@
+name: convert_images_edwindroodtranscriptions
+on: workflow_dispatch
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  convertimages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - name: PDF fix
+        run: sudo mv /etc/ImageMagick-6/policy.xml /etc/ImageMagick-6/policy.xml.off && sudo apt-get update && sudo apt-get install -y ghostscript-x
+      - name: poppler
+        run: sudo apt-get install -y poppler-utils
+      - name: pip install
+        run: pip3 install iiif pdf2image Pillow iiif-prezi pyIIIFpres
+      - name: runscript
+        run: python3 -c "exec(\"from iiif.static import IIIFStatic\nfrom IIIFpres import iiifpapi3\nfrom PIL import Image\nimport os\nfrom pdf2image import convert_from_path\nfrom iiif_prezi.factory import ManifestFactory\nimport yaml\n\nfiles = [('images/EDWN01.jpg', 'ED_WN_01'), ('images/EDWN02.jpg', 'ED_WN_02'), ('images/EDWN03.jpg', 'ED_WN_03'), ('images/EDWN04.jpg', 'ED_WN_04'), ('images/EDWN05.jpg', 'ED_WN_05'), ('images/EDWN06.jpg', 'ED_WN_06')]\nmanifestlabel = '''Edwin Drood Transcriptions'''\ndst = os.path.join('img/derivatives/iiif/', 'edwindroodtranscriptions') + '/'\nbaseurl = os.path.join('https://dickensnotes.github.io/dickens-annotations/', dst)\ndata = []\nallfiles = []\nfor idx, filedict in enumerate(files):\n    file = filedict[0]\n    filepath,ext = file.rsplit('.', 1)\n    if ext == 'pdf':\n        images = convert_from_path(file)\n        for i in range(len(images)):\n            imagefilename = filepath + '-' + str(i) +'.jpg'\n            images[i].save(imagefilename, 'JPEG')\n            allfiles.append([imagefilename, filedict[1]])\n        os.remove(file)\n    elif ext != 'jpg' and ext != 'jpeg':\n        os.system('convert {} {}.jpg'.format(file, filepath))\n        allfiles.append(('%s.jpg'%filepath, filedict[1]))\n        os.remove(file)\n    else:\n        allfiles.append(filedict)\n\nfor filedict in allfiles:\n    file = filedict[0]\n    filepath,ext = file.rsplit('.', 1)\n    filename = os.path.basename(filepath)\n    if ext != 'jpg' and ext != 'jpeg':\n        os.system('convert {} {}.jpg'.format(file, filepath))\n    sg = IIIFStatic(prefix=baseurl, dst=dst)\n    sggenerate = sg.generate(file)\n    img = Image.open(file)\n    data.append((filename, img.width, img.height, os.path.join(baseurl, filename),'/full/full/0/default.jpg', filedict[1]))\n    iiiffulldir = os.path.join(dst, filename, 'full/full')\n    if not os.path.isdir(iiiffulldir):\n        os.mkdir(iiiffulldir)\n        iiiffulldir = os.path.join(iiiffulldir, '0')\n        os.mkdir(iiiffulldir)\n    else:\n        iiiffulldir = os.path.join(iiiffulldir, '0')\n    os.system('mv {} {}'.format(file, os.path.join(iiiffulldir, 'default.jpg')))\nfac = ManifestFactory()\nfac.set_base_prezi_uri('https://dickensnotes.github.io/dickens-annotations/')\nfac.set_base_image_uri(baseurl)\nfac.set_iiif_image_info(2.0, 2)\nmanifest = fac.manifest(ident=os.path.join(baseurl, 'manifest.json'), label=manifestlabel)\nmanifest.viewingDirection = 'left-to-right'\nmanifest.description = '''Transcriptions of the Working Notes for Charles Dickens&apos;s The Mystery of Edwin Drood'''\nrights = '''Digital Dickens Notes Project'''\nif rights:\n    metadata = {}\n    metadata['rights'] = rights\n    manifest.set_metadata(metadata)\nseq = manifest.sequence()\nfor idx,d in enumerate(data):\n    fullurl = os.path.join(baseurl, d[0])\n    idx += 1\n    cvs = seq.canvas(ident='{}{}'.format(dst, d[0]), label=d[5])\n    anno = cvs.annotation(ident='{}/annotation/{}.json'.format(fullurl, idx))\n    img = anno.image(d[0], iiif=True)\n    cvs.height = d[2]\n    cvs.width = d[1]\n    img.height = d[2]\n    img.width = d[1]\n    filteredallfiles = [f for f in os.listdir(os.path.join(dst, d[0], 'full')) if f != 'full' and int(f.split(',')[0]) > 70]\n    filteredallfiles.sort()\n    size = filteredallfiles[0] if len(filteredallfiles) > 0 else '80,'\n    cvs.thumbnail = '{}/full/{}/0/default.jpg'.format(d[3], size)\nmanifeststring = manifest.toString(compact=False)\nheaderinfo = {}\nheaderinfo['title']= manifestlabel\nheaderinfo['added']='''2024-01-16 18&#58;45&#58;27.518305'''\nheaderinfo['thumbnail'] = manifest.sequences[0].canvases[0].thumbnail\nheaderinfo['user'] = '''Anna Gibson'''\nwith open(os.path.join('img/derivatives/iiif/', 'edwindroodtranscriptions', 'manifest.json'), 'w') as f:\n    f.write('''---\n{}---\n'''.format(yaml.dump(headerinfo)))\n    f.write(manifeststring)\n\n\")"
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git config pull.rebase false
+          git pull origin main
+          git add -A
+          git commit -m "Create edwindroodtranscriptions manifest and IIIF derivatives" -a || echo "No changes to commit"
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main 
