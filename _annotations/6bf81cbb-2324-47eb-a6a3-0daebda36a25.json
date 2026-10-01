@@ -37,9 +37,9 @@ order: 16
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p>Round-trip test note: safe to delete.</p>",
+            "chars": "<p>Edited round-trip note.</p>",
             "format": "text/html"
         }
     ],
-    "oa:serializedAt": "2026-10-01T14:04:35.554Z"
+    "oa:serializedAt": "2026-10-01T14:04:37.865Z"
 }
