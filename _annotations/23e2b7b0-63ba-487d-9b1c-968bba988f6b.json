@@ -1,0 +1,45 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN01.json"
+order: 12
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "23e2b7b0-63ba-487d-9b1c-968bba988f6b.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "oa:annotatedAt": "2026-10-04T10:44:27.240Z",
+    "oa:annotatedBy": [
+        "Scott Bailey"
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/davidcopperfieldtranscription/DCWN01.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=669,524,187,78"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M669.75,524.97L855.12,524.97L855.12,601.91L669.75,601.91z\" id=\"rectangle_32aa25c3-52f1-487a-964a-05369b8671e2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/davidcopperfieldtranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p>TEST ANNOTATION: BARGE</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2026-10-04T10:44:27.240Z"
+}
