@@ -1,0 +1,45 @@
+---
+canvas: "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWNMems.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "44fa5ca8-ac9e-4af3-a2c8-cc2d3ee90307.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "oa:annotatedAt": "2026-10-05T19:00:46.753Z",
+    "oa:annotatedBy": [
+        "Adam Test"
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dickensnotes.github.io/dickens-annotations/canvas/img/derivatives/iiif/HardTimesTranscription/HTWNMems.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=95,138,668,154"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M95.29,138.93L762.35,138.93L762.35,291.97L95.29,291.97z\" id=\"rectangle_d2fc291b-0b3f-4f32-9be3-d0c621c36a77\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dickensnotes.github.io/dickens-annotations/img/derivatives/iiif/HardTimesTranscription/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p><strong>HT.Mems.Test1</strong></p><p></p><p>Test annotation for Hard Times</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2026-10-05T19:00:46.753Z"
+}
