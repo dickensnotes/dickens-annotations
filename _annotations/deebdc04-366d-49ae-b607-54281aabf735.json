@@ -37,9 +37,9 @@ order: 11
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">DC.I.R7</em></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Black whiskers and black dog.</strong></p><p></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This note connects Mr. Murdstone&#39;s whiskers—which David notices in chapter two are &quot;blacker and thicker&quot; (DC 34) than he first realized—to his &quot;angry&quot; dog, &quot;deep-mouthed and black-haired like him,” who appears in the kennel at the very end of the number (DC 55). This comparison, and all that it implies about Murdstone&#39;s character, anticipates his violent methods of enforcing his authority in No. II. </span></p><p>&nbsp;</p><p>TESTING AN EDIT.</p>",
+            "chars": "<p><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">DC.I.R7</em></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Black whiskers and black dog.</strong></p><p></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">This note connects Mr. Murdstone&#39;s whiskers—which David notices in chapter two are &quot;blacker and thicker&quot; (DC 34) than he first realized—to his &quot;angry&quot; dog, &quot;deep-mouthed and black-haired like him,” who appears in the kennel at the very end of the number (DC 55). This comparison, and all that it implies about Murdstone&#39;s character, anticipates his violent methods of enforcing his authority in No. II. </span></p>",
             "format": "text/html"
         }
     ],
-    "oa:serializedAt": "2026-10-06T14:44:47.109Z"
+    "oa:serializedAt": "2026-10-06T14:45:52.872Z"
 }
