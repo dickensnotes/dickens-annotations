@@ -21,11 +21,11 @@ order: 11
                 "@type": "oa:Choice",
                 "default": {
                     "@type": "oa:FragmentSelector",
-                    "value": "xywh=1735,1976,665,95"
+                    "value": "xywh=1742,1964,669,116"
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1735.02897,2002.68345l330.87973,-13.29175v0l330.87973,-13.29175l1.38321,34.43303l1.38321,34.43303l-330.87973,13.29175l-330.87973,13.29175l-1.38321,-34.43303z\"  id=\"rectangle_18d0445d-adb3-4d0e-8e65-13996c873822\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1742.69,1993.89L2407.02,1964.05L2410.86,2049.68L1746.53,2079.52z\" id=\"rectangle_c2f8048a-bb9a-4629-883c-f90f9f8ab068\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -37,9 +37,9 @@ order: 11
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DC.I.R7</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Black whiskers and black dog.<br /><br /></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This note connects Mr. Murdstone's whiskers&mdash;which David notices in chapter two are \"blacker and thicker\" (DC 34) than he first realized&mdash;to his \"angry\" dog, \"deep-mouthed and black-haired like him,&rdquo; who appears in the kennel at the very end of the number (DC 55). This comparison, and all that it implies about Murdstone's character, anticipates his violent methods of enforcing his authority in No. II. </span></p>\n<p>&nbsp;</p>",
+            "chars": "<p><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">DC.I.R7</em></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Black whiskers and black dog.</strong></p><p></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This note connects Mr. Murdstone&#39;s whiskers—which David notices in chapter two are &quot;blacker and thicker&quot; (DC 34) than he first realized—to his &quot;angry&quot; dog, &quot;deep-mouthed and black-haired like him,” who appears in the kennel at the very end of the number (DC 55). This comparison, and all that it implies about Murdstone&#39;s character, anticipates his violent methods of enforcing his authority in No. II. </span></p><p>&nbsp;</p><p>TESTING AN EDIT.</p>",
             "format": "text/html"
         }
     ],
-    "oa:serializedAt": "2026-10-04T10:46:47.022Z"
+    "oa:serializedAt": "2026-10-06T14:42:01.637Z"
 }
