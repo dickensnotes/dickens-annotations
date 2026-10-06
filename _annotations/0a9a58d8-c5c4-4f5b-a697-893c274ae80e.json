@@ -37,9 +37,9 @@ order: 10
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p><em>LD.I.R2</em></p><p><strong>Marseilles – Hot dusty picture </strong></p><p></p><p>The novel begins with this hot dusty picture of “Marseilles…burning in the sun, one day” (LD 1), with the “staring habit” created by the incessant still heat. Dust appears three times in the opening scene: the “staring roads” are “deep in dust” (1); the vines on the cottages are “dusty”; and “[t]he very dust was scorched brown” (2). This chapter echoes and elaborates on Dickens’s earlier depiction of Marseilles in <em>Pictures from Italy</em>, in which he had described the “dreadful” heat of Marseilles, the “country-houses…always staring white,” and the “dust, dust, dust, everywhere” (<em>Pictures</em> 27). </p><p></p><p>Test edit</p>",
+            "chars": "<p><em>LD.I.R2</em></p><p><strong>Marseilles – Hot dusty picture </strong></p><p></p><p>The novel begins with this hot dusty picture of “Marseilles…burning in the sun, one day” (LD 1), with the “staring habit” created by the incessant still heat. Dust appears three times in the opening scene: the “staring roads” are “deep in dust” (1); the vines on the cottages are “dusty”; and “[t]he very dust was scorched brown” (2). This chapter echoes and elaborates on Dickens’s earlier depiction of Marseilles in <em>Pictures from Italy</em>, in which he had described the “dreadful” heat of Marseilles, the “country-houses…always staring white,” and the “dust, dust, dust, everywhere” (<em>Pictures</em> 27).</p>",
             "format": "text/html"
         }
     ],
-    "oa:serializedAt": "2026-10-06T14:48:52.113Z"
+    "oa:serializedAt": "2026-10-06T14:49:06.098Z"
 }
